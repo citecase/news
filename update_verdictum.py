@@ -1,7 +1,7 @@
 import feedparser
 
 def update_markdown():
-    rss_url = "https://www.verdictum.in/rss/feeds.xml"
+    rss_url = "https://www.verdictum.in/feed"
     feed = feedparser.parse(rss_url)
     
     # Define the header of your markdown file
