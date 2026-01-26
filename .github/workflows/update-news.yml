@@ -1,26 +1,34 @@
-import feedparser
+name: Update Verdictum News
 
-def update_markdown():
-    rss_url = "https://www.verdictum.in/rss/feeds.xml"
-    feed = feedparser.parse(rss_url)
-    
-    # Define the header of your markdown file
-    content = "# Verdictum - Latest Legal News\n\n"
-    content += "| Date | Title | Link |\n"
-    content += "| :--- | :--- | :--- |\n"
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
-    # Loop through the latest 15 entries
-    for entry in feed.entries[:15]:
-        # Format the date (adjust slice/format as needed)
-        date = entry.published if 'published' in entry else "N/A"
-        title = entry.title.replace("|", "-") # Ensure title doesn't break MD table
-        link = entry.link
-        
-        content += f"| {date} | {title} | [Read More]({link}) |\n"
+jobs:
+  update-content:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-    # Write to verdictum.md
-    with open("verdictum.md", "w", encoding="utf-8") as f:
-        f.write(content)
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
 
-if __name__ == "__main__":
-    update_markdown()
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Run update script
+        run: python update_verdictum.py
+
+      - name: Commit and push
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add verdictum.md
+          git commit -m "Update verdictum.md with latest stories" || echo "No changes to commit"
+          git push
