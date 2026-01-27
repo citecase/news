@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Tue, 27 Jan 2026 16:55:22 GMT | **LiveLaw** | Bombay High Court Mulls Constituting Compliance Committee As Authorities Drag Feet On Air Pollution 'Crisis' | [Read More](https://www.livelaw.in/high-court/bombay-high-court/mumbai-air-pollution-crisis-deaths-economic-impact-520831) |
+| Tue, 27 Jan 2026 16:49:10 GMT | **LiveLaw** | Supreme Court Daily Round-Up : January 27, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-january-27-2026-520824) |
 | Tue, 27 Jan 2026 15:54:37 GMT | **LawBeat** | Karnataka HC Refuses Bail to PFI Member Accused of Fundraising and Radicalisation | [Read More](https://lawbeat.in/news-updates/karnataka-hc-refuses-bail-to-pfi-member-accused-of-fundraising-and-radicalisation-1560403) |
 | Tue, 27 Jan 2026 15:44:48 GMT | **LiveLaw** | Delhi High Court Directs MCD To Clear Hawkers From Anand Vihar ISBT, Orders Beautification Plan | [Read More](https://www.livelaw.in/high-court/delhi-high-court/anand-vihar-isbt-clear-hawkers-mcd-beautification-plan-520827) |
 | Tue, 27 Jan 2026 15:22:35 GMT | **LiveLaw** | Supreme Court Dismisses Plea To Increase Judge To Population Ratio | [Read More](https://www.livelaw.in/top-stories/supreme-court-dismisses-plea-to-increase-judge-to-population-ratio-520826) |
