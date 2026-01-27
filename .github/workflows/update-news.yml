@@ -1,34 +1,37 @@
-name: Daily News Scraper
+name: Update News Archive
 
 on:
   schedule:
-    # This runs every 30 minutes
-    - cron: '*/30 * * * *'
-  workflow_dispatch: # Allows you to run it manually from the Actions tab
+    # Runs every 30 minutes
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+    # Allows you to manually trigger it from the Actions tab
 
 jobs:
-  scrape:
+  run-update:
     runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: Setup Python 3.10
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.10'
 
-      - name: Install dependencies
-        run: |
-          pip install requests beautifulsoup4
+      - name: Install Dependencies
+        run: pip install feedparser requests
 
-      - name: Run Scraper
-        run: python scraper.py # Replace with your actual script name
+      - name: Fetch and Append News
+        run: python update_verdictum.py
 
-      - name: Commit and Push changes
+      - name: Commit and Push New Stories
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add news.json
-          git commit -m "Update news feed [skip ci]" || exit 0
-          git push
+          git add verdictum.md news.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated news update (30-min interval)" && git push)
