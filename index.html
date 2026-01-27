@@ -91,6 +91,7 @@
 
         .source-caseciter { background: #000; color: #fff; border-color: #000; }
 
+        /* Controls Area */
         .controls-bar {
             display: flex;
             align-items: center;
@@ -357,23 +358,24 @@
         let bookmarks = new Map();
         let currentUser = null;
 
-        // Dynamic base date logic to ensure "Today" is always the latest available news
         let currentAnchorDate = new Date(); 
 
         async function initApp() {
-            await signInAnonymously(auth);
-            onAuthStateChanged(auth, (user) => { if (user) { currentUser = user; setupBookmarkListener(); } });
-
             try {
+                // Initialize Auth
+                await signInAnonymously(auth);
+                onAuthStateChanged(auth, (user) => { if (user) { currentUser = user; setupBookmarkListener(); } });
+
+                // Fetch Data
                 const response = await fetch(DATA_URL);
+                if (!response.ok) throw new Error("Network response was not ok");
                 const raw = await response.json();
+                
                 newsData = raw.map(item => {
-                    // Robust IST parsing
                     const dateStr = item.date.includes(' IST') ? item.date.replace(' IST', '+05:30') : item.date;
                     return { ...item, timestamp: new Date(dateStr) };
                 }).sort((a, b) => b.timestamp - a.timestamp);
 
-                // Set currentAnchorDate to the latest news date found (normalized to start of day)
                 if (newsData.length > 0) {
                     const latestDate = new Date(newsData[0].timestamp);
                     currentAnchorDate = new Date(latestDate.getFullYear(), latestDate.getMonth(), latestDate.getDate());
@@ -387,7 +389,7 @@
                 refreshList();
             } catch (error) { 
                 console.error("Initialization failed:", error);
-                newsFeedList.innerHTML = `<div class="py-20 text-center text-slate-300 italic">Connecting to Hub...</div>`; 
+                newsFeedList.innerHTML = `<div class="py-20 text-center text-slate-300 italic">Unable to sync news feed. Please check your connection.</div>`; 
             }
         }
 
@@ -401,20 +403,39 @@
             }, (error) => console.error("Snapshot error:", error));
         }
 
+        // Helper to generate a safe ID for Firestore
+        function getSafeId(str) {
+            try {
+                // Use a simple hash or base64-encode ASCII-only
+                return btoa(unescape(encodeURIComponent(str))).replace(/[^a-zA-Z0-9]/g, '').substring(0, 120);
+            } catch (e) {
+                return str.substring(0, 50).replace(/[^a-zA-Z0-9]/g, '');
+            }
+        }
+
         window.toggleBookmark = async function(link) {
             if (!currentUser) return;
             const item = newsData.find(n => n.link === link);
             if (!item) return;
-            const bookmarkId = btoa(link).replace(/[^a-zA-Z0-9]/g, '').substring(0, 128);
+
+            const bookmarkId = getSafeId(link);
             const docRef = doc(db, 'artifacts', appId, 'users', currentUser.uid, 'bookmarks', bookmarkId);
-            if (bookmarks.has(bookmarkId)) await deleteDoc(docRef);
-            else await setDoc(docRef, { ...item, timestamp: item.timestamp.toISOString(), bookmarkedAt: new Date().toISOString() });
+
+            if (bookmarks.has(bookmarkId)) {
+                await deleteDoc(docRef);
+            } else {
+                await setDoc(docRef, {
+                    ...item,
+                    timestamp: item.timestamp.toISOString(),
+                    bookmarkedAt: new Date().toISOString()
+                });
+            }
         };
 
         window.toggleShareMenu = function(id) {
             const menu = document.getElementById(`share-menu-${id}`);
             document.querySelectorAll('.share-menu').forEach(m => { if(m !== menu) m.classList.remove('active'); });
-            menu.classList.toggle('active');
+            if (menu) menu.classList.toggle('active');
         };
 
         window.shareOnPlatform = function(platform, url, title) {
@@ -467,29 +488,51 @@
         window.jumpToToday = function() { dayOffset = 0; searchInput.value = ''; searchQuery = ''; refreshList(); window.scrollTo({ top: 0, behavior: 'smooth' }); }
 
         function refreshList() {
+            if (!newsFeedList) return;
             newsFeedList.innerHTML = '';
             const isSearching = searchQuery.length > 0;
+            
             const targetDate = new Date(currentAnchorDate);
             targetDate.setDate(targetDate.getDate() - dayOffset);
-            const nextDay = new Date(targetDate); nextDay.setDate(nextDay.getDate() + 1);
+            
+            // Format target date as string for robust comparison
+            const targetDayStr = targetDate.toLocaleDateString('en-CA'); // YYYY-MM-DD format
 
-            if (viewMode === 'saved') { topNav.classList.add('hidden'); archiveNav.classList.add('hidden'); dateLabel.innerText = "Your Saved Briefs"; }
-            else if (isSearching) { topNav.classList.add('hidden'); archiveNav.classList.add('hidden'); dateLabel.innerText = "Global Archive Results"; }
-            else { archiveNav.classList.remove('hidden'); if (dayOffset > 0) topNav.classList.remove('hidden'); else topNav.classList.add('hidden'); dateLabel.innerText = dayOffset === 0 ? "Latest Updates" : `${targetDate.toLocaleDateString('en-IN', { day: '2-digit', month: 'short', year: 'numeric' })} Feed`; }
+            if (viewMode === 'saved') { 
+                topNav.classList.add('hidden'); archiveNav.classList.add('hidden'); 
+                dateLabel.innerText = "Your Saved Briefs"; 
+            } else if (isSearching) { 
+                topNav.classList.add('hidden'); archiveNav.classList.add('hidden'); 
+                dateLabel.innerText = "Global Archive Results"; 
+            } else { 
+                archiveNav.classList.remove('hidden'); 
+                if (dayOffset > 0) topNav.classList.remove('hidden'); else topNav.classList.add('hidden'); 
+                dateLabel.innerText = dayOffset === 0 ? "Latest Updates" : `${targetDate.toLocaleDateString('en-IN', { day: '2-digit', month: 'short', year: 'numeric' })} Feed`; 
+            }
 
             const filteredData = newsData.filter(item => {
                 const matchesSource = activeSources.has(item.source);
                 const matchesSearch = item.title.toLowerCase().includes(searchQuery) || item.source.toLowerCase().includes(searchQuery);
-                const bookmarkId = btoa(item.link).replace(/[^a-zA-Z0-9]/g, '').substring(0, 128);
-                if (viewMode === 'saved') return bookmarks.has(bookmarkId) && matchesSource && (isSearching ? matchesSearch : true);
+                const bookmarkId = getSafeId(item.link);
+
+                if (viewMode === 'saved') {
+                    return bookmarks.has(bookmarkId) && matchesSource && (isSearching ? matchesSearch : true);
+                }
                 if (isSearching) return matchesSource && matchesSearch;
-                const itemTime = item.timestamp.getTime();
-                return itemTime >= targetDate.getTime() && itemTime < nextDay.getTime() && matchesSource;
+
+                // robust day comparison
+                const itemDayStr = item.timestamp.toLocaleDateString('en-CA');
+                return itemDayStr === targetDayStr && matchesSource;
             });
 
             feedStats.innerText = filteredData.length;
-            if (filteredData.length === 0) { emptyView.classList.remove('hidden'); emptyMessage.innerText = viewMode === 'saved' ? "No saved briefs found." : "No news briefs for this selection."; }
-            else { emptyView.classList.add('hidden'); filteredData.forEach(item => newsFeedList.appendChild(createNewsItem(item, isSearching || viewMode === 'saved' || dayOffset > 0))); }
+            if (filteredData.length === 0) { 
+                emptyView.classList.remove('hidden'); 
+                emptyMessage.innerText = viewMode === 'saved' ? "No saved briefs found." : "No news briefs found for this date."; 
+            } else { 
+                emptyView.classList.add('hidden'); 
+                filteredData.forEach(item => newsFeedList.appendChild(createNewsItem(item, isSearching || viewMode === 'saved' || dayOffset > 0))); 
+            }
         }
 
         function createNewsItem(item, showDate) {
@@ -497,7 +540,7 @@
             article.className = 'news-item';
             const timeStr = item.timestamp.toLocaleString('en-IN', { hour: '2-digit', minute: '2-digit', hour12: true });
             const datePrefix = showDate ? item.timestamp.toLocaleDateString('en-IN', { day: '2-digit', month: 'short' }) + " • " : "";
-            const bookmarkId = btoa(item.link).replace(/[^a-zA-Z0-9]/g, '').substring(0, 128);
+            const bookmarkId = getSafeId(item.link);
             const titleSafe = item.title.replace(/'/g, "\\'");
 
             article.innerHTML = `
