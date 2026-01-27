@@ -2,23 +2,30 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Legal News Swiper</title>
-    <!-- Tailwind for layout and basic styling -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Legal News Hub</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800;900&display=swap');
+
+        :root {
+            --bg-color: #ffffff;
+            --card-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.08), 0 8px 10px -6px rgba(0, 0, 0, 0.05);
+        }
+
         body {
-            background-color: #f0f2f5;
-            overflow: hidden; /* Prevent scrolling while swiping */
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            font-family: 'Inter', sans-serif;
+            overflow: hidden;
+            touch-action: none;
         }
 
         .card-container {
             position: relative;
             width: 90vw;
             max-width: 400px;
-            height: 60vh;
-            margin-top: 20px;
+            height: 58vh;
+            perspective: 1000px;
         }
 
         .news-card {
@@ -26,16 +33,20 @@
             width: 100%;
             height: 100%;
             background: white;
-            border-radius: 20px;
-            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
-            padding: 24px;
+            border-radius: 24px;
+            box-shadow: var(--card-shadow);
+            padding: 32px;
             display: flex;
             flex-direction: column;
-            justify-content: space-between;
-            transition: transform 0.3s ease, opacity 0.3s ease;
+            justify-content: center;
+            align-items: flex-start;
+            text-align: left;
+            transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), opacity 0.3s ease;
             cursor: grab;
             user-select: none;
-            touch-action: none; /* Crucial for touch events */
+            touch-action: none;
+            border: 1px solid rgba(0,0,0,0.08);
+            will-change: transform, opacity;
         }
 
         .news-card:active {
@@ -43,130 +54,264 @@
         }
 
         .source-badge {
-            display: inline-block;
-            padding: 4px 12px;
-            border-radius: 999px;
-            font-size: 0.75rem;
-            font-weight: 700;
+            position: absolute;
+            top: 24px;
+            left: 24px;
+            padding: 4px 10px;
+            border-radius: 6px;
+            font-size: 0.6rem;
+            font-weight: 800;
             text-transform: uppercase;
             letter-spacing: 0.05em;
         }
 
-        /* Source-specific colors */
-        .source-verdictum { background: #e11d48; color: white; }
-        .source-livelaw { background: #2563eb; color: white; }
-        .source-barbench { background: #16a34a; color: white; }
-        .source-lawbeat { background: #9333ea; color: white; }
-        .source-caseciter { background: #ea580c; color: white; }
+        .source-verdictum { background: #fee2e2; color: #991b1b; }
+        .source-livelaw { background: #dbeafe; color: #1e40af; }
+        .source-barbench { background: #dcfce7; color: #166534; }
+        .source-lawbeat { background: #f3e8ff; color: #6b21a8; }
+        .source-caseciter { background: #ffedd5; color: #9a3412; }
+        .source-default { background: #f1f5f9; color: #475569; }
 
         .swipe-indicator {
             position: absolute;
-            top: 20px;
-            padding: 10px 20px;
+            top: 50%;
+            transform: translateY(-50%);
+            padding: 12px 24px;
             border: 4px solid;
-            border-radius: 10px;
+            border-radius: 12px;
             font-weight: 900;
             font-size: 1.5rem;
             text-transform: uppercase;
             opacity: 0;
-            z-index: 10;
+            z-index: 100;
+            pointer-events: none;
         }
 
-        .indicator-right { right: 20px; color: #22c55e; border-color: #22c55e; transform: rotate(-20deg); }
-        .indicator-left { left: 20px; color: #ef4444; border-color: #ef4444; transform: rotate(20deg); }
+        .indicator-up { top: 20%; left: 50%; transform: translate(-50%, -50%); color: #000; border-color: #000; }
+        .indicator-right { right: 20px; color: #64748b; border-color: #64748b; transform: translateY(-50%) rotate(-10deg); }
+        .indicator-left { left: 20px; color: #000; border-color: #000; transform: translateY(-50%) rotate(10deg); }
+
+        .filter-scroll::-webkit-scrollbar { display: none; }
 
         #empty-state {
             display: none;
-            text-align: center;
+            animation: fadeIn 0.5s ease-out;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .citecase-logo {
+            display: flex;
+            align-items: center;
+            font-weight: 900;
+            font-size: 1.875rem; /* 3xl */
+            letter-spacing: -0.05em;
+            text-transform: uppercase;
+        }
+
+        .logo-cite {
+            color: black;
+            background: white;
+            padding-right: 2px;
+        }
+
+        .logo-case {
+            background: black;
+            color: white;
+            padding: 0 8px;
+            margin-left: 2px;
+            border-radius: 4px;
         }
     </style>
 </head>
-<body class="flex flex-col items-center justify-center min-h-screen p-4">
+<body class="flex flex-col items-center justify-start min-h-screen p-4 overflow-hidden">
 
-    <!-- Header -->
-    <header class="text-center mb-6">
-        <h1 class="text-3xl font-black text-gray-800 tracking-tight">Legal Swiper</h1>
-        <p class="text-gray-500 text-sm">Latest updates from India's top legal portals</p>
+    <!-- Brand Header -->
+    <header class="w-full max-w-md flex flex-col items-center mb-8 pt-4">
+        <div class="citecase-logo">
+            <span class="logo-cite">Cite</span><span class="logo-case">Case</span>
+        </div>
+        <p class="text-[10px] font-black text-slate-400 uppercase tracking-[0.4em] mt-1.5 ml-1">Legal News Hub</p>
+        
+        <div class="mt-4 flex items-center gap-2">
+            <p id="current-view-label" class="text-[10px] font-bold text-slate-500 uppercase tracking-widest">Today's Feed</p>
+            <span class="text-slate-200">|</span>
+            <div class="flex items-center gap-1">
+                <span id="card-count" class="text-[10px] font-black text-slate-700">0</span>
+                <span class="text-[10px] font-bold text-slate-400 uppercase">Stories</span>
+            </div>
+        </div>
     </header>
 
-    <!-- Swiper Interface -->
-    <div class="relative flex flex-col items-center">
-        <!-- Visual Indicators -->
-        <div id="indicator-right" class="swipe-indicator indicator-right">READ</div>
-        <div id="indicator-left" class="swipe-indicator indicator-left">SKIP</div>
+    <!-- Source Chips -->
+    <div class="w-full max-w-md mb-8">
+        <div id="filter-container" class="filter-scroll flex flex-nowrap overflow-x-auto gap-2 pb-2 px-1 justify-center"></div>
+    </div>
 
-        <!-- The Deck -->
-        <div id="card-deck" class="card-container">
-            <!-- Cards will be injected here -->
-        </div>
+    <!-- Swiper UI -->
+    <div class="relative flex flex-col items-center flex-grow w-full">
+        <div id="indicator-up" class="swipe-indicator indicator-up">OPEN</div>
+        <div id="indicator-right" class="swipe-indicator indicator-right">BACK</div>
+        <div id="indicator-left" class="swipe-indicator indicator-left">NEXT</div>
 
-        <!-- Empty State -->
-        <div id="empty-state" class="mt-10">
-            <h2 class="text-xl font-bold text-gray-700">All caught up!</h2>
-            <p class="text-gray-500 mb-4">You've swiped through all recent updates.</p>
-            <button onclick="location.reload()" class="bg-blue-600 text-white px-6 py-2 rounded-full font-bold shadow-lg active:scale-95 transition-transform">
-                Refresh News
+        <div id="card-deck" class="card-container"></div>
+
+        <div id="empty-state" class="absolute inset-0 flex flex-col items-center justify-center text-center p-6">
+            <div class="w-16 h-16 bg-slate-50 rounded-full flex items-center justify-center mb-6">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-slate-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+            </div>
+            <h2 id="empty-title" class="text-xl font-black text-slate-800 mb-2 uppercase tracking-tight">Caught up!</h2>
+            <p id="empty-desc" class="text-slate-400 mb-8 text-xs max-w-[240px]">No more stories found for this date.</p>
+            <button id="load-more-btn" onclick="loadPreviousDay()" class="bg-black text-white px-8 py-4 rounded-xl font-black text-xs uppercase tracking-widest shadow-lg active:scale-95 transition-transform">
+                Load Previous Day
             </button>
         </div>
     </div>
 
-    <!-- Controls Label -->
-    <footer class="mt-8 text-center text-gray-400 text-xs">
-        <p>Swipe Right to Read • Swipe Left to Skip</p>
-        <p class="mt-2" id="last-updated"></p>
+    <!-- Navigation Legend -->
+    <footer class="mt-auto py-8 w-full text-center">
+        <div class="flex justify-center gap-10 items-center opacity-20">
+            <div class="flex flex-col items-center">
+                <span class="text-[7px] font-black uppercase tracking-widest mb-2">Back</span>
+                <div class="w-5 h-5 rounded border border-black flex items-center justify-center text-[8px]">→</div>
+            </div>
+            <div class="flex flex-col items-center">
+                <span class="text-[7px] font-black uppercase tracking-widest mb-2">Open</span>
+                <div class="w-5 h-5 rounded border border-black flex items-center justify-center text-[8px]">↑</div>
+            </div>
+            <div class="flex flex-col items-center">
+                <span class="text-[7px] font-black uppercase tracking-widest mb-2">Next</span>
+                <div class="w-5 h-5 rounded border border-black flex items-center justify-center text-[8px]">←</div>
+            </div>
+        </div>
     </footer>
 
     <script>
         const DATA_URL = "https://raw.githubusercontent.com/citecase/news/main/news.json";
         const deck = document.getElementById('card-deck');
         const emptyState = document.getElementById('empty-state');
+        const upInd = document.getElementById('indicator-up');
         const rightInd = document.getElementById('indicator-right');
         const leftInd = document.getElementById('indicator-left');
+        const filterContainer = document.getElementById('filter-container');
+        const cardCount = document.getElementById('card-count');
+        const viewLabel = document.getElementById('current-view-label');
         
         let newsData = [];
+        let activeSources = new Set();
+        let allSources = [];
+        let historyStack = [];
+        let dayOffset = 0;
+
+        // Force "Today" to Jan 27, 2026 (IST)
+        const FIXED_TODAY_IST = new Date("2026-01-27T00:00:00+05:30");
 
         async function initApp() {
             try {
                 const response = await fetch(DATA_URL);
-                newsData = await response.json();
+                const raw = await response.json();
                 
-                if (newsData.length === 0) {
-                    showEmpty();
-                    return;
-                }
+                newsData = raw.map(item => ({
+                    ...item,
+                    timestamp: new Date(item.date.replace(' IST', '+05:30'))
+                })).sort((a, b) => b.timestamp - a.timestamp);
 
-                // Reverse so newest are on top of the stack
-                renderCards(newsData.slice(0, 30)); 
+                allSources = [...new Set(newsData.map(item => item.source))].sort();
+                activeSources = new Set(allSources);
+
+                renderFilters();
+                refreshDeck();
             } catch (error) {
-                console.error("Error fetching news:", error);
-                deck.innerHTML = `<p class='text-red-500 text-center mt-20'>Failed to load news. Check your internet or GitHub URL.</p>`;
+                deck.innerHTML = `<div class="text-slate-400 text-center mt-20 px-8 text-xs font-bold uppercase tracking-widest">Failed to connect</div>`;
             }
         }
 
-        function renderCards(data) {
-            data.reverse().forEach((item, index) => {
-                const card = createCard(item);
+        function renderFilters() {
+            filterContainer.innerHTML = '';
+            allSources.forEach(source => {
+                const chip = document.createElement('div');
+                const isActive = activeSources.has(source);
+                chip.className = `filter-chip cursor-pointer border px-3 py-1.5 rounded-lg text-[9px] font-black uppercase transition-all shrink-0 
+                    ${isActive ? 'bg-black text-white border-black' : 'bg-white text-slate-300 border-slate-100'}`;
+                chip.innerText = source;
+                chip.onclick = () => {
+                    if (activeSources.has(source)) {
+                        if (activeSources.size > 1) activeSources.delete(source);
+                    } else {
+                        activeSources.add(source);
+                    }
+                    renderFilters();
+                    refreshDeck();
+                };
+                filterContainer.appendChild(chip);
+            });
+        }
+
+        function loadPreviousDay() {
+            dayOffset++;
+            refreshDeck();
+        }
+
+        function refreshDeck() {
+            deck.innerHTML = '';
+            emptyState.style.display = 'none';
+            deck.style.display = 'block';
+            historyStack = [];
+
+            const targetDate = new Date(FIXED_TODAY_IST);
+            targetDate.setDate(targetDate.getDate() - dayOffset);
+            
+            const nextDay = new Date(targetDate);
+            nextDay.setDate(nextDay.getDate() + 1);
+
+            const dateStr = targetDate.toLocaleDateString('en-IN', { day: 'numeric', month: 'short' });
+            viewLabel.innerText = dayOffset === 0 ? "Today's Feed (" + dateStr + ")" : dateStr + " Feed";
+
+            const filteredData = newsData.filter(item => {
+                const itemTime = item.timestamp.getTime();
+                const inDay = itemTime >= targetDate.getTime() && itemTime < nextDay.getTime();
+                return activeSources.has(item.source) && inDay;
+            });
+            
+            cardCount.innerText = filteredData.length;
+
+            if (filteredData.length === 0) {
+                showEmpty();
+                return;
+            }
+
+            filteredData.forEach((item, index) => {
+                const card = createCard(item, filteredData.length - 1 - index);
                 deck.appendChild(card);
                 initSwipe(card, item);
             });
         }
 
-        function createCard(item) {
+        function createCard(item, zIndex) {
             const card = document.createElement('div');
             card.className = 'news-card';
-            
             const sourceClass = item.source.toLowerCase().replace(/[^a-z]/g, '');
+            card.style.zIndex = zIndex;
+            const visualIndex = Math.min(zIndex, 3);
+            card.style.transform = `translateY(${visualIndex * 4}px) scale(${1 - (visualIndex * 0.015)})`;
             
             card.innerHTML = `
-                <div>
-                    <span class="source-badge source-${sourceClass}">${item.source}</span>
-                    <h2 class="text-xl font-bold text-gray-900 mt-4 leading-tight">${item.title}</h2>
+                <div class="source-badge source-${sourceClass}">${item.source}</div>
+                <div class="mt-8">
+                    <h2 class="text-xl font-black text-slate-900 leading-[1.15] mb-4 tracking-tight">${item.title}</h2>
+                    <p class="text-[9px] font-black text-slate-300 uppercase tracking-widest">${item.date}</p>
                 </div>
-                <div>
-                    <p class="text-gray-400 text-sm font-medium">${item.date}</p>
-                    <div class="mt-6 pt-4 border-t border-gray-100 flex justify-between items-center">
-                        <span class="text-blue-600 font-bold text-sm">READ FULL STORY</span>
-                        <svg class="w-5 h-5 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+                <div class="mt-auto w-full pt-6 border-t border-slate-50 flex justify-between items-center">
+                    <span class="text-[8px] font-black text-slate-300 uppercase tracking-widest">Swipe Up to Read</span>
+                    <div class="flex gap-1 opacity-20">
+                        <div class="w-1 h-1 rounded-full bg-black"></div>
+                        <div class="w-1 h-1 rounded-full bg-black"></div>
+                        <div class="w-1 h-1 rounded-full bg-black"></div>
                     </div>
                 </div>
             `;
@@ -174,84 +319,92 @@
         }
 
         function initSwipe(card, item) {
-            let startX = 0;
-            let currentX = 0;
-            let isDragging = false;
-
-            const handleStart = (e) => {
-                isDragging = true;
-                startX = e.type.includes('touch') ? e.touches[0].clientX : e.clientX;
-                card.style.transition = 'none';
-            };
+            let startX = 0, startY = 0, currentX = 0, currentY = 0, isDragging = false;
 
             const handleMove = (e) => {
                 if (!isDragging) return;
-                currentX = (e.type.includes('touch') ? e.touches[0].clientX : e.clientX) - startX;
-                
-                const rotation = currentX / 20;
-                card.style.transform = `translateX(${currentX}px) rotate(${rotation}deg)`;
-
-                // Handle Indicators
-                if (currentX > 50) {
-                    rightInd.style.opacity = Math.min(currentX / 150, 1);
-                    leftInd.style.opacity = 0;
-                } else if (currentX < -50) {
-                    leftInd.style.opacity = Math.min(Math.abs(currentX) / 150, 1);
-                    rightInd.style.opacity = 0;
-                } else {
-                    rightInd.style.opacity = 0;
-                    leftInd.style.opacity = 0;
-                }
+                const x = e.type.includes('touch') ? e.touches[0].clientX : e.clientX;
+                const y = e.type.includes('touch') ? e.touches[0].clientY : e.clientY;
+                currentX = x - startX;
+                currentY = y - startY;
+                const rot = currentX / 18;
+                card.style.transform = `translate(${currentX}px, ${currentY}px) rotate(${rot}deg) scale(1.02)`;
+                leftInd.style.opacity = currentX < -60 ? Math.min(Math.abs(currentX)/150, 0.95) : 0;
+                rightInd.style.opacity = currentX > 60 ? Math.min(currentX/150, 0.95) : 0;
+                upInd.style.opacity = currentY < -60 ? Math.min(Math.abs(currentY)/150, 0.95) : 0;
             };
 
             const handleEnd = () => {
                 if (!isDragging) return;
                 isDragging = false;
-                card.style.transition = 'transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), opacity 0.2s';
-                
-                rightInd.style.opacity = 0;
-                leftInd.style.opacity = 0;
+                window.removeEventListener('mousemove', handleMove);
+                window.removeEventListener('mouseup', handleEnd);
+                window.removeEventListener('touchmove', handleMove);
+                window.removeEventListener('touchend', handleEnd);
+                card.style.transition = 'all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.2)';
+                [leftInd, rightInd, upInd].forEach(i => i.style.opacity = 0);
+                const threshold = 100;
 
-                if (Math.abs(currentX) > 120) {
-                    const direction = currentX > 0 ? 1 : -1;
-                    completeSwipe(card, direction, item);
-                } else {
-                    card.style.transform = `translateX(0) rotate(0)`;
-                }
+                if (currentY < -threshold) {
+                    card.style.transform = `translateY(-800px) rotate(0deg)`;
+                    card.style.opacity = '0';
+                    window.open(item.link, '_blank');
+                    finalizeSwipe(card);
+                } else if (currentX < -threshold) {
+                    card.style.transform = `translateX(-800px) rotate(-15deg)`;
+                    card.style.opacity = '0';
+                    historyStack.push({element: card, data: item});
+                    finalizeSwipe(card);
+                } else if (currentX > threshold) {
+                    if (historyStack.length > 0) {
+                        const last = historyStack.pop();
+                        deck.appendChild(last.element);
+                        requestAnimationFrame(() => {
+                            last.element.style.transition = 'none';
+                            last.element.style.transform = `translateX(-800px) rotate(-15deg)`;
+                            last.element.style.opacity = '0';
+                            requestAnimationFrame(() => {
+                                last.element.style.transition = 'all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275)';
+                                last.element.style.transform = `translate(0,0) rotate(0deg) scale(1)`;
+                                last.element.style.opacity = '1';
+                                updateCounter();
+                            });
+                        });
+                        card.style.transform = `translate(0,0) rotate(0deg) scale(1)`;
+                    } else { card.style.transform = `translate(0,0) rotate(0deg) scale(1)`; }
+                } else { card.style.transform = `translate(0,0) rotate(0deg) scale(1)`; }
+            };
+
+            const handleStart = (e) => {
+                isDragging = true;
+                startX = e.type.includes('touch') ? e.touches[0].clientX : e.clientX;
+                startY = e.type.includes('touch') ? e.touches[0].clientY : e.clientY;
+                card.style.transition = 'none';
+                window.addEventListener('mousemove', handleMove);
+                window.addEventListener('mouseup', handleEnd);
+                window.addEventListener('touchmove', handleMove, { passive: false });
+                window.addEventListener('touchend', handleEnd);
             };
 
             card.addEventListener('mousedown', handleStart);
-            card.addEventListener('touchstart', handleStart);
-            window.addEventListener('mousemove', handleMove);
-            window.addEventListener('touchmove', handleMove);
-            window.addEventListener('mouseup', handleEnd);
-            window.addEventListener('touchend', handleEnd);
+            card.addEventListener('touchstart', handleStart, { passive: true });
         }
 
-        function completeSwipe(card, direction, item) {
-            const outX = direction * (window.innerWidth + 200);
-            card.style.transform = `translateX(${outX}px) rotate(${direction * 40}deg)`;
-            card.style.opacity = '0';
-
-            if (direction === 1) {
-                // Read: Open link in new tab
-                window.open(item.link, '_blank');
-            }
-
+        function finalizeSwipe(card) {
             setTimeout(() => {
                 card.remove();
-                if (deck.children.length === 0) {
-                    showEmpty();
-                }
+                updateCounter();
+                if (deck.children.length === 0) showEmpty();
             }, 300);
         }
 
+        function updateCounter() { cardCount.innerText = deck.children.length; }
+
         function showEmpty() {
             deck.style.display = 'none';
-            emptyState.style.display = 'block';
+            emptyState.style.display = 'flex';
         }
 
-        // Initialize on load
         window.onload = initApp;
     </script>
 </body>
