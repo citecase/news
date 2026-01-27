@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Legal News Swiper</title>
+    <!-- Tailwind for layout and basic styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            background-color: #f0f2f5;
+            overflow: hidden; /* Prevent scrolling while swiping */
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .card-container {
+            position: relative;
+            width: 90vw;
+            max-width: 400px;
+            height: 60vh;
+            margin-top: 20px;
+        }
+
+        .news-card {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            padding: 24px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            transition: transform 0.3s ease, opacity 0.3s ease;
+            cursor: grab;
+            user-select: none;
+            touch-action: none; /* Crucial for touch events */
+        }
+
+        .news-card:active {
+            cursor: grabbing;
+        }
+
+        .source-badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 999px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        /* Source-specific colors */
+        .source-verdictum { background: #e11d48; color: white; }
+        .source-livelaw { background: #2563eb; color: white; }
+        .source-barbench { background: #16a34a; color: white; }
+        .source-lawbeat { background: #9333ea; color: white; }
+        .source-caseciter { background: #ea580c; color: white; }
+
+        .swipe-indicator {
+            position: absolute;
+            top: 20px;
+            padding: 10px 20px;
+            border: 4px solid;
+            border-radius: 10px;
+            font-weight: 900;
+            font-size: 1.5rem;
+            text-transform: uppercase;
+            opacity: 0;
+            z-index: 10;
+        }
+
+        .indicator-right { right: 20px; color: #22c55e; border-color: #22c55e; transform: rotate(-20deg); }
+        .indicator-left { left: 20px; color: #ef4444; border-color: #ef4444; transform: rotate(20deg); }
+
+        #empty-state {
+            display: none;
+            text-align: center;
+        }
+    </style>
+</head>
+<body class="flex flex-col items-center justify-center min-h-screen p-4">
+
+    <!-- Header -->
+    <header class="text-center mb-6">
+        <h1 class="text-3xl font-black text-gray-800 tracking-tight">Legal Swiper</h1>
+        <p class="text-gray-500 text-sm">Latest updates from India's top legal portals</p>
+    </header>
+
+    <!-- Swiper Interface -->
+    <div class="relative flex flex-col items-center">
+        <!-- Visual Indicators -->
+        <div id="indicator-right" class="swipe-indicator indicator-right">READ</div>
+        <div id="indicator-left" class="swipe-indicator indicator-left">SKIP</div>
+
+        <!-- The Deck -->
+        <div id="card-deck" class="card-container">
+            <!-- Cards will be injected here -->
+        </div>
+
+        <!-- Empty State -->
+        <div id="empty-state" class="mt-10">
+            <h2 class="text-xl font-bold text-gray-700">All caught up!</h2>
+            <p class="text-gray-500 mb-4">You've swiped through all recent updates.</p>
+            <button onclick="location.reload()" class="bg-blue-600 text-white px-6 py-2 rounded-full font-bold shadow-lg active:scale-95 transition-transform">
+                Refresh News
+            </button>
+        </div>
+    </div>
+
+    <!-- Controls Label -->
+    <footer class="mt-8 text-center text-gray-400 text-xs">
+        <p>Swipe Right to Read • Swipe Left to Skip</p>
+        <p class="mt-2" id="last-updated"></p>
+    </footer>
+
+    <script>
+        const DATA_URL = "https://raw.githubusercontent.com/citecase/news/main/news.json";
+        const deck = document.getElementById('card-deck');
+        const emptyState = document.getElementById('empty-state');
+        const rightInd = document.getElementById('indicator-right');
+        const leftInd = document.getElementById('indicator-left');
+        
+        let newsData = [];
+
+        async function initApp() {
+            try {
+                const response = await fetch(DATA_URL);
+                newsData = await response.json();
+                
+                if (newsData.length === 0) {
+                    showEmpty();
+                    return;
+                }
+
+                // Reverse so newest are on top of the stack
+                renderCards(newsData.slice(0, 30)); 
+            } catch (error) {
+                console.error("Error fetching news:", error);
+                deck.innerHTML = `<p class='text-red-500 text-center mt-20'>Failed to load news. Check your internet or GitHub URL.</p>`;
+            }
+        }
+
+        function renderCards(data) {
+            data.reverse().forEach((item, index) => {
+                const card = createCard(item);
+                deck.appendChild(card);
+                initSwipe(card, item);
+            });
+        }
+
+        function createCard(item) {
+            const card = document.createElement('div');
+            card.className = 'news-card';
+            
+            const sourceClass = item.source.toLowerCase().replace(/[^a-z]/g, '');
+            
+            card.innerHTML = `
+                <div>
+                    <span class="source-badge source-${sourceClass}">${item.source}</span>
+                    <h2 class="text-xl font-bold text-gray-900 mt-4 leading-tight">${item.title}</h2>
+                </div>
+                <div>
+                    <p class="text-gray-400 text-sm font-medium">${item.date}</p>
+                    <div class="mt-6 pt-4 border-t border-gray-100 flex justify-between items-center">
+                        <span class="text-blue-600 font-bold text-sm">READ FULL STORY</span>
+                        <svg class="w-5 h-5 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+                    </div>
+                </div>
+            `;
+            return card;
+        }
+
+        function initSwipe(card, item) {
+            let startX = 0;
+            let currentX = 0;
+            let isDragging = false;
+
+            const handleStart = (e) => {
+                isDragging = true;
+                startX = e.type.includes('touch') ? e.touches[0].clientX : e.clientX;
+                card.style.transition = 'none';
+            };
+
+            const handleMove = (e) => {
+                if (!isDragging) return;
+                currentX = (e.type.includes('touch') ? e.touches[0].clientX : e.clientX) - startX;
+                
+                const rotation = currentX / 20;
+                card.style.transform = `translateX(${currentX}px) rotate(${rotation}deg)`;
+
+                // Handle Indicators
+                if (currentX > 50) {
+                    rightInd.style.opacity = Math.min(currentX / 150, 1);
+                    leftInd.style.opacity = 0;
+                } else if (currentX < -50) {
+                    leftInd.style.opacity = Math.min(Math.abs(currentX) / 150, 1);
+                    rightInd.style.opacity = 0;
+                } else {
+                    rightInd.style.opacity = 0;
+                    leftInd.style.opacity = 0;
+                }
+            };
+
+            const handleEnd = () => {
+                if (!isDragging) return;
+                isDragging = false;
+                card.style.transition = 'transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), opacity 0.2s';
+                
+                rightInd.style.opacity = 0;
+                leftInd.style.opacity = 0;
+
+                if (Math.abs(currentX) > 120) {
+                    const direction = currentX > 0 ? 1 : -1;
+                    completeSwipe(card, direction, item);
+                } else {
+                    card.style.transform = `translateX(0) rotate(0)`;
+                }
+            };
+
+            card.addEventListener('mousedown', handleStart);
+            card.addEventListener('touchstart', handleStart);
+            window.addEventListener('mousemove', handleMove);
+            window.addEventListener('touchmove', handleMove);
+            window.addEventListener('mouseup', handleEnd);
+            window.addEventListener('touchend', handleEnd);
+        }
+
+        function completeSwipe(card, direction, item) {
+            const outX = direction * (window.innerWidth + 200);
+            card.style.transform = `translateX(${outX}px) rotate(${direction * 40}deg)`;
+            card.style.opacity = '0';
+
+            if (direction === 1) {
+                // Read: Open link in new tab
+                window.open(item.link, '_blank');
+            }
+
+            setTimeout(() => {
+                card.remove();
+                if (deck.children.length === 0) {
+                    showEmpty();
+                }
+            }, 300);
+        }
+
+        function showEmpty() {
+            deck.style.display = 'none';
+            emptyState.style.display = 'block';
+        }
+
+        // Initialize on load
+        window.onload = initApp;
+    </script>
+</body>
+</html>
