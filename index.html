@@ -330,11 +330,24 @@
         import { getAuth, signInAnonymously, onAuthStateChanged } from 'https://www.gstatic.com/firebasejs/11.6.1/firebase-auth.js';
         import { getFirestore, doc, setDoc, deleteDoc, onSnapshot, collection } from 'https://www.gstatic.com/firebasejs/11.6.1/firebase-firestore.js';
 
-        const firebaseConfig = JSON.parse(__firebase_config);
-        const app = initializeApp(firebaseConfig);
-        const auth = getAuth(app);
-        const db = getFirestore(app);
+        // --- Safe Initialization for Vercel/External Deployment ---
+        const configRaw = typeof __firebase_config !== 'undefined' ? __firebase_config : null;
         const appId = typeof __app_id !== 'undefined' ? __app_id : 'citecase-legal-hub';
+        
+        let db = null;
+        let auth = null;
+        let currentUser = null;
+
+        if (configRaw) {
+            try {
+                const firebaseConfig = JSON.parse(configRaw);
+                const app = initializeApp(firebaseConfig);
+                auth = getAuth(app);
+                db = getFirestore(app);
+            } catch (e) {
+                console.warn("Firebase config invalid or missing. Bookmarks will be session-only.");
+            }
+        }
 
         const DATA_URL = "https://raw.githubusercontent.com/citecase/news/main/news.json";
         const newsFeedList = document.getElementById('news-feed-list');
@@ -356,17 +369,18 @@
         let searchQuery = '';
         let viewMode = 'feed';
         let bookmarks = new Map();
-        let currentUser = null;
 
         let currentAnchorDate = new Date(); 
 
         async function initApp() {
-            try {
-                // Initialize Auth
+            // 1. Initialize Auth if available
+            if (auth) {
                 await signInAnonymously(auth);
                 onAuthStateChanged(auth, (user) => { if (user) { currentUser = user; setupBookmarkListener(); } });
+            }
 
-                // Fetch Data
+            // 2. Fetch News Data (Always works regardless of Firebase)
+            try {
                 const response = await fetch(DATA_URL);
                 if (!response.ok) throw new Error("Network response was not ok");
                 const raw = await response.json();
@@ -394,7 +408,7 @@
         }
 
         function setupBookmarkListener() {
-            if (!currentUser) return;
+            if (!currentUser || !db) return;
             const bookmarksRef = collection(db, 'artifacts', appId, 'users', currentUser.uid, 'bookmarks');
             onSnapshot(bookmarksRef, (snapshot) => {
                 bookmarks.clear();
@@ -403,10 +417,8 @@
             }, (error) => console.error("Snapshot error:", error));
         }
 
-        // Helper to generate a safe ID for Firestore
         function getSafeId(str) {
             try {
-                // Use a simple hash or base64-encode ASCII-only
                 return btoa(unescape(encodeURIComponent(str))).replace(/[^a-zA-Z0-9]/g, '').substring(0, 120);
             } catch (e) {
                 return str.substring(0, 50).replace(/[^a-zA-Z0-9]/g, '');
@@ -414,22 +426,24 @@
         }
 
         window.toggleBookmark = async function(link) {
-            if (!currentUser) return;
-            const item = newsData.find(n => n.link === link);
-            if (!item) return;
-
             const bookmarkId = getSafeId(link);
-            const docRef = doc(db, 'artifacts', appId, 'users', currentUser.uid, 'bookmarks', bookmarkId);
-
-            if (bookmarks.has(bookmarkId)) {
-                await deleteDoc(docRef);
-            } else {
-                await setDoc(docRef, {
-                    ...item,
-                    timestamp: item.timestamp.toISOString(),
-                    bookmarkedAt: new Date().toISOString()
-                });
+            
+            // If no cloud, handle in-memory
+            if (!db || !currentUser) {
+                if (bookmarks.has(bookmarkId)) bookmarks.delete(bookmarkId);
+                else {
+                    const item = newsData.find(n => n.link === link);
+                    bookmarks.set(bookmarkId, { ...item, timestamp: item.timestamp.toISOString() });
+                }
+                refreshList();
+                return;
             }
+
+            // If cloud available, handle via Firestore
+            const item = newsData.find(n => n.link === link);
+            const docRef = doc(db, 'artifacts', appId, 'users', currentUser.uid, 'bookmarks', bookmarkId);
+            if (bookmarks.has(bookmarkId)) await deleteDoc(docRef);
+            else await setDoc(docRef, { ...item, timestamp: item.timestamp.toISOString(), bookmarkedAt: new Date().toISOString() });
         };
 
         window.toggleShareMenu = function(id) {
@@ -494,9 +508,7 @@
             
             const targetDate = new Date(currentAnchorDate);
             targetDate.setDate(targetDate.getDate() - dayOffset);
-            
-            // Format target date as string for robust comparison
-            const targetDayStr = targetDate.toLocaleDateString('en-CA'); // YYYY-MM-DD format
+            const targetDayStr = targetDate.toLocaleDateString('en-CA');
 
             if (viewMode === 'saved') { 
                 topNav.classList.add('hidden'); archiveNav.classList.add('hidden'); 
@@ -515,12 +527,9 @@
                 const matchesSearch = item.title.toLowerCase().includes(searchQuery) || item.source.toLowerCase().includes(searchQuery);
                 const bookmarkId = getSafeId(item.link);
 
-                if (viewMode === 'saved') {
-                    return bookmarks.has(bookmarkId) && matchesSource && (isSearching ? matchesSearch : true);
-                }
+                if (viewMode === 'saved') return bookmarks.has(bookmarkId) && matchesSource && (isSearching ? matchesSearch : true);
                 if (isSearching) return matchesSource && matchesSearch;
 
-                // robust day comparison
                 const itemDayStr = item.timestamp.toLocaleDateString('en-CA');
                 return itemDayStr === targetDayStr && matchesSource;
             });
