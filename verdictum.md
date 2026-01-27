@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Tue, 27 Jan 2026 05:10:13 GMT | **Verdictum** | Property Cannot Be Attached As ‘Proceeds Of Crime’ Under PMLA Absent Nexus With Scheduled Offence: Bombay High Court Grants Relief To Shapoorji Pallonji Group | [Read More](https://www.verdictum.in/court-updates/high-courts/bombay-high-court/union-of-india-v-nilesh-j-thakur-ors-union-of-india-v-shapoorji-pallonji-and-co-pvt-ltd-ors-2025bhc-as58090-db-1605614) |
 | Tue, 27 Jan 2026 04:40:13 GMT | **LiveLaw** | From Brain Death to Bureaucratic Delay: A Critical Appraisal of India's Organ Transplant Regime | [Read More](https://www.livelaw.in/lawschoolcolumn/organ-transplantation-bureaucratic-delay-520698) |
 | Tue, 27 Jan 2026 04:39:42 GMT | **LiveLaw** | BCI Chairperson Writes To CJI Objecting To Kerala High Court Judge's Comments Against Election Nomination Fee | [Read More](https://www.livelaw.in/high-court/kerala-high-court/bci-cji-kerala-high-court-judges-remarks-bar-council-elections-520724) |
 | Mon, 26 Jan 2026 14:36:52 GMT | **CaseCiter** | Sri Mukund Maheswar v. Axis Bank Ltd 2026 INSC 84 - Writ Petition - Registry Objection | [Read More](https://www.caseciter.com/2026insc84/) |
