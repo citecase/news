@@ -2,67 +2,95 @@ import feedparser
 import requests
 import os
 import re
+from datetime import datetime
+
+def parse_date(date_str):
+    """Helper to parse various RSS date formats for sorting."""
+    formats = [
+        '%a, %d %b %Y %H:%M:%S %Z',
+        '%a, %d %b %Y %H:%M:%S %z',
+        '%Y-%m-%dT%H:%M:%S%z',
+        '%Y-%m-%d %H:%M:%S'
+    ]
+    for fmt in formats:
+        try:
+            return datetime.strptime(date_str, fmt)
+        except (ValueError, TypeError):
+            continue
+    return datetime.min
 
 def update_markdown():
-    # The correct feed URL you identified
-    rss_url = "https://www.verdictum.in/google_feeds.xml"
+    # Define your sources
+    sources = [
+        {"name": "Verdictum", "url": "https://www.verdictum.in/google_feeds.xml"},
+        {"name": "LiveLaw", "url": "https://www.livelaw.in/google_feeds.xml"}
+    ]
     file_path = "verdictum.md"
     
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
     }
 
-    try:
-        # 1. Fetch the feed data
-        response = requests.get(rss_url, headers=headers, timeout=20)
-        response.raise_for_status()
-        feed = feedparser.parse(response.content)
-        
-        if not feed.entries:
-            print("No entries found in google_feeds.xml.")
-            return
+    all_new_stories = []
+    existing_links = set()
 
-        # 2. Map existing links to prevent duplicates
-        existing_links = set()
-        if os.path.exists(file_path):
-            with open(file_path, "r", encoding="utf-8") as f:
-                content = f.read()
-                existing_links = set(re.findall(r'https?://[^\s)\]]+', content))
+    # 1. Map existing links to prevent duplicates
+    if os.path.exists(file_path):
+        with open(file_path, "r", encoding="utf-8") as f:
+            content = f.read()
+            existing_links = set(re.findall(r'https?://[^\s)\]]+', content))
 
-        # 3. Filter for NEW stories
-        new_rows = []
-        for entry in feed.entries:
-            link = entry.link
-            if link not in existing_links:
-                title = entry.title.replace("|", "-").strip()
-                # Use published date from feed or default to N/A
-                date = entry.get('published', 'N/A')
-                new_rows.append(f"| {date} | {title} | [Read More]({link}) |")
+    # 2. Fetch from all sources
+    for source in sources:
+        try:
+            print(f"Fetching {source['name']}...")
+            response = requests.get(source['url'], headers=headers, timeout=20)
+            response.raise_for_status()
+            feed = feedparser.parse(response.content)
+            
+            for entry in feed.entries:
+                link = entry.link
+                if link not in existing_links:
+                    title = entry.title.replace("|", "-").strip()
+                    raw_date = entry.get('published', entry.get('updated', 'N/A'))
+                    parsed_dt = parse_date(raw_date)
+                    
+                    all_new_stories.append({
+                        "date": raw_date,
+                        "dt_obj": parsed_dt,
+                        "title": title,
+                        "link": link,
+                        "source": source['name']
+                    })
+        except Exception as e:
+            print(f"Error fetching {source['name']}: {e}")
 
-        if not new_rows:
-            print("No new stories found to add.")
-            return
+    if not all_new_stories:
+        print("No new stories found.")
+        return
 
-        # 4. Extract old rows from the current file (preserving archive)
-        old_data_rows = []
-        if os.path.exists(file_path):
-            with open(file_path, "r", encoding="utf-8") as f:
-                for line in f:
-                    # Keep valid table rows, skip headers/separators
-                    if line.startswith("|") and ":---" not in line and "Date | Title" not in line:
-                        old_data_rows.append(line.strip())
+    # 3. Sort new stories by date (Newest first)
+    all_new_stories.sort(key=lambda x: x['dt_obj'], reverse=True)
 
-        # 5. Build final file: Header -> New News -> Historical News
-        header = "# Verdictum - News Archive\n\n| Date | Title | Link |\n| :--- | :--- | :--- |\n"
-        final_content = header + "\n".join(new_rows) + "\n" + "\n".join(old_data_rows)
+    # 4. Format new rows
+    new_rows = [f"| {s['date']} | {s['source']} | {s['title']} | [Read More]({s['link']}) |" for s in all_new_stories]
 
-        with open(file_path, "w", encoding="utf-8") as f:
-            f.write(final_content)
-        
-        print(f"Successfully added {len(new_rows)} new stories.")
+    # 5. Extract old rows from the current file
+    old_data_rows = []
+    if os.path.exists(file_path):
+        with open(file_path, "r", encoding="utf-8") as f:
+            for line in f:
+                if line.startswith("|") and ":---" not in line and "Date | Source" not in line:
+                    old_data_rows.append(line.strip())
 
-    except Exception as e:
-        print(f"Error during update: {e}")
+    # 6. Rebuild file
+    header = "# Legal News Archive\n\n| Date | Source | Title | Link |\n| :--- | :--- | :--- | :--- |\n"
+    final_content = header + "\n".join(new_rows) + "\n" + "\n".join(old_data_rows)
+
+    with open(file_path, "w", encoding="utf-8") as f:
+        f.write(final_content)
+    
+    print(f"Successfully added {len(new_rows)} new stories from combined feeds.")
 
 if __name__ == "__main__":
     update_markdown()
