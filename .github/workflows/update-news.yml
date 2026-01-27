@@ -2,33 +2,42 @@ name: Update News Archive
 
 on:
   schedule:
+    # Runs every 6 hours (12 AM, 6 AM, 12 PM, 6 PM UTC)
     - cron: "0 */6 * * *"
   workflow_dispatch:
+    # Allows you to manually run the action from the GitHub UI
 
 jobs:
-  run-update:
+  build:
     runs-on: ubuntu-latest
+
+    # Granting write permissions to the job to allow pushing back to the repo
     permissions:
       contents: write
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          # Required for accurate git history during push
+          fetch-depth: 0
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
       - name: Install Dependencies
-        run: pip install feedparser requests
+        run: |
+          pip install feedparser requests
 
-      - name: Fetch and Append News
+      - name: Run Update Script
         run: python update_verdictum.py
 
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add verdictum.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update verdictum.md with google_feeds" && git push)
+          git add verdictum.md news.json
+          # Only commits if changes exist to avoid workflow failure
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update news and JSON feeds" && git push)
