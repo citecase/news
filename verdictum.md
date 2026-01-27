@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Tue, 27 Jan 2026 06:50:31 GMT | **Verdictum** | Amendment To Promotion Rules To Improve Efficiency Not Open To Judicial Review Unless Arbitrary: Chhattisgarh High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/chhattisgarh-high-court/bashil-minj-ors-v-state-of-chhattisgarh-ors2026cghc3713-db-article-309-1605632) |
 | Tue, 27 Jan 2026 06:15:48 GMT | **LiveLaw** | 'Do They Have Their Own Aircraft?' : Supreme Court Questions BCI Over Denying Travel Allowances To Ex-Judges Monitoring Elections | [Read More](https://www.livelaw.in/top-stories/supreme-court-questions-bci-over-denying-travel-allowances-to-ex-judges-monitoring-elections-520734) |
 | Tue, 27 Jan 2026 06:10:20 GMT | **Verdictum** | Concealment Of Prior Live-In Relationship Vitiates Marital Consent And Constitutes Fraud U/S 12(1)(c) Hindu Marriage Act: Jharkhand High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/jharkhand-high-court/ps-v-sr-neutral-citation-2026jhhc1680-db-live-in-hindu-marriage-act-1605625) |
 | Tue, 27 Jan 2026 06:05:31 GMT | **LiveLaw** | Plea In Supreme Court Challenges UGC Regulation Defining 'Caste Discrimination', Seeks Caste Neutral Provision | [Read More](https://www.livelaw.in/top-stories/supreme-court-plea-challenging-non-inclusionary-definition-of-caste-based-discrimination-in-ugc-regulations-for-higher-education-institutions-520733) |
