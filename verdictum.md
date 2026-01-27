@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Tue, 27 Jan 2026 14:53:55 GMT | **LiveLaw** | S.175(4) BNSS - Superior's Report Must If Offence Was During Public Servant's Duties : Supreme Court Advises Magistrates | [Read More](https://www.livelaw.in/supreme-court/s1754-bnss-superiors-report-must-if-offence-was-during-public-servants-duties-supreme-court-advises-magistrates-520820) |
+| Tue, 27 Jan 2026 14:50:54 GMT | **LiveLaw** | 2026 LiveLaw (SC) 85 - XXX v State of Kerala - Section 175(4) BNSS | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-85-xxx-v-state-of-kerala-section-1754-bnss-520821) |
+| Tue, 27 Jan 2026 14:46:18 GMT | **LiveLaw** | Delhi High Court Upholds Rule Allowing Childless Widow To Continue Family Pension After Remarriage | [Read More](https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-upholds-rule-allowing-childless-widow-to-continue-family-pension-after-remarriage-520819) |
 | Tue, 27 Jan 2026 14:16:20 GMT | **LiveLaw** | Karnataka High Court Denies Bail To Man Accused Of Being ISIS Member, Engaging In Transferring Terror Funds Via Cryptocurrency | [Read More](https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-terrorist-activities-crypto-terror-funds-isis-member-520817) |
 | Tue, 27 Jan 2026 14:14:35 GMT | **LawBeat** | Non-Signatory Can Be a Necessary Party: Delhi HC Impleads IIM Jammu in Arbitration Matter | [Read More](https://lawbeat.in/news-updates/non-signatory-can-be-a-necessary-party-delhi-hc-impleads-iim-jammu-in-arbitration-matter-1560372) |
 | Tue, 27 Jan 2026 14:13:56 GMT | **LawBeat** | ‘Rarest of Rare’: Madhya Pradesh HC Confirms Death Penalty in Brutal POCSO Case of Five-Year-Old | [Read More](https://lawbeat.in/news-updates/rarest-of-rare-madhya-pradesh-hc-confirms-death-penalty-in-brutal-pocso-case-of-five-year-old-1560371) |
