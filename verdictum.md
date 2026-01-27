@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Tue, 27 Jan 2026 15:54:37 GMT | **LawBeat** | Karnataka HC Refuses Bail to PFI Member Accused of Fundraising and Radicalisation | [Read More](https://lawbeat.in/news-updates/karnataka-hc-refuses-bail-to-pfi-member-accused-of-fundraising-and-radicalisation-1560403) |
+| Tue, 27 Jan 2026 15:44:48 GMT | **LiveLaw** | Delhi High Court Directs MCD To Clear Hawkers From Anand Vihar ISBT, Orders Beautification Plan | [Read More](https://www.livelaw.in/high-court/delhi-high-court/anand-vihar-isbt-clear-hawkers-mcd-beautification-plan-520827) |
+| Tue, 27 Jan 2026 15:22:35 GMT | **LiveLaw** | Supreme Court Dismisses Plea To Increase Judge To Population Ratio | [Read More](https://www.livelaw.in/top-stories/supreme-court-dismisses-plea-to-increase-judge-to-population-ratio-520826) |
 | Tue, 27 Jan 2026 15:21:16 GMT | **LiveLaw** | Customary Restrictions Can't Bar Widow From Alienating Non-Ancestral Property, Gender-Based Customs Must Yield To Equality: P&H High Court | [Read More](https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-customary-restrictions-cannot-bar-widow-from-alienating-non-ancestral-property-gender-based-customs-must-yield-to-equality-520825) |
 | Tue, 27 Jan 2026 15:15:38 GMT | **LiveLaw** | Kerala High Court Raps Authorities Over Non-Removal Of Pilgrims' Clothes From Pampa River At Sabarimala | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-cloth-dumping-sabarimala-pampa-river-520823) |
 | Tue, 27 Jan 2026 14:58:01 GMT | **LiveLaw** | Kerala Court Denies Bail To Woman After Man She Accused Of Sexual Harassment In Viral Video Dies By Suicide | [Read More](https://www.livelaw.in/news-updates/kerala-court-denies-bail-to-shimjitha-musthafa-520822) |
