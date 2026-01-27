@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| 2026-01-27T11:44:07.535Z | **Bar & Bench** | Due diligence test in CPC not always a bar for amendment of pleadings after trial starts: Karnataka HC | [Read More](https://www.barandbench.com/news/due-diligence-test-in-cpc-not-always-a-bar-for-amendment-of-pleadings-after-trial-starts-karnataka-hc) |
+| 2026-01-27T11:36:54.443Z | **Bar & Bench** | Supreme Court proposes auctioning assets of accused to compensate acid attack victims | [Read More](https://www.barandbench.com/news/litigation/supreme-court-proposes-auctioning-assets-of-accused-to-compensate-acid-attack-victims) |
 | Tue, 27 Jan 2026 11:16:05 GMT | **LiveLaw** | Jhansi Medical College Fire - Enquiry Pending For Over 1 Year: High Court Stays Suspension Of Ex-Chief Medical Superintendent | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-stays-suspension-jhansi-medical-college-cms-fire-enquiry-delay-520781) |
 | Tue, 27 Jan 2026 11:07:53 GMT | **LiveLaw** | UAPA - Can Remand Report Satisfy Mandate To Supply Grounds of Arrest In Writing? Supreme Court To Consider | [Read More](https://www.livelaw.in/top-stories/supreme-court-whether-supply-of-relevant-facts-roles-in-remand-application-sufficient-compliance-article-22-grounds-of-arrest-in-writing-pankaj-bansal-520780) |
 | Tue, 27 Jan 2026 11:01:15 GMT | **LiveLaw** | Jammu & Kashmir And Ladakh High Court Weekly Round-Up : January 19-January 25, 2026 | [Read More](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-and-ladakh-high-court-weekly-roundup-january-19-january-25-2026-520778) |
