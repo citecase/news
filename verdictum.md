@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Tue, 27 Jan 2026 04:10:46 GMT | **LiveLaw** | Protection Officer (Non-Institutional Care) And Legal Cum Probation Officer Vacancy At District Child Protection Unit, Alipurduar | [Read More](https://www.livelaw.in/job-updates/protection-officer-non-institutional-care-and-legal-cum-probation-officer-vacancy-at-district-child-protection-unit-alipurduar-520720) |
 | Tue, 27 Jan 2026 04:08:56 GMT | LiveLaw | Project Coordinator Vacancy At District Child Protection Unit, Perambalur | [Read More](https://www.livelaw.in/job-updates/project-coordinator-vacancy-at-district-child-protection-unit-perambalur-520719) |
 | Tue, 27 Jan 2026 04:07:18 GMT | LiveLaw | Deputy Manager, Assistant Manager, And Law Officer Vacancy At National Cooperative Consumers' Federation Of India Limited | [Read More](https://www.livelaw.in/job-updates/deputy-manager-assistant-manager-and-law-officer-vacancy-at-national-cooperative-consumers-federation-of-india-limited-520718) |
 | Tue, 27 Jan 2026 04:06:01 GMT | LiveLaw | Drugs & Cosmetics Act - JMFC Can Try Offences Punishable Up To 3 Years; S. 32 Bar Not Absolute: J&K&L High Court | [Read More](https://www.livelaw.in/high-court/jammu-kashmir/jammu-kashmir-ladakh-high-court-drugs-cosmetics-act-triable-judicial-magistrate-520704) |
