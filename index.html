@@ -357,7 +357,8 @@
         let bookmarks = new Map();
         let currentUser = null;
 
-        const FIXED_TODAY_IST = new Date("2026-01-27T00:00:00+05:30");
+        // Dynamic base date logic to ensure "Today" is always the latest available news
+        let currentAnchorDate = new Date(); 
 
         async function initApp() {
             await signInAnonymously(auth);
@@ -366,13 +367,28 @@
             try {
                 const response = await fetch(DATA_URL);
                 const raw = await response.json();
-                newsData = raw.map(item => ({ ...item, timestamp: new Date(item.date.replace(' IST', '+05:30')) })).sort((a, b) => b.timestamp - a.timestamp);
+                newsData = raw.map(item => {
+                    // Robust IST parsing
+                    const dateStr = item.date.includes(' IST') ? item.date.replace(' IST', '+05:30') : item.date;
+                    return { ...item, timestamp: new Date(dateStr) };
+                }).sort((a, b) => b.timestamp - a.timestamp);
+
+                // Set currentAnchorDate to the latest news date found (normalized to start of day)
+                if (newsData.length > 0) {
+                    const latestDate = new Date(newsData[0].timestamp);
+                    currentAnchorDate = new Date(latestDate.getFullYear(), latestDate.getMonth(), latestDate.getDate());
+                }
+
                 allSources = [...new Set(newsData.map(item => item.source))].sort();
                 activeSources = new Set(allSources);
+
                 searchInput.addEventListener('input', (e) => { searchQuery = e.target.value.toLowerCase().trim(); refreshList(); });
                 renderFilters();
                 refreshList();
-            } catch (error) { newsFeedList.innerHTML = `<div class="py-20 text-center text-slate-300 italic">Connecting...</div>`; }
+            } catch (error) { 
+                console.error("Initialization failed:", error);
+                newsFeedList.innerHTML = `<div class="py-20 text-center text-slate-300 italic">Connecting to Hub...</div>`; 
+            }
         }
 
         function setupBookmarkListener() {
@@ -416,14 +432,12 @@
                 case 'native':
                     if (navigator.share) {
                         navigator.share({ title, url }).catch((error) => {
-                            // Silently handle user cancellation to avoid console error pollution
-                            if (error.name !== 'AbortError') {
-                                console.error('Share failed:', error);
-                            }
+                            if (error.name !== 'AbortError') console.error('Share failed:', error);
                         });
                         return;
+                    } else {
+                        const el = document.createElement('textarea'); el.value = url; document.body.appendChild(el); el.select(); document.execCommand('copy'); document.body.removeChild(el); showToast(); return;
                     }
-                    else { const el = document.createElement('textarea'); el.value = url; document.body.appendChild(el); el.select(); document.execCommand('copy'); document.body.removeChild(el); showToast(); return; }
             }
             if (shareUrl) window.open(shareUrl, '_blank', 'noopener,noreferrer');
         };
@@ -455,13 +469,13 @@
         function refreshList() {
             newsFeedList.innerHTML = '';
             const isSearching = searchQuery.length > 0;
-            const targetDate = new Date(FIXED_TODAY_IST);
+            const targetDate = new Date(currentAnchorDate);
             targetDate.setDate(targetDate.getDate() - dayOffset);
             const nextDay = new Date(targetDate); nextDay.setDate(nextDay.getDate() + 1);
 
             if (viewMode === 'saved') { topNav.classList.add('hidden'); archiveNav.classList.add('hidden'); dateLabel.innerText = "Your Saved Briefs"; }
             else if (isSearching) { topNav.classList.add('hidden'); archiveNav.classList.add('hidden'); dateLabel.innerText = "Global Archive Results"; }
-            else { archiveNav.classList.remove('hidden'); if (dayOffset > 0) topNav.classList.remove('hidden'); else topNav.classList.add('hidden'); dateLabel.innerText = dayOffset === 0 ? "Today's Feed" : `${targetDate.toLocaleDateString('en-IN', { day: '2-digit', month: 'short', year: 'numeric' })} Feed`; }
+            else { archiveNav.classList.remove('hidden'); if (dayOffset > 0) topNav.classList.remove('hidden'); else topNav.classList.add('hidden'); dateLabel.innerText = dayOffset === 0 ? "Latest Updates" : `${targetDate.toLocaleDateString('en-IN', { day: '2-digit', month: 'short', year: 'numeric' })} Feed`; }
 
             const filteredData = newsData.filter(item => {
                 const matchesSource = activeSources.has(item.source);
@@ -474,8 +488,8 @@
             });
 
             feedStats.innerText = filteredData.length;
-            if (filteredData.length === 0) { emptyView.classList.remove('hidden'); emptyMessage.innerText = viewMode === 'saved' ? "No saved briefs." : "No news matches."; }
-            else { emptyView.classList.add('hidden'); filteredData.forEach(item => newsFeedList.appendChild(createNewsItem(item, isSearching || viewMode === 'saved'))); }
+            if (filteredData.length === 0) { emptyView.classList.remove('hidden'); emptyMessage.innerText = viewMode === 'saved' ? "No saved briefs found." : "No news briefs for this selection."; }
+            else { emptyView.classList.add('hidden'); filteredData.forEach(item => newsFeedList.appendChild(createNewsItem(item, isSearching || viewMode === 'saved' || dayOffset > 0))); }
         }
 
         function createNewsItem(item, showDate) {
