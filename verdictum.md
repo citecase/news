@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Tue, 27 Jan 2026 04:30:21 GMT | **Verdictum** | Roads Do Not Have A Religious Character: Madras High Court Directs Removal Of Christian Shrine Encroaching Public Road | [Read More](https://www.verdictum.in/court-updates/high-courts/madras-high-court/a-sarath-v-the-commissioner-corporation-of-greater-chennai-ors-1605577) |
+| Tue, 27 Jan 2026 04:30:12 GMT | **LiveLaw** | Encroachment Can't Be Permitted On Public Street Even If It Has Religious Character: Madras High Court | [Read More](https://www.livelaw.in/high-court/madras-high-court/madras-high-court-encroachment-on-public-street-not-permitted-religious-character-520722) |
 | Tue, 27 Jan 2026 04:16:10 GMT | **LiveLaw** | Can't Deny Maternity Benefit For Third Pregnancy Of Public Servants: Madras High Court Reiterates | [Read More](https://www.livelaw.in/high-court/madras-high-court/madras-high-court-maternity-benefit-to-govt-employee-for-third-pregnancy-520716) |
 | Tue, 27 Jan 2026 04:12:19 GMT | **LiveLaw** | Manager (Dispute Resolution) Vacancy At Deloitte Shared Services India LLP [Apply Now] | [Read More](https://www.livelaw.in/job-updates/manager-dispute-resolution-vacancy-at-deloitte-shared-services-india-llp-520721) |
 | Tue, 27 Jan 2026 04:10:46 GMT | **LiveLaw** | Protection Officer (Non-Institutional Care) And Legal Cum Probation Officer Vacancy At District Child Protection Unit, Alipurduar | [Read More](https://www.livelaw.in/job-updates/protection-officer-non-institutional-care-and-legal-cum-probation-officer-vacancy-at-district-child-protection-unit-alipurduar-520720) |
