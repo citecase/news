@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Wed, 28 Jan 2026 03:18:22 GMT | **LiveLaw** | Attempt To Hoodwink Court: Delhi HC Rejects Anticipatory Bail Application Noting Parallel Plea Before Sessions Court | [Read More](https://www.livelaw.in/high-court/delhi-high-court/attempt-hoodwink-delhi-high-court-rejects-anticipatory-bail-parallel-pleas-before-two-courts-520840) |
+| Wed, 28 Jan 2026 03:00:32 GMT | **LiveLaw** | Sabarimala Gold Theft: Kerala High Court Criticises SIT For Delay In Filing Chargesheet Leading To Accused Being Released On Default Bail | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-sabarimala-gold-theft-pankaj-bhandari-sit-520837) |
+| Wed, 28 Jan 2026 02:53:24 GMT | **LiveLaw** | Supreme Court's 'Mihir Rajesh Shah' Ruling On Written Grounds Of Arrest Operates Prospectively: Delhi High Court | [Read More](https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-supreme-court-mihir-rajesh-shah-ruling-written-grounds-arrest-prospectively-520838) |
 | Tue, 27 Jan 2026 16:55:22 GMT | **LiveLaw** | Bombay High Court Mulls Constituting Compliance Committee As Authorities Drag Feet On Air Pollution 'Crisis' | [Read More](https://www.livelaw.in/high-court/bombay-high-court/mumbai-air-pollution-crisis-deaths-economic-impact-520831) |
 | Tue, 27 Jan 2026 16:49:10 GMT | **LiveLaw** | Supreme Court Daily Round-Up : January 27, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-january-27-2026-520824) |
 | Tue, 27 Jan 2026 15:54:37 GMT | **LawBeat** | Karnataka HC Refuses Bail to PFI Member Accused of Fundraising and Radicalisation | [Read More](https://lawbeat.in/news-updates/karnataka-hc-refuses-bail-to-pfi-member-accused-of-fundraising-and-radicalisation-1560403) |
