@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| 2026-01-28T14:51:20.823Z | **Bar & Bench** | MUDA case: Relief for CM Siddaramaiah as Bengaluru court accepts Lokayukta closure report | [Read More](https://www.barandbench.com/news/litigation/muda-case-relief-for-cm-siddaramaiah-as-bengaluru-court-accepts-lokayukta-closure-report) |
 | Wed, 28 Jan 2026 13:57:02 GMT | **CaseCiter** | Annie Thomas v. Rani Thomas - Will - Signature Not Disputed - Proof | [Read More](https://www.caseciter.com/annie-thomas-v-rani-thomas-will-signature-not-disputed-proof/) |
 | Wed, 28 Jan 2026 13:52:43 GMT | **LiveLaw** | [Advertisement]CBIL, NLU Odisha Announces Single Credit Course On Negotiable Instruments Act | [Read More](https://www.livelaw.in/lawschool/diploma-certificate-courses/cbil-nlu-odisha-announces-single-credit-course-negotiable-instruments-act-1881-520971) |
 | Wed, 28 Jan 2026 13:33:28 GMT | **LiveLaw** | Supreme Court Redraws The Tax Line On Amalgamations | [Read More](https://www.livelaw.in/articles/supreme-court-tax-line-520969) |
