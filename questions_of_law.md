@@ -59,3 +59,63 @@ Error generating questions: 404 models/gemini-pro is not found for API version v
 *Source: https://www.caseciter.com/beri-manoj-v-state-of-andhra-pradesh-s-506-ipc-criminal-intimidation/*
 
 ---
+AI Generation Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+*Source: https://www.caseciter.com/22022026/*
+
+---
+AI Generation Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+*Source: https://www.caseciter.com/a-shankar-savukku-shankar-v-secretary-to-government-writ-jurisdiction-direction-to-file-chargesheet/*
+
+---
+AI Generation Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+*Source: https://www.caseciter.com/rakesh-jain-v-state-s-409-ipc-company-director-presumption-on-culpability/*
+
+---
+AI Generation Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+*Source: https://www.caseciter.com/asif-ali-v-rajesab-s-20-sra-discretion-specific-performance/*
+
+---
+AI Generation Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+*Source: https://www.caseciter.com/abhijit-pandey-v-state-of-madhya-pradesh-s-80-bns-bail-dowry-death/*
+
+---
+AI Generation Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+*Source: https://www.caseciter.com/vinod-gandhi-v-district-collector-madurai-limitation-act-delay-condonation-state-interest/*
+
+---
+AI Generation Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+*Source: https://www.caseciter.com/nirmala-bai-v-mansingh-motor-accident-compensation/*
+
+---
+AI Generation Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+*Source: https://www.caseciter.com/2026insc84/*
+
+---
+AI Generation Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+*Source: https://www.caseciter.com/2026insc88/*
+
+---
+AI Generation Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+*Source: https://www.caseciter.com/2026insc85/*
+
+---
+AI Generation Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+*Source: https://www.caseciter.com/2026insc89/*
+
+---
+AI Generation Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+*Source: https://www.caseciter.com/2026insc87/*
+
+---
+AI Generation Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+*Source: https://www.caseciter.com/2026insc86/*
+
+---
+AI Generation Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+*Source: https://www.caseciter.com/woodland-aero-club-private-limited-director-vs-assistant-commissioner-of-income-tax-income-tax-act-due-date-pf-esi-deduction/*
+
+---
+AI Generation Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+*Source: https://www.caseciter.com/beri-manoj-v-state-of-andhra-pradesh-s-506-ipc-criminal-intimidation/*
+
+---
