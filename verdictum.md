@@ -2,6 +2,11 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Wed, 28 Jan 2026 10:23:49 GMT | **LiveLaw** | Complaint Under S.175(4) BNSS Against Public Servant Must Comply With Conditions Under S.175(3) : Supreme Court | [Read More](https://www.livelaw.in/supreme-court/complaint-under-s1754-bnss-against-public-servant-must-comply-with-conditions-under-s1753-supreme-court-520926) |
+| Wed, 28 Jan 2026 10:07:33 GMT | **LawBeat** | ‘Writ Court Not for Family Vendetta’: Madras HC Slams Father-in-Law for Using Article 226 Amid Divorce Battle | [Read More](https://lawbeat.in/news-updates/writ-court-not-for-family-vendetta-madras-high-court-slams-father-in-law-for-using-article-226-amid-divorce-battle-1560560) |
+| Wed, 28 Jan 2026 09:51:44 GMT | **LiveLaw** | 'Invasion Of Privacy': MP High Court Rejects Husband's Plea For Wife's Virginity Test | [Read More](https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-dismisses-husbands-plea-seeking-virginity-test-of-wife-520919) |
+| Wed, 28 Jan 2026 09:44:43 GMT | **LiveLaw** | Supreme Court Seeks ECI Response On Plea To Extend Directions Issued For West Bengal SIR To Tamil Nadu | [Read More](https://www.livelaw.in/top-stories/supreme-court-seeks-eci-response-on-plea-to-extend-directions-issued-for-west-bengal-sir-to-tamil-nadu-520918) |
+| Wed, 28 Jan 2026 09:38:10 GMT | **LiveLaw** | Delhi High Court Flags Need For Emergency Healthcare Facilities In District Courts, Directs Petitioner To Administrative Side | [Read More](https://www.livelaw.in/high-court/delhi-high-court/delhi-district-courts-emergency-healthcare-facility-pil-520916) |
 | Wed, 28 Jan 2026 09:32:16 GMT | **LawBeat** | Supreme Court assures it will soon hear plea for Independent Inquiry into Air India Crash | [Read More](https://lawbeat.in/top-stories/supreme-court-assures-it-will-soon-hear-plea-for-independent-inquiry-into-air-india-crash-1560541) |
 | Wed, 28 Jan 2026 09:30:51 GMT | **LiveLaw** | No Sex Ed, No Romeo-Juliet: Why India's Curriculum Betrays POCSO Reforms | [Read More](https://www.livelaw.in/lawschool/articles/sex-education-pocso-reforms-520771) |
 | Wed, 28 Jan 2026 09:30:09 GMT | **LiveLaw** | Lokpal Of India Celebrates 77th Republic Day | [Read More](https://www.livelaw.in/news-updates/lokpal-of-india-celebrates-77th-republic-day-520915) |
