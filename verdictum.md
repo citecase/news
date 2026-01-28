@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Wed, 28 Jan 2026 17:44:56 GMT | **LiveLaw** | CIPR, NUALS Organises Xth Essay Writing Competition On Intellectual Property Law | [Read More](https://www.livelaw.in/lawschool/competitions/cipr-nuals-organises-xth-essay-writing-competition-on-intellectual-property-law-521001) |
 | Wed, 28 Jan 2026 16:00:42 GMT | **Verdictum** | Supreme Court Of India Invites Applications For The Post Of Law Clerk-cum-Research Associates | [Read More](https://www.verdictum.in/job-updates/supreme-court-of-india-1605814) |
 | Wed, 28 Jan 2026 15:30:30 GMT | **Verdictum** | "Best Interests Of Children Principle" Must Override The "Tender Years Doctrine": Delhi High Court Grants Custody To Father | [Read More](https://www.verdictum.in/court-updates/high-courts/delhi-high-court/ssb-v-dbc-2026dhc549-db-matrimonial-appeal-child-custody-dispute-family-court-1605809) |
 | Wed, 28 Jan 2026 15:00:13 GMT | **Verdictum** | Absence Of Sanction For Particular Accused U/S 45 UAPA Does Not Bar Framing Of Charges: Karnataka High Court Denies Bail To PFI Member | [Read More](https://www.verdictum.in/court-updates/high-courts/karnataka-high-court/shahid-khan-v-state-of-karnataka-unlawful-activities-prevention-act-uapa-1605813) |
