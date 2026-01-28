@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Wed, 28 Jan 2026 11:20:35 GMT | **LiveLaw** | MP High Court Launches Special Training Programme For SC/ST Civil Judge Aspirants | [Read More](https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-sc-st-judiciary-aspirant-training-programme-520939) |
+| 2026-01-28T11:28:08.234Z | **Bar & Bench** | What is wrong in unmarried man having multiple sexual relationships? Kerala HC on MLA Rahul Mamkootathil's bail plea | [Read More](https://www.barandbench.com/news/litigation/what-is-wrong-in-unmarried-man-having-consensual-sexual-relationships-kerala-hc-on-mla-rahul-mamkootathils-bail-plea) |
 | Wed, 28 Jan 2026 11:11:04 GMT | **LiveLaw** | 'Affront To Personal Liberty', NBW Can't Be Issued Before Scheduled Date Of Appearance Of Accused U/S 35(3) BNSS: Orissa High Court | [Read More](https://www.livelaw.in/high-court/orissa-high-court/orissa-high-court-accused-appearance-section353-bnss-nbw-520937) |
 | Wed, 28 Jan 2026 10:53:55 GMT | **LiveLaw** | Tata Power Moves Delhi High Court Against DERC Rules Forcing DISCOMs To Finance Govt Works Without Interest | [Read More](https://www.livelaw.in/high-court/delhi-high-court/tata-power-electricity-regulation-govt-projects-520933) |
 | 2026-01-28T11:03:24.801Z | **Bar & Bench** | Stray dogs: Supreme Court unhappy with adequacy of measures taken by States, warns action | [Read More](https://www.barandbench.com/news/stray-dogs-supreme-court-unhappy-with-adequacy-of-measures-taken-by-states-warns-action) |
