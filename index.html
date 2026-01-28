@@ -324,7 +324,7 @@
             cursor: pointer;
         }
 
-        /* Excerpt Styling */
+        /* Excerpt Styling specifically for CaseCiter */
         .news-excerpt {
             margin-top: 0.5rem;
             font-size: 0.9rem;
@@ -333,7 +333,6 @@
             font-style: italic;
             border-left: 3px solid #cbd5e1;
             padding-left: 0.75rem;
-            /* Allow text to wrap naturally */
             word-wrap: break-word;
         }
     </style>
@@ -430,6 +429,7 @@
         <section class="settings-section">
             <h3 class="settings-title">Jurisdictions</h3>
             <div class="filter-grid" id="hc-filters">
+                <!-- Comprehensive Indian High Courts -->
                 <button onclick="setCourtFilter('Allahabad High Court')" class="filter-pill h-pill" data-court="Allahabad High Court">Allahabad</button>
                 <button onclick="setCourtFilter('Andhra Pradesh High Court')" class="filter-pill h-pill" data-court="Andhra Pradesh High Court">Andhra Pradesh</button>
                 <button onclick="setCourtFilter('Bombay High Court')" class="filter-pill h-pill" data-court="Bombay High Court">Bombay</button>
@@ -460,7 +460,7 @@
 
         <section class="settings-section mt-12 pt-8 border-t border-slate-100 flex flex-col items-center">
             <a href="https://tally.so/r/J9pD0d" target="_blank" class="nav-btn w-full max-w-xs">Give Feedback</a>
-            <p class="mt-4 text-[10px] font-bold text-slate-300 uppercase tracking-widest">CiteCase v3.0.1</p>
+            <p class="mt-4 text-[10px] font-bold text-slate-300 uppercase tracking-widest">CiteCase v3.0.2</p>
         </section>
     </div>
 
@@ -501,13 +501,13 @@
             updateInstallUI();
         });
 
-        // SERVICE WORKER WITH AGGRESSIVE UPDATE DETECTION
+        // SERVICE WORKER LOGIC
         const isPreviewEnv = window.location.protocol === 'blob:' || window.location.hostname.includes('usercontent.goog');
         if ('serviceWorker' in navigator && !isPreviewEnv) {
             window.addEventListener('load', () => { 
                 navigator.serviceWorker.register('./sw.js').then(reg => {
                     reg.update();
-                    setInterval(() => { reg.update(); }, 1000 * 60 * 5);
+                    setInterval(() => { reg.update(); }, 1000 * 60 * 5); // Check every 5 mins
 
                     reg.onupdatefound = () => {
                         const installingWorker = reg.installing;
@@ -557,7 +557,7 @@
                 }).sort((a, b) => b.timestamp - a.timestamp);
 
                 if (newsData.length > 0) {
-                    const latestDate = newsData[0].timestamp;
+                    const latestDate = new Date(newsData[0].timestamp);
                     currentAnchorDate = new Date(latestDate.getFullYear(), latestDate.getMonth(), latestDate.getDate());
                     lastUpdatedEl.innerHTML = `Updated<br>${latestDate.toLocaleDateString('en-IN', {day:'2-digit', month:'short'})} ${latestDate.toLocaleTimeString('en-IN', {hour:'2-digit', minute:'2-digit'})}`;
                 }
@@ -658,6 +658,7 @@
                 return item.timestamp.toLocaleDateString('en-CA') === targetDayStr && matchesSource && matchesCourt;
             });
 
+            // CASE CITER ALWAYS TOP LOGIC
             filteredData.sort((a, b) => {
                 const aIsCC = a.source === "CaseCiter";
                 const bIsCC = b.source === "CaseCiter";
@@ -681,6 +682,7 @@
             const datePrefix = showDate ? item.timestamp.toLocaleDateString('en-IN', { day: '2-digit', month: 'short' }) + " • " : "";
             const titleSafe = item.title.replace(/'/g, "\\'");
 
+            // Only display excerpt for CaseCiter entries
             const excerptHtml = (item.source === "CaseCiter" && item.excerpt) 
                 ? `<div class="news-excerpt">${item.excerpt}</div>` 
                 : '';
