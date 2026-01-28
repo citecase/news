@@ -58,20 +58,20 @@
             width: 100%;
             max-width: 800px;
             margin: 0 auto;
-            padding: 2rem;
+            padding: 1.25rem;
         }
 
         .news-item {
             border-bottom: 1px solid var(--border-light);
-            padding: 1.75rem 0;
+            padding: 1.5rem 0;
             transition: opacity 0.2s ease;
         }
 
-        .news-item:first-child { padding-top: 1rem; }
+        .news-item:first-child { padding-top: 0.5rem; }
 
         .news-headline {
             font-family: var(--main-font);
-            font-size: 1.65rem;
+            font-size: 1.45rem;
             font-weight: 700;
             line-height: 1.35;
             margin-bottom: 0.5rem;
@@ -79,6 +79,11 @@
             transition: color 0.2s ease;
             text-decoration: none;
             color: inherit;
+        }
+
+        @media (min-width: 768px) {
+            .news-headline { font-size: 1.75rem; }
+            .app-container { padding: 2rem; }
         }
 
         .news-headline:hover { color: var(--accent-blue); }
@@ -100,19 +105,19 @@
         .controls-bar {
             display: flex;
             align-items: center;
-            gap: 1rem;
-            margin-bottom: 1.5rem;
+            gap: 0.75rem;
+            margin-bottom: 1.25rem;
         }
 
         .search-container { position: relative; flex-grow: 1; }
 
         .search-input {
             width: 100%;
-            padding: 0.65rem 1rem 0.65rem 2.6rem;
+            padding: 0.75rem 1rem 0.75rem 2.6rem;
             background: #f8fafc;
             border: 1px solid #e2e8f0;
             border-radius: 12px;
-            font-size: 0.95rem;
+            font-size: 1rem;
             font-family: var(--main-font);
             outline: none;
         }
@@ -123,8 +128,8 @@
             display: inline-flex;
             align-items: center;
             justify-content: center;
-            width: 42px;
-            height: 42px;
+            width: 46px;
+            height: 46px;
             background: #f8fafc;
             border: 1px solid #e2e8f0;
             border-radius: 12px;
@@ -133,24 +138,23 @@
             color: #64748b;
         }
 
-        .settings-btn:hover { background: #f1f5f9; color: #000; border-color: #cbd5e1; }
-
         .home-filters {
             display: flex;
             gap: 0.5rem;
-            margin-bottom: 2rem;
+            margin-bottom: 1.5rem;
             border-bottom: 1px solid var(--border-light);
-            padding-bottom: 1.5rem;
+            padding-bottom: 1rem;
             overflow-x: auto;
             white-space: nowrap;
             scrollbar-width: none;
+            -webkit-overflow-scrolling: touch;
         }
         .home-filters::-webkit-scrollbar { display: none; }
 
         .home-filter-tab {
-            padding: 0.6rem 1.25rem;
+            padding: 0.6rem 1.15rem;
             border-radius: 99px;
-            font-size: 0.75rem;
+            font-size: 0.7rem;
             font-weight: 800;
             text-transform: uppercase;
             letter-spacing: 0.05em;
@@ -173,7 +177,7 @@
             inset: 0;
             background: white;
             z-index: 100;
-            padding: 2rem;
+            padding: 1.5rem;
             overflow-y: auto;
         }
 
@@ -181,7 +185,7 @@
 
         .settings-header {
             max-width: 800px;
-            margin: 0 auto 3rem;
+            margin: 0 auto 2rem;
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -189,7 +193,7 @@
 
         .settings-section {
             max-width: 800px;
-            margin: 0 auto 2.5rem;
+            margin: 0 auto 2rem;
         }
 
         .settings-title {
@@ -198,21 +202,21 @@
             text-transform: uppercase;
             letter-spacing: 0.15em;
             color: #94a3b8;
-            margin-bottom: 1.25rem;
+            margin-bottom: 1rem;
             border-bottom: 1px solid #f1f5f9;
             padding-bottom: 0.5rem;
         }
 
         .filter-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
-            gap: 0.75rem;
+            grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+            gap: 0.5rem;
         }
 
         .filter-pill {
-            padding: 0.75rem 1rem;
-            border-radius: 12px;
-            font-size: 0.85rem;
+            padding: 0.6rem 0.8rem;
+            border-radius: 10px;
+            font-size: 0.8rem;
             font-weight: 600;
             border: 1px solid #f1f5f9;
             text-align: left;
@@ -221,18 +225,14 @@
             color: #64748b;
         }
 
-        .filter-pill.active {
-            background: black;
-            color: white;
-            border-color: black;
-        }
+        .filter-pill.active { background: black; color: white; border-color: black; }
 
         .nav-btn {
             background: var(--legal-black);
             color: white;
-            padding: 0.85rem 1.5rem;
+            padding: 1rem 1.5rem;
             border-radius: 12px;
-            font-size: 0.75rem;
+            font-size: 0.8rem;
             font-weight: 700;
             text-transform: uppercase;
             display: flex;
@@ -241,12 +241,11 @@
             justify-content: center;
         }
 
-        /* PWA Install Styles */
         .install-box {
             background: #f8fafc;
             border: 1px solid #e2e8f0;
             border-radius: 16px;
-            padding: 1.5rem;
+            padding: 1.25rem;
             text-align: center;
         }
 
@@ -264,65 +263,31 @@
             gap: 0.6rem;
             width: 100%;
             margin-top: 1rem;
-            transition: transform 0.2s;
         }
-        .install-btn:active { transform: scale(0.98); }
 
-        .ios-tip {
-            font-size: 0.85rem;
-            color: #64748b;
-            line-height: 1.5;
-            display: flex;
-            flex-direction: column;
-            gap: 0.5rem;
-            align-items: center;
+        .last-updated-pill {
+            text-align: right;
+            font-size: 0.6rem;
+            font-weight: 800;
+            color: #94a3b8;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            line-height: 1.2;
         }
 
         .action-btn {
-            padding: 8px;
-            border-radius: 8px;
+            padding: 10px;
+            border-radius: 10px;
             transition: all 0.2s;
-            color: #cbd5e1;
+            color: #94a3b8;
             display: flex;
             align-items: center;
             justify-content: center;
+            background: #f8fafc;
+            border: 1px solid #f1f5f9;
         }
 
-        .bookmark-btn.active { color: #2563eb; background: #eff6ff; }
-        .action-btn:hover { color: #64748b; background: #f8fafc; }
-
-        .share-menu {
-            display: none;
-            position: absolute;
-            right: 0;
-            top: 100%;
-            background: white;
-            border: 1px solid #e2e8f0;
-            box-shadow: 0 10px 25px -5px rgba(0,0,0,0.1);
-            border-radius: 12px;
-            z-index: 50;
-            min-width: 160px;
-            padding: 0.4rem;
-            margin-top: 0.5rem;
-        }
-
-        .share-menu.active { display: block; }
-
-        .share-option {
-            display: flex;
-            align-items: center;
-            gap: 0.6rem;
-            padding: 0.5rem 0.75rem;
-            width: 100%;
-            text-align: left;
-            font-size: 0.75rem;
-            font-weight: 700;
-            text-transform: uppercase;
-            border-radius: 6px;
-            transition: background 0.2s;
-        }
-
-        .share-option:hover { background: #f8fafc; }
+        .action-btn:active { background: #f1f5f9; color: #000; }
 
         .copy-toast {
             position: fixed;
@@ -340,27 +305,16 @@
             pointer-events: none;
             z-index: 1000;
         }
-
-        .last-updated-pill {
-            text-align: right;
-            font-size: 0.65rem;
-            font-weight: 800;
-            color: #94a3b8;
-            text-transform: uppercase;
-            letter-spacing: 0.1em;
-        }
     </style>
 </head>
 <body>
 
-    <header class="w-full px-8 py-10 flex flex-col items-center border-b border-slate-100 bg-white relative">
-        <div class="absolute right-8 top-10 last-updated-pill" id="last-updated">
-            Syncing...
-        </div>
+    <header class="w-full px-6 py-8 flex flex-col items-center border-b border-slate-100 bg-white relative">
+        <div class="absolute right-6 top-8 last-updated-pill" id="last-updated">Syncing...</div>
         <div class="citecase-logo">
             <span class="logo-cite">Cite</span><span class="logo-case">Case</span>
         </div>
-        <p class="meta-text text-slate-400 mt-2" style="font-size: 11px; tracking: 0.4em;">Legal News Hub</p>
+        <p class="meta-text text-slate-400 mt-2" style="font-size: 10px; tracking: 0.4em;">Legal News Hub</p>
     </header>
 
     <div class="app-container">
@@ -369,7 +323,7 @@
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 search-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                 </svg>
-                <input type="text" id="search-input" class="search-input" placeholder="Search archives...">
+                <input type="text" id="search-input" class="search-input" placeholder="Search legal updates...">
             </div>
             <button onclick="toggleSettings()" class="settings-btn" title="Settings">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -379,23 +333,23 @@
         </div>
 
         <div class="home-filters">
-            <button onclick="setCourtFilter('All')" class="home-filter-tab active" data-filter="All">All Briefs</button>
+            <button onclick="setCourtFilter('All')" class="home-filter-tab active" data-filter="All">All</button>
             <button onclick="setCourtFilter('Supreme Court')" class="home-filter-tab" data-filter="Supreme Court">Supreme Court</button>
             <button onclick="setCourtFilter('High Court')" class="home-filter-tab" data-filter="High Court">High Courts</button>
         </div>
 
         <main>
-            <div class="mb-8 flex flex-col gap-4">
-                <div id="top-nav" class="flex justify-between items-center hidden border-b border-slate-100 pb-5">
-                    <button onclick="loadNextDay()" class="nav-btn">
+            <div class="mb-6 flex flex-col gap-4">
+                <div id="top-nav" class="flex justify-between items-center hidden border-b border-slate-50 pb-4">
+                    <button onclick="loadNextDay()" class="nav-btn py-2 px-6">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M14.707 12.707a1 1 0 01-1.414 0L10 9.414l-3.293 3.293a1 1 0 01-1.414-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 010 1.414z" clip-rule="evenodd" /></svg>
-                        Newer Updates
+                        Newer
                     </button>
                     <span onclick="jumpToToday()" class="text-blue-600 underline text-xs font-bold uppercase cursor-pointer">Back to Latest</span>
                 </div>
                 
                 <div class="meta-text text-slate-400 flex justify-between items-center px-1">
-                    <span id="date-label">Latest Feed</span>
+                    <span id="date-label">Today's Feed</span>
                     <span><span id="feed-stats" class="text-slate-900">0</span> Briefs</span>
                 </div>
             </div>
@@ -403,11 +357,11 @@
             <div id="news-feed-list"></div>
 
             <div id="empty-view" class="hidden py-24 text-center">
-                <p id="empty-message" class="meta-text text-slate-400 italic">No news matches your selection</p>
+                <p id="empty-message" class="meta-text text-slate-400 italic">No news found</p>
             </div>
 
             <div id="archive-nav">
-                <button onclick="loadPreviousDay()" id="archive-nav-btn" class="nav-btn w-full py-5 mt-10">
+                <button onclick="loadPreviousDay()" id="archive-nav-btn" class="nav-btn w-full py-4 mt-8">
                     Archive: Previous Day
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" /></svg>
                 </button>
@@ -426,7 +380,6 @@
             </button>
         </div>
 
-        <!-- Dedicated Web App Installation Section -->
         <section class="settings-section">
             <h3 class="settings-title">Web App Installation</h3>
             <div id="pwa-status-box" class="install-box">
@@ -440,9 +393,8 @@
         </section>
 
         <section class="settings-section">
-            <h3 class="settings-title">Specific Jurisdictions</h3>
+            <h3 class="settings-title">Jurisdictions</h3>
             <div class="filter-grid" id="hc-filters">
-                <!-- Comprehensive List of Indian High Courts -->
                 <button onclick="setCourtFilter('Allahabad High Court')" class="filter-pill h-pill" data-court="Allahabad High Court">Allahabad</button>
                 <button onclick="setCourtFilter('Andhra Pradesh High Court')" class="filter-pill h-pill" data-court="Andhra Pradesh High Court">Andhra Pradesh</button>
                 <button onclick="setCourtFilter('Bombay High Court')" class="filter-pill h-pill" data-court="Bombay High Court">Bombay</button>
@@ -472,23 +424,20 @@
         </section>
 
         <section class="settings-section mt-12 pt-8 border-t border-slate-100 flex flex-col items-center">
-            <a href="https://tally.so/r/J9pD0d" target="_blank" class="nav-btn w-full max-w-xs">
-                Give Feedback
-            </a>
-            <p class="mt-4 text-[10px] font-bold text-slate-300 uppercase tracking-widest">CiteCase v2.6.0</p>
+            <a href="https://tally.so/r/J9pD0d" target="_blank" class="nav-btn w-full max-w-xs">Give Feedback</a>
+            <p class="mt-4 text-[10px] font-bold text-slate-300 uppercase tracking-widest">CiteCase v2.8.0</p>
         </section>
     </div>
 
     <div id="copy-toast" class="copy-toast">Link copied to clipboard</div>
 
-    <footer class="mt-auto py-16 border-t border-slate-100 bg-white"></footer>
+    <footer class="py-12 bg-white"></footer>
 
     <script type="module">
         import { initializeApp } from 'https://www.gstatic.com/firebasejs/11.6.1/firebase-app.js';
-        import { getAuth, signInAnonymously, onAuthStateChanged } from 'https://www.gstatic.com/firebasejs/11.6.1/firebase-auth.js';
-        import { getFirestore, doc, setDoc, deleteDoc, onSnapshot, collection } from 'https://www.gstatic.com/firebasejs/11.6.1/firebase-firestore.js';
+        import { getAuth, signInAnonymously } from 'https://www.gstatic.com/firebasejs/11.6.1/firebase-auth.js';
 
-        // --- PWA INSTALLATION LOGIC ---
+        // --- PWA AUTO-UPDATE LOGIC ---
         let deferredPrompt;
         const pwaStatusBox = document.getElementById('pwa-status-box');
 
@@ -497,35 +446,21 @@
             const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
 
             if (isStandalone) {
-                pwaStatusBox.innerHTML = `<p class="text-sm font-bold text-emerald-600 uppercase tracking-wider">CiteCase is already installed</p>`;
+                pwaStatusBox.innerHTML = `<p class="text-sm font-bold text-emerald-600 uppercase tracking-wider">Installed</p>`;
             } else if (deferredPrompt) {
                 pwaStatusBox.innerHTML = `
-                    <p class="text-sm text-slate-500 mb-4">Install CiteCase for faster access and a better reading experience.</p>
-                    <button id="pwa-install-trigger" class="install-btn">
-                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-                            <path fill-rule="evenodd" d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm3.293-7.707a1 1 0 011.414 0L9 10.586V3a1 1 0 112 0v7.586l1.293-1.293a1 1 0 111.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z" clip-rule="evenodd" />
-                        </svg>
-                        Install Now
-                    </button>
+                    <button id="pwa-install-trigger" class="install-btn">Install App</button>
                 `;
                 document.getElementById('pwa-install-trigger').addEventListener('click', async () => {
                     deferredPrompt.prompt();
-                    const { outcome } = await deferredPrompt.userChoice;
-                    if (outcome === 'accepted') {
-                        deferredPrompt = null;
-                        updateInstallUI();
-                    }
+                    await deferredPrompt.userChoice;
+                    deferredPrompt = null;
+                    updateInstallUI();
                 });
             } else if (isIOS) {
-                pwaStatusBox.innerHTML = `
-                    <div class="ios-tip">
-                        <p class="font-bold text-slate-700">To Install on iOS:</p>
-                        <p>1. Tap the <span class="font-bold text-blue-600">Share</span> icon below.</p>
-                        <p>2. Select <span class="font-bold text-slate-900">"Add to Home Screen"</span>.</p>
-                    </div>
-                `;
+                pwaStatusBox.innerHTML = `<p class="text-sm text-slate-500">Tap <strong>Share</strong> then <strong>'Add to Home Screen'</strong>.</p>`;
             } else {
-                pwaStatusBox.innerHTML = `<p class="text-xs text-slate-400">Installation is available via your browser's menu (⋮ or ≡).</p>`;
+                pwaStatusBox.innerHTML = `<p class="text-xs text-slate-400">Install via your browser's menu.</p>`;
             }
         }
 
@@ -535,41 +470,27 @@
             updateInstallUI();
         });
 
-        window.addEventListener('appinstalled', () => {
-            deferredPrompt = null;
-            updateInstallUI();
-        });
-
-        updateInstallUI();
-
         // --- SERVICE WORKER ---
         const isPreviewEnv = window.location.protocol === 'blob:' || window.location.hostname.includes('usercontent.goog');
         if ('serviceWorker' in navigator && !isPreviewEnv) {
             window.addEventListener('load', () => { 
-                navigator.serviceWorker.register('./sw.js').catch(err => {
-                    if (err.name !== 'SecurityError' && err.name !== 'AbortError') console.error('SW Error:', err);
+                navigator.serviceWorker.register('./sw.js').then(reg => {
+                    reg.update();
                 });
+            });
+
+            let refreshing = false;
+            navigator.serviceWorker.addEventListener('controllerchange', () => {
+                if (refreshing) return;
+                refreshing = true;
+                window.location.reload();
             });
         }
 
-        // --- APP LOGIC ---
-        const configRaw = typeof __firebase_config !== 'undefined' ? __firebase_config : null;
-        const appId = typeof __app_id !== 'undefined' ? __app_id : 'citecase-legal-hub';
-        let db = null; let auth = null; let currentUser = null;
-
-        if (configRaw) {
-            try {
-                const firebaseConfig = JSON.parse(configRaw);
-                const app = initializeApp(firebaseConfig);
-                auth = getAuth(app); db = getFirestore(app);
-            } catch (e) { console.warn("Firebase inactive."); }
-        }
-
-        const DATA_URL = "https://raw.githubusercontent.com/citecase/news/main/news.json";
+        // --- APP DATA LOGIC ---
+        const DATA_URL = `https://raw.githubusercontent.com/citecase/news/main/news.json?t=${Date.now()}`;
         const newsFeedList = document.getElementById('news-feed-list');
         const lastUpdatedEl = document.getElementById('last-updated');
-        const emptyView = document.getElementById('empty-view');
-        const emptyMessage = document.getElementById('empty-message');
         const feedStats = document.getElementById('feed-stats');
         const searchInput = document.getElementById('search-input');
         const dateLabel = document.getElementById('date-label');
@@ -583,15 +504,9 @@
         let dayOffset = 0;
         let searchQuery = '';
         let courtFilter = 'All'; 
-        let bookmarks = new Map();
         let currentAnchorDate = new Date(); 
 
         async function initApp() {
-            if (auth) {
-                await signInAnonymously(auth);
-                onAuthStateChanged(auth, (user) => { if (user) { currentUser = user; setupBookmarkListener(); } });
-            }
-
             try {
                 const response = await fetch(DATA_URL);
                 const raw = await response.json();
@@ -601,10 +516,9 @@
                 }).sort((a, b) => b.timestamp - a.timestamp);
 
                 if (newsData.length > 0) {
-                    const latest = newsData[0];
-                    const latestDate = new Date(latest.timestamp);
+                    const latestDate = new Date(newsData[0].timestamp);
                     currentAnchorDate = new Date(latestDate.getFullYear(), latestDate.getMonth(), latestDate.getDate());
-                    lastUpdatedEl.innerHTML = `Last Updated<br>${latestDate.toLocaleDateString('en-IN', {day:'2-digit', month:'short'})} ${latestDate.toLocaleTimeString('en-IN', {hour:'2-digit', minute:'2-digit'})}`;
+                    lastUpdatedEl.innerHTML = `Updated<br>${latestDate.toLocaleDateString('en-IN', {day:'2-digit', month:'short'})} ${latestDate.toLocaleTimeString('en-IN', {hour:'2-digit', minute:'2-digit'})}`;
                 }
 
                 allSources = [...new Set(newsData.map(item => item.source))].sort();
@@ -613,46 +527,36 @@
                 searchInput.addEventListener('input', (e) => { searchQuery = e.target.value.toLowerCase().trim(); refreshList(); });
                 renderSourceFilters();
                 refreshList();
+                updateInstallUI();
             } catch (error) { 
-                newsFeedList.innerHTML = `<div class="py-20 text-center text-slate-300 italic">Syncing with hub...</div>`; 
+                newsFeedList.innerHTML = `<div class="py-20 text-center text-slate-300 italic">Connecting to feed...</div>`; 
             }
         }
 
-        function setupBookmarkListener() {
-            if (!currentUser || !db) return;
-            const bookmarksRef = collection(db, 'artifacts', appId, 'users', currentUser.uid, 'bookmarks');
-            onSnapshot(bookmarksRef, (snapshot) => {
-                bookmarks.clear();
-                snapshot.forEach(doc => bookmarks.set(doc.id, doc.data()));
-                refreshList();
-            });
-        }
-
-        function getSafeId(str) {
-            try { return btoa(unescape(encodeURIComponent(str))).replace(/[^a-zA-Z0-9]/g, '').substring(0, 120); }
-            catch (e) { return str.substring(0, 50).replace(/[^a-zA-Z0-9]/g, ''); }
-        }
-
-        window.toggleBookmark = async function(link) {
-            const bookmarkId = getSafeId(link);
-            if (!db || !currentUser) {
-                if (bookmarks.has(bookmarkId)) bookmarks.delete(bookmarkId);
-                else {
-                    const item = newsData.find(n => n.link === link);
-                    bookmarks.set(bookmarkId, { ...item, timestamp: item.timestamp.toISOString() });
-                }
-                refreshList(); return;
+        window.systemShare = function(url, title) {
+            if (navigator.share) {
+                navigator.share({
+                    title: 'CiteCase Legal News',
+                    text: title,
+                    url: url
+                }).catch(err => {
+                    if (err.name !== 'AbortError') console.error('Share failed:', err);
+                });
+            } else {
+                // Fallback: Clipboard
+                const el = document.createElement('textarea');
+                el.value = `${title}\n\n${url}`;
+                document.body.appendChild(el);
+                el.select();
+                document.execCommand('copy');
+                document.body.removeChild(el);
+                const toast = document.getElementById('copy-toast');
+                toast.style.opacity = '1';
+                setTimeout(() => { toast.style.opacity = '0'; }, 2000);
             }
-            const item = newsData.find(n => n.link === link);
-            const docRef = doc(db, 'artifacts', appId, 'users', currentUser.uid, 'bookmarks', bookmarkId);
-            if (bookmarks.has(bookmarkId)) await deleteDoc(docRef);
-            else await setDoc(docRef, { ...item, timestamp: item.timestamp.toISOString(), bookmarkedAt: new Date().toISOString() });
         };
 
-        window.toggleSettings = function() { 
-            settingsView.classList.toggle('active'); 
-            updateInstallUI();
-        };
+        window.toggleSettings = function() { settingsView.classList.toggle('active'); updateInstallUI(); };
 
         window.setCourtFilter = function(filter) {
             courtFilter = filter;
@@ -692,11 +596,11 @@
 
             if (isSearching) { 
                 topNav.classList.add('hidden'); archiveNav.classList.add('hidden'); 
-                dateLabel.innerText = "Global Archives"; 
+                dateLabel.innerText = "Global Search"; 
             } else { 
                 archiveNav.classList.remove('hidden'); 
                 if (dayOffset > 0) topNav.classList.remove('hidden'); else topNav.classList.add('hidden'); 
-                dateLabel.innerText = dayOffset === 0 ? "Latest Feed" : `${targetDate.toLocaleDateString('en-IN', { day: '2-digit', month: 'short' })} Feed`; 
+                dateLabel.innerText = dayOffset === 0 ? "Latest Updates" : `${targetDate.toLocaleDateString('en-IN', { day: '2-digit', month: 'short' })} Feed`; 
             }
 
             const filteredData = newsData.filter(item => {
@@ -723,10 +627,8 @@
 
             feedStats.innerText = filteredData.length;
             if (filteredData.length === 0) { 
-                emptyView.classList.remove('hidden'); 
-                emptyMessage.innerText = "No legal updates found for this selection."; 
+                newsFeedList.innerHTML = '<div class="py-24 text-center text-slate-300 italic">No legal updates found for this date.</div>';
             } else { 
-                emptyView.classList.add('hidden'); 
                 filteredData.forEach(item => newsFeedList.appendChild(createNewsItem(item, isSearching || dayOffset > 0))); 
             }
         }
@@ -736,64 +638,25 @@
             article.className = 'news-item';
             const timeStr = item.timestamp.toLocaleString('en-IN', { hour: '2-digit', minute: '2-digit', hour12: true });
             const datePrefix = showDate ? item.timestamp.toLocaleDateString('en-IN', { day: '2-digit', month: 'short' }) + " • " : "";
-            const bookmarkId = getSafeId(item.link);
             const titleSafe = item.title.replace(/'/g, "\\'");
 
             article.innerHTML = `
                 <div class="flex justify-between items-start mb-3">
                     <div class="flex items-center gap-2">
-                        ${showDate ? '<span class="search-badge">ARCHIVE</span>' : ''}
+                        ${showDate ? '<span class="search-badge text-[0.6rem] font-bold bg-slate-100 px-2 py-0.5 rounded">ARCHIVE</span>' : ''}
                         <span class="source-tag ${item.source === "CaseCiter" ? "source-caseciter" : ""}">${item.source}</span>
-                        <span class="text-[0.75rem] font-bold text-slate-400 uppercase tracking-widest">${datePrefix}${timeStr} IST</span>
+                        <span class="text-[0.7rem] font-bold text-slate-400 uppercase tracking-widest">${datePrefix}${timeStr}</span>
                     </div>
-                    <div class="flex items-center gap-1">
-                        <div class="relative">
-                            <button onclick="toggleShareMenu('${bookmarkId}')" class="action-btn">
-                                <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.368 2.684 3 3 0 00-5.368-2.684z" /></svg>
-                            </button>
-                            <div id="share-menu-${bookmarkId}" class="share-menu">
-                                <button onclick="shareOnPlatform('whatsapp', '${item.link}', '${titleSafe}')" class="share-option">WhatsApp</button>
-                                <button onclick="shareOnPlatform('telegram', '${item.link}', '${titleSafe}')" class="share-option">Telegram</button>
-                                <button onclick="shareOnPlatform('x', '${item.link}', '${titleSafe}')" class="share-option">X</button>
-                                <button onclick="shareOnPlatform('linkedin', '${item.link}', '${titleSafe}')" class="share-option">LinkedIn</button>
-                            </div>
-                        </div>
-                        <button onclick="toggleBookmark('${item.link}')" class="bookmark-btn action-btn ${bookmarks.has(bookmarkId) ? 'active' : ''}">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor"><path d="M5 4a2 2 0 012-2h6a2 2 0 012 2v14l-5-2.5L5 18V4z" /></svg>
-                        </button>
-                    </div>
+                    <button onclick="systemShare('${item.link}', '${titleSafe}')" class="action-btn" title="Share">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.368 2.684 3 3 0 00-5.368-2.684z" />
+                        </svg>
+                    </button>
                 </div>
                 <a href="${item.link}" target="_blank" class="news-headline">${item.title}</a>
             `;
             return article;
         }
-
-        window.toggleShareMenu = function(id) {
-            const menu = document.getElementById(`share-menu-${id}`);
-            document.querySelectorAll('.share-menu').forEach(m => { if(m !== menu) m.classList.remove('active'); });
-            if (menu) menu.classList.toggle('active');
-        };
-
-        window.shareOnPlatform = function(platform, url, title) {
-            let shareUrl = '';
-            const textPlusUrl = encodeURIComponent(`${title}\n\n${url}`);
-            const encodedUrl = encodeURIComponent(url);
-            const encodedTitle = encodeURIComponent(title);
-
-            switch(platform) {
-                case 'whatsapp': shareUrl = `https://wa.me/?text=${textPlusUrl}`; break;
-                case 'telegram': shareUrl = `https://t.me/share/url?url=${encodedUrl}&text=${encodedTitle}`; break;
-                case 'x': shareUrl = `https://twitter.com/intent/tweet?text=${encodedTitle}&url=${encodedUrl}`; break;
-                case 'linkedin': shareUrl = `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`; break;
-            }
-            if (shareUrl) window.open(shareUrl, '_blank');
-        };
-
-        document.addEventListener('click', (e) => {
-            if (!e.target.closest('.relative') && !e.target.closest('.action-btn')) {
-                document.querySelectorAll('.share-menu').forEach(m => m.classList.remove('active'));
-            }
-        });
 
         initApp();
     </script>
