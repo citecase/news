@@ -4,6 +4,20 @@ import os
 import re
 import json
 from datetime import datetime
+from html import unescape
+
+def clean_html(raw_html):
+    """Removes HTML tags and cleans up text for excerpts."""
+    if not raw_html:
+        return ""
+    # Remove tags
+    cleanr = re.compile('<.*?>')
+    cleantext = re.sub(cleanr, '', raw_html)
+    # Unescape HTML entities (like &amp; or &quot;)
+    cleantext = unescape(cleantext)
+    # Remove extra whitespace
+    cleantext = re.sub(r'\s+', ' ', cleantext).strip()
+    return cleantext
 
 def parse_date(date_str):
     """Helper to parse various RSS date formats for sorting."""
@@ -22,14 +36,14 @@ def parse_date(date_str):
     return datetime.min
 
 def update_feeds():
-    # Define the five legal news sources
+    # Define the legal news sources including LawBeat and SC judgements
     sources = [
-        {"name": "Verdictum", "url": "https://www.verdictum.in/google_feeds.xml"},
-        {"name": "LiveLaw", "url": "https://www.livelaw.in/google_feeds.xml"},
+        {"name": "Verdictum", "url": "https://www.verdictum.in/rss/feed.xml"},
+        {"name": "LiveLaw", "url": "https://www.livelaw.in/rss/feed.php"},
         {"name": "Bar & Bench", "url": "https://www.barandbench.com/feed"},
-        {"name": "LawBeat", "url": "https://lawbeat.in/google_feeds.xml"},
-        {"name": "LiveLaw (SC)", "url": "https://www.livelaw.in/category/sc-judgments/google_feeds.xml"},
-        {"name": "CaseCiter", "url": "https://www.caseciter.com/rss/"}
+        {"name": "LawBeat", "url": "https://lawbeat.in/rss/feed.xml"},
+        {"name": "LiveLaw (SC)", "url": "https://www.livelaw.in/category/sc-judgments/rss/feed.xml"},
+        {"name": "CaseCiter", "url": "https://caseciter.com/feed/"}
     ]
     md_file_path = "verdictum.md"
     json_file_path = "news.json"
@@ -64,12 +78,21 @@ def update_feeds():
                     raw_date = entry.get('published', entry.get('updated', 'N/A'))
                     parsed_dt = parse_date(raw_date)
                     
+                    # Excerpt logic: Extract summary/description and clean it
+                    summary_raw = entry.get('summary', entry.get('description', ''))
+                    excerpt = clean_html(summary_raw)
+                    
+                    # Truncate for the app UI
+                    if len(excerpt) > 170:
+                        excerpt = excerpt[:167] + "..."
+                    
                     all_new_stories.append({
                         "date": raw_date,
                         "dt_obj": parsed_dt,
                         "title": title,
                         "link": clean_link,
-                        "source": source['name']
+                        "source": source['name'],
+                        "excerpt": excerpt
                     })
         except Exception as e:
             print(f"Error fetching {source['name']}: {e}")
@@ -95,14 +118,15 @@ def update_feeds():
         f.write(header + "\n".join(new_rows) + "\n" + "\n".join(old_data_rows))
 
     # --- PART B: UPDATE JSON FILE ---
-    # Convert datetime objects to strings for JSON serialization
+    # Prepare new stories for JSON
     json_ready_stories = []
     for s in all_new_stories:
         json_ready_stories.append({
             "title": s["title"],
             "source": s["source"],
             "date": s["date"],
-            "link": s["link"]
+            "link": s["link"],
+            "excerpt": s["excerpt"]
         })
     
     # Prepend new stories to existing JSON archive
@@ -114,9 +138,10 @@ def update_feeds():
             except json.JSONDecodeError:
                 existing_json = []
 
-    final_json = json_ready_stories + existing_json
+    # Combine and limit to the 200 most recent entries
+    final_json = (json_ready_stories + existing_json)[:200]
     with open(json_file_path, "w", encoding="utf-8") as f:
-        json.dump(final_json, f, indent=4)
+        json.dump(final_json, f, indent=4, ensure_ascii=False)
     
     print(f"Updated {md_file_path} and {json_file_path} with {len(all_new_stories)} new stories.")
 
