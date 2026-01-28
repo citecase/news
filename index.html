@@ -305,9 +305,31 @@
             pointer-events: none;
             z-index: 1000;
         }
+
+        /* Update Banner for PWA */
+        #update-banner {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background: #2563eb;
+            color: white;
+            padding: 0.75rem;
+            text-align: center;
+            font-size: 0.8rem;
+            font-weight: 800;
+            text-transform: uppercase;
+            z-index: 200;
+            cursor: pointer;
+        }
     </style>
 </head>
 <body>
+
+    <div id="update-banner" onclick="window.location.reload()">
+        New Version Available. Tap to Refresh.
+    </div>
 
     <header class="w-full px-6 py-8 flex flex-col items-center border-b border-slate-100 bg-white relative">
         <div class="absolute right-6 top-8 last-updated-pill" id="last-updated">Syncing...</div>
@@ -425,7 +447,7 @@
 
         <section class="settings-section mt-12 pt-8 border-t border-slate-100 flex flex-col items-center">
             <a href="https://tally.so/r/J9pD0d" target="_blank" class="nav-btn w-full max-w-xs">Give Feedback</a>
-            <p class="mt-4 text-[10px] font-bold text-slate-300 uppercase tracking-widest">CiteCase v2.9.3</p>
+            <p class="mt-4 text-[10px] font-bold text-slate-300 uppercase tracking-widest">CiteCase v3.0.0</p>
         </section>
     </div>
 
@@ -434,9 +456,10 @@
     <footer class="py-12 bg-white"></footer>
 
     <script type="module">
-        // PWA AUTO-UPDATE LOGIC
+        // --- PWA AUTO-UPDATE LOGIC ---
         let deferredPrompt;
         const pwaStatusBox = document.getElementById('pwa-status-box');
+        const updateBanner = document.getElementById('update-banner');
 
         function updateInstallUI() {
             const isStandalone = window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone;
@@ -465,12 +488,30 @@
             updateInstallUI();
         });
 
-        // SERVICE WORKER
+        // SERVICE WORKER WITH AGGRESSIVE UPDATE DETECTION
         const isPreviewEnv = window.location.protocol === 'blob:' || window.location.hostname.includes('usercontent.goog');
         if ('serviceWorker' in navigator && !isPreviewEnv) {
             window.addEventListener('load', () => { 
-                navigator.serviceWorker.register('./sw.js').then(reg => reg.update());
+                navigator.serviceWorker.register('./sw.js').then(reg => {
+                    // Check for updates instantly
+                    reg.update();
+                    
+                    // Periodically check for updates (every 5 minutes)
+                    setInterval(() => { reg.update(); }, 1000 * 60 * 5);
+
+                    reg.onupdatefound = () => {
+                        const installingWorker = reg.installing;
+                        installingWorker.onstatechange = () => {
+                            if (installingWorker.state === 'installed' && navigator.serviceWorker.controller) {
+                                // New content is available; show banner
+                                updateBanner.style.display = 'block';
+                            }
+                        };
+                    };
+                });
             });
+
+            // Reload when new worker takes control
             let refreshing = false;
             navigator.serviceWorker.addEventListener('controllerchange', () => {
                 if (refreshing) return;
@@ -609,13 +650,12 @@
                 return item.timestamp.toLocaleDateString('en-CA') === targetDayStr && matchesSource && matchesCourt;
             });
 
-            // CRITICAL: Custom Sort - CaseCiter items ALWAYS go to the top, others follow sorted by time
+            // Custom Sort - CaseCiter always top
             filteredData.sort((a, b) => {
                 const aIsCC = a.source === "CaseCiter";
                 const bIsCC = b.source === "CaseCiter";
                 if (aIsCC && !bIsCC) return -1;
                 if (!aIsCC && bIsCC) return 1;
-                // If both are same type (both CC or both not CC), sort by time descending
                 return b.timestamp - a.timestamp;
             });
 
