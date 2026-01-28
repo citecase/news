@@ -369,6 +369,7 @@
         </main>
     </div>
 
+    <!-- Settings Overlay -->
     <div id="settings-view">
         <div class="settings-header">
             <h2 class="text-2xl font-black tracking-tight">Settings</h2>
@@ -394,7 +395,6 @@
         <section class="settings-section">
             <h3 class="settings-title">Jurisdictions</h3>
             <div class="filter-grid" id="hc-filters">
-                <!-- Sorted Indian High Courts -->
                 <button onclick="setCourtFilter('Allahabad High Court')" class="filter-pill h-pill" data-court="Allahabad High Court">Allahabad</button>
                 <button onclick="setCourtFilter('Andhra Pradesh High Court')" class="filter-pill h-pill" data-court="Andhra Pradesh High Court">Andhra Pradesh</button>
                 <button onclick="setCourtFilter('Bombay High Court')" class="filter-pill h-pill" data-court="Bombay High Court">Bombay</button>
@@ -425,7 +425,7 @@
 
         <section class="settings-section mt-12 pt-8 border-t border-slate-100 flex flex-col items-center">
             <a href="https://tally.so/r/J9pD0d" target="_blank" class="nav-btn w-full max-w-xs">Give Feedback</a>
-            <p class="mt-4 text-[10px] font-bold text-slate-300 uppercase tracking-widest">CiteCase v2.9.0</p>
+            <p class="mt-4 text-[10px] font-bold text-slate-300 uppercase tracking-widest">CiteCase v2.9.3</p>
         </section>
     </div>
 
@@ -584,7 +584,7 @@
                 dateLabel.innerText = dayOffset === 0 ? "Today's Feed" : `${targetDate.toLocaleDateString('en-IN', { day: '2-digit', month: 'short' })} Feed`; 
             }
 
-            const filteredData = newsData.filter(item => {
+            let filteredData = newsData.filter(item => {
                 const matchesSource = activeSources.has(item.source);
                 const matchesSearch = item.title.toLowerCase().includes(searchQuery) || item.source.toLowerCase().includes(searchQuery);
                 
@@ -593,9 +593,11 @@
                 const lowerSource = item.source.toLowerCase();
 
                 if (courtFilter === 'Supreme Court') {
-                    // Logic update: CaseCiter always maps to Supreme Court anyway
-                    const scKeywords = ['supreme court', 'sc', 'apex court', 'caseciter'];
-                    matchesCourt = scKeywords.some(key => lowerTitle.includes(key) || lowerSource.includes(key));
+                    const scRegex = /\bsc\b/i;
+                    const fullPhrases = ['supreme court', 'apex court', 'top court', 'constitution bench', 'caseciter'];
+                    matchesCourt = fullPhrases.some(p => lowerTitle.includes(p) || lowerSource.includes(p)) || 
+                                   scRegex.test(lowerTitle) || 
+                                   scRegex.test(lowerSource);
                 } else if (courtFilter === 'High Court') {
                     matchesCourt = lowerTitle.includes('high court') || lowerSource.includes('high court');
                 } else if (courtFilter !== 'All') {
@@ -605,6 +607,16 @@
 
                 if (isSearching) return matchesSource && matchesSearch && matchesCourt;
                 return item.timestamp.toLocaleDateString('en-CA') === targetDayStr && matchesSource && matchesCourt;
+            });
+
+            // CRITICAL: Custom Sort - CaseCiter items ALWAYS go to the top, others follow sorted by time
+            filteredData.sort((a, b) => {
+                const aIsCC = a.source === "CaseCiter";
+                const bIsCC = b.source === "CaseCiter";
+                if (aIsCC && !bIsCC) return -1;
+                if (!aIsCC && bIsCC) return 1;
+                // If both are same type (both CC or both not CC), sort by time descending
+                return b.timestamp - a.timestamp;
             });
 
             feedStats.innerText = filteredData.length;
