@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>CiteCase | Legal News Hub</title>
+    
+    <!-- PWA Meta Tags -->
+    <meta name="theme-color" content="#000000">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="CiteCase">
+    
+    <link rel="manifest" href="./manifest.json">
+    <link rel="apple-touch-icon" href="./icon-192.png">
+    
+    <!-- Premium Typography -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,700;0,6..72,800;1,6..72,400&display=swap" rel="stylesheet">
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        :root {
+            --bg-color: #ffffff;
+            --surface-color: #f8fafc;
+            --text-primary: #0f172a;
+            --text-secondary: #64748b;
+            --border-color: #e2e8f0;
+            --accent-blue: #2563eb;
+            --serif-font: 'Newsreader', Georgia, serif;
+            --sans-font: 'Inter', -apple-system, sans-serif;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg-color: #000000;
+                --surface-color: #0f172a;
+                --text-primary: #f1f5f9;
+                --text-secondary: #94a3b8;
+                --border-color: #1e293b;
+                --accent-blue: #3b82f6;
+            }
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            font-family: var(--sans-font);
+            -webkit-font-smoothing: antialiased;
+            transition: background-color 0.2s ease;
+        }
+
+        .app-shell {
+            max-width: 600px;
+            margin: 0 auto;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .logo-font {
+            font-family: var(--serif-font);
+            font-weight: 800;
+            letter-spacing: -0.03em;
+        }
+        
+        .news-headline {
+            font-family: var(--serif-font);
+            font-size: 1.25rem;
+            line-height: 1.35;
+            font-weight: 700;
+            color: var(--text-primary);
+            text-decoration: none;
+            display: block;
+            margin: 4px 0;
+            letter-spacing: -0.01em;
+        }
+        
+        .news-headline:active { opacity: 0.7; }
+
+        .news-card {
+            border-bottom: 1px solid var(--border-color);
+            padding: 16px;
+        }
+
+        .news-excerpt {
+            font-size: 0.9rem;
+            line-height: 1.5;
+            color: var(--text-secondary);
+            border-left: 2px solid var(--border-color);
+            padding-left: 12px;
+            margin-top: 8px;
+            font-style: italic;
+        }
+
+        .search-bar {
+            background: var(--surface-color);
+            border: 1px solid var(--border-color);
+            border-radius: 10px;
+            padding: 10px 12px 10px 40px;
+            width: 100%;
+            font-size: 0.95rem;
+            color: var(--text-primary);
+            outline: none;
+        }
+
+        .tag {
+            font-size: 0.65rem;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            padding: 2px 8px;
+            border-radius: 4px;
+            background: var(--surface-color);
+            border: 1px solid var(--border-color);
+            color: var(--text-secondary);
+        }
+        
+        .tag-cc {
+            background: var(--text-primary);
+            color: var(--bg-color);
+            border-color: var(--text-primary);
+        }
+
+        .filter-chip {
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            background: var(--surface-color);
+            border: 1px solid var(--border-color);
+            color: var(--text-secondary);
+            white-space: nowrap;
+        }
+
+        .filter-chip.active {
+            background: var(--text-primary);
+            color: var(--bg-color);
+            border-color: var(--text-primary);
+        }
+
+        #settings-view {
+            display: none;
+            position: fixed;
+            inset: 0;
+            background: var(--bg-color);
+            z-index: 1000;
+            padding: 24px;
+            overflow-y: auto;
+        }
+        #settings-view.active { display: block; }
+
+        .btn-primary {
+            background: var(--text-primary);
+            color: var(--bg-color);
+            font-weight: 800;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            padding: 14px;
+            border-radius: 10px;
+            width: 100%;
+            text-align: center;
+        }
+
+        .no-scrollbar::-webkit-scrollbar { display: none; }
+        .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+    </style>
+</head>
+<body>
+
+    <div id="update-banner" onclick="window.location.reload()" class="hidden fixed top-0 w-full z-[2000] bg-blue-600 text-white text-[10px] font-bold py-2 text-center uppercase tracking-widest cursor-pointer">
+        Update Available • Tap to Refresh
+    </div>
+
+    <div class="app-shell">
+        <!-- Centralized Header -->
+        <header class="px-4 py-8 border-b border-slate-200 dark:border-slate-800 sticky top-0 bg-white/90 dark:bg-black/90 backdrop-blur-md z-[100] flex flex-col items-center">
+            <div class="logo-font text-3xl mb-1">
+                <span>Cite</span><span class="bg-slate-900 dark:bg-slate-100 text-white dark:text-black px-2 ml-0.5 rounded">Case</span>
+            </div>
+            <p class="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-[0.4em] leading-none">Legal News Hub</p>
+            
+            <!-- Sync Indicator Floating Right (Small) -->
+            <div id="sync-indicator" class="absolute right-4 bottom-4 text-[7px] font-black text-slate-300 dark:text-slate-700 uppercase leading-none">
+                <span id="last-updated">Updating...</span>
+            </div>
+        </header>
+
+        <div class="px-4 pt-4 pb-2 flex gap-2 items-center">
+            <div class="relative flex-grow">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" /></svg>
+                <input type="text" id="search-input" class="search-bar" placeholder="Search news headlines...">
+            </div>
+            <button onclick="toggleSettings()" class="p-2.5 bg-slate-100 dark:bg-slate-900 rounded-xl text-slate-500 border border-slate-200 dark:border-slate-800">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4" /></svg>
+            </button>
+        </div>
+
+        <div class="px-4 pb-4 flex gap-2 overflow-x-auto no-scrollbar">
+            <button onclick="setCourtFilter('All')" class="filter-chip active" data-filter="All">All Feed</button>
+            <button onclick="setCourtFilter('Supreme Court')" class="filter-chip" data-filter="Supreme Court">Supreme Court</button>
+            <button onclick="setCourtFilter('High Court')" class="filter-chip" data-filter="High Court">High Courts</button>
+        </div>
+
+        <main class="flex-grow">
+            <div id="top-nav" class="hidden px-4 mb-3">
+                <button onclick="loadNextDay()" class="w-full py-2.5 bg-slate-50 dark:bg-slate-900 text-[10px] font-black uppercase text-slate-400 border border-slate-200 dark:border-slate-800 rounded-xl tracking-widest">
+                    Load Newer Updates
+                </button>
+            </div>
+
+            <div id="news-list"></div>
+
+            <!-- New Footer Section at the end of Feed -->
+            <div id="feed-footer" class="px-6 py-12 border-t border-slate-100 dark:border-slate-900 mt-4 flex flex-col items-center text-center">
+                <div class="flex flex-col items-center gap-1 mb-6">
+                    <span id="date-label" class="text-[11px] font-black text-slate-900 dark:text-slate-100 uppercase tracking-widest">Latest Feed</span>
+                    <span class="text-[10px] font-bold text-slate-400 uppercase tracking-widest"><span id="feed-count" class="text-blue-600 dark:text-blue-400">0</span> Briefs Collected</span>
+                </div>
+
+                <a href="https://tally.so/r/J9pD0d" target="_blank" class="text-[10px] font-black text-blue-600 dark:text-blue-400 uppercase tracking-widest border border-blue-600/20 dark:border-blue-400/20 px-4 py-2 rounded-full hover:bg-blue-600 hover:text-white transition-all mb-10">
+                    Send Feedback
+                </a>
+
+                <p class="text-[10px] leading-relaxed text-slate-400 dark:text-slate-600 max-w-xs font-medium italic">
+                    Disclaimer: This site only displays headlines of the news published by various news portals. The readers can read the full story on the respective news portals.
+                </p>
+            </div>
+
+            <div id="archive-section" class="px-4 pb-20">
+                <button onclick="loadPreviousDay()" class="btn-primary">
+                    View Archive: Previous Day
+                </button>
+            </div>
+        </main>
+    </div>
+
+    <!-- Settings Panel -->
+    <div id="settings-view">
+        <div class="flex justify-between items-center mb-12">
+            <h2 class="logo-font text-3xl uppercase italic text-center w-full">Settings</h2>
+            <button onclick="toggleSettings()" class="absolute right-6 text-slate-400 font-bold uppercase text-xs tracking-widest">Close</button>
+        </div>
+
+        <section class="mb-10">
+            <h3 class="text-[10px] font-black text-slate-400 uppercase tracking-widest mb-4">Install Application</h3>
+            <div id="pwa-box" class="p-5 bg-slate-50 dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 text-center text-xs text-slate-500 font-medium">
+                Checking browser compatibility...
+            </div>
+        </section>
+
+        <section class="mb-10">
+            <h3 class="text-[10px] font-black text-slate-400 uppercase tracking-widest mb-4">Manage Sources</h3>
+            <div id="source-filters" class="grid grid-cols-2 gap-2"></div>
+        </section>
+
+        <div class="text-center mt-20">
+            <p class="text-[10px] font-black text-slate-300 dark:text-slate-700 uppercase tracking-[0.2em]">CiteCase Hub v3.4.0</p>
+        </div>
+    </div>
+
+    <script type="module">
+        const DATA_URL = `https://raw.githubusercontent.com/citecase/news/main/news.json?t=${Date.now()}`;
+        const newsList = document.getElementById('news-list');
+        const searchInput = document.getElementById('search-input');
+        const feedCount = document.getElementById('feed-count');
+        const lastUpdatedEl = document.getElementById('last-updated');
+        const dateLabel = document.getElementById('date-label');
+        const topNav = document.getElementById('top-nav');
+        const archiveSection = document.getElementById('archive-section');
+        const settingsView = document.getElementById('settings-view');
+
+        let newsData = [];
+        let filteredData = [];
+        let allSources = [];
+        let activeSources = new Set();
+        let dayOffset = 0;
+        let searchQuery = '';
+        let courtFilter = 'All';
+        let anchorDate = new Date();
+
+        async function init() {
+            try {
+                const res = await fetch(DATA_URL);
+                const raw = await res.json();
+                
+                newsData = raw.map(item => ({
+                    ...item,
+                    timestamp: new Date(item.date.replace(' IST', '+05:30'))
+                })).sort((a, b) => b.timestamp - a.timestamp);
+
+                if (newsData.length > 0) {
+                    const latest = newsData[0].timestamp;
+                    anchorDate = new Date(latest.getFullYear(), latest.getMonth(), latest.getDate());
+                    lastUpdatedEl.innerText = latest.toLocaleTimeString('en-IN', { hour: '2-digit', minute: '2-digit' });
+                }
+
+                allSources = [...new Set(newsData.map(d => d.source))].sort();
+                activeSources = new Set(allSources);
+
+                renderSources();
+                refresh();
+
+                searchInput.addEventListener('input', (e) => {
+                    searchQuery = e.target.value.toLowerCase().trim();
+                    refresh();
+                });
+            } catch (e) {
+                newsList.innerHTML = `<div class="p-16 text-center text-xs text-slate-400 italic">Feed synchronization failed.</div>`;
+            }
+        }
+
+        window.toggleSettings = () => settingsView.classList.toggle('active');
+
+        window.setCourtFilter = (f) => {
+            courtFilter = f;
+            document.querySelectorAll('.filter-chip').forEach(c => c.classList.toggle('active', c.dataset.filter === f));
+            if (settingsView.classList.contains('active')) settingsView.classList.remove('active');
+            refresh();
+        };
+
+        function renderSources() {
+            const container = document.getElementById('source-filters');
+            container.innerHTML = '';
+            allSources.forEach(s => {
+                const btn = document.createElement('button');
+                btn.className = `p-3 rounded-xl border text-[10px] font-black uppercase text-left transition-all ${activeSources.has(s) ? 'bg-slate-900 text-white border-slate-900 dark:bg-slate-100 dark:text-black' : 'bg-transparent text-slate-400 border-slate-200 dark:border-slate-800'}`;
+                btn.innerText = s;
+                btn.onclick = () => {
+                    if (activeSources.has(s)) { if(activeSources.size > 1) activeSources.delete(s); }
+                    else activeSources.add(s);
+                    renderSources(); refresh();
+                };
+                container.appendChild(btn);
+            });
+        }
+
+        window.loadPreviousDay = () => { dayOffset++; refresh(); window.scrollTo(0,0); };
+        window.loadNextDay = () => { if(dayOffset > 0) dayOffset--; refresh(); window.scrollTo(0,0); };
+
+        function refresh() {
+            newsList.innerHTML = '';
+            const target = new Date(anchorDate);
+            target.setDate(target.getDate() - dayOffset);
+            const targetStr = target.toLocaleDateString('en-CA');
+
+            if (searchQuery) {
+                dateLabel.innerText = "Global Search Results";
+                topNav.classList.add('hidden');
+                archiveSection.classList.add('hidden');
+            } else {
+                dateLabel.innerText = dayOffset === 0 ? "Today's Briefings" : target.toLocaleDateString('en-IN', { day: '2-digit', month: 'short', year: 'numeric' });
+                archiveSection.classList.remove('hidden');
+                dayOffset > 0 ? topNav.classList.remove('hidden') : topNav.classList.add('hidden');
+            }
+
+            filteredData = newsData.filter(item => {
+                const sourceOk = activeSources.has(item.source);
+                const searchOk = item.title.toLowerCase().includes(searchQuery);
+                let courtOk = true;
+
+                if (courtFilter === 'Supreme Court') {
+                    const scPattern = /\b(sc|insc|supreme court|apex court|s\.c\.)\b/i;
+                    courtOk = (item.source === 'CaseCiter') || scPattern.test(item.title) || scPattern.test(item.source);
+                } else if (courtFilter === 'High Court') {
+                    courtOk = item.title.toLowerCase().includes('high court');
+                } else if (courtFilter !== 'All') {
+                    courtOk = item.title.toLowerCase().includes(courtFilter.toLowerCase());
+                }
+
+                if (searchQuery) return sourceOk && searchOk && courtOk;
+                return item.timestamp.toLocaleDateString('en-CA') === targetStr && sourceOk && courtOk;
+            });
+
+            filteredData.sort((a, b) => {
+                const aIsCC = a.source === 'CaseCiter';
+                const bIsCC = b.source === 'CaseCiter';
+                if (aIsCC && !bIsCC) return -1;
+                if (!aIsCC && bIsCC) return 1;
+                return b.timestamp - a.timestamp;
+            });
+
+            feedCount.innerText = filteredData.length;
+
+            if (filteredData.length === 0) {
+                newsList.innerHTML = `<div class="p-24 text-center text-xs text-slate-400 italic">No legal updates found for this period.</div>`;
+                return;
+            }
+
+            filteredData.forEach(item => {
+                const card = document.createElement('div');
+                card.className = 'news-card';
+                const time = item.timestamp.toLocaleTimeString('en-IN', { hour: '2-digit', minute: '2-digit', hour12: true });
+                
+                card.innerHTML = `
+                    <div class="flex items-center gap-2 mb-1.5">
+                        <span class="tag ${item.source === 'CaseCiter' ? 'tag-cc' : ''}">${item.source}</span>
+                        <span class="text-[9px] font-black text-slate-400 uppercase tracking-wider">${time}</span>
+                    </div>
+                    <a href="${item.link}" target="_blank" class="news-headline">${item.title}</a>
+                    ${item.source === 'CaseCiter' && item.excerpt ? `<div class="news-excerpt">${item.excerpt}</div>` : ''}
+                `;
+                newsList.appendChild(card);
+            });
+        }
+
+        init();
+    </script>
+</body>
+</html>
