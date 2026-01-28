@@ -323,7 +323,7 @@
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 search-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                 </svg>
-                <input type="text" id="search-input" class="search-input" placeholder="Search legal updates...">
+                <input type="text" id="search-input" class="search-input" placeholder="Search news...">
             </div>
             <button onclick="toggleSettings()" class="settings-btn" title="Settings">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -369,7 +369,6 @@
         </main>
     </div>
 
-    <!-- Settings Overlay -->
     <div id="settings-view">
         <div class="settings-header">
             <h2 class="text-2xl font-black tracking-tight">Settings</h2>
@@ -395,6 +394,7 @@
         <section class="settings-section">
             <h3 class="settings-title">Jurisdictions</h3>
             <div class="filter-grid" id="hc-filters">
+                <!-- Sorted Indian High Courts -->
                 <button onclick="setCourtFilter('Allahabad High Court')" class="filter-pill h-pill" data-court="Allahabad High Court">Allahabad</button>
                 <button onclick="setCourtFilter('Andhra Pradesh High Court')" class="filter-pill h-pill" data-court="Andhra Pradesh High Court">Andhra Pradesh</button>
                 <button onclick="setCourtFilter('Bombay High Court')" class="filter-pill h-pill" data-court="Bombay High Court">Bombay</button>
@@ -425,7 +425,7 @@
 
         <section class="settings-section mt-12 pt-8 border-t border-slate-100 flex flex-col items-center">
             <a href="https://tally.so/r/J9pD0d" target="_blank" class="nav-btn w-full max-w-xs">Give Feedback</a>
-            <p class="mt-4 text-[10px] font-bold text-slate-300 uppercase tracking-widest">CiteCase v2.8.0</p>
+            <p class="mt-4 text-[10px] font-bold text-slate-300 uppercase tracking-widest">CiteCase v2.9.0</p>
         </section>
     </div>
 
@@ -434,10 +434,7 @@
     <footer class="py-12 bg-white"></footer>
 
     <script type="module">
-        import { initializeApp } from 'https://www.gstatic.com/firebasejs/11.6.1/firebase-app.js';
-        import { getAuth, signInAnonymously } from 'https://www.gstatic.com/firebasejs/11.6.1/firebase-auth.js';
-
-        // --- PWA AUTO-UPDATE LOGIC ---
+        // PWA AUTO-UPDATE LOGIC
         let deferredPrompt;
         const pwaStatusBox = document.getElementById('pwa-status-box');
 
@@ -448,9 +445,7 @@
             if (isStandalone) {
                 pwaStatusBox.innerHTML = `<p class="text-sm font-bold text-emerald-600 uppercase tracking-wider">Installed</p>`;
             } else if (deferredPrompt) {
-                pwaStatusBox.innerHTML = `
-                    <button id="pwa-install-trigger" class="install-btn">Install App</button>
-                `;
+                pwaStatusBox.innerHTML = `<button id="pwa-install-trigger" class="install-btn">Install App</button>`;
                 document.getElementById('pwa-install-trigger').addEventListener('click', async () => {
                     deferredPrompt.prompt();
                     await deferredPrompt.userChoice;
@@ -470,15 +465,12 @@
             updateInstallUI();
         });
 
-        // --- SERVICE WORKER ---
+        // SERVICE WORKER
         const isPreviewEnv = window.location.protocol === 'blob:' || window.location.hostname.includes('usercontent.goog');
         if ('serviceWorker' in navigator && !isPreviewEnv) {
             window.addEventListener('load', () => { 
-                navigator.serviceWorker.register('./sw.js').then(reg => {
-                    reg.update();
-                });
+                navigator.serviceWorker.register('./sw.js').then(reg => reg.update());
             });
-
             let refreshing = false;
             navigator.serviceWorker.addEventListener('controllerchange', () => {
                 if (refreshing) return;
@@ -487,7 +479,7 @@
             });
         }
 
-        // --- APP DATA LOGIC ---
+        // APP DATA LOGIC
         const DATA_URL = `https://raw.githubusercontent.com/citecase/news/main/news.json?t=${Date.now()}`;
         const newsFeedList = document.getElementById('news-feed-list');
         const lastUpdatedEl = document.getElementById('last-updated');
@@ -535,23 +527,12 @@
 
         window.systemShare = function(url, title) {
             if (navigator.share) {
-                navigator.share({
-                    title: 'CiteCase Legal News',
-                    text: title,
-                    url: url
-                }).catch(err => {
-                    if (err.name !== 'AbortError') console.error('Share failed:', err);
-                });
+                navigator.share({ title: 'CiteCase Legal News', text: title, url: url }).catch(err => { if (err.name !== 'AbortError') console.error('Share failed:', err); });
             } else {
-                // Fallback: Clipboard
                 const el = document.createElement('textarea');
                 el.value = `${title}\n\n${url}`;
-                document.body.appendChild(el);
-                el.select();
-                document.execCommand('copy');
-                document.body.removeChild(el);
-                const toast = document.getElementById('copy-toast');
-                toast.style.opacity = '1';
+                document.body.appendChild(el); el.select(); document.execCommand('copy'); document.body.removeChild(el);
+                const toast = document.getElementById('copy-toast'); toast.style.opacity = '1';
                 setTimeout(() => { toast.style.opacity = '0'; }, 2000);
             }
         };
@@ -600,7 +581,7 @@
             } else { 
                 archiveNav.classList.remove('hidden'); 
                 if (dayOffset > 0) topNav.classList.remove('hidden'); else topNav.classList.add('hidden'); 
-                dateLabel.innerText = dayOffset === 0 ? "Latest Updates" : `${targetDate.toLocaleDateString('en-IN', { day: '2-digit', month: 'short' })} Feed`; 
+                dateLabel.innerText = dayOffset === 0 ? "Today's Feed" : `${targetDate.toLocaleDateString('en-IN', { day: '2-digit', month: 'short' })} Feed`; 
             }
 
             const filteredData = newsData.filter(item => {
@@ -612,7 +593,8 @@
                 const lowerSource = item.source.toLowerCase();
 
                 if (courtFilter === 'Supreme Court') {
-                    const scKeywords = ['supreme court', 'sc', 'apex court'];
+                    // Logic update: CaseCiter always maps to Supreme Court anyway
+                    const scKeywords = ['supreme court', 'sc', 'apex court', 'caseciter'];
                     matchesCourt = scKeywords.some(key => lowerTitle.includes(key) || lowerSource.includes(key));
                 } else if (courtFilter === 'High Court') {
                     matchesCourt = lowerTitle.includes('high court') || lowerSource.includes('high court');
@@ -627,7 +609,7 @@
 
             feedStats.innerText = filteredData.length;
             if (filteredData.length === 0) { 
-                newsFeedList.innerHTML = '<div class="py-24 text-center text-slate-300 italic">No legal updates found for this date.</div>';
+                newsFeedList.innerHTML = '<div class="py-24 text-center text-slate-300 italic">No legal updates found for this selection.</div>';
             } else { 
                 filteredData.forEach(item => newsFeedList.appendChild(createNewsItem(item, isSearching || dayOffset > 0))); 
             }
