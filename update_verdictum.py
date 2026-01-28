@@ -28,6 +28,7 @@ def update_feeds():
         {"name": "LiveLaw", "url": "https://www.livelaw.in/google_feeds.xml"},
         {"name": "Bar & Bench", "url": "https://www.barandbench.com/feed"},
         {"name": "LawBeat", "url": "https://lawbeat.in/google_feeds.xml"},
+        {"name": "LiveLaw (SC)", "url": "https://www.livelaw.in/category/sc-judgments/google_feeds.xml"},
         {"name": "CaseCiter", "url": "https://www.caseciter.com/rss/"}
     ]
     md_file_path = "verdictum.md"
