@@ -39,7 +39,7 @@ def update_feeds():
     # Define the legal news sources including LawBeat and SC judgements
     sources = [
         {"name": "Verdictum", "url": "https://www.verdictum.in/rss/feed.xml"},
-        {"name": "LiveLaw", "url": "https://www.livelaw.in/rss/feed.php"},
+        {"name": "LiveLaw", "url": "https://www.livelaw.in/google_feeds.xml"},
         {"name": "Bar & Bench", "url": "https://www.barandbench.com/feed"},
         {"name": "LawBeat", "url": "https://lawbeat.in/rss/feed.xml"},
         {"name": "LiveLaw (SC)", "url": "https://www.livelaw.in/category/sc-judgments/rss/feed.xml"},
