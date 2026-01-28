@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Wed, 28 Jan 2026 11:11:04 GMT | **LiveLaw** | 'Affront To Personal Liberty', NBW Can't Be Issued Before Scheduled Date Of Appearance Of Accused U/S 35(3) BNSS: Orissa High Court | [Read More](https://www.livelaw.in/high-court/orissa-high-court/orissa-high-court-accused-appearance-section353-bnss-nbw-520937) |
+| Wed, 28 Jan 2026 10:53:55 GMT | **LiveLaw** | Tata Power Moves Delhi High Court Against DERC Rules Forcing DISCOMs To Finance Govt Works Without Interest | [Read More](https://www.livelaw.in/high-court/delhi-high-court/tata-power-electricity-regulation-govt-projects-520933) |
+| 2026-01-28T11:03:24.801Z | **Bar & Bench** | Stray dogs: Supreme Court unhappy with adequacy of measures taken by States, warns action | [Read More](https://www.barandbench.com/news/stray-dogs-supreme-court-unhappy-with-adequacy-of-measures-taken-by-states-warns-action) |
 | Wed, 28 Jan 2026 10:53:50 GMT | **LiveLaw** | 'Passport Issuance Also Outsourced To Private Agencies', Supreme Court Tells Petitioner Opposing Aadhaar Use In SIR | [Read More](https://www.livelaw.in/top-stories/passport-issuance-also-outsourced-to-private-agencies-supreme-court-tells-petitioner-opposing-aadhaar-use-in-sir-520932) |
 | Wed, 28 Jan 2026 10:26:11 GMT | **LiveLaw** | Delhi High Court Judge Recuses From Hearing Rani Kapur's Plea Against Priya Kapur, Karisma Kapoor's Children Over 'Fraudulent' Family Trust | [Read More](https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-rani-kapurs-plea-priya-kapur-karisma-kapoors-children-fraudulent-family-trust-520927) |
 | 2026-01-28T10:37:07.990Z | **Bar & Bench** | Supreme Court seeks TN’s response to PIL over remarks against Madras HC Justice GR Swaminathan | [Read More](https://www.barandbench.com/news/litigation/supreme-court-seeks-tns-response-to-pil-over-remarks-against-madras-hc-justice-gr-swaminathan) |
