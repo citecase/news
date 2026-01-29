@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Thu, 29 Jan 2026 06:02:52 GMT | **Verdictum** | Investigating Officer To Provide Seizure Order To Bank: Allahabad High Court Issues Guidelines On Freezing Of Bank Account Under Cyber Crime Suspicion | [Read More](https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/khalsa-medical-store-thru-prop-yashwant-singh-v-reserve-bank-of-india-2026ahc-lko3701-db-investigating-officer-seizure-order-cyber-crime-suspicion-1605867) |
+| Thu, 29 Jan 2026 06:00:29 GMT | **LiveLaw** | Madras High Court Refuses To Direct Gold Medal Despite Student's Higher Marks, Cites Academic Autonomy | [Read More](https://www.livelaw.in/high-court/madras-high-court/madras-high-court-conferring-gold-medal-academic-matter-left-to-academicians-521012) |
 | Thu, 29 Jan 2026 05:45:27 GMT | **LiveLaw** | Confession Made To Police Can't Be Used Against Co-Accused Without Independent Evidence: Kerala High Court Acquits Man In Theft Case | [Read More](https://www.livelaw.in/high-court/kerala-high-court/police-confession-of-co-accused-cannot-ground-conviction-without-independent-evidence-kerala-high-court-521011) |
 | Thu, 29 Jan 2026 05:31:43 GMT | **CaseCiter** | Panchavatige Mutt, Togarsi v. Grama Panchayathi, Togarsi- Revenue Records | [Read More](https://www.caseciter.com/panchavatige-mutt-togarsi-v-grama-panchayathi-togarsi-revenue-records/) |
 | Thu, 29 Jan 2026 05:30:31 GMT | **Verdictum** | Virginity Test Violates Wife’s Privacy; Refusal Of Sex By Itself Not A Ground Of Divorce: Madhya Pradesh High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/madhya-pradesh-high-court/a-v-c-2026mphc-jbp7081-virginity-test-sodomy-cruelty-dowry-harassment-1605862) |
