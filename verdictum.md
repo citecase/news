@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Thu, 29 Jan 2026 17:00:21 GMT | **LiveLaw** | Supreme Court Daily Round-Up : January 29, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-january-29-2026-521141) |
 | Thu, 29 Jan 2026 16:00:02 GMT | **Verdictum** | Indian Army Invites Applications For The Post Of Law Officers | [Read More](https://www.verdictum.in/job-updates/indian-army-1605937) |
 | Thu, 29 Jan 2026 15:55:55 GMT | **LiveLaw** | Supreme Court Raises 4 Questions On UGC Equity Regulations 2026, Asks Why Caste-Based Discrimination Separately Defined | [Read More](https://www.livelaw.in/top-stories/supreme-court-raises-4-questions-on-ugc-equity-regulations-2026-asks-why-caste-based-discrimination-separately-defined-521139) |
 | Thu, 29 Jan 2026 15:45:43 GMT | **LiveLaw** | Sabarimala Gold Theft: Kerala Court Grants Bail To Former Devaswom Board Official | [Read More](https://www.livelaw.in/news-updates/kerala-court-sabarimala-gold-theft-travancore-devaswom-board-bail-521138) |
