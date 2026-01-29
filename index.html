@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>CiteCase | Legal News Hub</title>
+    
+    <!-- PWA Meta Tags -->
+    <meta name="theme-color" content="#000000">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="CiteCase">
+    
+    <link rel="manifest" href="./manifest.json">
+    <link rel="apple-touch-icon" href="./icon-192.png">
+    
+    <!-- Premium Typography -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,700;0,6..72,800;1,6..72,400&display=swap" rel="stylesheet">
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        :root {
+            --bg-color: #ffffff;
+            --surface-color: #f8fafc;
+            --text-primary: #0f172a;
+            --text-secondary: #64748b;
+            --border-color: #e2e8f0;
+            --accent-blue: #2563eb;
+            --serif-font: 'Newsreader', Georgia, serif;
+            --sans-font: 'Inter', -apple-system, sans-serif;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg-color: #000000;
+                --surface-color: #0f172a;
+                --text-primary: #f1f5f9;
+                --text-secondary: #94a3b8;
+                --border-color: #1e293b;
+                --accent-blue: #3b82f6;
+            }
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            font-family: var(--sans-font);
+            -webkit-font-smoothing: antialiased;
+            transition: background-color 0.2s ease;
+        }
+
+        .app-shell {
+            max-width: 1100px;
+            margin: 0 auto;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .logo-font {
+            font-family: var(--serif-font);
+            font-weight: 800;
+            letter-spacing: -0.03em;
+        }
+        
+        .news-headline {
+            font-family: var(--serif-font);
+            font-size: 1.15rem;
+            line-height: 1.35;
+            font-weight: 700;
+            color: var(--text-primary);
+            text-decoration: none;
+            display: block;
+            margin: 4px 0;
+            letter-spacing: -0.01em;
+        }
+        
+        .news-headline:active { opacity: 0.7; }
+
+        .news-card {
+            border-bottom: 1px solid var(--border-color);
+            padding: 14px 0;
+        }
+
+        .news-excerpt {
+            font-size: 0.85rem;
+            line-height: 1.5;
+            color: var(--text-secondary);
+            border-left: 2px solid var(--border-color);
+            padding-left: 12px;
+            margin-top: 8px;
+            font-style: italic;
+        }
+
+        .column-header {
+            font-size: 0.75rem;
+            font-weight: 900;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--text-primary);
+            padding: 12px 0;
+            border-bottom: 3px solid var(--text-primary);
+            margin-bottom: 12px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .search-bar {
+            background: var(--surface-color);
+            border: 1px solid var(--border-color);
+            border-radius: 10px;
+            padding: 10px 12px 10px 40px;
+            width: 100%;
+            font-size: 0.95rem;
+            color: var(--text-primary);
+            outline: none;
+        }
+
+        .tag {
+            font-size: 0.55rem;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            padding: 2px 6px;
+            border-radius: 3px;
+            background: var(--surface-color);
+            border: 1px solid var(--border-color);
+            color: var(--text-secondary);
+        }
+        
+        .tag-cc {
+            background: var(--text-primary);
+            color: var(--bg-color);
+            border-color: var(--text-primary);
+        }
+
+        .filter-chip {
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            background: var(--surface-color);
+            border: 1px solid var(--border-color);
+            color: var(--text-secondary);
+            white-space: nowrap;
+        }
+
+        .filter-chip.active {
+            background: var(--text-primary);
+            color: var(--bg-color);
+            border-color: var(--text-primary);
+        }
+
+        #settings-view {
+            display: none;
+            position: fixed;
+            inset: 0;
+            background: var(--bg-color);
+            z-index: 1000;
+            padding: 24px;
+            overflow-y: auto;
+        }
+        #settings-view.active { display: block; }
+
+        .load-more-btn {
+            width: 100%;
+            padding: 12px;
+            margin-top: 16px;
+            background: var(--surface-color);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            font-size: 0.7rem;
+            font-weight: 800;
+            text-transform: uppercase;
+            color: var(--text-secondary);
+            transition: all 0.2s;
+        }
+        .load-more-btn:active { background: var(--text-primary); color: var(--bg-color); }
+
+        /* Toggle Switch */
+        .toggle-switch {
+            position: relative;
+            display: inline-block;
+            width: 40px;
+            height: 20px;
+        }
+        .toggle-switch input { opacity: 0; width: 0; height: 0; }
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background-color: #ccc;
+            transition: .4s;
+            border-radius: 34px;
+        }
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 14px; width: 14px;
+            left: 3px; bottom: 3px;
+            background-color: white;
+            transition: .4s;
+            border-radius: 50%;
+        }
+        input:checked + .slider { background-color: var(--accent-blue); }
+        input:checked + .slider:before { transform: translateX(20px); }
+
+        .no-scrollbar::-webkit-scrollbar { display: none; }
+        .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+    </style>
+</head>
+<body>
+
+    <div id="update-banner" onclick="window.location.reload()" class="hidden fixed top-0 w-full z-[2000] bg-blue-600 text-white text-[10px] font-bold py-2 text-center uppercase tracking-widest cursor-pointer">
+        New Briefs Found • Tap to Sync
+    </div>
+
+    <div class="app-shell">
+        <header class="px-4 py-8 border-b border-slate-200 dark:border-slate-800 sticky top-0 bg-white/90 dark:bg-black/90 backdrop-blur-md z-[100] flex flex-col items-center">
+            <div class="logo-font text-3xl mb-1">
+                <span>Cite</span><span class="bg-slate-900 dark:bg-slate-100 text-white dark:text-black px-2 ml-0.5 rounded">Case</span>
+            </div>
+            <p class="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-[0.4em] leading-none">Legal News Hub</p>
+            
+            <div id="sync-indicator" class="absolute right-4 bottom-4 text-[7px] font-black text-slate-300 dark:text-slate-700 uppercase leading-none">
+                <span id="last-updated">Updating...</span>
+            </div>
+        </header>
+
+        <div class="px-4 pt-4 pb-2 flex gap-2 items-center">
+            <div class="relative flex-grow">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" /></svg>
+                <input type="text" id="search-input" class="search-bar" placeholder="Search news headlines...">
+            </div>
+            <button onclick="toggleSettings()" class="p-2.5 bg-slate-100 dark:bg-slate-900 rounded-xl text-slate-500 border border-slate-200 dark:border-slate-800">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4" /></svg>
+            </button>
+        </div>
+
+        <div class="px-4 pb-4 flex gap-2 overflow-x-auto no-scrollbar">
+            <button onclick="setCourtFilter('All')" class="filter-chip active" data-filter="All">Global</button>
+            <button onclick="setCourtFilter('Supreme Court')" class="filter-chip" data-filter="Supreme Court">Supreme Court</button>
+            <button onclick="setCourtFilter('High Court')" class="filter-chip" data-filter="High Court">High Courts</button>
+        </div>
+
+        <main class="flex-grow px-4 pb-12">
+            <!-- Two Column Layout -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-10 mt-6">
+                
+                <!-- Column 1: CaseCiter Notes -->
+                <section>
+                    <div class="column-header">
+                        <span>CaseCiter Notes: SC Judgments</span>
+                        <span id="cc-total" class="text-[9px] font-bold opacity-40">0</span>
+                    </div>
+                    <div id="cc-list"></div>
+                    <button id="cc-more-btn" onclick="expandCC()" class="load-more-btn hidden">Show More Originals</button>
+                </section>
+
+                <!-- Column 2: Legal News Feed -->
+                <section>
+                    <div class="column-header">
+                        <span>Legal News Feed</span>
+                        <span id="others-total" class="text-[9px] font-bold opacity-40">0</span>
+                    </div>
+                    <div id="others-list"></div>
+                    <button id="others-more-btn" onclick="expandOthers()" class="load-more-btn hidden">Show More Updates</button>
+                </section>
+
+            </div>
+
+            <div id="feed-footer" class="px-6 py-16 border-t border-slate-100 dark:border-slate-900 mt-12 flex flex-col items-center text-center">
+                <a href="https://tally.so/r/J9pD0d" target="_blank" class="text-[10px] font-black text-blue-600 dark:text-blue-400 uppercase tracking-widest border border-blue-600/20 dark:border-blue-400/20 px-4 py-2 rounded-full hover:bg-blue-600 hover:text-white transition-all mb-8">
+                    Send Feedback
+                </a>
+
+                <p class="text-[10px] leading-relaxed text-slate-400 dark:text-slate-600 max-w-md font-medium italic">
+                    Disclaimer: This site only displays headlines of the news published by various news portals. The readers can read the full story on the respective news portals.
+                </p>
+            </div>
+        </main>
+    </div>
+
+    <!-- Settings Panel -->
+    <div id="settings-view">
+        <div class="flex justify-between items-center mb-12">
+            <h2 class="logo-font text-3xl uppercase italic text-center w-full">Settings</h2>
+            <button onclick="toggleSettings()" class="absolute right-6 text-slate-400 font-bold uppercase text-xs tracking-widest">Close</button>
+        </div>
+
+        <section class="mb-10">
+            <h3 class="text-[10px] font-black text-slate-400 uppercase tracking-widest mb-4">Smart Notifications</h3>
+            <div class="flex items-center justify-between p-5 bg-slate-50 dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800">
+                <div>
+                    <p class="text-xs font-bold text-slate-900 dark:text-slate-100">Brief Alerts</p>
+                    <p class="text-[10px] text-slate-500">Notify me of new updates in real-time</p>
+                </div>
+                <label class="toggle-switch">
+                    <input type="checkbox" id="notif-toggle" onchange="toggleNotifications(this)">
+                    <span class="slider"></span>
+                </label>
+            </div>
+        </section>
+
+        <section class="mb-10">
+            <h3 class="text-[10px] font-black text-slate-400 uppercase tracking-widest mb-4">Manage Sources</h3>
+            <div id="source-filters" class="grid grid-cols-2 gap-2"></div>
+        </section>
+
+        <div class="text-center mt-20">
+            <p class="text-[10px] font-black text-slate-300 dark:text-slate-700 uppercase tracking-[0.2em]">CiteCase Hub v3.7.0</p>
+        </div>
+    </div>
+
+    <script type="module">
+        const DATA_URL = `https://raw.githubusercontent.com/citecase/news/main/news.json?t=${Date.now()}`;
+        const ccList = document.getElementById('cc-list');
+        const othersList = document.getElementById('others-list');
+        const searchInput = document.getElementById('search-input');
+        const lastUpdatedEl = document.getElementById('last-updated');
+        const settingsView = document.getElementById('settings-view');
+        const notifToggle = document.getElementById('notif-toggle');
+
+        let newsData = [];
+        let activeSources = new Set();
+        let allSources = [];
+        let searchQuery = '';
+        let courtFilter = 'All';
+        
+        // Display limits
+        let ccLimit = 20;
+        let othersLimit = 20;
+
+        let lastSeenItemDate = localStorage.getItem('last_seen_brief') || null;
+
+        async function init() {
+            if (Notification.permission === 'granted' && localStorage.getItem('notifs_enabled') === 'true') {
+                notifToggle.checked = true;
+            }
+
+            try {
+                const res = await fetch(DATA_URL);
+                const raw = await res.json();
+                processData(raw);
+
+                allSources = [...new Set(newsData.map(d => d.source))].sort();
+                activeSources = new Set(allSources);
+
+                renderSources();
+                refresh();
+
+                searchInput.addEventListener('input', (e) => {
+                    searchQuery = e.target.value.toLowerCase().trim();
+                    ccLimit = 20; // reset limits on search
+                    othersLimit = 20;
+                    refresh();
+                });
+
+                setInterval(pollForUpdates, 1000 * 60 * 5);
+            } catch (e) {
+                ccList.innerHTML = `<div class="p-10 text-center text-xs text-slate-400 italic">Sync failed.</div>`;
+            }
+        }
+
+        function processData(raw) {
+            newsData = raw.map(item => ({
+                ...item,
+                timestamp: new Date(item.date.replace(' IST', '+05:30'))
+            })).sort((a, b) => b.timestamp - a.timestamp);
+
+            if (newsData.length > 0) {
+                const latest = newsData[0].timestamp;
+                lastUpdatedEl.innerText = latest.toLocaleTimeString('en-IN', { hour: '2-digit', minute: '2-digit' });
+                if (!lastSeenItemDate) {
+                    localStorage.setItem('last_seen_brief', newsData[0].date);
+                    lastSeenItemDate = newsData[0].date;
+                }
+            }
+        }
+
+        async function pollForUpdates() {
+            try {
+                const res = await fetch(`https://raw.githubusercontent.com/citecase/news/main/news.json?t=${Date.now()}`);
+                const raw = await res.json();
+                const latestOnServer = raw[0];
+
+                if (latestOnServer && latestOnServer.date !== lastSeenItemDate) {
+                    if (Notification.permission === 'granted' && localStorage.getItem('notifs_enabled') === 'true') {
+                        new Notification("CiteCase Hub", { body: `New legal updates available.`, icon: './icon-192.png' });
+                    }
+                    if ('setAppBadge' in navigator) navigator.setAppBadge(1);
+                    document.getElementById('update-banner').classList.remove('hidden');
+                }
+            } catch (e) {}
+        }
+
+        window.toggleNotifications = async (el) => {
+            if (el.checked) {
+                const permission = await Notification.requestPermission();
+                if (permission === 'granted') localStorage.setItem('notifs_enabled', 'true');
+                else { el.checked = false; localStorage.setItem('notifs_enabled', 'false'); }
+            } else localStorage.setItem('notifs_enabled', 'false');
+        };
+
+        window.toggleSettings = () => settingsView.classList.toggle('active');
+
+        window.setCourtFilter = (f) => {
+            courtFilter = f;
+            ccLimit = 20;
+            othersLimit = 20;
+            document.querySelectorAll('.filter-chip').forEach(c => c.classList.toggle('active', c.dataset.filter === f));
+            if (settingsView.classList.contains('active')) settingsView.classList.remove('active');
+            refresh();
+        };
+
+        function renderSources() {
+            const container = document.getElementById('source-filters');
+            container.innerHTML = '';
+            allSources.forEach(s => {
+                const btn = document.createElement('button');
+                btn.className = `p-3 rounded-xl border text-[10px] font-black uppercase text-left transition-all ${activeSources.has(s) ? 'bg-slate-900 text-white border-slate-900 dark:bg-slate-100 dark:text-black' : 'bg-transparent text-slate-400 border-slate-200 dark:border-slate-800'}`;
+                btn.innerText = s;
+                btn.onclick = () => {
+                    if (activeSources.has(s)) { if(activeSources.size > 1) activeSources.delete(s); }
+                    else activeSources.add(s);
+                    renderSources(); refresh();
+                };
+                container.appendChild(btn);
+            });
+        }
+
+        window.expandCC = () => { ccLimit += 40; refresh(); };
+        window.expandOthers = () => { othersLimit += 40; refresh(); };
+
+        function refresh() {
+            ccList.innerHTML = '';
+            othersList.innerHTML = '';
+
+            const filtered = newsData.filter(item => {
+                const sourceOk = activeSources.has(item.source);
+                const searchOk = item.title.toLowerCase().includes(searchQuery);
+                let courtOk = true;
+
+                if (courtFilter === 'Supreme Court') {
+                    const scPattern = /\b(sc|insc|supreme court|apex court|s\.c\.)\b/i;
+                    courtOk = (item.source === 'CaseCiter') || scPattern.test(item.title) || scPattern.test(item.source);
+                } else if (courtFilter === 'High Court') {
+                    courtOk = item.title.toLowerCase().includes('high court');
+                }
+
+                return sourceOk && searchOk && courtOk;
+            });
+
+            const ccFull = filtered.filter(item => item.source === 'CaseCiter');
+            const othersFull = filtered.filter(item => item.source !== 'CaseCiter');
+
+            document.getElementById('cc-total').innerText = ccFull.length;
+            document.getElementById('others-total').innerText = othersFull.length;
+
+            const ccDisplay = ccFull.slice(0, ccLimit);
+            const othersDisplay = othersFull.slice(0, othersLimit);
+
+            const renderItem = (item, container) => {
+                const card = document.createElement('div');
+                card.className = 'news-card';
+                const dateStr = item.timestamp.toLocaleDateString('en-IN', { day: '2-digit', month: 'short' });
+                const timeStr = item.timestamp.toLocaleTimeString('en-IN', { hour: '2-digit', minute: '2-digit', hour12: true });
+                
+                card.innerHTML = `
+                    <div class="flex items-center gap-2 mb-1.5">
+                        <span class="tag ${item.source === 'CaseCiter' ? 'tag-cc' : ''}">${item.source}</span>
+                        <span class="text-[9px] font-black text-slate-400 uppercase tracking-wider">${dateStr} • ${timeStr}</span>
+                    </div>
+                    <a href="${item.link}" target="_blank" class="news-headline">${item.title}</a>
+                    ${item.source === 'CaseCiter' && item.excerpt ? `<div class="news-excerpt">${item.excerpt}</div>` : ''}
+                `;
+                container.appendChild(card);
+            };
+
+            ccDisplay.forEach(item => renderItem(item, ccList));
+            othersDisplay.forEach(item => renderItem(item, othersList));
+
+            // Toggle More Buttons
+            document.getElementById('cc-more-btn').classList.toggle('hidden', ccFull.length <= ccLimit);
+            document.getElementById('others-more-btn').classList.toggle('hidden', othersFull.length <= othersLimit);
+
+            if ('clearAppBadge' in navigator) navigator.clearAppBadge();
+        }
+
+        init();
+    </script>
+</body>
+</html>
