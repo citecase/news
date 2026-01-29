@@ -42,7 +42,7 @@ def update_feeds():
         {"name": "LiveLaw", "url": "https://www.livelaw.in/google_feeds.xml"},
         {"name": "Bar & Bench", "url": "https://www.barandbench.com/feed"},
         {"name": "LawBeat", "url": "https://lawbeat.in/rss/feed.xml"},
-        {"name": "SCC Times", "url": "https://www.scconline.com/blog/post/category/casebriefs/feed/"},
+        {"name": "LiveLaw (SC)", "url": "https://www.livelaw.in/category/sc-judgments/rss/feed.xml"},
         {"name": "CaseCiter", "url": "https://caseciter.com/feed/"}
     ]
     md_file_path = "verdictum.md"
