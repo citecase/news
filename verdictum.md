@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Fri, 30 Jan 2026 16:00:59 GMT | **Verdictum** | Supreme Court Orders Release Of Russian National; Sets Aside Concurrent Conviction In NDPS Case | [Read More](https://www.verdictum.in/court-updates/supreme-court/doniyar-vildanov-v-the-state-of-up-2026-insc-95-release-russian-national-concurrent-conviction-1606057) |
 | Fri, 30 Jan 2026 15:35:53 GMT | **LiveLaw** | UGC Regulations Override State Law On Search Committee For University  VC Appointment: Supreme Court | [Read More](https://www.livelaw.in/top-stories/ugc-regulations-override-state-law-on-search-committee-for-university-vc-appointment-supreme-court-521283) |
 | Fri, 30 Jan 2026 15:35:33 GMT | **LiveLaw** | India–EU FTA To Reshape Market Access Across Sectors | [Read More](https://www.livelaw.in/law-firms/law-firm-articles-/indiaeu-fta-reshape-market-access-across-sectors-521282) |
 | Fri, 30 Jan 2026 15:18:23 GMT | **LiveLaw** | UP Cops Resort To 'Half Encounters' To Get Fame, Appreciation: High Court Warns SP/SSPs Of Contempt If SC's Guidelines Violated | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/up-police-encounters-punish-allahabad-high-court-spssp-contempt-action-sc-guidelines-521275) |
