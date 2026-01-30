@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Fri, 30 Jan 2026 15:18:23 GMT | **LiveLaw** | UP Cops Resort To 'Half Encounters' To Get Fame, Appreciation: High Court Warns SP/SSPs Of Contempt If SC's Guidelines Violated | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/up-police-encounters-punish-allahabad-high-court-spssp-contempt-action-sc-guidelines-521275) |
+| Fri, 30 Jan 2026 15:10:15 GMT | **Verdictum** | Kerala High Court Lays Down Comprehensive Quarterly Vigilance Reporting Mechanism For Sabarimala & TDB Temples, Stresses Prompt Action | [Read More](https://www.verdictum.in/court-updates/high-courts/kerala-high-court/suo-motu-v-state-of-kerala-2026ker6732-temple-sabrimala-devaswom-board-malpractices-commissioner-1606056) |
 | Fri, 30 Jan 2026 14:31:10 GMT | **LiveLaw** | Supreme Court's Denial Of Bail Under UAPA And The Constitutional Criminalisation Of Dissent | [Read More](https://www.livelaw.in/articles/uapa-constitutional-criminalisation-521117) |
 | Fri, 30 Jan 2026 14:30:19 GMT | **Verdictum** | Tender Of Cheque Constitutes Valid Satisfaction Of Compromise Decree Absent Cash Stipulation: Madhya Pradesh High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/madhya-pradesh-high-court/parth-credit-and-capital-market-private-limited-ors-v-ideal-electronics-private-limited-2026mphc-ind2495-1606042) |
 | Fri, 30 Jan 2026 14:09:47 GMT | **LiveLaw** | 2026 LiveLaw (SC) 95 -  BHOLA NATH VERSUS THE STATE OF JHARKHAND & ORS. | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-95-bhola-nath-versus-the-state-of-jharkhand-ors-521274) |
