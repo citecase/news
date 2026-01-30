@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Fri, 30 Jan 2026 15:35:53 GMT | **LiveLaw** | UGC Regulations Override State Law On Search Committee For University  VC Appointment: Supreme Court | [Read More](https://www.livelaw.in/top-stories/ugc-regulations-override-state-law-on-search-committee-for-university-vc-appointment-supreme-court-521283) |
+| Fri, 30 Jan 2026 15:35:33 GMT | **LiveLaw** | India–EU FTA To Reshape Market Access Across Sectors | [Read More](https://www.livelaw.in/law-firms/law-firm-articles-/indiaeu-fta-reshape-market-access-across-sectors-521282) |
 | Fri, 30 Jan 2026 15:18:23 GMT | **LiveLaw** | UP Cops Resort To 'Half Encounters' To Get Fame, Appreciation: High Court Warns SP/SSPs Of Contempt If SC's Guidelines Violated | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/up-police-encounters-punish-allahabad-high-court-spssp-contempt-action-sc-guidelines-521275) |
 | Fri, 30 Jan 2026 15:10:15 GMT | **Verdictum** | Kerala High Court Lays Down Comprehensive Quarterly Vigilance Reporting Mechanism For Sabarimala & TDB Temples, Stresses Prompt Action | [Read More](https://www.verdictum.in/court-updates/high-courts/kerala-high-court/suo-motu-v-state-of-kerala-2026ker6732-temple-sabrimala-devaswom-board-malpractices-commissioner-1606056) |
 | Fri, 30 Jan 2026 14:31:10 GMT | **LiveLaw** | Supreme Court's Denial Of Bail Under UAPA And The Constitutional Criminalisation Of Dissent | [Read More](https://www.livelaw.in/articles/uapa-constitutional-criminalisation-521117) |
