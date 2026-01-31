@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 31 Jan 2026 14:38:28 GMT | **LiveLaw** | Justice Ravindra Bhat Delivers 5th Dr. B.R. Ambedkar Memorial Lecture At HNLU | [Read More](https://www.livelaw.in/lawschool/news/justice-ravindra-bhat-delivers-5th-dr-br-ambedkar-memorial-lecture-at-hnlu-521352) |
+| Sat, 31 Jan 2026 14:30:38 GMT | **LiveLaw** | Appeal Without Remedy: GST Appellate System's Fatal Flaw | [Read More](https://www.livelaw.in/lawschool/articles/gst-fatal-flaw-appellate-system-521305) |
+| Sat, 31 Jan 2026 14:30:25 GMT | **Verdictum** | PIL Cannot Be Permitted To Become A Vehicle For Selective Challenges: Supreme Court Sets Aside Calcutta HC Order On Khoai Land | [Read More](https://www.verdictum.in/court-updates/supreme-court/ms-aarsuday-projects-infrastructure-p-ltd-v-jogen-chowdhury-2026-insc-93-shantiniketan-rabindranath-tagore-pil-land-approved-project-1606154) |
 | 2026-01-31T14:16:31.590Z | **Bar & Bench** | Delhi High Court grants relief to JioStar, orders blocking of apps, websites illegally streaming Cricket World Cup | [Read More](https://www.barandbench.com/news/delhi-high-court-grants-relief-to-jiostar-orders-blocking-of-apps-websites-illegally-streaming-cricket-world-cup) |
 | 2026-01-31T14:01:11.265Z | **Bar & Bench** | Adopted child entitled to adoptive parents’ caste: Bombay High Court | [Read More](https://www.barandbench.com/news/adopted-child-entitled-to-adoptive-parents-caste-bombay-high-court) |
 | Sat, 31 Jan 2026 13:30:00 GMT | **Verdictum** | Karnataka High Court Mandates 'Peripheral Enquiry' Before Registration Of FIR Against Advocates | [Read More](https://www.verdictum.in/court-updates/high-courts/karnataka-high-court/peripheral-inquiry-registration-fir-lawyers-to-curb-settling-scores-clients-1606168) |
