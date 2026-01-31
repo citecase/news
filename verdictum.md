@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 31 Jan 2026 09:00:52 GMT | **LiveLaw** | 'Can't Remain Silent Spectator': MP High Court Orders Disciplinary Proceedings Against Police Officer For 'Shielding' Accused | [Read More](https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-directs-departmental-disciplinary-proceedings-against-police-officer-for-shielding-accused-521309) |
+| Sat, 31 Jan 2026 09:00:51 GMT | **Verdictum** | Shadow Of Bias In Public Functions Strikes At Root Of Regulated Social Order: Supreme Court Grants Relief To Ex-Army Officer; Imposes Rs 5 Lakh Cost On Centre | [Read More](https://www.verdictum.in/court-updates/supreme-court/captain-pramod-kumar-bajaj-v-union-of-india-2026-insc-101-shadow-bias-public-functions-social-order-ex-army-officer-cost-centre-1606118) |
 | Sat, 31 Jan 2026 08:30:48 GMT | **LiveLaw** | Temple Accounts Digitisation: KITFRA To Place Detailed Statement Before Kerala High Court To Ensure Transparency | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-temple-accounts-digitisation-kitfra-521308) |
 | 2026-01-31T08:46:50.891Z | **Bar & Bench** | Legal Notes by Arvind Datar: Ex debito justitiae and Article 32 | [Read More](https://www.barandbench.com/columns/legal-notes-by-arvind-datar-ex-debito-justitiae-and-article-32) |
 | Sat, 31 Jan 2026 08:14:16 GMT | **LiveLaw** | Law Officer Vacancy At Uttarakhand Subordinate Service Selection Commission | [Read More](https://www.livelaw.in/job-updates/law-officer-vacancy-at-uttarakhand-subordinate-service-selection-commission-521325) |
