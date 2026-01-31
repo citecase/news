@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 31 Jan 2026 15:30:16 GMT | **Verdictum** | Legal Supervisor Vacancy At Delhi Metro Rail Corporation (DMRC) | [Read More](https://www.verdictum.in/job-updates/delhi-metro-rail-corporation-1606155) |
 | Sat, 31 Jan 2026 15:10:43 GMT | **LiveLaw** | Quasi-Judicial Authority Can't Challenge Order Setting Aside Its Own Decision: Kerala High Court Rejects Admission Supervisory Committee's Appeal | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-writ-appeal-kerala-medical-education-521332) |
 | Sat, 31 Jan 2026 15:06:12 GMT | **LiveLaw** | Pillion Rider's Alleged Intoxication No Ground For Contributory Negligence In Accident Cases Without Causal Link: Delhi High Court | [Read More](https://www.livelaw.in/high-court/delhi-high-court/pillion-riders-alleged-intoxication-no-ground-for-contributory-negligence-without-causal-link-delhi-high-court-521337) |
 | Sat, 31 Jan 2026 14:38:28 GMT | **LiveLaw** | Justice Ravindra Bhat Delivers 5th Dr. B.R. Ambedkar Memorial Lecture At HNLU | [Read More](https://www.livelaw.in/lawschool/news/justice-ravindra-bhat-delivers-5th-dr-br-ambedkar-memorial-lecture-at-hnlu-521352) |
