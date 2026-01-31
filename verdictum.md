@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| 2026-01-31T14:16:31.590Z | **Bar & Bench** | Delhi High Court grants relief to JioStar, orders blocking of apps, websites illegally streaming Cricket World Cup | [Read More](https://www.barandbench.com/news/delhi-high-court-grants-relief-to-jiostar-orders-blocking-of-apps-websites-illegally-streaming-cricket-world-cup) |
+| 2026-01-31T14:01:11.265Z | **Bar & Bench** | Adopted child entitled to adoptive parents’ caste: Bombay High Court | [Read More](https://www.barandbench.com/news/adopted-child-entitled-to-adoptive-parents-caste-bombay-high-court) |
 | Sat, 31 Jan 2026 13:30:00 GMT | **Verdictum** | Karnataka High Court Mandates 'Peripheral Enquiry' Before Registration Of FIR Against Advocates | [Read More](https://www.verdictum.in/court-updates/high-courts/karnataka-high-court/peripheral-inquiry-registration-fir-lawyers-to-curb-settling-scores-clients-1606168) |
 | Sat, 31 Jan 2026 13:25:58 GMT | **LiveLaw** | 'Desertion' Under Divorce Act Means Desertion Without Reasonable Cause: Kerala High Court Denies Past Maintenance To Deserting Spouse | [Read More](https://www.livelaw.in/high-court/kerala-high-court/desertion-under-divorce-act-must-be-understood-as-without-reasonable-cause-521339) |
 | Sat, 31 Jan 2026 13:10:26 GMT | **LiveLaw** | State Can't Forfeit EMD After Bid Validity Expires; Show Cause Notice Mandatory: HP High Court Quashes Intas Pharma's Blacklisting | [Read More](https://www.livelaw.in/high-court/himachal-pradesh-high-court/himachal-pradesh-high-court-bid-validity-clause-bidders-stipulated-period-521331) |
