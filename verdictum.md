@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 31 Jan 2026 11:30:21 GMT | **Verdictum** | Substratum Of Disciplinary Proceedings Ceased To Exist Once Complainant Sought To Withdraw Complaint: Supreme Court Allows Advocate’s Appeal | [Read More](https://www.verdictum.in/court-updates/supreme-court/monty-goyal-v-navrang-singh-2026-insc-94-disciplinary-proceedings-complainant-satisfaction-advocate-professional-services-1606149) |
+| 2026-01-31T11:39:18.225Z | **Bar & Bench** | Salman Khan gets relief from Mumbai court in defamation case against Abhinav Kashyap | [Read More](https://www.barandbench.com/news/salman-khan-gets-relief-from-mumbai-court-in-defamation-case-against-abhinav-kashyap) |
 | Sat, 31 Jan 2026 11:08:42 GMT | **LiveLaw** | Auto Rickshaw Permit - After HP High Court Terms 'Self-Driving' Condition Arbitrary, State Relaxes Rules For Widows & Incapacitated Owners | [Read More](https://www.livelaw.in/high-court/himachal-pradesh-high-court/himachal-pradesh-high-court-auto-rickshaw-owners-self-driving-521343) |
 | Sat, 31 Jan 2026 11:00:08 GMT | **LiveLaw** | 'Executive Resolution Cannot Override Recruitment Rules': Delhi High Court Directs Jamia To Consider Assistant Librarians For Promotion | [Read More](https://www.livelaw.in/high-court/delhi-high-court/executive-resolution-cannot-override-recruitment-rules-delhi-high-court-directs-jamia-to-consider-assistant-librarians-for-promotion-521335) |
 | Sat, 31 Jan 2026 10:44:44 GMT | **LiveLaw** | Mumbai Court Restrains Filmmaker Abhinav Kashyap From Making Defamatory Statements Against Actor Salman Khan, His Family | [Read More](https://www.livelaw.in/news-updates/abhinav-kashyap-defamatory-statements-salman-khan-521338) |
