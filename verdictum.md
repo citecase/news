@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 31 Jan 2026 11:08:42 GMT | **LiveLaw** | Auto Rickshaw Permit - After HP High Court Terms 'Self-Driving' Condition Arbitrary, State Relaxes Rules For Widows & Incapacitated Owners | [Read More](https://www.livelaw.in/high-court/himachal-pradesh-high-court/himachal-pradesh-high-court-auto-rickshaw-owners-self-driving-521343) |
+| Sat, 31 Jan 2026 11:00:08 GMT | **LiveLaw** | 'Executive Resolution Cannot Override Recruitment Rules': Delhi High Court Directs Jamia To Consider Assistant Librarians For Promotion | [Read More](https://www.livelaw.in/high-court/delhi-high-court/executive-resolution-cannot-override-recruitment-rules-delhi-high-court-directs-jamia-to-consider-assistant-librarians-for-promotion-521335) |
 | Sat, 31 Jan 2026 10:44:44 GMT | **LiveLaw** | Mumbai Court Restrains Filmmaker Abhinav Kashyap From Making Defamatory Statements Against Actor Salman Khan, His Family | [Read More](https://www.livelaw.in/news-updates/abhinav-kashyap-defamatory-statements-salman-khan-521338) |
 | Sat, 31 Jan 2026 10:30:34 GMT | **LiveLaw** | Similarity In Wrong Answers Or Regional Concentration Of Successful Candidates Not Proof Of Exam Scam: Punjab & Haryana High Court | [Read More](https://www.livelaw.in/high-court/punjab-and-haryana-high-court/cant-cancel-recruitment-similar-wrong-answers-regional-concentration-of-successful-candidates-521313) |
 | Sat, 31 Jan 2026 10:30:22 GMT | **Verdictum** | Petitioner Can't Take Benefit Of Part Of Order And Challenge Rest: Supreme Court Sets Aside Bail Order Containing Impugned Condition To Marry Victim | [Read More](https://www.verdictum.in/court-updates/supreme-court/quashes-bail-order-release-marriage-false-promise-marry-1606137) |
