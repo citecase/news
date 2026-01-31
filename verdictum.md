@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 31 Jan 2026 07:47:12 GMT | **CaseCiter** | Rai Singh Markam etc. v. State of Chhattisgarh - S.6 POCSO Act - Sentencing ; Evidence - Cross Examination - Suggestions | [Read More](https://www.caseciter.com/rai-singh-markam-etc-v-state-of-chhattisgarh/) |
+| Sat, 31 Jan 2026 07:31:08 GMT | **LiveLaw** | Trial Court Erred In Ignoring Grievous Injuries On Neck: Karnataka High Court Convicts Husband For Attempting To Murder Wife Using Machete | [Read More](https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-attempt-to-murder-husband-wife-convict-521301) |
+| Sat, 31 Jan 2026 07:30:00 GMT | **Verdictum** | Deceased Frontline Worker’s Family Entitled To Compensation Under PMGKP Even If Hospital Not Requisitioned As COVID Centre: Bombay High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/bombay-high-court/sunil-shankar-mohite-v-union-of-india-ors-pmgkp-compensation-covid-1606101) |
 | Sat, 31 Jan 2026 07:07:36 GMT | **LiveLaw** | Unproven Treatment Cannot Be Demanded By Patient As A Matter Of Right : Supreme Court | [Read More](https://www.livelaw.in/top-stories/unproven-treatment-cannot-be-demanded-by-patient-as-a-matter-of-right-supreme-court-521315) |
 | Sat, 31 Jan 2026 07:00:32 GMT | **LiveLaw** | Kerala High Court Grants Pre-Arrest Bail To YouTube Channel Editor Booked For Allegedly Obscene Content Involving CM Pinarayi Vijayan | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-bail-pinarayi-vijayan-youtube-channel-obscene-video-saritha-nair-521302) |
 | Sat, 31 Jan 2026 06:50:28 GMT | **Verdictum** | NI Act- Court May Refuse Interim Compensation If Accused’s Defence Is Prima Facie Plausible: Gauhati High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/guwahati-high-court/2026gauas761-sri-madhu-ram-deka-v-state-of-assam-1606093) |
