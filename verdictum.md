@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 31 Jan 2026 10:01:00 GMT | **LiveLaw** | Gauhati High Court Declines Compassionate Appointment Due To Delay But Grants Compensation For 'Arbitrary' Rejection | [Read More](https://www.livelaw.in/high-court/gauhati-high-court/gauhati-high-court-compassionate-appointment-proximate-death-employee-claim-rendered-stale-13-years-521311) |
+| Sat, 31 Jan 2026 09:50:14 GMT | **Verdictum** | Project Turnover Or Cost Can Be Relevant Factor For Computing Environmental Compensation: Supreme Court Upholds NGT Order | [Read More](https://www.verdictum.in/court-updates/supreme-court/ms-rhythm-county-v-the-principal-secretary-2026-insc-102-ngt-environment-compensation-project-value-1606126) |
+| Sat, 31 Jan 2026 09:42:03 GMT | **LiveLaw** | Supreme Court's 'Bulldozer Justice' Verdict Not A Shield For Illegal Constructions: Jharkhand HC Refuses To Stay Demolition In Jamshedpur | [Read More](https://www.livelaw.in/high-court/jharkhand-high-court/jharkhand-high-court-jamshedpur-demolition-bulldozer-justice-521329) |
 | Sat, 31 Jan 2026 09:34:48 GMT | **LiveLaw** | Restitution Of Conjugal Rights - Wife Living Separately For Job Is 'Reasonable Excuse' U/S 9 HMA: Jharkhand High Court Rejects Husband's Appeal | [Read More](https://www.livelaw.in/high-court/jharkhand-high-court/jharkhand-high-court-restitution-conjugal-rights-wife-career-521328) |
 | Sat, 31 Jan 2026 09:33:37 GMT | **LiveLaw** | CJI Surya Kant Calls For Deepening Partnership Between Indian & French Arbitration Centres | [Read More](https://www.livelaw.in/top-stories/cji-surya-kant-calls-for-deepening-partnership-between-indian-french-arbitration-centres-521327) |
 | Sat, 31 Jan 2026 09:30:56 GMT | **LiveLaw** | Anticipatory Bail for Proclaimed Offenders: The Evolution of Law | [Read More](https://www.livelaw.in/articles/anticipatory-bail-law-evolution-521303) |
