@@ -2,6 +2,11 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 31 Jan 2026 05:31:21 GMT | **LiveLaw** | 'Offence Is Horrendous, Heinous': Karnataka High Court Upholds Cancellation Of Rape Accused's Bail For Threatening Survivor, Family | [Read More](https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-rape-accused-survivor-bail-cancelled-threat-521295) |
+| Sat, 31 Jan 2026 05:23:33 GMT | **LiveLaw** | Supreme Court Annual Digest 2025: BNS & IPC | [Read More](https://www.livelaw.in/supreme-court/supreme-court-judgments-and-orders-bns-ipc-annual-digest-2025-521300) |
+| Sat, 31 Jan 2026 05:23:00 GMT | **CaseCiter** | State of U.P. v. Manish Dwivedi - Compassionate Appointment | [Read More](https://www.caseciter.com/state-of-u-p-v-manish-dwivedi-compassionate-appointment/) |
+| Sat, 31 Jan 2026 05:10:05 GMT | **Verdictum** | Supreme Court Urges Union To Enact Legislation To Regulate Stem Cell Therapy For Autism; Calls For National Regulatory Authority | [Read More](https://www.verdictum.in/court-updates/supreme-court/yash-charitable-trust-ors-v-union-of-india-ors-2026-insc-96-autism-disorder-1606082) |
+| Sat, 31 Jan 2026 05:00:47 GMT | **LiveLaw** | Kerala High Court Directs State To Set Up Special NDPS Courts In Three More Districts | [Read More](https://www.livelaw.in/high-court/kerala-high-court/ndps-courts-three-more-districts-thiruvananthapuram-and-ernakulam-521264) |
 | Sat, 31 Jan 2026 04:53:37 GMT | **LiveLaw** | Supreme Court Daily Round-Up : January 30, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-january-30-2026-521294) |
 | Sat, 31 Jan 2026 04:30:44 GMT | **LiveLaw** | The Flaws In India's Approach To Copyright Reform For AI | [Read More](https://www.livelaw.in/articles/copyright-reform-ai-521269) |
 | Sat, 31 Jan 2026 04:30:44 GMT | **LiveLaw** | Non-Disclosure Of Quality & Cost Based Selection Criteria In Tender By Itself Not Enough To Allege Malafides: Gauhati High Court | [Read More](https://www.livelaw.in/high-court/gauhati-high-court/gauhati-high-court-undisclosed-quality-cost-based-selection-criteria-tender-cancel-contract-521245) |
