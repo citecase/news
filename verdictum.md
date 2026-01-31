@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 31 Jan 2026 08:30:48 GMT | **LiveLaw** | Temple Accounts Digitisation: KITFRA To Place Detailed Statement Before Kerala High Court To Ensure Transparency | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-temple-accounts-digitisation-kitfra-521308) |
+| 2026-01-31T08:46:50.891Z | **Bar & Bench** | Legal Notes by Arvind Datar: Ex debito justitiae and Article 32 | [Read More](https://www.barandbench.com/columns/legal-notes-by-arvind-datar-ex-debito-justitiae-and-article-32) |
 | Sat, 31 Jan 2026 08:14:16 GMT | **LiveLaw** | Law Officer Vacancy At Uttarakhand Subordinate Service Selection Commission | [Read More](https://www.livelaw.in/job-updates/law-officer-vacancy-at-uttarakhand-subordinate-service-selection-commission-521325) |
 | Sat, 31 Jan 2026 08:13:51 GMT | **LiveLaw** | No Instant Rewards For UP Cops; Mandatory FIR & Medical Aid For Injured: Allahabad High Court Tightens Noose On 'Encounter Culture' | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-up-police-encounter-guidelines-no-promotions-fir-mandatory-sp-contempt-medical-521322) |
 | Sat, 31 Jan 2026 08:13:01 GMT | **LiveLaw** | Assistant Registrar (Protocol) Vacancy At Armed Forces Tribunal Bench, New Delhi | [Read More](https://www.livelaw.in/job-updates/assistant-registrar-protocolvacancy-at-armed-forces-tribunal-bench-new-delhi-521324) |
