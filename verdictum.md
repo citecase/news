@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 01 Feb 2026 07:50:01 GMT | **LiveLaw** | Steps Taken To Remove Objectionable Social Media Posts Against Justice GR Swaminathan, FIRs Registered : TN DGP Tells Supreme Court | [Read More](https://www.livelaw.in/top-stories/steps-taken-to-remove-objectionable-social-media-posts-against-justice-gr-swaminathan-firs-registered-tn-dgp-tells-supreme-court-521393) |
 | Sun, 01 Feb 2026 07:30:31 GMT | **Verdictum** | Not Proceeded Against For Refund; No Allegations Raised: Supreme Court Restores Land Acquisition Compensation Award In Landowner’s Favour | [Read More](https://www.verdictum.in/court-updates/supreme-court/niraj-jain-v-competent-authority-cum-additional-collector-2026-insc-86-not-proceeded-against-restore-award-landowner-1606159) |
 | Sun, 01 Feb 2026 06:50:17 GMT | **LiveLaw** | No Income Tax On Interest From Motor Accident Compensation : Finance Minister In Union Budget 2026 | [Read More](https://www.livelaw.in/top-stories/no-income-tax-on-interest-from-motor-accident-compensation-finance-minister-in-union-budget-2026-521382) |
 | Sun, 01 Feb 2026 05:29:15 GMT | **LiveLaw** | Union Budget 2026-2027: Follow LiveLaw Biz For Live Updates | [Read More](https://www.livelaw.in/top-stories/union-budget-2026-2027-follow-livelaw-biz-for-live-updates-521377) |
