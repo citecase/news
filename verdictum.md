@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 01 Feb 2026 16:10:22 GMT | **LiveLaw** | Secured Job On Forged Docs? : High Court Orders Scrutiny Of All UP Assistant Teachers In 6 Months; Orders Cancellation, Salary Recovery | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-scrutiny-up-assistant-teachers-forged-documents-salary-recovery-521432) |
 | Sun, 01 Feb 2026 15:45:12 GMT | **LiveLaw** | RGNUL, Punjab Conducts 40-Hour Mediation Training Programme In Collaboration With Supreme Court's MCPC | [Read More](https://www.livelaw.in/lawschool/news/rgnul-punjab-conducts-40-hour-mediation-training-programme-collaboration-supreme-courts-mcpc-521431) |
 | Sun, 01 Feb 2026 15:39:16 GMT | **LiveLaw** | Innovation And Ethics Are Key For AI In Law, Says Cyril Shroff At JGU Public Lecture | [Read More](https://www.livelaw.in/lawschool/news/innovation-ethics-key-ai-law-says-cyril-shroff-jgu-public-lecture-521430) |
 | Sun, 01 Feb 2026 14:32:32 GMT | **LiveLaw** | Measures To Curb Population Growth Unsatisfactory; Dire Steps Needed On War Footing: Orissa High Court | [Read More](https://www.livelaw.in/high-court/orissa-high-court/measures-to-curb-population-growth-unsatisfactory-dire-steps-needed-on-war-footing-orissa-high-court-521426) |
