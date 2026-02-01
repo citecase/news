@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 01 Feb 2026 09:00:57 GMT | **Verdictum** | Unproved Oral Partition Does Not Defeat Daughter’s Coparcenary Rights: Chhattisgarh High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/chhattisgarh-high-court/amrika-bai-v-bhagwati-bai-2026cghc5150-oral-partition-daughter-coparcenary-right-1606160) |
 | Sun, 01 Feb 2026 08:30:45 GMT | **LiveLaw** | Right To Information Act (RTI): All India Annual Digest 2025 | [Read More](https://www.livelaw.in/top-stories/all-india-annual-digest-2025-right-to-information-act-521365) |
 | Sun, 01 Feb 2026 07:50:01 GMT | **LiveLaw** | Steps Taken To Remove Objectionable Social Media Posts Against Justice GR Swaminathan, FIRs Registered : TN DGP Tells Supreme Court | [Read More](https://www.livelaw.in/top-stories/steps-taken-to-remove-objectionable-social-media-posts-against-justice-gr-swaminathan-firs-registered-tn-dgp-tells-supreme-court-521393) |
 | Sun, 01 Feb 2026 07:30:31 GMT | **Verdictum** | Not Proceeded Against For Refund; No Allegations Raised: Supreme Court Restores Land Acquisition Compensation Award In Landowner’s Favour | [Read More](https://www.verdictum.in/court-updates/supreme-court/niraj-jain-v-competent-authority-cum-additional-collector-2026-insc-86-not-proceeded-against-restore-award-landowner-1606159) |
