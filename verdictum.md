@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 01 Feb 2026 13:30:10 GMT | **Verdictum** | Pension Is a Vested Right, Not Government's Bounty: Bombay High Court Upholds Disability Pension to Armed Forces Personnel | [Read More](https://www.verdictum.in/court-updates/high-courts/bombay-high-court/union-of-india-v-lt-col-sk-rathore-2026bhc-as3699-db-disability-army-field-posting-peace-posting-diabetes-hypertension-1606177) |
 | Sun, 01 Feb 2026 12:00:50 GMT | **Verdictum** | Wife’s Insistence To Continue Her Job Is Valid Reason For Desertion: Jharkhand High Court Upholds Order Dismissing Husband's Plea For Restitution Of Conjugal Rights | [Read More](https://www.verdictum.in/court-updates/high-courts/jharkhand-high-court/2026jhhc2356db-xxxx-v-yyyy-1606176) |
 | Sun, 01 Feb 2026 10:30:05 GMT | **Verdictum** | Failure To Consider Bail Orders Vitiates Subjective Satisfaction: Punjab & Haryana High Court Sets Aside Detention Under PITNDPS Act | [Read More](https://www.verdictum.in/court-updates/high-courts/punjab-and-haryana-high-court/gurnam-singh-gama-v-state-of-haryana-2024phhc126063-bail-orders-detaining-authority-subjective-satisfaction-pitndps-act-1606169) |
 | Sun, 01 Feb 2026 09:00:57 GMT | **Verdictum** | Unproved Oral Partition Does Not Defeat Daughter’s Coparcenary Rights: Chhattisgarh High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/chhattisgarh-high-court/amrika-bai-v-bhagwati-bai-2026cghc5150-oral-partition-daughter-coparcenary-right-1606160) |
