@@ -2,6 +2,15 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 01 Feb 2026 05:05:50 GMT | **LiveLaw** | Assistant Legal Officer Vacancy At Navi Mumbai Municipal Corporation | [Read More](https://www.livelaw.in/job-updates/assistant-legal-officer-vacancy-at-navi-mumbai-municipal-corporation-521375) |
+| Sun, 01 Feb 2026 05:03:54 GMT | **LiveLaw** | Joint Director (Investigation) Vacancy At Serious Fraud Investigation Office (SFIO) | [Read More](https://www.livelaw.in/job-updates/joint-director-investigation-vacancy-at-serious-fraud-investigation-office-521374) |
+| Sun, 01 Feb 2026 05:01:33 GMT | **LiveLaw** | Case Worker Vacancy At Sakhi-One Stop Centre (OSC), Udalguri, Assam | [Read More](https://www.livelaw.in/job-updates/case-worker-vacancy-at-sakhi-one-stop-centre-osc-udalguri-assam-521373) |
+| Sun, 01 Feb 2026 04:59:17 GMT | **LiveLaw** | Officer (Legal) Vacancy At HMT Machine Tools Limited | [Read More](https://www.livelaw.in/job-updates/officer-legal-vacancy-at-hmt-machine-tools-limited-521372) |
+| Sun, 01 Feb 2026 04:58:12 GMT | **LiveLaw** | Asset Recovery Executive Vacancy At Induslnd Bank [Vellore; Apply Now] | [Read More](https://www.livelaw.in/job-updates/asset-recovery-executive-vacancy-at-induslnd-bank-vellore-521371) |
+| Sun, 01 Feb 2026 04:30:16 GMT | **LiveLaw** | PMLA: All India Annual Digest 2025 | [Read More](https://www.livelaw.in/top-stories/all-india-annual-digest-2025-pmla-521364) |
+| Sun, 01 Feb 2026 04:30:13 GMT | **Verdictum** | Kerala High Court Quashes Land Assignment Order Based On ‘Illegal’ Compromise; Protects Rights Of Pendente Lite Purchasers | [Read More](https://www.verdictum.in/court-updates/high-courts/kerala-high-court/2026ker4115-manoj-v-the-district-collector-thiruvananthapuram-1606157) |
+| Sat, 31 Jan 2026 16:06:59 GMT | **LiveLaw** | 2026 LiveLaw (SC) 98 -  M/S. RHYTHM COUNTY VERSUS SATISH SANJAY HEGDE & ORS. | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-98-ms-rhythm-county-versus-satish-sanjay-hegde-ors-521361) |
+| 2026-02-01T04:43:48.655Z | **Bar & Bench** | [Commercial Law Monologues] Liquidated damages: On whom does the burden of proof lie? | [Read More](https://www.barandbench.com/columns/commercial-law-monologues-liquidated-damages-on-whom-does-the-burden-of-proof-lie) |
 | Sat, 31 Jan 2026 16:04:27 GMT | **LiveLaw** | Polluting Company's Turnover Can Be Relevant Factor To Determine Environment Damage Compensation : Supreme Court | [Read More](https://www.livelaw.in/supreme-court/polluting-companys-turnover-can-be-relevant-factor-to-determine-environment-damage-compensation-supreme-court-521360) |
 | Sat, 31 Jan 2026 15:30:16 GMT | **Verdictum** | Legal Supervisor Vacancy At Delhi Metro Rail Corporation (DMRC) | [Read More](https://www.verdictum.in/job-updates/delhi-metro-rail-corporation-1606155) |
 | Sat, 31 Jan 2026 15:10:43 GMT | **LiveLaw** | Quasi-Judicial Authority Can't Challenge Order Setting Aside Its Own Decision: Kerala High Court Rejects Admission Supervisory Committee's Appeal | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-writ-appeal-kerala-medical-education-521332) |
