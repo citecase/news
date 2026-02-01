@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 01 Feb 2026 15:45:12 GMT | **LiveLaw** | RGNUL, Punjab Conducts 40-Hour Mediation Training Programme In Collaboration With Supreme Court's MCPC | [Read More](https://www.livelaw.in/lawschool/news/rgnul-punjab-conducts-40-hour-mediation-training-programme-collaboration-supreme-courts-mcpc-521431) |
+| Sun, 01 Feb 2026 15:39:16 GMT | **LiveLaw** | Innovation And Ethics Are Key For AI In Law, Says Cyril Shroff At JGU Public Lecture | [Read More](https://www.livelaw.in/lawschool/news/innovation-ethics-key-ai-law-says-cyril-shroff-jgu-public-lecture-521430) |
+| Sun, 01 Feb 2026 14:32:32 GMT | **LiveLaw** | Measures To Curb Population Growth Unsatisfactory; Dire Steps Needed On War Footing: Orissa High Court | [Read More](https://www.livelaw.in/high-court/orissa-high-court/measures-to-curb-population-growth-unsatisfactory-dire-steps-needed-on-war-footing-orissa-high-court-521426) |
 | Sun, 01 Feb 2026 15:00:38 GMT | **Verdictum** | Bombay High Court Invites Applications For The Post Of District Judges | [Read More](https://www.verdictum.in/job-updates/bombay-high-court-1606161) |
 | Sun, 01 Feb 2026 14:23:52 GMT | **LiveLaw** | Delhi High Court Weekly Round-Up: January 26 To February 01, 2026 | [Read More](https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-weekly-round-up-january-26-to-february-01-2026-521425) |
 | Sun, 01 Feb 2026 14:15:38 GMT | **LiveLaw** | Mamata Banerjee Files Writ Petition In Supreme Court Against Election Commission Over West Bengal SIR Process | [Read More](https://www.livelaw.in/top-stories/mamata-banerjee-files-writ-petition-in-supreme-court-against-election-commission-over-west-bengal-sir-process-521424) |
