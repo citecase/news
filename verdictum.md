@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 01 Feb 2026 06:00:39 GMT | **Verdictum** | "Bulldozer Justice" Verdict Of Supreme Court Cannot Shield Illegal Constructions: Jharkhand High Court Declines Stay On Jamshedpur Demolitions | [Read More](https://www.verdictum.in/court-updates/high-courts/jharkhand-high-court/rakesh-kumar-jha-v-the-state-of-jharkhand-bulldozer-justice-illegal-construction-1606158) |
 | Sun, 01 Feb 2026 05:05:50 GMT | **LiveLaw** | Assistant Legal Officer Vacancy At Navi Mumbai Municipal Corporation | [Read More](https://www.livelaw.in/job-updates/assistant-legal-officer-vacancy-at-navi-mumbai-municipal-corporation-521375) |
 | Sun, 01 Feb 2026 05:03:54 GMT | **LiveLaw** | Joint Director (Investigation) Vacancy At Serious Fraud Investigation Office (SFIO) | [Read More](https://www.livelaw.in/job-updates/joint-director-investigation-vacancy-at-serious-fraud-investigation-office-521374) |
 | Sun, 01 Feb 2026 05:01:33 GMT | **LiveLaw** | Case Worker Vacancy At Sakhi-One Stop Centre (OSC), Udalguri, Assam | [Read More](https://www.livelaw.in/job-updates/case-worker-vacancy-at-sakhi-one-stop-centre-osc-udalguri-assam-521373) |
