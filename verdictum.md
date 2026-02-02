@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| 2026-02-02T04:05:06.930Z | **Bar & Bench** | Bar Association can't conduct POSH Act inquiries: Kerala HC quashes sexual harassment inquiry against lawyer | [Read More](https://www.barandbench.com/news/bar-association-cant-conduct-posh-act-inquiries-kerala-hc-quashes-sexual-harassment-inquiry-against-lawyer) |
+| 2026-02-02T03:36:15.889Z | **Bar & Bench** | Gold medal not a legal right of a student, eligibility decided by academic authorities: Madras High Court | [Read More](https://www.barandbench.com/news/litigation/gold-medal-not-a-legal-right-of-a-student-eligibility-decided-by-academic-authorities-madras-high-court) |
 | Sun, 01 Feb 2026 16:10:22 GMT | **LiveLaw** | Secured Job On Forged Docs? : High Court Orders Scrutiny Of All UP Assistant Teachers In 6 Months; Orders Cancellation, Salary Recovery | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-scrutiny-up-assistant-teachers-forged-documents-salary-recovery-521432) |
 | Sun, 01 Feb 2026 15:45:12 GMT | **LiveLaw** | RGNUL, Punjab Conducts 40-Hour Mediation Training Programme In Collaboration With Supreme Court's MCPC | [Read More](https://www.livelaw.in/lawschool/news/rgnul-punjab-conducts-40-hour-mediation-training-programme-collaboration-supreme-courts-mcpc-521431) |
 | Sun, 01 Feb 2026 15:39:16 GMT | **LiveLaw** | Innovation And Ethics Are Key For AI In Law, Says Cyril Shroff At JGU Public Lecture | [Read More](https://www.livelaw.in/lawschool/news/innovation-ethics-key-ai-law-says-cyril-shroff-jgu-public-lecture-521430) |
