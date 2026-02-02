@@ -2,6 +2,10 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Mon, 02 Feb 2026 15:28:08 GMT | **LiveLaw** | NLIU Bhopal's CFMRS Invites Blog Submissions | [Read More](https://www.livelaw.in/lawschool/call-for-papers/nliu-bhopals-cfmrs-invites-blog-submissions-521582) |
+| Mon, 02 Feb 2026 15:10:00 GMT | **Verdictum** | Transfer Pleas Based on Aspersions Against Judges Are Plain Subterfuge: Punjab & Haryana HC Slams Forum Hunting, Imposes ₹50,000 Costs | [Read More](https://www.verdictum.in/court-updates/high-courts/punjab-and-haryana-high-court/dinesh-chand-bansal-v-state-of-haryana-2026phhc013845-trial-court-pressure-judges-forum-shopping-1606327) |
+| Mon, 02 Feb 2026 15:05:53 GMT | **LiveLaw** | Labour Court Cannot Adjudicate Legality Of Closure Under ID Act When Reference Is Confined To Justification Of Retrenchment: Kerala High Court | [Read More](https://www.livelaw.in/high-court/kerala-high-court/labour-court-cannot-adjudicate-reference-confined-justification-retrenchment-521576) |
+| Mon, 02 Feb 2026 14:48:45 GMT | **LiveLaw** | 2026 LiveLaw (SC) 101 - RAJIA BEGUM VERSUS BARNALI MUKHERJEE | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-101-rajia-begum-versus-barnali-mukherjee-521580) |
 | Mon, 02 Feb 2026 14:47:44 GMT | **LiveLaw** | When Arbitration Agreement Is Alleged To Be Forged, Dispute Is Not Arbitrable : Supreme Court | [Read More](https://www.livelaw.in/supreme-court/when-arbitration-agreement-is-alleged-to-be-forged-dispute-is-not-arbitrable-supreme-court-521578) |
 | Mon, 02 Feb 2026 14:34:05 GMT | **LiveLaw** | Insurance Companies Must Show High Level Of Professionalism & Diligence While Vetting Application For Porting Policy: Bombay High Court | [Read More](https://www.livelaw.in/high-court/bombay-high-court/insurance-companies-must-show-high-level-of-professionalism-diligence-while-vetting-application-for-porting-policy-bombay-high-court-521575) |
 | Mon, 02 Feb 2026 14:30:49 GMT | **LiveLaw** | Trump Tariffs And The Challenge Before The Supreme Court Of The United States | [Read More](https://www.livelaw.in/articles/trump-united-states-supreme-court-521520) |
