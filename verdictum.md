@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Mon, 02 Feb 2026 16:35:35 GMT | **LiveLaw** | Supreme Court Daily Round-Up : February 2, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-february-2-2026-521581) |
 | Mon, 02 Feb 2026 16:32:49 GMT | **LiveLaw** | 'Punitive Demolitions Persist In UP Despite SC Ban': Allahabad High Court Asks If State Action Is A 'Colourable Exercise' Of Power | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-punitive-demolitions-continue-up-bulldozer-justice-questions-521586) |
 | Mon, 02 Feb 2026 16:13:55 GMT | **LiveLaw** | Telangana State Legal Services Authority Conducts Sensitisation Programme On Protection Of Women And Children At Kamareddy | [Read More](https://www.livelaw.in/events/telangana-state-legal-services-authority-conducts-sensitisation-programme-on-protection-of-women-and-children-at-kamareddy-521585) |
 | Mon, 02 Feb 2026 16:06:09 GMT | **LiveLaw** | Court's Pendency Can't Justify Delay In Filing Review: Bombay High Court Declines To Condone 645-Day Delay | [Read More](https://www.livelaw.in/high-court/bombay-high-court/courts-pendency-cant-justify-delay-in-filing-review-bombay-high-court-declines-to-condone-645-day-delay-521584) |
