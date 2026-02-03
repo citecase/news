@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Tue, 03 Feb 2026 16:40:55 GMT | **LiveLaw** | Supreme Court Daily Round-Up : February 3, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-february-3-2026-521745) |
+| 2026-02-03T16:51:31.436Z | **Bar & Bench** | West Bengal CM Mamata Banerjee to appear in Supreme Court tomorrow to argue SIR case | [Read More](https://www.barandbench.com/news/litigation/west-bengal-cm-mamata-banerjee-to-appear-in-supreme-court-tomorrow-to-argue-sir-case) |
 | Tue, 03 Feb 2026 16:00:47 GMT | **Verdictum** | Legal Consultant Vacancy At Department Of Space | [Read More](https://www.verdictum.in/job-updates/department-of-space-1606436) |
 | Tue, 03 Feb 2026 15:58:00 GMT | **LiveLaw** | Data Reveals UP Police Acted On Less Than 9% Of 1.08 Lakh Missing Person Complaints Since 2024: 'Aghast' High Court Registers PIL | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-up-police-less-than-9-108-lakh-missing-person-complaints-aghast-registers-pil-521746) |
 | Tue, 03 Feb 2026 15:47:00 GMT | **LiveLaw** | 2026 LiveLaw (SC) 107 -  KM Shaji v. MV Nikesh Kumar | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-107-km-shaji-v-mv-nikesh-kumar-521742) |
