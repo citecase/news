@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Wed, 04 Feb 2026 17:05:25 GMT | **LiveLaw** | Supreme Court Daily Round-Up : February 4, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-february-4-2026-521916) |
+| 2026-02-04T16:14:14.200Z | **Bar & Bench** | Supreme Court allows Uttarakhand judicial officer to appear for Himachal Pradesh Judicial Service exam | [Read More](https://www.barandbench.com/news/litigation/supreme-court-allows-uttarakhand-judicial-officer-to-appear-for-himachal-pradesh-judicial-service-exam) |
 | Wed, 04 Feb 2026 16:00:35 GMT | **Verdictum** | Likely To Confuse Consumers: Delhi HC Restrains Dabur From Using Deceptively Similar Packaging to Emami Ayurvedic Hair Oil | [Read More](https://www.verdictum.in/court-updates/high-courts/delhi-high-court/emami-limited-v-dabur-india-limited-2026dhc785-trademark-ayurvedic-oil-red-bottle-deceptive-words-1606551) |
 | Wed, 04 Feb 2026 15:47:43 GMT | **LiveLaw** | Court's Permission Necessary For Further Investigation After Filing Final Report : Supreme Court | [Read More](https://www.livelaw.in/supreme-court/courts-permission-necessary-for-further-investigation-supreme-court-1738-crpc-1939-bnss-521915) |
 | Wed, 04 Feb 2026 15:35:02 GMT | **LiveLaw** | Trader Storing Any Item In Refrigerator Is Not Manufacturing Process, Doesn't Make Its Premises A Factory: Bombay High Court | [Read More](https://www.livelaw.in/high-court/bombay-high-court/trader-storing-any-item-in-refrigerator-is-not-manufacturing-process-doesnt-make-its-premises-a-factory-bombay-high-court-521913) |
