@@ -2,6 +2,11 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Thu, 05 Feb 2026 04:01:14 GMT | **LiveLaw** | 'Manifestly Unreasonable, Arbitrary': Delhi High Court Strikes Down Blanket Ban On Migration Of MBBS Students | [Read More](https://www.livelaw.in/high-court/delhi-high-court/ban-on-migration-of-mbbs-students-college-set-aside-521922) |
+| Thu, 05 Feb 2026 03:45:41 GMT | **LiveLaw** | Kerala High Court Mulls Introduction Of Spot Booking Passes & Virtual Queue For Monthly Poojas In Sabarimala | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-sabarimala-virtual-q-spot-booking-monthly-pooja-521928) |
+| Thu, 05 Feb 2026 03:31:10 GMT | **LiveLaw** | Plea In Delhi High Court Seeks Stay On Netflix Show 'Ghooskhor Pandat', Alleges Collective Defamation Of Brahmin Community | [Read More](https://www.livelaw.in/high-court/delhi-high-court/netflix-show-ghooskhor-pandat-challenged-defame-brahmins-521921) |
+| Thu, 05 Feb 2026 03:22:19 GMT | **LiveLaw** | TLH, Advocates & Solicitors Announces Joining Of Mathew George As Of Counsel | [Read More](https://www.livelaw.in/law-firms/professional-announcement/tlh-advocates-solicitors-announces-joining-mathew-george-as-of-counsel-521926) |
+| 2026-02-05T03:54:49.485Z | **Bar & Bench** | CCI orders probe into IndiGo over flight cancellations, fare surge | [Read More](https://www.barandbench.com/news/litigation/cci-orders-probe-into-indigo-over-flight-cancellations-fare-surge) |
 | Wed, 04 Feb 2026 17:05:25 GMT | **LiveLaw** | Supreme Court Daily Round-Up : February 4, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-february-4-2026-521916) |
 | 2026-02-04T16:14:14.200Z | **Bar & Bench** | Supreme Court allows Uttarakhand judicial officer to appear for Himachal Pradesh Judicial Service exam | [Read More](https://www.barandbench.com/news/litigation/supreme-court-allows-uttarakhand-judicial-officer-to-appear-for-himachal-pradesh-judicial-service-exam) |
 | Wed, 04 Feb 2026 16:00:35 GMT | **Verdictum** | Likely To Confuse Consumers: Delhi HC Restrains Dabur From Using Deceptively Similar Packaging to Emami Ayurvedic Hair Oil | [Read More](https://www.verdictum.in/court-updates/high-courts/delhi-high-court/emami-limited-v-dabur-india-limited-2026dhc785-trademark-ayurvedic-oil-red-bottle-deceptive-words-1606551) |
