@@ -2,6 +2,12 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Fri, 06 Feb 2026 04:09:49 GMT | **LiveLaw** | No Juvenile Rehab Infra In UP? Allahabad High Court Says JJ Act 'Frustrated', Moots Role Of Schools, Teachers | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-juvenile-rehab-infra-up-jj-act-frustrated-schools-teachers-522093) |
+| Fri, 06 Feb 2026 04:05:40 GMT | **LiveLaw** | Supreme Court To Examine If Pupil -Teacher Ratio Fixed In Maharashtra Is Contrary To RTE Act | [Read More](https://www.livelaw.in/top-stories/supreme-court-to-examine-if-pupil-teacher-ratio-fixed-in-maharashtra-is-contrary-to-rte-act-522063) |
+| Fri, 06 Feb 2026 04:05:38 GMT | **LiveLaw** | Over 42,000 Cases Referred For Mediation In Kerala Under 'Mediation For The Nation 2.0' | [Read More](https://www.livelaw.in/high-court/kerala-high-court/42000-cases-mediation-kerala-under-mediation-for-the-nation-2-522090) |
+| Fri, 06 Feb 2026 04:04:21 GMT | **LiveLaw** | 'Youngsters May Cultivate Hatred': Karnataka Govt Opposes Quashing Of Hate Speech FIR Against RSS Leader | [Read More](https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-hate-speech-rss-leader-fir-quash-522088) |
+| 2026-02-06T04:08:33.130Z | **Bar & Bench** | Jharkhand High Court orders FIR over children being given HIV-infected blood during transfusions | [Read More](https://www.barandbench.com/news/litigation/jharkhand-high-court-orders-fir-over-children-being-given-hiv-infected-blood-during-transfusions) |
+| 2026-02-06T03:08:05.934Z | **Bar & Bench** | UPI on Internet of Things | [Read More](https://www.barandbench.com/view-point/upi-on-internet-of-things) |
 | Thu, 05 Feb 2026 17:00:24 GMT | **LiveLaw** | Ex-Serviceman Re-Employed On Contractual Basis Not Entitled To Civil Pension: Punjab & Haryana High Court | [Read More](https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-ex-serviceman-re-employed-on-contractual-basis-not-entitled-to-civil-pension-522075) |
 | Thu, 05 Feb 2026 16:55:54 GMT | **LiveLaw** | 'Every Movie May Be Inspired By Some Real Story': Kerala HC Remarks In Plea To Stall Film Allegedly Based On Venjaramoodu Mass Murder Case | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-venjaramoodu-mass-murder-case-movie-release-522081) |
 | Thu, 05 Feb 2026 16:50:53 GMT | **LiveLaw** | Supreme Court Daily Round-Up : February 5, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-february-5-2026-522067) |
