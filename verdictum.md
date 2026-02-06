@@ -2,6 +2,11 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Fri, 06 Feb 2026 16:19:36 GMT | **LiveLaw** | J&K&L High Court Stays Defamation Proceedings Against Film Director Aditya Dhar Over 'Article 370' Movie | [Read More](https://www.livelaw.in/high-court/jammu-kashmir/director-aditya-dhar-article-370-defamation-case-stayed-522230) |
+| Fri, 06 Feb 2026 16:05:53 GMT | **LiveLaw** | Supreme Court Daily Round-Up : February 6, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-february-6-2026-522228) |
+| Fri, 06 Feb 2026 16:00:04 GMT | **Verdictum** | Damodaram Sanjivayya National Law University (DSNLU) Invites Applications For Faculty Posts | [Read More](https://www.verdictum.in/job-updates/damodaram-sanjivayya-national-law-university-1606733) |
+| Fri, 06 Feb 2026 15:52:48 GMT | **LiveLaw** | Supreme Court Sets Aside Gujarat High Court Order For Recovery Of 108 Hectares Gauchar Land Allotted To Adani Ports For SEZ | [Read More](https://www.livelaw.in/top-stories/supreme-court-sets-aside-gujarat-high-court-order-for-recovery-of-108-hectares-gauchar-land-allotted-to-adani-ports-for-sez-522224) |
+| Fri, 06 Feb 2026 15:06:14 GMT | **LiveLaw** | Plea In Supreme Court Challenges BNSS Provisions Allowing Judicial Officers To Head Directorate Of Prosecution | [Read More](https://www.livelaw.in/top-stories/plea-in-supreme-court-challenges-bnss-provisions-allowing-judicial-officers-to-head-directorate-of-prosecution-522221) |
 | Fri, 06 Feb 2026 15:30:36 GMT | **Verdictum** | Orissa High Court Restrains Media From Publishing Allegations Made Against Advocate General By A Litigant Police Officer | [Read More](https://www.verdictum.in/court-updates/supreme-court/wpc-no-34769-of-2022-sasmita-sahoo-v-state-of-odisha-1606743) |
 | Fri, 06 Feb 2026 15:00:39 GMT | **Verdictum** | Delhi High Court Directs Its Registrar General To Consider Formulation Of Child Access & Custody Guidelines | [Read More](https://www.verdictum.in/court-updates/high-courts/delhi-high-court/ayushman-initiative-for-child-rights-child-access-custody-guidelines-1606742) |
 | Fri, 06 Feb 2026 14:39:53 GMT | **LiveLaw** | Supreme Court Annual Digest 2025: Rent Control & Eviction | [Read More](https://www.livelaw.in/supreme-court/supreme-court-judgments-and-orders-rent-control-eviction-cases-annual-digests-2025-522220) |
