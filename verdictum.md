@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Fri, 06 Feb 2026 15:30:36 GMT | **Verdictum** | Orissa High Court Restrains Media From Publishing Allegations Made Against Advocate General By A Litigant Police Officer | [Read More](https://www.verdictum.in/court-updates/supreme-court/wpc-no-34769-of-2022-sasmita-sahoo-v-state-of-odisha-1606743) |
+| Fri, 06 Feb 2026 15:00:39 GMT | **Verdictum** | Delhi High Court Directs Its Registrar General To Consider Formulation Of Child Access & Custody Guidelines | [Read More](https://www.verdictum.in/court-updates/high-courts/delhi-high-court/ayushman-initiative-for-child-rights-child-access-custody-guidelines-1606742) |
 | Fri, 06 Feb 2026 14:39:53 GMT | **LiveLaw** | Supreme Court Annual Digest 2025: Rent Control & Eviction | [Read More](https://www.livelaw.in/supreme-court/supreme-court-judgments-and-orders-rent-control-eviction-cases-annual-digests-2025-522220) |
 | Fri, 06 Feb 2026 14:30:09 GMT | **Verdictum** | Supreme Court Asks Delhi Police Commissioner To Ensure Presence Of Lawyer For Making 'Scandalous' Remarks | [Read More](https://www.verdictum.in/court-updates/supreme-court/supreme-court-asks-delhi-police-commissioner-to-ensure-presence-of-lawyer-for-making-scandalous-remarks-1606736) |
 | Fri, 06 Feb 2026 14:02:56 GMT | **LiveLaw** | Should News Reports Be Deleted On Discharge Of Accused? Supreme Court To Examine Scope Of 'Right To Be Forgotten' | [Read More](https://www.livelaw.in/top-stories/should-news-reports-be-deleted-on-discharge-of-accused-supreme-court-to-examine-scope-of-right-to-be-forgotten-522218) |
