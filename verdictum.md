@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 07 Feb 2026 14:05:07 GMT | **LiveLaw** | No Death Penalty Confirmed By Supreme Court In Last Ten Years : Study | [Read More](https://www.livelaw.in/top-stories/no-death-penalty-confirmed-by-supreme-court-in-last-ten-years-study-522313) |
+| Sat, 07 Feb 2026 13:50:49 GMT | **Verdictum** | Woman In Live-In Relationship With Married Man Treated As Concubine: Bombay HC Refuses Domestic Violence Act Protection To Student Against Professor | [Read More](https://www.verdictum.in/court-updates/high-courts/bombay-high-court/x-v-y-2026bhc-as848-domestic-violence-man-relationship-live-in-1606834) |
+| 2026-02-07T14:09:24.983Z | **Bar & Bench** | From ‘rizz’ to ‘rights’: When slang meets black letter law | [Read More](https://www.barandbench.com/columns/from-rizz-to-rights-when-slang-meets-black-letter-law) |
 | Sat, 07 Feb 2026 13:24:36 GMT | **LiveLaw** | State Authorities Bound To Register Marriages Solemnized Under Christian Marriage Act; Rajasthan 2009 Law No Bar: High Court | [Read More](https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-hc-state-authorities-bound-register-marriages-christian-marriage-act-2009-law-522310) |
 | Sat, 07 Feb 2026 13:10:47 GMT | **Verdictum** | Kerala High Court Orders Closure Of Unrecognized School Teaching Quran And Allied Subjects | [Read More](https://www.verdictum.in/court-updates/high-courts/kerala-high-court/2026ker9078-moithunnykutty-v-district-collector-1606833) |
 | Sat, 07 Feb 2026 13:05:28 GMT | **LiveLaw** | Managing Director Who Signed Dishonoured Cheques & Handled Day-To-Day Affairs Vicariously Liable U/S 141 NI Act: Kerala High Court | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-vicarious-liability-cheque-dishonour-company-522277) |
