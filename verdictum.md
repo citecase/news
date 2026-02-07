@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 07 Feb 2026 09:00:04 GMT | **Verdictum** | Jammu & Kashmir And Ladakh High Court Stays Proceedings Against 'Article 370' Director Aditya Dhar In Defamation Complaint | [Read More](https://www.verdictum.in/court-updates/high-courts/jammu-ladakh-high-court/aditya-dhar-v-ghulam-mohammad-shah-crlm-no-722026-in-crmm-no-362026-1606806) |
 | Sat, 07 Feb 2026 08:54:23 GMT | **LiveLaw** | Supreme Court Annual Digest 2025: Juvenile Justice Act | [Read More](https://www.livelaw.in/supreme-court/supreme-court-judgments-and-orders-juvenile-justice-act-annual-digest-2025-522293) |
 | Sat, 07 Feb 2026 08:48:01 GMT | **LiveLaw** | Allahabad High Court Imposes ₹1 Lakh Cost Over 'Reckless' Claim That Judge Issued NBW On An Advocate's Persuasion | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-1-lakh-cost-trial-judge-nbw-advocate-persuasion-522292) |
 | Sat, 07 Feb 2026 08:37:40 GMT | **LiveLaw** | Delhi State Consumer Commission Holds DDA Liable For Wrongful Fee Collection, Orders Rs. 20,000 Deposit In Consumer Welfare Fund | [Read More](https://www.livelaw.in/consumer-cases/delhi-state-consumer-commission-holds-dda-liable-for-wrongful-fee-collection-orders-rs-20000-deposit-in-consumer-welfare-fund-522291) |
