@@ -2,6 +2,11 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 07 Feb 2026 11:30:40 GMT | **LiveLaw** | Understanding Secondment Under The GST Regime In India | [Read More](https://www.livelaw.in/lawschool/articles/gst-regime-show-cause-notices-522246) |
+| Sat, 07 Feb 2026 11:28:42 GMT | **LiveLaw** | Delhi High Court Protects Personality Rights Of Actor Vivek Oberoi, Restrains Unauthorized Deepfake & Persona Misuse | [Read More](https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-protects-personality-rights-of-actor-vivek-oberoi-restrains-unauthorized-deepfake-persona-misuse-522301) |
+| 2026-02-07T11:43:05.871Z | **Bar & Bench** | Kolkata influencer Shamik Adhikary remanded to police custody in rape and assault case | [Read More](https://www.barandbench.com/news/litigation/kolkata-influencer-shamik-adhikary-remanded-to-police-custody-in-rape-and-assault-case) |
+| 2026-02-07T11:22:11.897Z | **Bar & Bench** | SAM advises Hindustan Petroleum on $3 Billion LNG Agreement with ADNOC Gas Subsidiary | [Read More](https://www.barandbench.com/dealstreet/sam-advises-hindustan-petroleum-on-3-billion-lng-agreement-with-adnoc-gas-subsidiary) |
+| 2026-02-07T11:20:38.563Z | **Bar & Bench** | Trilegal advises Muthoot Finance on issuance of $600 million bond listed on Gift City | [Read More](https://www.barandbench.com/dealstreet/trilegal-advises-muthoot-finance-on-issuance-of-600-million-bond-listed-on-gift-city) |
 | Sat, 07 Feb 2026 11:00:37 GMT | **LiveLaw** | Kerala High Court Expresses 'Exasperation' Over Reappearing Illegal Poles & Flags, Orders Statewide Drive To Prevent Reoccurrence | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-reappearing-illegal-poles-and-flags-orders-statewide-comprehensive-drive-522261) |
 | 2026-02-07T11:16:11.695Z | **Bar & Bench** | CMS INDUSLAW acts on The Whole Truth $51 million Series D fundraise | [Read More](https://www.barandbench.com/dealstreet/cms-induslaw-acts-on-the-whole-truth-51-million-series-d-fundraise) |
 | 2026-02-07T11:15:39.551Z | **Bar & Bench** | Between proposal and promise: Contract formation in international football | [Read More](https://www.barandbench.com/view-point/between-proposal-and-promise-contract-formation-in-international-football) |
