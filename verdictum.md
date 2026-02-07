@@ -2,6 +2,10 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 07 Feb 2026 12:30:24 GMT | **Verdictum** | For Perpetual Injunction Plaintiff Must Prove Actual Possession Of Property On Date Of Filing Of Suit: Supreme Court | [Read More](https://www.verdictum.in/court-updates/supreme-court/2026-insc-133-kanta-v-soma-devi-perpetual-injunction-possession-date-of-filing-of-suit-1606832) |
+| Sat, 07 Feb 2026 12:05:17 GMT | **LiveLaw** | Orissa High Court Orders Creation Of State Level Task Force For Checking Misuse Of 'State Emblem', Issues Directions | [Read More](https://www.livelaw.in/high-court/orissa-high-court/orissa-high-court-state-level-task-force-state-emblem-misuse-522276) |
+| Sat, 07 Feb 2026 11:59:59 GMT | **Verdictum** | Supreme Court Grants Bail To Woman Accused Of Misrepresenting As An Advocate And Duping Clients | [Read More](https://www.verdictum.in/court-updates/supreme-court/grants-bail-woman-accused-posing-advocate-duping-clients-1606830) |
+| 2026-02-07T12:36:22.754Z | **Bar & Bench** | Criminal law must not be used to turn failed relationships into rape cases: Supreme Court | [Read More](https://www.barandbench.com/news/criminal-law-must-not-be-used-to-turn-failed-relationships-into-rape-cases-supreme-court) |
 | Sat, 07 Feb 2026 11:30:40 GMT | **LiveLaw** | Understanding Secondment Under The GST Regime In India | [Read More](https://www.livelaw.in/lawschool/articles/gst-regime-show-cause-notices-522246) |
 | Sat, 07 Feb 2026 11:28:42 GMT | **LiveLaw** | Delhi High Court Protects Personality Rights Of Actor Vivek Oberoi, Restrains Unauthorized Deepfake & Persona Misuse | [Read More](https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-protects-personality-rights-of-actor-vivek-oberoi-restrains-unauthorized-deepfake-persona-misuse-522301) |
 | 2026-02-07T11:43:05.871Z | **Bar & Bench** | Kolkata influencer Shamik Adhikary remanded to police custody in rape and assault case | [Read More](https://www.barandbench.com/news/litigation/kolkata-influencer-shamik-adhikary-remanded-to-police-custody-in-rape-and-assault-case) |
