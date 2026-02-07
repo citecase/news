@@ -2,6 +2,10 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 07 Feb 2026 03:30:40 GMT | **LiveLaw** | Indiscriminate Freezing Of Bank Accounts Of Non‑Accused Violates Articles 19(1)(g), 21: Delhi High Court | [Read More](https://www.livelaw.in/high-court/delhi-high-court/indiscriminate-freezing-of-bank-accounts-of-nonaccused-violates-articles-191g-21-delhi-high-court-522208) |
+| Sat, 07 Feb 2026 03:27:17 GMT | **LiveLaw** | Allahabad High Court Issues Notice On Plea Challenging Vires Of 'UP X-Ray Rules' For Non-Inclusion Of BMRD Degree For Technician Post | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-up-xray-technician-rules-notice-challeng-exclusion-bmrd-it-degree-prima-facie-522244) |
+| Sat, 07 Feb 2026 02:23:27 GMT | **LiveLaw** | 2026 LiveLaw (SC) 126 -  STATE OF WEST BENGAL & ORS. VERSUS JAI HIND PVT. LTD. | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-127-state-of-west-bengal-ors-versus-jai-hind-pvt-ltd-522241) |
+| Sat, 07 Feb 2026 02:23:19 GMT | **LiveLaw** | Quasi-Judicial Authorities Lack Review Power Unless Statutorily Empowered : Supreme Court | [Read More](https://www.livelaw.in/supreme-court/quasi-judicial-authorities-lack-review-power-unless-statutorily-empowered-supreme-court-522240) |
 | Fri, 06 Feb 2026 16:19:36 GMT | **LiveLaw** | J&K&L High Court Stays Defamation Proceedings Against Film Director Aditya Dhar Over 'Article 370' Movie | [Read More](https://www.livelaw.in/high-court/jammu-kashmir/director-aditya-dhar-article-370-defamation-case-stayed-522230) |
 | Fri, 06 Feb 2026 16:05:53 GMT | **LiveLaw** | Supreme Court Daily Round-Up : February 6, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-february-6-2026-522228) |
 | Fri, 06 Feb 2026 16:00:04 GMT | **Verdictum** | Damodaram Sanjivayya National Law University (DSNLU) Invites Applications For Faculty Posts | [Read More](https://www.verdictum.in/job-updates/damodaram-sanjivayya-national-law-university-1606733) |
