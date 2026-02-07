@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 07 Feb 2026 10:31:02 GMT | **LiveLaw** | Registration Of Offence Under Repealed Foreigners Act 'Ex Facie Illegal': MP High Court Sets Aside FIR Over Delay In Form-C Filing | [Read More](https://www.livelaw.in/high-court/madhya-pradesh-high-court/registration-of-offence-under-repealed-foreigners-act-ex-facie-illegal-mp-high-court-sets-aside-fir-over-delay-in-form-c-filing-522264) |
+| Sat, 07 Feb 2026 10:30:18 GMT | **Verdictum** | Loss Of Love & Affection Not Distinct Head Of Motor Accident Compensation; It's Comprehended Within Broader Head of Consortium: Supreme Court | [Read More](https://www.verdictum.in/court-updates/supreme-court/v-pathmavathi-v-bharthi-axa-general-insurance-co-ltd-2026-insc-131-loss-of-love-affection-not-distinct-head-motor-accident-compensation-consortium-1606807) |
 | Sat, 07 Feb 2026 09:37:08 GMT | **LiveLaw** | Delhi High Court Upholds Termination Of Probationary DHJS Judge Over Viral Video, Says Action Not Stigmatic | [Read More](https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-upholds-termination-of-probationary-dhjs-judge-over-viral-video-says-action-not-stigmatic-522297) |
 | 2026-02-07T09:56:57.933Z | **Bar & Bench** | Case of overkill? Uttarakhand High Court reinstates judge dismissed for abusing minor house help | [Read More](https://www.barandbench.com/news/case-of-overkill-uttarakhand-high-court-reinstates-judge-dismissed-for-abusing-minor-house-help) |
 | 2026-02-07T09:54:13.730Z | **Bar & Bench** | Supreme Court grants bail to woman accused of cheating people by posing as lawyer | [Read More](https://www.barandbench.com/news/supreme-court-grants-bail-to-woman-accused-of-cheating-people-by-posing-as-lawyer) |
