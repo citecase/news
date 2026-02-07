@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 07 Feb 2026 17:28:28 GMT | **LiveLaw** | 'No RTE Act Recognition': Kerala High Court Orders Closure Of School Imparting Preschool Education On Quran | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-rte-recognition-religious-education-nios-school-522327) |
 | Sat, 07 Feb 2026 16:00:23 GMT | **Verdictum** | Legal Assistant Vacancy At National Institute of Technology, Tiruchirappalli (NIT Trichy) | [Read More](https://www.verdictum.in/job-updates/national-institute-of-technology-tiruchirappalli-nit-trichy-1606836) |
 | Sat, 07 Feb 2026 15:10:28 GMT | **Verdictum** | Article 224A And The Re-emergence Of Ad Hoc Judges: A Legal Opinion | [Read More](https://www.verdictum.in/columns/article-224a-ad-hoc-judges-supreme-court-collegium-1606845) |
 | Sat, 07 Feb 2026 14:56:05 GMT | **LiveLaw** | CSIPR, NLIU Bhopal To Host 1st NLIU–R.K. Dewan Conference On Contemporary IPR Issues | [Read More](https://www.livelaw.in/lawschool/news/csipr-nliu-bhopal-to-host-1st-nliurk-dewan-conference-on-contemporary-ipr-issues-522317) |
