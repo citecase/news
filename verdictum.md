@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 07 Feb 2026 15:10:28 GMT | **Verdictum** | Article 224A And The Re-emergence Of Ad Hoc Judges: A Legal Opinion | [Read More](https://www.verdictum.in/columns/article-224a-ad-hoc-judges-supreme-court-collegium-1606845) |
+| Sat, 07 Feb 2026 14:56:05 GMT | **LiveLaw** | CSIPR, NLIU Bhopal To Host 1st NLIU–R.K. Dewan Conference On Contemporary IPR Issues | [Read More](https://www.livelaw.in/lawschool/news/csipr-nliu-bhopal-to-host-1st-nliurk-dewan-conference-on-contemporary-ipr-issues-522317) |
 | Sat, 07 Feb 2026 14:30:51 GMT | **Verdictum** | Damages Cannot Be Awarded On Presumptions: Supreme Court Reduces ₹2 Crore Compensation Awarded By NCDRC For Unsatisfactory Haircut | [Read More](https://www.verdictum.in/court-updates/supreme-court/itc-limited-v-aashna-roy-2026-insc-135-dispute-redressal-commission-ncdrc-1606847) |
 | Sat, 07 Feb 2026 14:25:26 GMT | **LiveLaw** | Supreme Court Annual Digest 2025: Land Law | [Read More](https://www.livelaw.in/supreme-court/supreme-court-judgments-and-orders-land-laws-annual-digest-2025-522315) |
 | Sat, 07 Feb 2026 14:05:07 GMT | **LiveLaw** | No Death Penalty Confirmed By Supreme Court In Last Ten Years : Study | [Read More](https://www.livelaw.in/top-stories/no-death-penalty-confirmed-by-supreme-court-in-last-ten-years-study-522313) |
