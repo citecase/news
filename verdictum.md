@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 07 Feb 2026 14:30:51 GMT | **Verdictum** | Damages Cannot Be Awarded On Presumptions: Supreme Court Reduces ₹2 Crore Compensation Awarded By NCDRC For Unsatisfactory Haircut | [Read More](https://www.verdictum.in/court-updates/supreme-court/itc-limited-v-aashna-roy-2026-insc-135-dispute-redressal-commission-ncdrc-1606847) |
+| Sat, 07 Feb 2026 14:25:26 GMT | **LiveLaw** | Supreme Court Annual Digest 2025: Land Law | [Read More](https://www.livelaw.in/supreme-court/supreme-court-judgments-and-orders-land-laws-annual-digest-2025-522315) |
 | Sat, 07 Feb 2026 14:05:07 GMT | **LiveLaw** | No Death Penalty Confirmed By Supreme Court In Last Ten Years : Study | [Read More](https://www.livelaw.in/top-stories/no-death-penalty-confirmed-by-supreme-court-in-last-ten-years-study-522313) |
 | Sat, 07 Feb 2026 13:50:49 GMT | **Verdictum** | Woman In Live-In Relationship With Married Man Treated As Concubine: Bombay HC Refuses Domestic Violence Act Protection To Student Against Professor | [Read More](https://www.verdictum.in/court-updates/high-courts/bombay-high-court/x-v-y-2026bhc-as848-domestic-violence-man-relationship-live-in-1606834) |
 | 2026-02-07T14:09:24.983Z | **Bar & Bench** | From ‘rizz’ to ‘rights’: When slang meets black letter law | [Read More](https://www.barandbench.com/columns/from-rizz-to-rights-when-slang-meets-black-letter-law) |
