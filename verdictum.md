@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 07 Feb 2026 09:37:08 GMT | **LiveLaw** | Delhi High Court Upholds Termination Of Probationary DHJS Judge Over Viral Video, Says Action Not Stigmatic | [Read More](https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-upholds-termination-of-probationary-dhjs-judge-over-viral-video-says-action-not-stigmatic-522297) |
+| 2026-02-07T09:56:57.933Z | **Bar & Bench** | Case of overkill? Uttarakhand High Court reinstates judge dismissed for abusing minor house help | [Read More](https://www.barandbench.com/news/case-of-overkill-uttarakhand-high-court-reinstates-judge-dismissed-for-abusing-minor-house-help) |
+| 2026-02-07T09:54:13.730Z | **Bar & Bench** | Supreme Court grants bail to woman accused of cheating people by posing as lawyer | [Read More](https://www.barandbench.com/news/supreme-court-grants-bail-to-woman-accused-of-cheating-people-by-posing-as-lawyer) |
 | Sat, 07 Feb 2026 09:50:18 GMT | **Verdictum** | Notarised Photocopy of Power of Attorney Not Valid Evidence: Supreme Court Upholds HC’s Rejection of Alienation Claim | [Read More](https://www.verdictum.in/court-updates/supreme-court/tharammel-peethambaran-v-t-ushakrishnan-2026-insc-125-notarised-evidence-secondary-primary-1606802) |
 | Sat, 07 Feb 2026 09:36:25 GMT | **LiveLaw** | 'Toilet Facilities Are Basic Human Rights Under Article 21: Bombay HC Directs Civic Body To Improve Sanitation In Mumbai's Slum Areas | [Read More](https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-sanitation-facilities-mumbai-slum-area-522260) |
 | Sat, 07 Feb 2026 09:30:50 GMT | **LiveLaw** | Supreme Court To Examine If Kerala Joint Family Abolition Act Repugnant To Hindu Succession (Amendment) Act 2005 | [Read More](https://www.livelaw.in/top-stories/supreme-court-to-examine-if-kerala-joint-family-abolition-act-repugnant-to-hindu-succession-amdendment-act-2005-522296) |
