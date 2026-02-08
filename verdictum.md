@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 08 Feb 2026 15:00:45 GMT | **Verdictum** | Legal Consultant Vacancy At Ministry of Coal | [Read More](https://www.verdictum.in/job-updates/ministry-of-coal-1606843) |
 | Sun, 08 Feb 2026 14:16:31 GMT | **LiveLaw** | Negative DNA Report Only Disproves Paternity, Not Rape Charges: Tripura High Court Upholds POCSO Conviction Despite Mismatch | [Read More](https://www.livelaw.in/high-court/tripura-high-court/tripura-high-court-negative-dna-test-mismatch-disproves-paternity-not-rape-pocso-conviction-522344) |
 | Sun, 08 Feb 2026 14:09:08 GMT | **LiveLaw** | 'Constitutionally Improper' : Plea In Supreme Court Questions CM Mamata Banerjee Personally Arguing West Bengal SIR Case | [Read More](https://www.livelaw.in/top-stories/supreme-court-west-bengal-sir-akhil-bharat-hindu-mahasabha-ex-vp-application-chief-minister-mamata-banerjee-personal-appearance-522343) |
 | Sun, 08 Feb 2026 13:30:42 GMT | **Verdictum** | Mere Legal Opinion Not Enough To Prosecute Advocate For Cheating Or Forgery: Bombay High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/bombay-high-court/sunil-v-the-state-of-maharashtra-2026bhc-aug2612-advocate-prosecution-criminal-liability-legal-opinion-1606835) |
