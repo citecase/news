@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 08 Feb 2026 04:30:45 GMT | **LiveLaw** | POCSO Act: All India Annual Digest 2025 | [Read More](https://www.livelaw.in/top-stories/all-india-annual-digest-2025-pocso-521366) |
+| Sun, 08 Feb 2026 04:30:04 GMT | **Verdictum** | Appointment in Temporary Capacity: Punjab & Haryana HC Rejects Ex-Army Officer’s Pension Claim Against State Electricity Regulatory Commission | [Read More](https://www.verdictum.in/court-updates/high-courts/punjab-and-haryana-high-court/lt-col-ashok-bembey-v-punjab-state-electricity-regulatory-commission-2026phhc014611-ex-army-officers-pension-claim-1606837) |
 | Sat, 07 Feb 2026 17:28:28 GMT | **LiveLaw** | 'No RTE Act Recognition': Kerala High Court Orders Closure Of School Imparting Preschool Education On Quran | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-rte-recognition-religious-education-nios-school-522327) |
 | Sat, 07 Feb 2026 16:00:23 GMT | **Verdictum** | Legal Assistant Vacancy At National Institute of Technology, Tiruchirappalli (NIT Trichy) | [Read More](https://www.verdictum.in/job-updates/national-institute-of-technology-tiruchirappalli-nit-trichy-1606836) |
 | Sat, 07 Feb 2026 15:10:28 GMT | **Verdictum** | Article 224A And The Re-emergence Of Ad Hoc Judges: A Legal Opinion | [Read More](https://www.verdictum.in/columns/article-224a-ad-hoc-judges-supreme-court-collegium-1606845) |
