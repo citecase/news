@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 08 Feb 2026 07:55:20 GMT | **LiveLaw** | Look Out Circulars Affect Career, Personal Liberty; Meant For Exceptional Cases, Not Routine Matrimonial Disputes: AP High Court | [Read More](https://www.livelaw.in/high-court/andhra-pradesh-high-court/andhra-pradesh-hc-look-out-circulars-career-personal-liberty-exceptional-not-routine-matrimonial-disputes-522335) |
 | Sun, 08 Feb 2026 07:30:50 GMT | **Verdictum** | Gujarat High Court Issues Contempt Notice To Litigant For Remarks Found To "Lower Institutional Dignity" Of Courts | [Read More](https://www.verdictum.in/court-updates/high-courts/gujarat-high-court/vishwas-sudhanshu-bhamburkar-v-state-of-gujarat-others-contempt-of-courts-1606839) |
 | Sun, 08 Feb 2026 06:19:30 GMT | **LiveLaw** | Supreme Court Annual Digest 2025: Judiciary | [Read More](https://www.livelaw.in/supreme-court/supreme-court-judgments-and-orders-annual-digest-2025-522334) |
 | Sun, 08 Feb 2026 06:10:33 GMT | **LiveLaw** | [Maharashtra Stamp Act] 'Power To Impound Affects Property Rights; Can Only Be Exercised By Registering Officer': Bombay High Court | [Read More](https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-property-rights-section33a-maharashtra-stamp-act-522325) |
