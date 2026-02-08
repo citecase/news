@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 08 Feb 2026 13:30:42 GMT | **Verdictum** | Mere Legal Opinion Not Enough To Prosecute Advocate For Cheating Or Forgery: Bombay High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/bombay-high-court/sunil-v-the-state-of-maharashtra-2026bhc-aug2612-advocate-prosecution-criminal-liability-legal-opinion-1606835) |
 | Sun, 08 Feb 2026 12:15:53 GMT | **LiveLaw** | [s. 323 CrPC] Magistrate Cannot Commit Case To Sessions Court Merely Due To Higher Punishment, Must Record Reasons: Bombay High Court | [Read More](https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-evidence-recording-sessions-court-section323-crpc-522330) |
 | Sun, 08 Feb 2026 12:00:58 GMT | **Verdictum** | Cannot Turn A Nelson’s Eye To Victim’s Age And Ordeal: Bombay High Court Upholds Sentence Of 83-Year-Old In POCSO Case | [Read More](https://www.verdictum.in/court-updates/high-courts/bombay-high-court/x-v-y-2026bhc-goa16-victim-pocso-old-age-conviction-1606842) |
 | Sun, 08 Feb 2026 11:10:14 GMT | **LiveLaw** | Kerala High Court Orders Reimbursement Of Expenses To Govt Employee Over Treatment Of Daughter's Rare Disease Outside State | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-rare-disease-private-hospital-reimbursement-treatment-522328) |
