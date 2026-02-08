@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 08 Feb 2026 17:01:26 GMT | **LiveLaw** | 'Age Gap Between Boy & Girl Significant Factor Which Law Didn't Address': P&H High Court Suspends Sentence Of Minor Convicted Under POCSO | [Read More](https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-suspends-sentence-of-minor-convicted-under-pocso-522348) |
 | Sun, 08 Feb 2026 15:40:42 GMT | **LiveLaw** | Allahabad High Court Weekly Round-Up: February 2 To February 8, 2026 | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-weekly-roundup-february-1-february-8-2026-522345) |
 | Sun, 08 Feb 2026 15:00:45 GMT | **Verdictum** | Legal Consultant Vacancy At Ministry of Coal | [Read More](https://www.verdictum.in/job-updates/ministry-of-coal-1606843) |
 | Sun, 08 Feb 2026 14:16:31 GMT | **LiveLaw** | Negative DNA Report Only Disproves Paternity, Not Rape Charges: Tripura High Court Upholds POCSO Conviction Despite Mismatch | [Read More](https://www.livelaw.in/high-court/tripura-high-court/tripura-high-court-negative-dna-test-mismatch-disproves-paternity-not-rape-pocso-conviction-522344) |
