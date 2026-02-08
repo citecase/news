@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 08 Feb 2026 14:16:31 GMT | **LiveLaw** | Negative DNA Report Only Disproves Paternity, Not Rape Charges: Tripura High Court Upholds POCSO Conviction Despite Mismatch | [Read More](https://www.livelaw.in/high-court/tripura-high-court/tripura-high-court-negative-dna-test-mismatch-disproves-paternity-not-rape-pocso-conviction-522344) |
+| Sun, 08 Feb 2026 14:09:08 GMT | **LiveLaw** | 'Constitutionally Improper' : Plea In Supreme Court Questions CM Mamata Banerjee Personally Arguing West Bengal SIR Case | [Read More](https://www.livelaw.in/top-stories/supreme-court-west-bengal-sir-akhil-bharat-hindu-mahasabha-ex-vp-application-chief-minister-mamata-banerjee-personal-appearance-522343) |
 | Sun, 08 Feb 2026 13:30:42 GMT | **Verdictum** | Mere Legal Opinion Not Enough To Prosecute Advocate For Cheating Or Forgery: Bombay High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/bombay-high-court/sunil-v-the-state-of-maharashtra-2026bhc-aug2612-advocate-prosecution-criminal-liability-legal-opinion-1606835) |
 | Sun, 08 Feb 2026 12:15:53 GMT | **LiveLaw** | [s. 323 CrPC] Magistrate Cannot Commit Case To Sessions Court Merely Due To Higher Punishment, Must Record Reasons: Bombay High Court | [Read More](https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-evidence-recording-sessions-court-section323-crpc-522330) |
 | Sun, 08 Feb 2026 12:00:58 GMT | **Verdictum** | Cannot Turn A Nelson’s Eye To Victim’s Age And Ordeal: Bombay High Court Upholds Sentence Of 83-Year-Old In POCSO Case | [Read More](https://www.verdictum.in/court-updates/high-courts/bombay-high-court/x-v-y-2026bhc-goa16-victim-pocso-old-age-conviction-1606842) |
