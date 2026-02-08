@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 08 Feb 2026 12:15:53 GMT | **LiveLaw** | [s. 323 CrPC] Magistrate Cannot Commit Case To Sessions Court Merely Due To Higher Punishment, Must Record Reasons: Bombay High Court | [Read More](https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-evidence-recording-sessions-court-section323-crpc-522330) |
+| Sun, 08 Feb 2026 12:00:58 GMT | **Verdictum** | Cannot Turn A Nelson’s Eye To Victim’s Age And Ordeal: Bombay High Court Upholds Sentence Of 83-Year-Old In POCSO Case | [Read More](https://www.verdictum.in/court-updates/high-courts/bombay-high-court/x-v-y-2026bhc-goa16-victim-pocso-old-age-conviction-1606842) |
 | Sun, 08 Feb 2026 11:10:14 GMT | **LiveLaw** | Kerala High Court Orders Reimbursement Of Expenses To Govt Employee Over Treatment Of Daughter's Rare Disease Outside State | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-rare-disease-private-hospital-reimbursement-treatment-522328) |
 | Sun, 08 Feb 2026 10:31:10 GMT | **LiveLaw** | Code Of Civil Procedure (CPC): All India Annual Digest 2025 | [Read More](https://www.livelaw.in/top-stories/all-india-annual-digest-2025-code-of-civil-procedure-521367) |
 | Sun, 08 Feb 2026 10:30:35 GMT | **Verdictum** | Delhi High Court Directs NCRB And NIC To Explore Integration Of Non-FIR Complaint Cases For Comprehensive Criminal Antecedents | [Read More](https://www.verdictum.in/court-updates/high-courts/delhi-high-court/2026dhc987db-praveen-taneja-v-state-of-nct-of-delhi-1606841) |
