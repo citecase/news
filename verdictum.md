@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 08 Feb 2026 05:05:49 GMT | **LiveLaw** | Resignation From Service Even On Medical Grounds Is Forfeiture Of Past Service, Not Eligible For Pension Benefits: Madras High Court | [Read More](https://www.livelaw.in/high-court/madras-high-court/madras-high-court-resignation-medical-gorunds-no-pension-522324) |
+| Sun, 08 Feb 2026 04:55:48 GMT | **LiveLaw** | LiveLaw Academy Announces Course on the New Labour Codes: Registrations Open Now | [Read More](https://www.livelaw.in/top-stories/livelaw-academy-announces-course-on-the-new-labour-codes-registrations-open-now-522332) |
+| Sun, 08 Feb 2026 04:47:07 GMT | **LiveLaw** | Allahabad High Court Decodes 'Ramcharitmanas Chaupai' For Advocate Who Quoted It Without Context; Rejects Belated Plea | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-ramcharitmanas-chaupai-advocate-context-quote-522331) |
 | Sun, 08 Feb 2026 04:30:45 GMT | **LiveLaw** | POCSO Act: All India Annual Digest 2025 | [Read More](https://www.livelaw.in/top-stories/all-india-annual-digest-2025-pocso-521366) |
 | Sun, 08 Feb 2026 04:30:04 GMT | **Verdictum** | Appointment in Temporary Capacity: Punjab & Haryana HC Rejects Ex-Army Officer’s Pension Claim Against State Electricity Regulatory Commission | [Read More](https://www.verdictum.in/court-updates/high-courts/punjab-and-haryana-high-court/lt-col-ashok-bembey-v-punjab-state-electricity-regulatory-commission-2026phhc014611-ex-army-officers-pension-claim-1606837) |
 | Sat, 07 Feb 2026 17:28:28 GMT | **LiveLaw** | 'No RTE Act Recognition': Kerala High Court Orders Closure Of School Imparting Preschool Education On Quran | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-rte-recognition-religious-education-nios-school-522327) |
