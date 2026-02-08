@@ -2,6 +2,10 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 08 Feb 2026 06:19:30 GMT | **LiveLaw** | Supreme Court Annual Digest 2025: Judiciary | [Read More](https://www.livelaw.in/supreme-court/supreme-court-judgments-and-orders-annual-digest-2025-522334) |
+| Sun, 08 Feb 2026 06:10:33 GMT | **LiveLaw** | [Maharashtra Stamp Act] 'Power To Impound Affects Property Rights; Can Only Be Exercised By Registering Officer': Bombay High Court | [Read More](https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-property-rights-section33a-maharashtra-stamp-act-522325) |
+| Sun, 08 Feb 2026 06:00:27 GMT | **Verdictum** | Courts Have Inherent Power To Cancel Anticipatory Bail For Breach Of Conditions Imposed: Punjab & Haryana High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/punjab-and-haryana-high-court/surinder-pal-singh-v-state-of-punjab-and-another-bail-older-review-362-1606838) |
+| 2026-02-08T06:30:00.000Z | **Bar & Bench** | Courtroom of 2050: Culture and trends | [Read More](https://www.barandbench.com/columns/courtroom-of-2050-culture-and-trends) |
 | Sun, 08 Feb 2026 05:05:49 GMT | **LiveLaw** | Resignation From Service Even On Medical Grounds Is Forfeiture Of Past Service, Not Eligible For Pension Benefits: Madras High Court | [Read More](https://www.livelaw.in/high-court/madras-high-court/madras-high-court-resignation-medical-gorunds-no-pension-522324) |
 | Sun, 08 Feb 2026 04:55:48 GMT | **LiveLaw** | LiveLaw Academy Announces Course on the New Labour Codes: Registrations Open Now | [Read More](https://www.livelaw.in/top-stories/livelaw-academy-announces-course-on-the-new-labour-codes-registrations-open-now-522332) |
 | Sun, 08 Feb 2026 04:47:07 GMT | **LiveLaw** | Allahabad High Court Decodes 'Ramcharitmanas Chaupai' For Advocate Who Quoted It Without Context; Rejects Belated Plea | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-ramcharitmanas-chaupai-advocate-context-quote-522331) |
