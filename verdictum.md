@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Wed, 11 Feb 2026 18:17:01 GMT | **LiveLaw** | NLIU Bhopal Finishes Runners-Up At South Asia Rounds Of Price Media Law Moot 2026, Qualifies For International Rounds | [Read More](https://www.livelaw.in/lawschool/news/nliu-bhopal-finishes-runners-up-south-asia-rounds-price-media-law-moot-2026-qualifies-international-rounds-522829) |
 | Wed, 11 Feb 2026 16:59:25 GMT | **LiveLaw** | Caste Determined By Birth Remains Unchanged Despite Conversion Or Inter-Caste Marriage: Allahabad High Court | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-caste-birth-unchanged-conversion-intercaste-marriage-522799) |
 | Wed, 11 Feb 2026 16:55:34 GMT | **LiveLaw** | Supreme Court Daily Round-Up : February 11, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-february-11-2026-522801) |
 | Wed, 11 Feb 2026 16:21:35 GMT | **LiveLaw** | 2026 LiveLaw (SC) 140 - K. RAJAIAH v THE HIGH COURT FOR THE STATE OF TELANGANA | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-140-k-rajaiah-v-the-high-court-for-the-state-of-telangana-522810) |
