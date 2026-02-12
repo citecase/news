@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Thu, 12 Feb 2026 16:56:04 GMT | **LiveLaw** | Supreme Court Daily Round-Up : February 12, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-february-12-2026-522963) |
 | Thu, 12 Feb 2026 16:24:07 GMT | **LiveLaw** | 2026 LiveLaw (SC) 149 - National Insurance Company Ltd v. Rathlavath Chandulal and others | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-149-national-insurance-company-ltd-v-rathlavath-chandulal-and-others-522983) |
 | Thu, 12 Feb 2026 16:22:21 GMT | **LiveLaw** | Supreme Court Laments Tribunal Writing Orders By Hand Despite E-Courts Project, Asks HC If Computer Wasn't Given | [Read More](https://www.livelaw.in/supreme-court/supreme-court-laments-tribunal-writing-orders-by-hand-despite-e-courts-project-asks-hc-if-computer-wasnt-given-522982) |
 | Thu, 12 Feb 2026 16:00:06 GMT | **Verdictum** | Young Professional Vacancy At Securities and Exchange Board of India (SEBI) | [Read More](https://www.verdictum.in/job-updates/securities-and-exchange-board-of-india-1607337) |
