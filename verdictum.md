@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 14 Feb 2026 17:17:01 GMT | **LiveLaw** | NLU Odisha Announces Alternate Movie Ending Competition On Andhadhun; Entries Open Till March 7 | [Read More](https://www.livelaw.in/lawschool/competitions/nlu-odisha-announces-alternate-movie-ending-competition-on-andhadhun-entries-open-till-march-7-523191) |
 | Sat, 14 Feb 2026 17:02:03 GMT | **LiveLaw** | IIT Kharagpur Announces Annual Public Policy Conference; Abstract Submission Closes On Feb 20 | [Read More](https://www.livelaw.in/lawschool/news/iit-kharagpur-announces-annual-public-policy-conference-abstract-submission-closes-feb-20-523190) |
 | Sat, 14 Feb 2026 15:00:14 GMT | **Verdictum** | Legal Assistant Vacancy At National Book Trust | [Read More](https://www.verdictum.in/job-updates/national-book-trust-1607520) |
 | Sat, 14 Feb 2026 14:57:13 GMT | **LiveLaw** | Obituary-Au Revoir, Francis Chettan | [Read More](https://www.livelaw.in/articles/au-revoir-advocatecvfrancis-523121) |
