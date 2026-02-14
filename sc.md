@@ -1,0 +1,1 @@
+[Inadequate Examination Of Accused U/S. 313 CrPC: #SupremeCourt Sets Aside Murder Conviction; Directs Fresh Examination](https://www.caseciter.com/sanjay-kumar-v-state-of-bihar-s-313-crpc-inadequate-examination/)
