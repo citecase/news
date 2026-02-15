@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 15 Feb 2026 15:00:46 GMT | **Verdictum** | Delhi Pollution Control Committee (DPCC) Invites Applications For The Posts Of Assistant Law Officer, Legal Assistant | [Read More](https://www.verdictum.in/job-updates/delhi-pollution-control-committee-dpcc-1607522) |
+| Sun, 15 Feb 2026 08:30:39 GMT | **LiveLaw** | Previous Service As  Village Assistant Can't  be 
+Excluded  For  Pension : Madras HC | [Read More](https://www.livelaw.in/high-court/madras-high-court/previous-service-as-village-assistant-cant-be-excluded-for-pension-madras-hc-523201) |
 | Sun, 15 Feb 2026 14:51:52 GMT | **LiveLaw** | Allahabad High Court Objects To CGST Dept Mentioning SC Judges' Names In Affidavit; Grants Bail To Chinese Woman In Tax Evasion Case | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-bail-chinese-national-gst-evasion-warning-citing-supreme-court-judges-names-523212) |
 | Sun, 15 Feb 2026 13:31:32 GMT | **LiveLaw** | Allahabad High Court Weekly Round-Up: February 9 To February 15, 2026 | [Read More](https://www.livelaw.in/round-ups/weekly/allahabad-high-court-weekly-roundup-february-9-february-15-2026-523206) |
 | Sun, 15 Feb 2026 13:30:22 GMT | **Verdictum** | No Complete Deficiency Of Service: Supreme Court Directs Release Of 50% Of Compensation Amount To Farmers Alleging Substandard Quality Of Seeds | [Read More](https://www.verdictum.in/court-updates/supreme-court/ms-shyam-beej-bhandar-anr-v-suresh-2026-insc-158-no-complete-deficiency-of-service-compensation-farmers-substandard-seeds-1607560) |
