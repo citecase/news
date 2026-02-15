@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 15 Feb 2026 16:08:12 GMT | **LiveLaw** | Supreme Court Allows Three NGT Judicial Members To Continue Beyond Retirement Till Next Appointments | [Read More](https://www.livelaw.in/top-stories/supreme-court-allows-three-ngt-judicial-members-to-continue-beyond-retirement-till-next-appointments-523214) |
+| Sun, 15 Feb 2026 08:30:39 GMT | **LiveLaw** | Previous Service As  Village Assistant Can't  be 
+Excluded  For  Pension : Madras HC | [Read More](https://www.livelaw.in/high-court/madras-high-court/previous-service-as-village-assistant-cant-be-excluded-for-pension-madras-hc-523201) |
 | Sun, 15 Feb 2026 15:32:56 GMT | **LiveLaw** | Allahabad High Court Refers Advocate For Criminal Contempt Who Accused Judge Of 'Working Under Govt Pressure' | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-advocate-criminal-contempt-government-pressure-remark-agaisnt-judge-523213) |
 | Sun, 15 Feb 2026 15:00:46 GMT | **Verdictum** | Delhi Pollution Control Committee (DPCC) Invites Applications For The Posts Of Assistant Law Officer, Legal Assistant | [Read More](https://www.verdictum.in/job-updates/delhi-pollution-control-committee-dpcc-1607522) |
 | Sun, 15 Feb 2026 08:30:39 GMT | **LiveLaw** | Previous Service As  Village Assistant Can't  be
