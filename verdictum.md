@@ -2,10 +2,10 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 15 Feb 2026 14:51:52 GMT | **LiveLaw** | Allahabad High Court Objects To CGST Dept Mentioning SC Judges' Names In Affidavit; Grants Bail To Chinese Woman In Tax Evasion Case | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-bail-chinese-national-gst-evasion-warning-citing-supreme-court-judges-names-523212) |
 | Sun, 15 Feb 2026 13:31:32 GMT | **LiveLaw** | Allahabad High Court Weekly Round-Up: February 9 To February 15, 2026 | [Read More](https://www.livelaw.in/round-ups/weekly/allahabad-high-court-weekly-roundup-february-9-february-15-2026-523206) |
 | Sun, 15 Feb 2026 13:30:22 GMT | **Verdictum** | No Complete Deficiency Of Service: Supreme Court Directs Release Of 50% Of Compensation Amount To Farmers Alleging Substandard Quality Of Seeds | [Read More](https://www.verdictum.in/court-updates/supreme-court/ms-shyam-beej-bhandar-anr-v-suresh-2026-insc-158-no-complete-deficiency-of-service-compensation-farmers-substandard-seeds-1607560) |
-| Sun, 15 Feb 2026 08:30:39 GMT | **LiveLaw** | Previous Service As  Village Assistant Can't  be 
-Excluded  For  Pension : Madras HC | [Read More](https://www.livelaw.in/high-court/madras-high-court/previous-service-as-village-assistant-cant-be-excluded-for-pension-madras-hc-523201) |
+| Sun, 15 Feb 2026 08:30:39 GMT | **LiveLaw** | Previous Service As  Village Assistant Can't  be
 | Sun, 15 Feb 2026 12:00:36 GMT | **Verdictum** | Magistrate Not Always Bound To Order FIR U/S 175(3) BNSS; Same Principles As S.156(3) CrPC Apply: Allahabad High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/pradeep-kumar-v-state-of-up-2026ahc31226-magistrate-fir-1563-crpc-bnss-1607559) |
 | Sun, 15 Feb 2026 11:14:38 GMT | **LiveLaw** | Litigation, Success And Money | [Read More](https://www.livelaw.in/articles/litigation-lawyer-523204) |
 | Sun, 15 Feb 2026 10:30:52 GMT | **LiveLaw** | Juvenile Justice Act: All India Annual Digest 2025 | [Read More](https://www.livelaw.in/top-stories/all-india-annual-digest-2025-juvenile-justice-act-521369) |
