@@ -2,12 +2,12 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 15 Feb 2026 12:00:36 GMT | **Verdictum** | Magistrate Not Always Bound To Order FIR U/S 175(3) BNSS; Same Principles As S.156(3) CrPC Apply: Allahabad High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/pradeep-kumar-v-state-of-up-2026ahc31226-magistrate-fir-1563-crpc-bnss-1607559) |
 | Sun, 15 Feb 2026 11:14:38 GMT | **LiveLaw** | Litigation, Success And Money | [Read More](https://www.livelaw.in/articles/litigation-lawyer-523204) |
 | Sun, 15 Feb 2026 10:30:52 GMT | **LiveLaw** | Juvenile Justice Act: All India Annual Digest 2025 | [Read More](https://www.livelaw.in/top-stories/all-india-annual-digest-2025-juvenile-justice-act-521369) |
 | Sun, 15 Feb 2026 10:30:30 GMT | **Verdictum** | Negative Viscera Report Not Automatically Fatal To Case: Madras High Court Upholds Conviction Of Parents For Poisoning Mentally Disordered Child | [Read More](https://www.verdictum.in/court-updates/high-courts/madras-high-court/s-muneeswaran-anr-v-state-represented-by-inspector-of-police-malli-police-station-1607558) |
 | Sun, 15 Feb 2026 09:00:26 GMT | **Verdictum** | Mere Omission In FIS To Mention Caste Abuse Not Ground For Discharge When Allegation Appears In Subsequent Statements: Kerala High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/kerala-high-court/rakesh-anr-v-state-of-kerala-ors-2026ker8061-scst-act-allegation-1607557) |
-| Sun, 15 Feb 2026 08:30:39 GMT | **LiveLaw** | Previous Service As  Village Assistant Can't  be 
-Excluded  For  Pension : Madras HC | [Read More](https://www.livelaw.in/high-court/madras-high-court/previous-service-as-village-assistant-cant-be-excluded-for-pension-madras-hc-523201) |
+| Sun, 15 Feb 2026 08:30:39 GMT | **LiveLaw** | Previous Service As  Village Assistant Can't  be
 | Sun, 15 Feb 2026 08:04:36 GMT | **LiveLaw** | Nyaya Abhyuday 2.0: National Forensic Sciences University Announces National Techno-Legal Fest 2026 At Gandhinagar Campus | [Read More](https://www.livelaw.in/lawschool/news/nyaya-abhyuday-national-forensic-sciences-university-announces-national-techno-legal-fest-523203) |
 | Sun, 15 Feb 2026 07:30:30 GMT | **Verdictum** | Financial Emergency No Ground To Force Employee To Continue; Refusal To Accept Resignation May Amount To ‘Bonded Labour’ Under Article 23: Kerala HC | [Read More](https://www.verdictum.in/court-updates/high-courts/kerala-high-court/greevas-job-panakkal-v-traco-cable-company-limited-2026ker12335-resignation-employee-employer-refusal-1607556) |
 | Sun, 15 Feb 2026 07:24:50 GMT | **LiveLaw** | 5th TRC National Moot Court Competition 2026 To Be Hosted By TRC Law College | [Read More](https://www.livelaw.in/lawschool/moot-courts/5th-trc-national-moot-court-competition-2026-hosted-trc-law-college-523202) |
