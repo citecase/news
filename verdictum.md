@@ -2,6 +2,11 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Thu, 19 Feb 2026 08:46:09 +0530 | **Bar & Bench** | Thin line between contractual dispute and IBC | [Read More](https://www.barandbench.com/view-point/thin-line-between-contractual-dispute-and-ibc) |
+| Thu, 19 Feb 2026 08:45:52 +0530 | **Bar & Bench** | Manupatra Native AI Search: Not A Disruption, A Natural Progression | [Read More](https://www.barandbench.com/view-point/manupatra-native-ai-search-not-a-disruption-a-natural-progression) |
+| Thu, 19 Feb 2026 08:44:36 +0530 | **Bar & Bench** | Dentons Link Legal assists Ace Aviation on acquiring 3 Boeing 777-300ER Aircrafts from Jet Airways | [Read More](https://www.barandbench.com/dealstreet/dentons-link-legal-assists-ace-aviation-on-acquiring-3-boeing-777-300er-aircrafts-from-jet-airways) |
+| Thu, 19 Feb 2026 08:43:17 +0530 | **Bar & Bench** | AQUILAW assists United Spirits on divestment of Hyderabad factory unit | [Read More](https://www.barandbench.com/dealstreet/aquilaw-assists-united-spirits-on-divestment-of-hyderabad-factory-unit) |
+| Thu, 19 Feb 2026 08:42:26 +0530 | **Bar & Bench** | Quillon Partners, TT&A act on Subway-operator EverBrands $15 million fundraise | [Read More](https://www.barandbench.com/dealstreet/quillon-partners-tta-act-on-subway-operator-everbrands-15-million-fundraise) |
 | Wed, 18 Feb 2026 16:39:52 GMT | **LiveLaw** | Supreme Court Daily Round-Up : February 18, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-february-18-2026-523723) |
 | Wed, 18 Feb 2026 16:38:58 GMT | **LiveLaw** | 'You Need Harsher Action': High Court Raps Delhi Govt Over Delay In Filling Up DCPCR Vacancies, Warns Of Serious Consequence | [Read More](https://www.livelaw.in/high-court/delhi-high-court/you-need-harsher-action-high-court-raps-delhi-govt-over-delay-in-filling-up-dcpcr-vacancies-warns-of-serious-consequence-523662) |
 | Wed, 18 Feb 2026 16:10:19 GMT | **LiveLaw** | Disabled Lineman Denied Promotion While Juniors Were Elevated: Punjab & Haryana High Court Grants Notional Regularisation | [Read More](https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-disabled-lineman-denied-promotion-while-juniors-elevated-523707) |
