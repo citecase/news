@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Fri, 20 Feb 2026 04:00:06 GMT | **LiveLaw** | 'One Incident' Of Husband Slapping Wife For Staying Overnight At Parent's Home Without Telling Him Not Cruelty: Gujarat High Court | [Read More](https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-husband-slapping-wife-once-suicide-cruelty-523875) |
+| Fri, 20 Feb 2026 03:28:02 GMT | **LiveLaw** | 'Tum Log Police Se Ghir Chuke Ho': Why Allahabad High Court Equated This UP Police FIR With A 'Movie Script' | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-up-police-fir-movie-script-summons-sp-523876) |
 | Thu, 19 Feb 2026 18:26:40 GMT | **LiveLaw** | Technology News: TraceX Guard AI Mobile Security Platform Launched to Combat India's Rising Mobile Cybercrime Crisis | [Read More](https://www.livelaw.in/tech-law/technology-news-tracex-guard-ai-mobile-security-india-2026-523871) |
 | Thu, 19 Feb 2026 18:11:36 GMT | **LiveLaw** | Sonam Wangchuk Was Only Shown Thumbnails Of Folders, Never Got Chance To Watch Videos : Sibal Tells Supreme Court | [Read More](https://www.livelaw.in/top-stories/sonam-wangchuk-was-only-shown-thumbnails-of-folders-never-got-chance-to-watch-videos-sibal-tells-supreme-court-523824) |
 | Thu, 19 Feb 2026 17:21:52 GMT | **LiveLaw** | NUALS Kochi To Host 7th M. K. Nambyar Memorial International Maritime Law Arbitration Competition (NIMLAC) 2026 | [Read More](https://www.livelaw.in/lawschool/competitions/nuals-kochi-host-7th-m-k-nambyar-memorial-international-maritime-law-arbitration-competition-nimlac-523870) |
