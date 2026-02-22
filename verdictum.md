@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 22 Feb 2026 06:35:56 GMT | **LiveLaw** | “Criminal Liability Cannot Flow From Designation Alone”: Calcutta High Court Quashes MGNREGS Misappropriation Case Against Officer | [Read More](https://www.livelaw.in/high-court/calcutta-high-court/criminal-liability-cannot-flow-from-designation-alone-calcutta-high-court-quashes-mgnregs-misappropriation-case-against-officer-524096) |
+| Sun, 22 Feb 2026 06:00:00 GMT | **Verdictum** | Wife’s Convenience No Longer Paramount In Matrimonial Transfer Pleas: Madhya Pradesh High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/madhya-pradesh-high-court/ekta-vaish-v-deepak-kuchbandiya-2026mphc-jbp14249-1608267) |
+| Sun, 22 Feb 2026 05:38:56 GMT | **LiveLaw** | “Widen Law, Make It More Intelligible”: CJI Urges Young Graduates To Keep Law Accessible | [Read More](https://www.livelaw.in/top-stories/widen-law-make-it-more-intelligible-cji-urges-young-graduates-to-keep-law-accessible-524112) |
 | Sun, 22 Feb 2026 04:30:42 GMT | **LiveLaw** | Associate Vacancy At Ernst & Young India [Chennai; Apply Now] | [Read More](https://www.livelaw.in/job-updates/associate-vacancy-at-ernst-young-india-chennai-524062) |
 | Sun, 22 Feb 2026 04:30:41 GMT | **LiveLaw** | Chhattisgarh High Court Monthly Digest: January 2026 | [Read More](https://www.livelaw.in/high-court/chhattisgarh-high-court/chhattisgarh-high-court-monthly-digest-january-2026-522368) |
 | Sun, 22 Feb 2026 04:30:04 GMT | **Verdictum** | Salary Details Of Husband "Personal Information": Rajasthan High Court Upholds Dismissal Of Wife’s RTI Plea | [Read More](https://www.verdictum.in/court-updates/high-courts/rajasthan-high-court/kanta-kumawat-v-state-of-rajasthan-2026rj-jd6212-salary-husband-personal-information-1608266) |
