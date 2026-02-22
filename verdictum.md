@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 22 Feb 2026 04:30:42 GMT | **LiveLaw** | Associate Vacancy At Ernst & Young India [Chennai; Apply Now] | [Read More](https://www.livelaw.in/job-updates/associate-vacancy-at-ernst-young-india-chennai-524062) |
+| Sun, 22 Feb 2026 04:30:41 GMT | **LiveLaw** | Chhattisgarh High Court Monthly Digest: January 2026 | [Read More](https://www.livelaw.in/high-court/chhattisgarh-high-court/chhattisgarh-high-court-monthly-digest-january-2026-522368) |
+| Sun, 22 Feb 2026 04:30:04 GMT | **Verdictum** | Salary Details Of Husband "Personal Information": Rajasthan High Court Upholds Dismissal Of Wife’s RTI Plea | [Read More](https://www.verdictum.in/court-updates/high-courts/rajasthan-high-court/kanta-kumawat-v-state-of-rajasthan-2026rj-jd6212-salary-husband-personal-information-1608266) |
 | Sat, 21 Feb 2026 15:56:05 GMT | **LiveLaw** | Husband Abandoning Wife & Defaulting In Paying Maintenance Forfeits Right To Contest Dissolution Of Marriage: Rajasthan High Court | [Read More](https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-maintenance-default-amount-mental-cruelty-524094) |
 | Sat, 21 Feb 2026 15:51:05 GMT | **LiveLaw** | “Statutory Authority Cannot Act As Rubber Stamp”: J&K&L High Court Grants Relief To Homeowner, Stays Eviction | [Read More](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-high-court-final-decision-must-reflect-authoritys-own-mind-statutory-authority-cannot-act-as-rubber-stamp-or-abdicate-core-decision-making-524090) |
 | Sat, 21 Feb 2026 15:34:26 GMT | **LiveLaw** | M.C.E. Society's A.K.K. New Law Academy, Pune Organises Dr. P.A. Inamdar National Moot Court Competition 2026 | [Read More](https://www.livelaw.in/lawschool/moot-courts/mce-societys-akk-new-law-academy-pune-organises-dr-pa-inamdar-national-moot-court-competition-524104) |
