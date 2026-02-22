@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 22 Feb 2026 07:30:00 GMT | **Verdictum** | Government Not To Transfer Officials Without Providing Posting: Karnataka High Court Issues Directions To Regulate Transfer Practice | [Read More](https://www.verdictum.in/court-updates/high-courts/karnataka-high-court/k-arun-kumar-v-state-of-karnataka-ors-2026khc6227-db-transfers-1608287) |
 | Sun, 22 Feb 2026 06:35:56 GMT | **LiveLaw** | “Criminal Liability Cannot Flow From Designation Alone”: Calcutta High Court Quashes MGNREGS Misappropriation Case Against Officer | [Read More](https://www.livelaw.in/high-court/calcutta-high-court/criminal-liability-cannot-flow-from-designation-alone-calcutta-high-court-quashes-mgnregs-misappropriation-case-against-officer-524096) |
 | Sun, 22 Feb 2026 06:00:00 GMT | **Verdictum** | Wife’s Convenience No Longer Paramount In Matrimonial Transfer Pleas: Madhya Pradesh High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/madhya-pradesh-high-court/ekta-vaish-v-deepak-kuchbandiya-2026mphc-jbp14249-1608267) |
 | Sun, 22 Feb 2026 05:38:56 GMT | **LiveLaw** | “Widen Law, Make It More Intelligible”: CJI Urges Young Graduates To Keep Law Accessible | [Read More](https://www.livelaw.in/top-stories/widen-law-make-it-more-intelligible-cji-urges-young-graduates-to-keep-law-accessible-524112) |
