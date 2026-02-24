@@ -2,6 +2,12 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Tue, 24 Feb 2026 04:05:37 GMT | **LiveLaw** | JAG ENTRY SCHEME 124th Recruitment 2026 [Apply Now] | [Read More](https://www.livelaw.in/job-updates/jag-entry-scheme-124th-recruitment-2026-524308) |
+| Tue, 24 Feb 2026 04:02:18 GMT | **LiveLaw** | Deputy Registrar Vacancy At National Company Law Tribunal, Guwahati Bench | [Read More](https://www.livelaw.in/job-updates/deputy-registrar-vacancy-at-national-company-law-tribunal-guwahati-bench-524307) |
+| Tue, 24 Feb 2026 04:00:49 GMT | **LiveLaw** | Court Officer Vacancy At National Company Law Tribunal, Amaravati Bench | [Read More](https://www.livelaw.in/job-updates/court-officer-vacancy-at-national-company-law-tribunal-amaravati-bench-524306) |
+| Tue, 24 Feb 2026 04:00:38 GMT | **LiveLaw** | Dacoity Charge Fails After One Of Five Accused Acquitted, Gujarat High Court Sustains Robbery Conviction | [Read More](https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-impersonation-police-converts-dacoity-conviction-robbery-524274) |
+| Tue, 24 Feb 2026 03:59:11 GMT | **LiveLaw** | Assistant Manager Vacancy At KPMG India [Gurgaon; Apply Now] | [Read More](https://www.livelaw.in/job-updates/assistant-manager-vacancy-at-kpmg-india-gurgaon-524305) |
+| Tue, 24 Feb 2026 03:31:06 GMT | **LiveLaw** | Police Officer Can't Be Prosecuted For Corruption Without Proof Of Demand Or Acceptance Of Bribe: Karnataka High Court Reaffirms | [Read More](https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-demand-acceptance-bribe-public-duty-pc-act-524230) |
 | Mon, 23 Feb 2026 17:28:16 GMT | **LiveLaw** | Bombay High Court Quashes ED Complaint Against Advocate In Anil Deshmukh Case, Finds No Proceeds Of Crime | [Read More](https://www.livelaw.in/high-court/bombay-high-court/anil-deshmukh-money-laundering-ed-case-against-aide-kishore-dewani-quashed-524292) |
 | Mon, 23 Feb 2026 17:00:27 GMT | **LiveLaw** | Supreme Court Daily Round-Up : February 23, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-february-23-2026-524285) |
 | Mon, 23 Feb 2026 16:50:59 GMT | **LiveLaw** | 33 Multi-Utility Vehicles Flagged Off For DLSAs In Assam To Boost Last-Mile Access To Justice | [Read More](https://www.livelaw.in/news-updates/assam-legal-services-authority-legal-aid-vehicle-access-to-justice-524291) |
