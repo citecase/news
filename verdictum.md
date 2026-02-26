@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Thu, 26 Feb 2026 01:27:53 GMT | **LiveLaw** | Lok Sabha Committee Inquiring Justice Yashwant Varma Reconstituted, Bombay HC CJ Inducted | [Read More](https://www.livelaw.in/top-stories/lok-sabha-committee-inquiring-justice-yashwant-varma-reconstituted-bombay-hc-cj-inducted-524644) |
 | Wed, 25 Feb 2026 17:05:30 GMT | **LiveLaw** | 'Kerala Doesn't Have Dignity As Such, Dignity Is Of India': Kerala Story 2 Producer To High Court | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-story-2-certification-keralite-locus-challenge-movie-cbfc-524598) |
 | Wed, 25 Feb 2026 17:01:07 GMT | **LiveLaw** | Supreme Court Daily Round-Up : February 25, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-february-25-2026-524625) |
 | Wed, 25 Feb 2026 16:30:44 GMT | **LiveLaw** | Jindal Global Law School Hosts LSGL Deans' Meeting 2026 On Law And The Digital Future | [Read More](https://www.livelaw.in/lawschool/news/jindal-global-law-school-hosts-lsgl-deans-meeting-2026-on-law-and-the-digital-future-524642) |
