@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 01 Mar 2026 04:12:32 GMT | **LiveLaw** | Complete Supreme Court Annual Digest 2025 [Part-VII] | [Read More](https://www.livelaw.in/supreme-court/complete-supreme-court-annual-digest-2025-525050) |
+| Sun, 01 Mar 2026 03:19:02 GMT | **LiveLaw** | NCERT Textbook Issue Wouldn't Have Happened If Judges Had Properly Done Their Duties : Sr Adv Kapil Sibal | [Read More](https://www.livelaw.in/top-stories/ncert-textbook-issue-wouldnt-have-happened-if-judges-had-properly-done-their-duties-sr-adv-kapil-sibal-525049) |
 | Sat, 28 Feb 2026 18:44:25 GMT | **LiveLaw** | AI Summit Protest: Delhi Court Grants Bail To Indian Youth Congress President Uday Bhanu Chib | [Read More](https://www.livelaw.in/news-updates/ai-summit-protest-delhi-court-grants-bail-to-indian-youth-congress-president-uday-bhanu-chib-525015) |
 | Sat, 28 Feb 2026 17:12:32 GMT | **LiveLaw** | 'Chand Nikla' Remark To Woman Not Obscene Or Sexually Coloured: Punjab & Haryana High Court Quashes FIR | [Read More](https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-quashes-fir-against-gurugram-resident-chand-nikla-remark-to-woman-not-obscene-or-sexually-coloured-525042) |
 | Sat, 28 Feb 2026 16:56:54 GMT | **LiveLaw** | "Preventive Detention Law Invoked With Less Seriousness Than Traffic Challan": J&K&L High Court Orders Release Of Man | [Read More](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-high-court-psa-invoked-with-less-seriousness-than-a-traffic-challan-court-quashes-preventive-detention-slams-mechanical-exercise-of-power-525034) |
