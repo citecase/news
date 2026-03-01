@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 01 Mar 2026 17:30:42 GMT | **LiveLaw** | Punjab & Haryana High Court Grants Bail To Woman Accused In Double Murder Case Registered After 2 Years Of Death | [Read More](https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-grants-bail-to-woman-accused-in-double-murder-case-registered-nearly-2-years-after-death-525044) |
 | Sun, 01 Mar 2026 17:17:53 GMT | **LiveLaw** | Supreme Court Judge Justice Vikram Nath Inaugurates Upgraded Model Mediation Centre At Allahabad High Court | [Read More](https://www.livelaw.in/events/allahabad-high-court-upgraded-mediation-centre-inauguration-justice-vikram-nath-525079) |
 | Sun, 01 Mar 2026 17:16:10 GMT | **LiveLaw** | Kerala High Court Stays Proceedings Against BJP's K Surendran In 2019 Hartal Violence Case | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-2019-flash-hartal-violence-525043) |
 | Sun, 01 Mar 2026 15:00:40 GMT | **Verdictum** | Young Professional Vacancy At EdCIL (India) Limited | [Read More](https://www.verdictum.in/job-updates/ministry-of-education-1608977) |
