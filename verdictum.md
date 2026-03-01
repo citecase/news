@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 01 Mar 2026 17:17:53 GMT | **LiveLaw** | Supreme Court Judge Justice Vikram Nath Inaugurates Upgraded Model Mediation Centre At Allahabad High Court | [Read More](https://www.livelaw.in/events/allahabad-high-court-upgraded-mediation-centre-inauguration-justice-vikram-nath-525079) |
+| Sun, 01 Mar 2026 17:16:10 GMT | **LiveLaw** | Kerala High Court Stays Proceedings Against BJP's K Surendran In 2019 Hartal Violence Case | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-2019-flash-hartal-violence-525043) |
 | Sun, 01 Mar 2026 15:00:40 GMT | **Verdictum** | Young Professional Vacancy At EdCIL (India) Limited | [Read More](https://www.verdictum.in/job-updates/ministry-of-education-1608977) |
 | Sun, 01 Mar 2026 13:30:52 GMT | **Verdictum** | De Facto Marriage Entitles Woman To Maintenance Under Domestic Violence Act Despite Absence Of Formal Proof Of Marriage: Bombay High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/bombay-high-court/x-v-y-2026bhc-aug6648-de-facto-marriage-woman-maintenance-dv-act-1609008) |
 | Sun, 01 Mar 2026 13:30:47 GMT | **LiveLaw** | Faulty CCTVs A 'Routine Feature' In UP: Allahabad High Court Deems Surprise Police Station Inspections Part Of CJMs' Official Duty | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-surprise-police-station-inspections-cjms-official-duty-faulty-cctvs-up-525064) |
