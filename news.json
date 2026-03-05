@@ -1,5 +1,502 @@
 [
     {
+        "title": "NLU Odisha Invites Submissions For Short Film Making Competition On 'Campus Romance: Heartbeats And Heartbreak In The Hallways'",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 17:55:01 GMT",
+        "link": "https://www.livelaw.in/lawschool/competitions/nlu-odisha-invites-submissions-for-short-film-making-competition-on-campus-romance-heartbeats-and-heartbreak-in-the-hallways-525393",
+        "excerpt": ""
+    },
+    {
+        "title": "'Will Not Accept': Karnataka High Court Questions State For Filing Closure Report In FIR Over Abetment Of Student's Suicide",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 17:12:01 GMT",
+        "link": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-b-report-fir-student-abetment-to-suicide-525389",
+        "excerpt": ""
+    },
+    {
+        "title": "Kerala High Court Flags Financial Irregularities In Ayyappa Conclave Spending; Directs Auditor Of Devaswom Board To File Statement",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 16:46:10 GMT",
+        "link": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-financial-irregularities-ayyappa-conclave-spending-statement-on-anomalies-audits-525401",
+        "excerpt": ""
+    },
+    {
+        "title": "Failure Of Investigating Officer To Note Victim's Intellectual Disability Not Fatal If They Are Competent To Testify: Kerala High Court",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 16:31:08 GMT",
+        "link": "https://www.livelaw.in/high-court/kerala-high-court/failure-investigating-officer-victims-intellectual-disability-not-fatal-competent-testify-525398",
+        "excerpt": ""
+    },
+    {
+        "title": "'Criminal Proceedings Cannot Be Used To Settle Civil Scores In Property Deals': Punjab & Haryana High Court Quashes FIR",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 16:20:36 GMT",
+        "link": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-quashes-cheating-forgery-fir-criminal-proceedings-cannot-be-used-to-settle-civil-scores-525397",
+        "excerpt": ""
+    },
+    {
+        "title": "FIR Not Doubtful Or Diluted Merely Because It Was Lodged With Advocate's Help: Allahabad High Court",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 16:09:33 GMT",
+        "link": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-fir-lodged-advocate-help-525399",
+        "excerpt": ""
+    },
+    {
+        "title": "Legal Consultant Vacancy At Gujarat State Tribal Education Society (GSTES)",
+        "source": "Verdictum",
+        "date": "Thu, 05 Mar 2026 16:00:28 GMT",
+        "link": "https://www.verdictum.in/job-updates/gujarat-state-tribal-education-society-gstes-1609277",
+        "excerpt": "The Gujarat State Tribal Education Society (GSTES) invites applications for the recruitment of Legal Consultant. Location: Gandhinagar No. Of Posts: 01 Remuneration: ₹..."
+    },
+    {
+        "title": "P&H High Court Quashes Case Against Man Accused Of Making Accusations Against Judge, Asks DGP To Run Police Awareness Program On S.215 BNSS",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 15:59:05 GMT",
+        "link": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-quashes-proceedings-against-man-accused-of-making-accusations-against-judge-punjab-dgp-525396",
+        "excerpt": ""
+    },
+    {
+        "title": "State Filing Appeals After Great Delay: Madras High Court Directs Vigilance Probe",
+        "source": "Verdictum",
+        "date": "Thu, 05 Mar 2026 15:30:46 GMT",
+        "link": "https://www.verdictum.in/court-updates/high-courts/madras-high-court/the-commissioner-v-kannammal-education-trust-state-appeals-delay-vigilance-dept-probe-1609281",
+        "excerpt": "The Madras High Court was considering a petition filed by the Greater Chennai Corporation to condone the delay of 1421 days in filing the appeal."
+    },
+    {
+        "title": "Kerala High Court Questions Local Self Govt Department Over Illegal Boards; Says Joint Directors Must Appear If Directions Not Implemented",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 15:05:27 GMT",
+        "link": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-lsgd-on-illegal-boards-joint-directors-asked-to-appear-if-directions-not-implemented-525391",
+        "excerpt": ""
+    },
+    {
+        "title": "Matrimonial Cruelty Is Continuing Offence; Delay In Reporting Same Doesn’t Necessarily Erode Complaint’s Credibility: Kerala High Court",
+        "source": "Verdictum",
+        "date": "Thu, 05 Mar 2026 15:00:19 GMT",
+        "link": "https://www.verdictum.in/court-updates/high-courts/kerala-high-court/a-v-the-state-of-kerala-2026ker15653-matrimonial-cruelty-continuing-offence-delay-complain-credibility-1609284",
+        "excerpt": "The High Court was considering a revision petition filed by the accused husband challenging his conviction in a case registered under Section 498A of the Indian Penal ..."
+    },
+    {
+        "title": "Mail For Deceased Must Be Delivered To Legal Heirs, Not Returned To Sender: Madras High Court Asks Ministry Of Communications To Clarify Regulations",
+        "source": "Verdictum",
+        "date": "Thu, 05 Mar 2026 14:30:03 GMT",
+        "link": "https://www.verdictum.in/court-updates/high-courts/madras-high-court/mohana-ramaswami-v-secretary-ministry-of-communications-wp-no-5160-of-2026-1609280",
+        "excerpt": "The Court ordered that until formal amendments are made, postal authorities must hand over articles to the family members of the deceased to prevent undue hardship to ..."
+    },
+    {
+        "title": "Can’t Reject Claim Under Employees’ Compensation Act On Ground That Disability Certificate Was Issued By Doctor Who Didn’t Treat Injured: Bombay High Court",
+        "source": "Verdictum",
+        "date": "Thu, 05 Mar 2026 14:00:01 GMT",
+        "link": "https://www.verdictum.in/court-updates/high-courts/bombay-high-court/mahendra-sabharu-majhi-v-ms-mahlaxmi-enterprises-2026bhc-as9667-claim-employees-compensation-act-disability-certificate-1609283",
+        "excerpt": "The Bombay High Court was considering an appeal filed against the order of the Commissioner for Workmen’s Compensation under the Employees’ Compensation Act, 1923."
+    },
+    {
+        "title": "S. 202 CrPC - Magistrate Bound To Inquire Before Issuing Summons To Accused Residing Beyond Territorial Jurisdiction: Uttarakhand HC",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 13:45:46 GMT",
+        "link": "https://www.livelaw.in/high-court/uttarakhand-high-court/uttarakhand-high-court-issuing-summons-accused-territorial-jurisdiction-525379",
+        "excerpt": ""
+    },
+    {
+        "title": "Karnataka HC Suggests State To Issue Guidelines On Background Check For Migrant Workers, Calls For Balanced Approach Without Stigmatization",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 13:40:41 GMT",
+        "link": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-guidelines-migrant-workers-background-verification-525382",
+        "excerpt": ""
+    },
+    {
+        "title": "Writ Court Cannot Extend Benefit Of Marriage Assistance Scheme Meant For Those Earning Minimum Wages Or Less To A Larger Class: Madras High Court",
+        "source": "Verdictum",
+        "date": "Thu, 05 Mar 2026 13:30:44 GMT",
+        "link": "https://www.verdictum.in/court-updates/high-courts/madras-high-court/the-principal-secretary-to-government-v-schitra-extension-benefit-marriage-assistance-minimum-wages-article-226-1609278",
+        "excerpt": "The Madras High Court was considering a Petition challenging the decision of a Single Judge involving the Moovalur Ramamirtham Ammaiyar Ninaivu Marriage Assistance Scheme"
+    },
+    {
+        "title": "'Non Supply Of Inquiry Report To Accused Delinquent Vitates Punishment Order': MP High Court",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 13:25:14 GMT",
+        "link": "https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-holds-non-supply-of-inquiry-report-to-government-employee-vitates-punishment-order-525378",
+        "excerpt": ""
+    },
+    {
+        "title": "Kerala High Court Refuses To Interfere With Assembly Ethics Committee Proceedings Against Rahul Mamkoottathil MLA",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 12:58:45 GMT",
+        "link": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-pil-rahul-mamkootathil-525381",
+        "excerpt": ""
+    },
+    {
+        "title": "HP High Court Quashes FIR Against Shimla Councillor Under Railways Act, Finds No Material Showing Electric Pole Near Track Endangered Safety",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 12:51:10 GMT",
+        "link": "https://www.livelaw.in/high-court/himachal-pradesh-high-court/himachal-pradesh-high-court-wilful-endangerment-railways-act-525355",
+        "excerpt": ""
+    },
+    {
+        "title": "Non-Parties Can Also Be Held Liable For Contempt: Supreme Court Warns Against Delayed Appeals To Evade Compliance",
+        "source": "Verdictum",
+        "date": "Thu, 05 Mar 2026 12:50:55 GMT",
+        "link": "https://www.verdictum.in/court-updates/supreme-court/israr-ahmad-khan-v-amarnath-prasad-2026-insc-209-delayed-appeals-non-parties-contempt-sc-warns-1609276",
+        "excerpt": "The Court urged High Courts to deal firmly with litigants who adopt such tactics, particularly when the defaulting party is the State or its instrumentalities within t..."
+    },
+    {
+        "title": "'Security Paramount': Bombay High Court Refuses Permission To Offer Namaz At Mumbai Airport",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 12:41:41 GMT",
+        "link": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-refuses-permission-muslim-drivers-namaz-mumbai-airport-525376",
+        "excerpt": ""
+    },
+    {
+        "title": "Alteration Of Child's Surname To Reflect Mother's Lineage Does Not Affect Father's Rights: Karnataka High Court",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 12:18:56 GMT",
+        "link": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-child-surname-mother-father-constitution-525359",
+        "excerpt": ""
+    },
+    {
+        "title": "'No Work No Pay' Not Applicable When Employee Kept Away From Work By Authorities Without His Fault: P&H High Court",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 12:07:49 GMT",
+        "link": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-no-work-no-pay-not-applicable-when-employer-kept-away-from-work-by-authorities-without-his-fault-525377",
+        "excerpt": ""
+    },
+    {
+        "title": "Child Welfare Committee Has Final Authority Over Custody Of Rescued Minor Whose Mother Is Allegedly Involved In Prostitution Racket: Karnataka High Court",
+        "source": "Verdictum",
+        "date": "Thu, 05 Mar 2026 12:00:10 GMT",
+        "link": "https://www.verdictum.in/court-updates/high-courts/karnataka-high-court/x-v-state-2026khc3305-prostitution-racket-mother-minor-custody-cwc-1609273",
+        "excerpt": "Court holds that under the Juvenile Justice Act, the Child Welfare Committee has the final authority over custody and restoration of rescued child victims; refuses to ..."
+    },
+    {
+        "title": "Mere Use Of Words 'Waqf' Or 'Mosque' In Title Deed Does Not Create A Public Waqf: Madras High Court",
+        "source": "Verdictum",
+        "date": "Thu, 05 Mar 2026 11:20:42 GMT",
+        "link": "https://www.verdictum.in/court-updates/high-courts/madras-high-court/2026mhc841-m-sirajudeen-sayeed-died-v-the-tamil-nadu-waqf-board-1609269",
+        "excerpt": "The Court said that for a public waqf to exist, there must be an immediate and complete vesting of both the property's corpus and its usufruct in God."
+    },
+    {
+        "title": "Chief Legal Aid Defense Counsel, Deputy Chief Legal Aid Defense Counsel, And Assistant Legal Aid Defense Counsel Vacancy At District Court Complex, Kendrapara",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 11:14:32 GMT",
+        "link": "https://www.livelaw.in/job-updates/chief-legal-aid-defense-counsel-deputy-chief-legal-aid-defense-counsel-and-assistant-legal-aid-defense-counsel-vacancy-at-district-court-complex-kendrapara-525372",
+        "excerpt": ""
+    },
+    {
+        "title": "'No Vehicle Day Not A Bad Idea', Says Kerala High Court But Questions Lakshadweep's Choice Of Wednesday For Traffic Ban",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 11:01:58 GMT",
+        "link": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-lakshadweep-wednesday-no-vehicle-pil-525371",
+        "excerpt": ""
+    },
+    {
+        "title": "Chief/Deputy/Assistant Legal Aid Defense Counsel Vacancy At District Legal Services Authority, Mahesana [Apply Now]",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 10:58:42 GMT",
+        "link": "https://www.livelaw.in/job-updates/chiefdeputyassistant-legal-aid-defense-counsel-vacancy-at-district-legal-services-authority-mahesana-525370",
+        "excerpt": ""
+    },
+    {
+        "title": "The Black Box Of Fraud: AI And Reinvention Of White-Collar Crime",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 10:47:45 GMT",
+        "link": "https://www.livelaw.in/lawschool/articles/artificial-intelligence-white-collar-crime-525368",
+        "excerpt": ""
+    },
+    {
+        "title": "Centre Notifies Appointment Of Justice SA Dharmadhikari As Madras High Court Chief Justice",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 10:45:04 GMT",
+        "link": "https://www.livelaw.in/top-stories/centre-notifies-appointment-of-justice-sa-dharmadhikari-as-madras-high-court-chief-justice-525367",
+        "excerpt": ""
+    },
+    {
+        "title": "Centre Notifies Appointment Of Chief Justice At Madras High Court",
+        "source": "Verdictum",
+        "date": "Thu, 05 Mar 2026 10:36:25 GMT",
+        "link": "https://www.verdictum.in/court-updates/high-courts/centre-notifies-appointment-of-chief-justice-at-madras-high-court-1609267",
+        "excerpt": "The Ministry of Law and Justice has notified the appointment of Justice Sushrut Arvind Dharmadhikari, Judge of the Kerala High Court, to be the Chief Justice of Madras..."
+    },
+    {
+        "title": "Document-Centric Investigation Makes Custodial Detention Unnecessary: Karnataka HC Grants Bail To Ex-MP’s Son In Counterfeit Stamp Paper Case",
+        "source": "Verdictum",
+        "date": "Thu, 05 Mar 2026 10:10:01 GMT",
+        "link": "https://www.verdictum.in/court-updates/high-courts/karnataka-high-court/d-a-srinivas-v-cbi-2026khc12284-ex-mp-custody-jail-counterfeit-govt-stamp-paper-1609266",
+        "excerpt": "Court notes major portion of investigation is complete and no further recovery is pending; holds offences under Sections 255 and 467 IPC are not exclusively punishable..."
+    },
+    {
+        "title": "Service Of Dismissal Order At Residence Doesn’t Give Rise To Territorial Cause Of Action: Jammu &Kashmir And Ladakh High Court",
+        "source": "Verdictum",
+        "date": "Thu, 05 Mar 2026 09:30:34 GMT",
+        "link": "https://www.verdictum.in/court-updates/high-courts/jammu-ladakh-high-court/noshad-ahmed-v-union-of-india-swp-no-12452007-1609265",
+        "excerpt": "The Court said that territorial jurisdiction is a matter of law rooted in the essential facts of the dispute and is not a mobile privilege dependent upon the convenien..."
+    },
+    {
+        "title": "Employees' Compensation Act Claim Cannot Be Rejected Merely Because Disability Certificate Was Issued By Non-Treating Doctor: Bombay HC",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 09:25:45 GMT",
+        "link": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-set-aside-order-workmen-compensation-525350",
+        "excerpt": ""
+    },
+    {
+        "title": "'Spent Prime Of His Youth In Court Corridors': Orissa HC Raps State For Removing Teacher On Same Grounds After Reinstatement",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 08:55:41 GMT",
+        "link": "https://www.livelaw.in/high-court/orissa-high-court/orissa-high-court-removing-sc-teacher-reinstatement-525349",
+        "excerpt": ""
+    },
+    {
+        "title": "Prior User Prevails Over Subsequent Trademark Registration: Delhi High Court On ‘THUKRAL’ TM Dispute",
+        "source": "Verdictum",
+        "date": "Thu, 05 Mar 2026 08:50:44 GMT",
+        "link": "https://www.verdictum.in/court-updates/high-courts/delhi-high-court/rakesh-kumar-aggarwal-v-intellectual-property-appellate-board-2026dhc1830-trademark-thukral-repeated-default-1609262",
+        "excerpt": "In cases where procedural indulgence has already been granted multiple times, denial of further opportunity does not amount to violation of principles of natural justice"
+    },
+    {
+        "title": "'Procurement Not By Fair Means': J&K&L High Court Flags Practise Of Filing Uncertified Photostat Copies As Annexures",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 08:45:40 GMT",
+        "link": "https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-high-court-photostat-copies-from-court-files-raise-red-flagscourt-warns-of-action-against-presiding-officers-court-staff-525352",
+        "excerpt": ""
+    },
+    {
+        "title": "Blow With Bamboo Stick Or Rod At Elbow Can Hardly Be Said To Cause Death: Calcutta High Court Reduces Sentence To Accused Convicted U/S 326 IPC",
+        "source": "Verdictum",
+        "date": "Thu, 05 Mar 2026 08:00:55 GMT",
+        "link": "https://www.verdictum.in/court-updates/high-courts/calcutta-high-court/2026chcas359-goutam-saha-v-state-of-west-bengal-1609260",
+        "excerpt": "The Court altered the petitioners' conviction to Section 325 IPC, reducing their sentence to six months of simple imprisonment."
+    },
+    {
+        "title": "Chandigarh Consumer Commission Holds WTC Chandigarh Liable For Delay In Possession; Homebuyers Cannot Be Made To Wait Indefinitely",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 07:31:00 GMT",
+        "link": "https://www.livelaw.in/consumer-cases/chandigarh-consumer-commission-holds-wtc-chandigarh-liable-for-delay-in-possession-homebuyers-cannot-be-made-to-wait-indefinitely-525322",
+        "excerpt": ""
+    },
+    {
+        "title": "J&K&L High Court Dismisses Plea Challenging 1985 Waqf Notification Allegedly Covering Government Institutions, Public Utilities & Forest Department",
+        "source": "Verdictum",
+        "date": "Thu, 05 Mar 2026 07:20:08 GMT",
+        "link": "https://www.verdictum.in/court-updates/high-courts/jammu-ladakh-high-court/satish-sasan-v-state-of-jkl-2026jklhc-jmu550-waqf-property-government-land-dams-marla-1609254",
+        "excerpt": "Court dismisses plea against 1985 SRO notifying waqf properties in Poonch which allegedly had declared public lands such as Government Degree College grounds, Parade G..."
+    },
+    {
+        "title": "Chief Director (Legal & Recovery) Vacancy At National Cooperative Development Corporation (NCDC)",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 07:16:14 GMT",
+        "link": "https://www.livelaw.in/job-updates/chief-director-legal-recovery-vacancy-at-national-cooperative-development-corporation-ncdc-525358",
+        "excerpt": ""
+    },
+    {
+        "title": "CMO Bulk Messaging Issue: State Seeks Permission To Send 'Thank You' Messages To CMRDF Donors, Kerala High Court To Decide",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 07:09:57 GMT",
+        "link": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-cmo-bulk-messaging-cmrdf-525323",
+        "excerpt": ""
+    },
+    {
+        "title": "CJI Surya Kant Suggests Tech-Driven Reforms For Bhutan Judiciary",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 07:06:48 GMT",
+        "link": "https://www.livelaw.in/top-stories/cji-surya-kant-suggests-tech-driven-reforms-for-bhutan-judiciary-525357",
+        "excerpt": ""
+    },
+    {
+        "title": "High Court Declines Fresh PIL Against 'Kerala Story 2'; Pulls Up Petitioner For Casting Aspersions On Coordinate Bench That Allowed Release",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 07:06:06 GMT",
+        "link": "https://www.livelaw.in/top-stories/kerala-high-court-kerala-story-2-pil-casting-aspersion-on-division-bench-525356",
+        "excerpt": ""
+    },
+    {
+        "title": "Additional Legal Advisor Vacancy At National Investigation Agency",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 06:35:08 GMT",
+        "link": "https://www.livelaw.in/job-updates/additional-legal-advisor-vacancy-at-national-investigation-agency-525348",
+        "excerpt": ""
+    },
+    {
+        "title": "Private Secretary Vacancy At National Green Tribunal, Principal Bench, New Delhi",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 06:32:12 GMT",
+        "link": "https://www.livelaw.in/job-updates/private-secretary-vacancy-at-national-green-tribunal-principal-bench-new-delhi-525347",
+        "excerpt": ""
+    },
+    {
+        "title": "Electricity Ombudsman Vacancy At Madhya Pradesh Electricity Regulatory Commission",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 06:30:38 GMT",
+        "link": "https://www.livelaw.in/job-updates/electricity-ombudsman-vacancy-at-madhya-pradesh-electricity-regulatory-commission-525346",
+        "excerpt": ""
+    },
+    {
+        "title": "Supreme Court Directs Husband's Employer To Deposit Monthly Maintenance To Wife's Account After Deducting From His Salary",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 06:30:10 GMT",
+        "link": "https://www.livelaw.in/top-stories/supreme-court-directs-husbands-employer-to-desposit-monthly-maintenance-to-wifes-account-after-deducing-from-his-salary-525345",
+        "excerpt": ""
+    },
+    {
+        "title": "Temple Lands Are Not Commercial Assets Of State: Madras High Court Pulls Up Authorities Over Encroachment Of 507 Acres",
+        "source": "Verdictum",
+        "date": "Thu, 05 Mar 2026 06:30:00 GMT",
+        "link": "https://www.verdictum.in/court-updates/high-courts/madras-high-court/a-radhakrishnan-v-p-madhusudhanreddy-ias-2026mhc866-temple-land-state-authority-encroachers-1609245",
+        "excerpt": "Court flags organised resistance and influence of powerful encroachers, including government officials and industrialists"
+    },
+    {
+        "title": "Recovery Of RERA Compensation Cannot Be Put On Hold Due To Subsequent Vesting Of Land In State: HP High Court",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 06:15:47 GMT",
+        "link": "https://www.livelaw.in/high-court/himachal-pradesh-high-court/himachal-pradesh-high-court-recovery-rera-compensation-525325",
+        "excerpt": ""
+    },
+    {
+        "title": "Courts This Week- Arvind Kejriwal- NCERT textbook- The Kerala Story 2- Aravalli and more",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 06:11:01 GMT",
+        "link": "https://www.livelaw.in/videos/supreme-court-courts-this-week-weekly-news-ncert-arvind-kejriwal-manish-sisodia-liquor-policy-case-the-kerala-story-2-aravalli-cji-chief-justice-of-india-zee-media-news-india-legal-news-law-525344",
+        "excerpt": ""
+    },
+    {
+        "title": "2026 LiveLaw (SC) 211 - JAIDEEP KUMAR SRIVASTAVA v. THE STATE OF U.P. & ORS",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 06:08:46 GMT",
+        "link": "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-211-jaideep-kumar-srivastava-v-the-state-of-up-ors-525343",
+        "excerpt": ""
+    },
+    {
+        "title": "Allahabad High Court's Failure To Pronounce Verdict 6 Years After Reserving Forces Supreme Court To Transfer Cases To Itself",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 06:07:09 GMT",
+        "link": "https://www.livelaw.in/supreme-court/allahabad-high-courts-failure-to-pronounce-verdict-6-years-after-reserving-forces-supreme-court-to-transfer-cases-to-itself-525342",
+        "excerpt": "The trial in a 1994 murder case remained stalled due to the High Court delaying the judgment."
+    },
+    {
+        "title": "Delhi High Court Grants Interim Injunction Against AI-Generated Deepfake Videos Of Sadguru Shree Aniruddha Bapu",
+        "source": "Verdictum",
+        "date": "Thu, 05 Mar 2026 06:00:58 GMT",
+        "link": "https://www.verdictum.in/court-updates/high-courts/delhi-high-court/dr-aniruddha-dhairyadhar-joshi-v-john-does-ashok-kumars-cscomm-1782026-spiritual-leader-personality-rights-1609239",
+        "excerpt": "“Sadguru Shree Aniruddha Bapu”, claims to have delivered more than 1,400 religious discourses (Pravachans) since 1995"
+    },
+    {
+        "title": "Rajasthan High Court Deprecates Litigants Pursuing Two Remedies Simultaneously, Says 'Hedging Bets' Impermissible",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 06:00:35 GMT",
+        "link": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-rejects-revision-petition-existing-appeal-525340",
+        "excerpt": ""
+    },
+    {
+        "title": "Supreme Court To Hear Plea Challenging Gujarat Civil Judge Recruitment Process",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 05:39:58 GMT",
+        "link": "https://www.livelaw.in/top-stories/supreme-court-to-hear-plea-challenging-gujarat-civil-judge-recruitment-process-525341",
+        "excerpt": ""
+    },
+    {
+        "title": "Panel Discussion - 16th Government Law College International Law Summit 2026",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 05:38:18 GMT",
+        "link": "https://www.livelaw.in/lawschool/news/panel-discussion-16th-government-law-college-international-law-summit-2026-525339",
+        "excerpt": ""
+    },
+    {
+        "title": "Karnataka High Court Refuses Custody Of Rescued Girl To Mother Allegedly Involved In Prostitution Racket",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 05:34:43 GMT",
+        "link": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-mother-daughter-custody-prostituion-525338",
+        "excerpt": ""
+    },
+    {
+        "title": "Overdrawing Beyond Sanctioned Limit Without Surety’s Consent Leads To Partial Discharge Under Section 133 Contract Act: Supreme Court",
+        "source": "Verdictum",
+        "date": "Thu, 05 Mar 2026 05:30:08 GMT",
+        "link": "https://www.verdictum.in/court-updates/supreme-court/bhagyalaxmi-co-operative-bank-ltd-v-babaldas-amtharam-patel-2026-insc-205-withdrawn-beyond-limit-surety-1609237",
+        "excerpt": "Guarantor liable only for originally sanctioned amount; Section 139 not attracted absent impairment of remedy"
+    },
+    {
+        "title": "Supreme Court Monthly Criminal Digest: January 2026",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 05:22:57 GMT",
+        "link": "https://www.livelaw.in/supreme-court/supreme-court-criminal-digest-january-2026-525335",
+        "excerpt": ""
+    },
+    {
+        "title": "Bengaluru Stampede Case: Karnataka High Court Asks State To Submit Proposed Chargesheet Material In Sealed Cover",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 05:15:30 GMT",
+        "link": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-bengaluru-stampede-chargesheet-525330",
+        "excerpt": ""
+    },
+    {
+        "title": "2026 LiveLaw (SC) 210 -  BHAGYALAXMI CO-OPERATIVE BANK LTD. VERSUS BABALDAS AMTHARAM PATEL (D) THROUGH LEGAL REPRESENTATIVES & OTHERS",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 05:05:05 GMT",
+        "link": "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-210-bhagyalaxmi-co-operative-bank-ltd-versus-babaldas-amtharam-patel-d-through-legal-representatives-others-525333",
+        "excerpt": ""
+    },
+    {
+        "title": "The Quagmire Of Interim Injunctions In Probate Cases",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 05:03:33 GMT",
+        "link": "https://www.livelaw.in/articles/interim-injunctions-probate-cases-525331",
+        "excerpt": ""
+    },
+    {
+        "title": "S.133 Contract Act - Surety Not Liable For Borrower's Withdrawals After Modification Of Loan Limit Without Consent : Supreme Court",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 05:03:02 GMT",
+        "link": "https://www.livelaw.in/top-stories/supreme-court-judgment-guarantor-liability-loan-agreement-indian-contract-act-section-133-contract-act-525332",
+        "excerpt": ""
+    },
+    {
+        "title": "Thiruparakundram Deepam Row - Contempt Proceeding Not Political, Only Want To Ensure Court Order Is Respected: Madras High Court Remarks",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 05:00:27 GMT",
+        "link": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-thriruparankundram-contempt-plea-not-political-respect-court-order-525324",
+        "excerpt": ""
+    },
+    {
+        "title": "Judicial Reinterpretation Resulting In Coal Block Cancellation Is ‘Change In Law’ Under Power Purchase Agreement: Supreme Court",
+        "source": "Verdictum",
+        "date": "Thu, 05 Mar 2026 05:00:09 GMT",
+        "link": "https://www.verdictum.in/court-updates/supreme-court/west-bengal-state-electricity-distribution-co-ltd-v-adhunik-power-natural-resource-ltd-2026-insc-202-coal-block-ppa-change-in-law-1609236",
+        "excerpt": "Indemnity clause cannot operate where statutory intervention triggers contractual relief"
+    },
+    {
+        "title": "'Divorce Decree Cannot Be Granted By Relying Merely On Whatsapp Chat': Bombay High Court",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 04:47:26 GMT",
+        "link": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-divorce-decree-whatsapp-chat-525329",
+        "excerpt": ""
+    },
+    {
+        "title": "Police Should Record Statements, Preserve Videos Of Amicable Settlements In Criminal Cases: Orissa High Court",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 04:44:54 GMT",
+        "link": "https://www.livelaw.in/high-court/orissa-high-court/orissa-high-court-police-record-statements-amicable-settlements-criminal-cases-525328",
+        "excerpt": ""
+    },
+    {
+        "title": "Women Striving For Economic Independence Does Not Have To Compromise Role As Caregiver: Bombay High Court On Giving Maternity Benefits For Contractual Doctor",
+        "source": "Verdictum",
+        "date": "Thu, 05 Mar 2026 04:30:57 GMT",
+        "link": "https://www.verdictum.in/court-updates/high-courts/bombay-high-court/dhanashri-ramesh-karkhanis-v-municipal-corporation-of-greater-mumbai-2026bhc-os5400-db-mother-doctor-assistant-professor-contract-1609223",
+        "excerpt": "Statutory protections under 1961 Act supersede private agreements; Court rules motherhood dignity and financial security are non-negotiable facets of Article 21"
+    },
+    {
+        "title": "Thrissur Consumer Commission Holds IFFCO Tokio Liable For Repudiating Accident Insurance Claim",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 04:00:20 GMT",
+        "link": "https://www.livelaw.in/consumer-cases/thrissur-consumer-commission-holds-iffco-tokio-liable-for-repudiating-accident-insurance-claim-525321",
+        "excerpt": ""
+    },
+    {
+        "title": "Delhi High Court Monthly Digest: February 2026 [Citations 125 - 249]",
+        "source": "LiveLaw",
+        "date": "Thu, 05 Mar 2026 03:30:16 GMT",
+        "link": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-monthly-digest-february-2026-citations-125-249-525208",
+        "excerpt": ""
+    },
+    {
         "title": "Prosecution Officer Vacancy At Bihar Public Service Commission (BPSC)",
         "source": "Verdictum",
         "date": "Wed, 04 Mar 2026 15:00:48 GMT",
@@ -901,502 +1398,5 @@
         "date": "Mon, 02 Mar 2026 07:30:35 GMT",
         "link": "https://www.livelaw.in/consumer-cases/charging-excess-for-photocopying-based-on-misleading-advertisement-is-unfair-trade-practice-thrissur-district-commission-525100",
         "excerpt": ""
-    },
-    {
-        "title": "'Absolute Disdain': High Court Slams UP Govt Over Senior Citizens Protection Plan; Warns Bureaucracy Of Coercive Actions",
-        "source": "LiveLaw",
-        "date": "Mon, 02 Mar 2026 07:14:46 GMT",
-        "link": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-up-govt-senior-citizens-protection-safety-plan-bureaucracy-coercive-actions-525120",
-        "excerpt": ""
-    },
-    {
-        "title": "Karnataka High Court Weekly Round-Up: February 23 - March 1, 2026",
-        "source": "LiveLaw",
-        "date": "Mon, 02 Mar 2026 07:00:31 GMT",
-        "link": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-weekly-round-up-525085",
-        "excerpt": ""
-    },
-    {
-        "title": "Police Requisitions Must Not Paralyse Banking Operations; Co-operative Banks Bound to Identify and Freeze Actual Fraud-Linked Accounts: Kerala High Court",
-        "source": "Verdictum",
-        "date": "Mon, 02 Mar 2026 06:50:09 GMT",
-        "link": "https://www.verdictum.in/court-updates/high-courts/kerala-high-court/ms-kunnamangalam-co-operative-rural-bank-ltd-v-inspector-of-police-2026ker15537-bank-free-mirror-account-cooperative-bank-1609057",
-        "excerpt": "Mirror account freeze must be restricted to disputed amount; detailed SOP under NCRP to govern cyber fraud lien, custody and restoration"
-    },
-    {
-        "title": "'Judicial Murder': Allahabad High Court Orders Administrative Action Against Trial Judge For Causing Illegal Gain To Party In Title Dispute",
-        "source": "LiveLaw",
-        "date": "Mon, 02 Mar 2026 06:45:24 GMT",
-        "link": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-administrative-action-against-civil-judge-525102",
-        "excerpt": ""
-    },
-    {
-        "title": "Tamil Nadu AG Refuses Consent To Initiate Contempt Proceedings Against Former Judge For Remarks On Justice GR Swaminathan",
-        "source": "LiveLaw",
-        "date": "Mon, 02 Mar 2026 06:04:35 GMT",
-        "link": "https://www.livelaw.in/news-updates/tn-ag-refuses-sanction-contempt-against-former-judge-comment-gr-swaminathan-525106",
-        "excerpt": ""
-    },
-    {
-        "title": "Fraudulent Mutation Entry Is A 'Nullity'; Limitation Begins From Knowledge Of Fraud: Gujarat High Court",
-        "source": "LiveLaw",
-        "date": "Mon, 02 Mar 2026 06:00:24 GMT",
-        "link": "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-challenge-fraudulent-land-mutation-fraud-525087",
-        "excerpt": ""
-    },
-    {
-        "title": "Liability To Pay Penalty Imposed Under Employees Compensation Act Cannot Be Fastened On Insurance Company: Supreme Court",
-        "source": "Verdictum",
-        "date": "Mon, 02 Mar 2026 06:00:00 GMT",
-        "link": "https://www.verdictum.in/court-updates/supreme-court/new-india-assurance-co-ltd-v-rekha-chaudhary-ors-2026-insc-177-1609050",
-        "excerpt": "The Apex Court held that after the 1995 amendment severed compensation and interest from the penalty component under Section 4A(3), the legislative scheme makes the pe..."
-    },
-    {
-        "title": "Project Manager Vacancy At Indian Institute Of Technology, Kanpur",
-        "source": "LiveLaw",
-        "date": "Mon, 02 Mar 2026 05:50:21 GMT",
-        "link": "https://www.livelaw.in/job-updates/project-manager-vacancy-at-indian-institute-of-technology-kanpur-525104",
-        "excerpt": ""
-    },
-    {
-        "title": "'Surya Kumar Yadav Not Expected To Bowl Death Overs' : CJI Surya Kant Uses T20 Analogy, Stresses On Specialisation By Lawyers",
-        "source": "LiveLaw",
-        "date": "Mon, 02 Mar 2026 05:30:01 GMT",
-        "link": "https://www.livelaw.in/top-stories/surya-kumar-yadav-not-expected-to-bowl-death-overs-cji-surya-kant-uses-t20-analogy-stresses-on-specialisation-by-lawyers-525101",
-        "excerpt": "The profession does not reward those who attempt to do everything equally, CJI cautioned."
-    },
-    {
-        "title": "Gujarat High Court Acquits Cop In 50-Year-Old Custodial Torture Case Citing State's Failure To Prove Illegal Confinement & Assault",
-        "source": "LiveLaw",
-        "date": "Mon, 02 Mar 2026 05:15:16 GMT",
-        "link": "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-custodial-torture-case-illegal-confinement-assault-525086",
-        "excerpt": ""
-    },
-    {
-        "title": "New India Assurance Co. Ltd. v. Rekha Chaudhary 2026 INSC 177 - Employees’ Compensation Act",
-        "source": "CaseCiter",
-        "date": "Mon, 02 Mar 2026 05:14:14 GMT",
-        "link": "https://www.caseciter.com/2026insc177/",
-        "excerpt": "Read Judgment In LawLensEmployees’ Compensation Act, 1923 - Section 4A- In this case, the High Court imposed the liability of paying the penalty component under Sectio..."
-    },
-    {
-        "title": "Perjury Cannot Be Invoked On Mere Suspicion in Commercial Suits: Delhi HC Allows Britannia to Amend ‘GOOD DAY’ Trademark Plaint",
-        "source": "Verdictum",
-        "date": "Mon, 02 Mar 2026 05:10:01 GMT",
-        "link": "https://www.verdictum.in/court-updates/high-courts/delhi-high-court/britannia-industries-ltd-v-desi-bites-snacks-p-ltd-2026dhc1826-britannia-good-day-commercial-suit-trademark-1609049",
-        "excerpt": "Court holds deliberate falsehood must be clearly established before initiating perjury"
-    },
-    {
-        "title": "Maharashtra State Commission Holds HP Employees' Co-operative Credit Society Liable For Deficiency In Service For Enforcing Undisclosed Restriction On Premature Withdrawal Of Deposit",
-        "source": "LiveLaw",
-        "date": "Mon, 02 Mar 2026 05:08:47 GMT",
-        "link": "https://www.livelaw.in/consumer-cases/maharashtra-state-commission-holds-hp-employees-co-operative-credit-society-liable-for-deficiency-in-service-for-enforcing-undisclosed-restriction-on-prema-ure-withdrawal-of-deposit-525099",
-        "excerpt": ""
-    },
-    {
-        "title": "Delhi High Court Weekly Round-Up: February 23 To March 01, 2026",
-        "source": "LiveLaw",
-        "date": "Mon, 02 Mar 2026 05:01:15 GMT",
-        "link": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-weekly-round-up-february-23-to-march-01-2026-525084",
-        "excerpt": ""
-    },
-    {
-        "title": "Bench On Trial: From Real Trial To The Social Media Trial",
-        "source": "LiveLaw",
-        "date": "Mon, 02 Mar 2026 04:59:18 GMT",
-        "link": "https://www.livelaw.in/lawschool/articles/real-trial-social-media-trial-525096",
-        "excerpt": ""
-    },
-    {
-        "title": "Democratic Process Can't Be Curbed Unreasonably: Karnataka High Court Asks Police To Permit Use Of Loudspeakers For Trade Union's Campaign",
-        "source": "LiveLaw",
-        "date": "Mon, 02 Mar 2026 04:45:43 GMT",
-        "link": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-loudspeaker-use-trade-union-campaign-protest-525083",
-        "excerpt": ""
-    },
-    {
-        "title": "Legal Researcher Vacancy At The Rajasthan High Court, Jodhpur [Apply Now]",
-        "source": "LiveLaw",
-        "date": "Mon, 02 Mar 2026 04:41:20 GMT",
-        "link": "https://www.livelaw.in/job-updates/legal-researcher-vacancy-at-the-rajasthan-high-court-jodhpur-525094",
-        "excerpt": ""
-    },
-    {
-        "title": "Empanelment Of Advocates At Employees' Provident Fund Organisation (EPFO)",
-        "source": "LiveLaw",
-        "date": "Mon, 02 Mar 2026 04:39:45 GMT",
-        "link": "https://www.livelaw.in/job-updates/empanelment-of-advocates-at-employees-provident-fund-organisation-epfo-525093",
-        "excerpt": ""
-    },
-    {
-        "title": "Analyst (Compliance Review) Vacancy At KPMG India [Noida; Apply Now]",
-        "source": "LiveLaw",
-        "date": "Mon, 02 Mar 2026 04:37:57 GMT",
-        "link": "https://www.livelaw.in/job-updates/analyst-compliance-review-vacancy-at-kpmg-india-noida-525092",
-        "excerpt": ""
-    },
-    {
-        "title": "Punjab & Haryana High Court Treats Disabled Petitioner's Plea Seeking Accessible Housing As PIL",
-        "source": "LiveLaw",
-        "date": "Mon, 02 Mar 2026 04:30:41 GMT",
-        "link": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-treats-plea-by-60-disabled-petitioner-seeking-accessible-housing-as-pil-525082",
-        "excerpt": ""
-    },
-    {
-        "title": "District Magistrate Showed Casual Approach Towards Fundamental Right Of Personal Liberty: Jammu & Kashmir and Ladakh High Court Quashes Detention Order",
-        "source": "Verdictum",
-        "date": "Mon, 02 Mar 2026 04:30:17 GMT",
-        "link": "https://www.verdictum.in/court-updates/high-courts/jammu-ladakh-high-court/muzaffar-farooq-mir-v-ut-of-j-k-hcp-no-972025-1609009",
-        "excerpt": "The Court said that nothing can be more absurd than the inherent contradiction so obtaining in the grounds of the detention formulated by the DM on which order was pas..."
-    },
-    {
-        "title": "Senior Consultant (Legal - AIF) Vacancy At National Pension System Trust",
-        "source": "LiveLaw",
-        "date": "Mon, 02 Mar 2026 04:25:59 GMT",
-        "link": "https://www.livelaw.in/job-updates/senior-consultant-legal-aif-vacancy-at-national-pension-system-trust-525091",
-        "excerpt": ""
-    },
-    {
-        "title": "S.135(C) Gujarat Land Revenue Code - Revenue Authorities Must Mutate Entry When Based On Registered Sale Deed: High Court",
-        "source": "LiveLaw",
-        "date": "Mon, 02 Mar 2026 04:00:37 GMT",
-        "link": "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-revenue-authorities-registered-sale-deed-525081",
-        "excerpt": ""
-    },
-    {
-        "title": "Referring To Someone By Their Profession Doesn't Attract SC/ST Act Offence If No Intent To Humiliate: Allahabad High Court",
-        "source": "LiveLaw",
-        "date": "Mon, 02 Mar 2026 03:57:22 GMT",
-        "link": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-dhobin-profession-sc-st-act-offence-intent-humiliate-525089",
-        "excerpt": ""
-    },
-    {
-        "title": "Punjab & Haryana High Court Grants Bail To Woman Accused In Double Murder Case Registered After 2 Years Of Death",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 17:30:42 GMT",
-        "link": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-grants-bail-to-woman-accused-in-double-murder-case-registered-nearly-2-years-after-death-525044",
-        "excerpt": ""
-    },
-    {
-        "title": "Supreme Court Judge Justice Vikram Nath Inaugurates Upgraded Model Mediation Centre At Allahabad High Court",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 17:17:53 GMT",
-        "link": "https://www.livelaw.in/events/allahabad-high-court-upgraded-mediation-centre-inauguration-justice-vikram-nath-525079",
-        "excerpt": ""
-    },
-    {
-        "title": "Kerala High Court Stays Proceedings Against BJP's K Surendran In 2019 Hartal Violence Case",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 17:16:10 GMT",
-        "link": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-2019-flash-hartal-violence-525043",
-        "excerpt": ""
-    },
-    {
-        "title": "Young Professional Vacancy At EdCIL (India) Limited",
-        "source": "Verdictum",
-        "date": "Sun, 01 Mar 2026 15:00:40 GMT",
-        "link": "https://www.verdictum.in/job-updates/ministry-of-education-1608977",
-        "excerpt": "The EdCIL (India) Limited, a Mini Ratna Category-I CPSE under the Ministry of Education, Government of India invites applications for the recruitment of Young Professi..."
-    },
-    {
-        "title": "De Facto Marriage Entitles Woman To Maintenance Under Domestic Violence Act Despite Absence Of Formal Proof Of Marriage: Bombay High Court",
-        "source": "Verdictum",
-        "date": "Sun, 01 Mar 2026 13:30:52 GMT",
-        "link": "https://www.verdictum.in/court-updates/high-courts/bombay-high-court/x-v-y-2026bhc-aug6648-de-facto-marriage-woman-maintenance-dv-act-1609008",
-        "excerpt": "Domestic relationship under Section 2(f) covers relationships in the nature of marriage ensuring efficacious remedy for maintenance"
-    },
-    {
-        "title": "Faulty CCTVs A 'Routine Feature' In UP: Allahabad High Court Deems Surprise Police Station Inspections Part Of CJMs' Official Duty",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 13:30:47 GMT",
-        "link": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-surprise-police-station-inspections-cjms-official-duty-faulty-cctvs-up-525064",
-        "excerpt": ""
-    },
-    {
-        "title": "Himachal Pradesh High Court Quashes Preventive Detention Under PITNDPS Act, Cites Non-Application Of Mind",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 13:00:10 GMT",
-        "link": "https://www.livelaw.in/high-court/himachal-pradesh-high-court/himachal-pradesh-high-court-quashes-preventive-detention-under-pitndps-act-citing-non-application-of-mind-525059",
-        "excerpt": ""
-    },
-    {
-        "title": "MP High Court Orders Protection Of Water Pipelines Laid Under Jal Jeevan Mission In Plea Alleging Damage Due To Optical Cable Fibre Work",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 12:50:38 GMT",
-        "link": "https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-issues-notice-in-lts-plea-over-damages-caused-by-bbnl-in-laying-ofc-works-for-bharatnet-scheme-525039",
-        "excerpt": ""
-    },
-    {
-        "title": "Additional Documents Can Be Disclosed Even At Argument Stage If Reasonable Cause Is Shown: Calcutta High Court",
-        "source": "Verdictum",
-        "date": "Sun, 01 Mar 2026 12:00:42 GMT",
-        "link": "https://www.verdictum.in/court-updates/high-courts/calcutta-high-court/usha-martin-limited-vs-balurghat-technologies-limited-1609005",
-        "excerpt": "The Court observed that while the Commercial Courts Act mandates the disclosure of all documents at the time of filing, Order XI Rule 1(5) of the CPC provides the Cour..."
-    },
-    {
-        "title": "Magistrate Discharging Judicial Duty Is Above DM, SP & Political Head; Disregarding His Orders 'Unpardonable': Allahabad High Court",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 11:49:41 GMT",
-        "link": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-magistrate-judicial-duty-dm-sp-political-head-disregard-order-unpardonable-525061",
-        "excerpt": ""
-    },
-    {
-        "title": "[Cooperative Societies Act] Audit Reports/Inquiry Orders Are Only Preparatory Steps, Not 'Orders' For Revision: Bombay High Court",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 11:30:59 GMT",
-        "link": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-quashes-order-passed-minister-of-cooperation-525037",
-        "excerpt": ""
-    },
-    {
-        "title": "Delhi High Court Quashes Cheating Case Against Central Bank Of India Officers; Says Bank Can Adjust OTS Deposit On Borrower's Default",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 11:15:58 GMT",
-        "link": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-quashes-cheating-case-against-central-bank-of-india-officers-says-bank-can-adjust-ots-deposit-on-borrowers-default-525040",
-        "excerpt": ""
-    },
-    {
-        "title": "Registration Certificate Under Partnership Act Not An ‘Order’; Registrar Cannot Invoke Section 21 General Clauses Act To Cancel It: Delhi High Court",
-        "source": "Verdictum",
-        "date": "Sun, 01 Mar 2026 10:30:30 GMT",
-        "link": "https://www.verdictum.in/court-updates/high-courts/delhi-high-court/universal-promoters-and-developers-v-government-of-nct-of-delhi-2026dhc1778-1609006",
-        "excerpt": "The High Court held that a registration certificate issued under the Indian Partnership Act, 1932, is merely an acknowledgement of compliance with Section 58 and entry..."
-    },
-    {
-        "title": "Insurance Policies Being Issued To Persons On Deathbed? Allahabad HC Orders Probe; Issues Warrant Against HDFC Life Official",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 10:17:37 GMT",
-        "link": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-insurance-policies-deathbed-probe-warrant-hdfc-life-525060",
-        "excerpt": ""
-    },
-    {
-        "title": "Must Ponder Why India Not Preferred Destination For International Arbitration: CJI Surya Kant",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 09:31:35 GMT",
-        "link": "https://www.livelaw.in/top-stories/must-ponder-why-india-not-preferred-destination-for-international-arbitration-cji-surya-kant-525058",
-        "excerpt": "The CJI also noted that institutional arbitration occupies only a small space in the country."
-    },
-    {
-        "title": "'Daughter Pregnancy Sans Marriage A Nightmare For Average Indian': Allahabad High Court Upholds Parents' Life Term In Double Murder Case",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 09:29:53 GMT",
-        "link": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-daughter-pregnancy-marriage-nightmare-parents-life-term-double-murder-shahjahanpur-525057",
-        "excerpt": ""
-    },
-    {
-        "title": "Madras High Court Orders CBI Probe Into Fake No Objection Certificates Used To Obtain Petroleum Retail Outlet Licences",
-        "source": "Verdictum",
-        "date": "Sun, 01 Mar 2026 09:00:35 GMT",
-        "link": "https://www.verdictum.in/court-updates/high-courts/madras-high-court/vbr-menon-v-chief-controller-of-explosives-ors-petroleum-retail-1609004",
-        "excerpt": "Holding that the investigation into forged No Objection Certificates used for securing explosives licences was not being conducted in the proper direction, the Madras ..."
-    },
-    {
-        "title": "Fresh Deemed Conveyance Plea Not Maintainable After Earlier Rejection On Merits; Quasi-Judicial Authorities Bound By Res Judicata: Bombay HC",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 08:45:41 GMT",
-        "link": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-quasi-judicial-authority-granting-deemed-conveyance-525038",
-        "excerpt": ""
-    },
-    {
-        "title": "NCDRC Dismisses Consumer Complaint Filed Nearly 10 Years After Possession, Holds Claim Barred By Limitation",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 08:29:53 GMT",
-        "link": "https://www.livelaw.in/consumer-cases/ncdrc-dismisses-consumer-complaint-filed-nearly-10-years-after-possession-holds-claim-barred-by-limitation-525056",
-        "excerpt": ""
-    },
-    {
-        "title": "'No Respect For Law': Allahabad High Court Slams UP Cops Over SC Arrest Guideline Violations & 20+ Hour Delay In Releasing Accused",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 07:55:27 GMT",
-        "link": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-no-respect-law-slams-up-police-sc-arrest-violations-20-hour-delay-release-accused-525055",
-        "excerpt": ""
-    },
-    {
-        "title": "Calcutta High Court Grants Bail To 74-Yr-Old Ex-SSC Advisor In PMLA Case; Says Prolonged Custody Without Trial Offends Article 21",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 07:45:33 GMT",
-        "link": "https://www.livelaw.in/high-court/calcutta-high-court/calcutta-high-court-grants-bail-to-74-yr-old-ex-ssc-advisor-in-pmla-case-says-prolonged-custody-without-trial-offends-article-21-525048",
-        "excerpt": ""
-    },
-    {
-        "title": "‘FOREST’ Cannot Be Monopolised In Isolation; Composite Mark Must Be Judged As A Whole: Delhi High Court",
-        "source": "Verdictum",
-        "date": "Sun, 01 Mar 2026 07:30:51 GMT",
-        "link": "https://www.verdictum.in/court-updates/high-courts/delhi-high-court/mountain-valley-springs-india-pvt-ltd-v-baby-forest-ayurveda-pvt-ltd-2026dhc1756-db-forest-essential-trademark-appeal-1609003",
-        "excerpt": "Court holds ‘Forest Essentials’ is a composite mark; similar tree motifs and packaging insufficient to grant interim relief"
-    },
-    {
-        "title": "“Cannot Travel Beyond Suicide Note\": Telangana High Court Quashes Case Abetment Case Against Accused Not Named By Deceased",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 07:10:59 GMT",
-        "link": "https://www.livelaw.in/high-court/telangana-high-court/telangana-high-court-quashes-section108-bns-case-allegations-suicide-note-525041",
-        "excerpt": ""
-    },
-    {
-        "title": "Kaleshwaram Project Row - No Notice Issued Before Inquiry Commission Report Was Made Public: KCR Tells Telangana High Court",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 06:35:26 GMT",
-        "link": "https://www.livelaw.in/high-court/telangana-high-court/kaleshwaram-project-report-filed-commission-of-inquiry-525036",
-        "excerpt": ""
-    },
-    {
-        "title": "Custodial Interrogation Significant For Investigation: Kerala High Court Denies Anticipatory Bail To Accused In ₹101 Crore Bank Misappropriation Case",
-        "source": "Verdictum",
-        "date": "Sun, 01 Mar 2026 06:00:54 GMT",
-        "link": "https://www.verdictum.in/court-updates/high-courts/kerala-high-court/n-basurangan-v-state-of-kerala-2026ker15130-prevention-of-corruption-act-1609002",
-        "excerpt": "The High Court has declined anticipatory bail to the prime accused in an alleged ₹101 crore co-operative bank scam, holding that economic offences of such magnitude re..."
-    },
-    {
-        "title": "2026 Bengal Assembly Polls: Calcutta High Court Declines To Interfere With Surveillance & Live Web-Streaming Tender Criteria",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 05:45:18 GMT",
-        "link": "https://www.livelaw.in/high-court/calcutta-high-court/2026-bengal-assembly-polls-calcutta-high-court-declines-to-interfere-with-surveillance-live-web-streaming-tender-criteria-525046",
-        "excerpt": ""
-    },
-    {
-        "title": "Kerala High Court Flags Potential Misuse Of Booking In Sabarimala Padi Pooja Using False Credentials; Orders Seizure, Production Of Records",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 05:36:17 GMT",
-        "link": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-booking-system-padi-pooja-fake-names-525045",
-        "excerpt": ""
-    },
-    {
-        "title": "Dharmashastra National Law University To Organise REVĀ National Moot Court Competition 2026",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 05:06:29 GMT",
-        "link": "https://www.livelaw.in/lawschool/moot-courts/dharmashastra-national-law-university-to-organise-rev-national-moot-court-competition-2026-525054",
-        "excerpt": ""
-    },
-    {
-        "title": "HNLU Raipur To Host International Trade Law Summit On 'WTO@30: Reimagining Multilateralism'",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 04:58:23 GMT",
-        "link": "https://www.livelaw.in/lawschool/call-for-papers/hnlu-raipur-host-international-trade-law-summit-wto30-reimagining-multilateralism-525053",
-        "excerpt": ""
-    },
-    {
-        "title": "Sevakh Global Launches Pan-India 'Legal Safe Citizen' Initiative To Promote Legal Literacy And Digital Safety",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 04:47:30 GMT",
-        "link": "https://www.livelaw.in/events/sevakh-global-launches-pan-india-legal-safe-citizen-initiative-to-promote-legal-literacy-and-digital-safety-525052",
-        "excerpt": ""
-    },
-    {
-        "title": "Addition Of Text Above Signature On Receipt Raises 'Grave Suspicion': Calcutta High Court Refuses To Discharge Forgery Accused",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 04:45:42 GMT",
-        "link": "https://www.livelaw.in/high-court/calcutta-high-court/addition-of-text-above-signature-on-receipt-raises-grave-suspicion-calcutta-high-court-declines-to-discharge-forgery-accused-525047",
-        "excerpt": ""
-    },
-    {
-        "title": "Madras High Court Cancels Bail Granted To 12 Accused In Murder Case Of BSP Leader K Armstrong",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 04:40:41 GMT",
-        "link": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-armstrong-murder-case-bail-of-12-accused-cancelled-525035",
-        "excerpt": ""
-    },
-    {
-        "title": "Since Trainee Was Not Absorbed In Assam Rifles, Issue Of Reinstatement In Service Doesn't Arise: Gauhati High Court",
-        "source": "Verdictum",
-        "date": "Sun, 01 Mar 2026 04:30:44 GMT",
-        "link": "https://www.verdictum.in/court-updates/high-courts/guwahati-high-court/sachin-kumar-thakur-v-office-of-the-commandant-assam-rifle-taning-centre-2026gau-nl43-db-reinstatement-service-trainee-1608983",
-        "excerpt": "The Gauhati High Court was considering an appeal of an Assam Rifles trainee."
-    },
-    {
-        "title": "Complete Supreme Court Annual Digest 2025 [Part-VII]",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 04:12:32 GMT",
-        "link": "https://www.livelaw.in/supreme-court/complete-supreme-court-annual-digest-2025-525050",
-        "excerpt": ""
-    },
-    {
-        "title": "NCERT Textbook Issue Wouldn't Have Happened If Judges Had Properly Done Their Duties : Sr Adv Kapil Sibal",
-        "source": "LiveLaw",
-        "date": "Sun, 01 Mar 2026 03:19:02 GMT",
-        "link": "https://www.livelaw.in/top-stories/ncert-textbook-issue-wouldnt-have-happened-if-judges-had-properly-done-their-duties-sr-adv-kapil-sibal-525049",
-        "excerpt": "Sibal voiced a concern that there was a complete breakdown of constitutional machinery in the country."
-    },
-    {
-        "title": "AI Summit Protest: Delhi Court Grants Bail To Indian Youth Congress President Uday Bhanu Chib",
-        "source": "LiveLaw",
-        "date": "Sat, 28 Feb 2026 18:44:25 GMT",
-        "link": "https://www.livelaw.in/news-updates/ai-summit-protest-delhi-court-grants-bail-to-indian-youth-congress-president-uday-bhanu-chib-525015",
-        "excerpt": ""
-    },
-    {
-        "title": "'Chand Nikla' Remark To Woman Not Obscene Or Sexually Coloured: Punjab & Haryana High Court Quashes FIR",
-        "source": "LiveLaw",
-        "date": "Sat, 28 Feb 2026 17:12:32 GMT",
-        "link": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-quashes-fir-against-gurugram-resident-chand-nikla-remark-to-woman-not-obscene-or-sexually-coloured-525042",
-        "excerpt": ""
-    },
-    {
-        "title": "\"Preventive Detention Law Invoked With Less Seriousness Than Traffic Challan\": J&K&L High Court Orders Release Of Man",
-        "source": "LiveLaw",
-        "date": "Sat, 28 Feb 2026 16:56:54 GMT",
-        "link": "https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-high-court-psa-invoked-with-less-seriousness-than-a-traffic-challan-court-quashes-preventive-detention-slams-mechanical-exercise-of-power-525034",
-        "excerpt": ""
-    },
-    {
-        "title": "Bombay High Court Quashes POCSO Case After Settlement; Orders Amount Deposited By Accused To Be Utilised Towards MacBook Purchase For Victim",
-        "source": "Verdictum",
-        "date": "Sat, 28 Feb 2026 14:10:00 GMT",
-        "link": "https://www.verdictum.in/court-updates/high-courts/bombay-high-court/mohan-maruti-jadhav-v-the-state-of-maharashtra-2026bhc-as8265-pocso-case-settlement-accused-macbook-purchase-1608982",
-        "excerpt": "The Bombay High Court considered the fact that the parties had acknowledged that the complaint came to be filed due to a misunderstanding."
-    },
-    {
-        "title": "Delhi High Court Defers Constitution Of School-Level Fee Regulation Committees, Says Timelines Prima Facie Unworkable",
-        "source": "LiveLaw",
-        "date": "Sat, 28 Feb 2026 13:32:41 GMT",
-        "link": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-defers-constitution-of-school-level-fee-regulation-committees-says-timelines-prima-facie-unworkable-525024",
-        "excerpt": ""
-    },
-    {
-        "title": "Country Lacks Enough Qualified Doctors: Supreme Court Orders Grant Of Medical Degrees To Students With Invalid Tribe Certificate",
-        "source": "Verdictum",
-        "date": "Sat, 28 Feb 2026 13:30:41 GMT",
-        "link": "https://www.verdictum.in/court-updates/supreme-court/grants-degrees-medicos-invalid-tribe-certificate-doctors-1608980",
-        "excerpt": "The Court ordered each doctor to pay Rs 10 Lakhs to compensate the students who were originally denied admission."
-    },
-    {
-        "title": "Merely Because FIR Is Drafted With Advocate’s Assistance, It Cannot Be Presumed False: Allahabad High Court",
-        "source": "Verdictum",
-        "date": "Sat, 28 Feb 2026 12:50:00 GMT",
-        "link": "https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/jagdamba-harijan-v-state-of-uttar-pradesh-2026ahc-lko11040-db-lucknow-1608978",
-        "excerpt": "The High Court held that the mere fact that a First Information Report was written with the assistance of a private advocate does not render it doubtful or motivated."
-    },
-    {
-        "title": "Direction For Re-Recording Of Statement U/s.183 Of BNSS May Be Issued If Original Statement's Integrity Is Seriously Compromised: Allahabad High Court",
-        "source": "Verdictum",
-        "date": "Sat, 28 Feb 2026 12:10:19 GMT",
-        "link": "https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/kirti-verma-v-state-of-up-2026ahc43696-db-re-recording-statement-section-183-bnss-integrity-compromised-1608976",
-        "excerpt": "The Allahabad High Court was considering a Petition filed by the complainant/victim seeking issuance of a direction for re-recording her statement under section 183 of..."
-    },
-    {
-        "title": "RMLNLU To Organise Second National Conference On IPR, Advertising, AI & Deepfakes In Hybrid Mode (March 28–29, 2026)",
-        "source": "LiveLaw",
-        "date": "Sat, 28 Feb 2026 12:06:28 GMT",
-        "link": "https://www.livelaw.in/lawschool/news/rmlnlu-to-organise-second-national-conference-on-ipr-advertising-ai-deepfakes-in-hybrid-mode-march-2829-2026-525019",
-        "excerpt": ""
-    },
-    {
-        "title": "RGNUL To Organise 14th National Moot Court Competition, 2026",
-        "source": "LiveLaw",
-        "date": "Sat, 28 Feb 2026 11:47:31 GMT",
-        "link": "https://www.livelaw.in/lawschool/moot-courts/rgnul-organise-14th-national-moot-court-competition-2026-525016",
-        "excerpt": ""
-    },
-    {
-        "title": "Wife Pursuing S.498A IPC Case Against Husband In India After Accepting Divorce Settlement In US Is 'Abuse Of Process': Delhi High Court",
-        "source": "LiveLaw",
-        "date": "Sat, 28 Feb 2026 11:45:41 GMT",
-        "link": "https://www.livelaw.in/high-court/delhi-high-court/wife-pursuing-s498a-ipc-case-against-husband-in-india-after-accepting-divorce-settlement-in-us-is-abuse-of-process-delhi-high-court-524949",
-        "excerpt": ""
-    },
-    {
-        "title": "Failing To Maintain Sufficient Distance As Per Regulation 23 Of Road Regulations Would Be Negligent Driving: Supreme Court",
-        "source": "Verdictum",
-        "date": "Sat, 28 Feb 2026 11:30:23 GMT",
-        "link": "https://www.verdictum.in/court-updates/supreme-court/oriental-insurance-co-ltd-v-tata-aig-general-insurance-co-ltd-2026-insc-208-sufficient-distance-road-regulations-negligent-driving-1608972",
-        "excerpt": "The Supreme Court held so while upholding an order of the Motor Accident Claims Tribunal."
     }
 ]
