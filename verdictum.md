@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Fri, 06 Mar 2026 19:16:08 GMT | **LiveLaw** | Animal Law Cell, Faculty Of Law, University Of Delhi To Organise Conference On 'Turning Policy Into Practice: Advancing Animal Justice Through Litigation and Innovation' | [Read More](https://www.livelaw.in/lawschool/news/animal-law-cell-faculty-of-law-university-delhi-organise-conference-525499) |
+| Fri, 06 Mar 2026 19:04:31 GMT | **LiveLaw** | Justice Vivek Rusia Inaugurates 3-Day Community Mediation Training Programme For Retired Officers At M.P. State Legal Services Authority | [Read More](https://www.livelaw.in/news-updates/justice-vivek-rusia-inaugurates-3-day-community-mediation-training-programme-for-retired-officers-at-mp-state-legal-services-authority-525498) |
 | Fri, 06 Mar 2026 16:46:08 GMT | **LiveLaw** | Son's Right To Compassionate Appointment Cannot Be Defeated By Parents' Divorce Or Appointment Of Father's Second Wife: Rajasthan HC | [Read More](https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-compassionate-appointment-parents-divorce-525497) |
 | Fri, 06 Mar 2026 16:33:49 GMT | **LiveLaw** | LinkedIn Posts Mostly Exaggerated; Progress In Legal Profession Not Linear : Justice BV Nagarathna To Law Students | [Read More](https://www.livelaw.in/top-stories/linkedin-posts-mostly-exaggerated-progress-in-legal-profession-not-linear-justice-bv-nagarathna-to-law-students-525457) |
 | Fri, 06 Mar 2026 16:15:21 GMT | **LiveLaw** | Sri Lankan Judge Approaches Karnataka High Court Seeking Removal Of Online Content Against Him | [Read More](https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-notice-sri-lankan-judge-defamatory-content-right-to-be-forgotten-525440) |
