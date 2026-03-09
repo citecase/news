@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Mon, 09 Mar 2026 08:34:28 +0530 | **Bar & Bench** | TRAI’s crackdown on spam calls and AI-driven telemarketing | [Read More](https://www.barandbench.com/view-point/trais-crackdown-on-spam-calls-and-ai-driven-telemarketing) |
 | Sun, 08 Mar 2026 16:32:24 GMT | **LiveLaw** | Senior Advocate Abhishek Manu Singhvi Declares ₹ 2800 Crore Assets, Income In Last 5 Years Over ₹ 1500 Crore | [Read More](https://www.livelaw.in/news-updates/senior-advocate-abhishek-manu-singhvi-declares-2800-crore-assets-income-in-last-5-years-over-1500-crore-525601) |
 | Sun, 08 Mar 2026 15:00:10 GMT | **Verdictum** | Member (Law) Vacancy At Assam Electricity Regulatory Commission (AERC) | [Read More](https://www.verdictum.in/job-updates/assam-electricity-regulatory-commission-aerc-1609414) |
 | Sun, 08 Mar 2026 13:30:00 GMT | **Verdictum** | Both DRT & DRAT Are Within Jurisdiction Of Principal Seat: Bombay High Court Rejects Request For Petition Transfer To Kolhapur Circuit Bench | [Read More](https://www.verdictum.in/court-updates/high-courts/bombay-high-court/ms-shekhar-champalal-pagaria-v-cfm-assets-reconstruction-pvt-ltd-drt-drat-principal-seat-petition-transfer-1609459) |
