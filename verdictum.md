@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Mon, 09 Mar 2026 14:49:29 +0530 | **Bar & Bench** | The law graduates who cleared UPSC 2025 exam | [Read More](https://www.barandbench.com/news/the-law-graduates-who-cleared-upsc-2025-exam) |
 | Mon, 09 Mar 2026 17:09:42 GMT | **LiveLaw** | Supreme Court Clubs FIRs Against Woman Accused Of Sending Bomb Threats To Frame Man Who Rejected Marriage Proposal | [Read More](https://www.livelaw.in/top-stories/supreme-court-clubs-firs-against-woman-accused-of-sending-bomb-threats-in-multiple-states-525685) |
 | Mon, 09 Mar 2026 17:05:57 GMT | **LiveLaw** | Supreme Court Daily Round-Up : March 9, 2026 | [Read More](https://www.livelaw.in/supreme-court/supreme-court-daily-round-up-march-9-2026-525733) |
 | Mon, 09 Mar 2026 16:10:58 GMT | **LiveLaw** | Hybrid Hearings Are Here To Stay, AI Cannot Replace Human Adjudication : Judges At Chandigarh Panel Discussion | [Read More](https://www.livelaw.in/high-court/punjab-and-haryana-high-court/what-high-court-judges-said-on-use-of-ai-and-digitalisation-of-courts-punjab-haryana-high-court-rajasthan-high-court-525734) |
