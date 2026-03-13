@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Fri, 13 Mar 2026 03:35:39 GMT | **LiveLaw** | 3 Year Practice Mandate : Law Colleges Suggest Alternatives For Special-Abled Candidates | [Read More](https://www.livelaw.in/top-stories/3-year-practice-mandate-law-colleges-suggest-alternatives-for-special-abled-candidates-526219) |
+| Fri, 13 Mar 2026 03:00:35 GMT | **LiveLaw** | Bombay High Court Issues Notice To Centre On Gas Distributors' Plea To Increase Domestic LPG Cylinder Supply | [Read More](https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-issues-notice-to-centre-on-gas-distributors-plea-to-increase-domestic-lpg-cylinder-supply-526220) |
 | Thu, 12 Mar 2026 17:42:35 GMT | **LiveLaw** | Srinagar Court Issues Non-Bailable Warrant Against Farooq Abdullah In JKCA Misappropriation Case | [Read More](https://www.livelaw.in/news-updates/srinagar-court-issues-non-bailable-warrant-against-farooq-abdullah-in-jkca-misappropriation-case-526218) |
 | Thu, 12 Mar 2026 17:26:53 GMT | **LiveLaw** | PIL In Kerala High Court Alleges Misuse Of Public Funds For State Govt's Newspaper Ads Ahead Of Elections | [Read More](https://www.livelaw.in/high-court/kerala-high-court/pil-before-kerala-high-court-newspaper-advertisement-misuse-of-public-funds-526131) |
 | Thu, 12 Mar 2026 17:18:18 GMT | **LiveLaw** | Call For Papers: International Labour Law Conference On New Labour Codes In India By MNLU Mumbai [April 6; Hybrid Mode] | [Read More](https://www.livelaw.in/lawschool/call-for-papers/international-labour-law-conference-new-labour-codes-india-mnlu-mumbai-526217) |
