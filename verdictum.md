@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 14 Mar 2026 03:04:41 GMT | **LiveLaw** | 'Privy Purse Privileges To Princely Rulers Can't Be Claimed As Legal Rights' : Supreme Court Rejects Mizo Chiefs' Claim | [Read More](https://www.livelaw.in/top-stories/privy-purse-privileges-to-princely-rulers-cant-be-claimed-as-legal-rights-supreme-court-rejects-mizo-chiefs-claim-526365) |
+| Sat, 14 Mar 2026 02:09:15 GMT | **LiveLaw** | Lex Gazette Academy Announces 2nd Judexis Moot Court Competition 2026; Registrations Open | [Read More](https://www.livelaw.in/lawschool/moot-courts/lex-gazette-academy-announces-2nd-judexis-moot-court-competition-2026-registrations-open-526364) |
+| Fri, 13 Mar 2026 17:34:35 GMT | **LiveLaw** | Jindal Global Law School Finishes Runners-Up At 2nd DSNLU Vis Pre-Moot 2026 | [Read More](https://www.livelaw.in/lawschool/news/jindal-global-law-school-finishes-runners-up-2nd-dsnlu-vis-pre-moot-2026-526363) |
 | Fri, 13 Mar 2026 17:21:57 GMT | **LiveLaw** | NALSA Announces 1st National Lok Adalat Of 2026 To Be Held On March 14 | [Read More](https://www.livelaw.in/events/nalsa-announces-1st-national-lok-adalat-526362) |
 | Fri, 13 Mar 2026 16:00:28 GMT | **Verdictum** | Legal Advisor Vacancy At Sanjay Gandhi National Park (SGNP) | [Read More](https://www.verdictum.in/job-updates/sanjay-gandhi-national-park-sgnp-1609843) |
 | Fri, 13 Mar 2026 15:43:55 GMT | **LiveLaw** | Supreme Court Daily Round-Up : March 13, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-march-13-2026-526357) |
