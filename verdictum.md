@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 14 Mar 2026 20:21:34 +0530 | **Bar & Bench** | India’s case backlog reflects nation’s 'legal health': Supreme Court Justice N Kotiswar Singh | [Read More](https://www.barandbench.com/news/indias-case-backlog-reflects-nations-legal-health-supreme-court-justice-n-kotiswar-singh) |
 | Sun, 15 Mar 2026 15:00:50 GMT | **Verdictum** | District Legal Services Authority (DLSA), Gondia Invites Applications For The Post Of Assistant Legal Aid Defense Counsel | [Read More](https://www.verdictum.in/job-updates/district-legal-services-authority-dlsa-1609927) |
 | Sun, 15 Mar 2026 14:24:40 GMT | **LiveLaw** | BREAKING- Arvind Kejriwal Moves Supreme Court To Transfer CBI Liquor Policy Case From Justice Swarana Kanta Sharma | [Read More](https://www.livelaw.in/top-stories/arvind-kejriwal-moves-supreme-court-seeking-to-transfer-cbi-plea-against-liquor-policy-discharge-from-justice-sk-sharmas-bench-526473) |
 | Sun, 15 Mar 2026 13:30:43 GMT | **Verdictum** | Joint Will Does Not Automatically Become Mutual Will; Principles Of Mutuality Cannot Be Inferred & Implied By Courts: Kerala High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/kerala-high-court/varnini-karthikeyan-v-padmakaran-2026ker18297-joint-will-automatically-not-mutual-will-daughter-share-mother-self-acquired-property-1609928) |
