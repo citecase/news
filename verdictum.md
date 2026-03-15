@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 15 Mar 2026 04:30:47 GMT | **LiveLaw** | Bharatiya Nagarik Suraksha Sanhita (BNSS) And Bhartiya Nyaya Sanhita (BNS) Monthly Digest: February 2026 | [Read More](https://www.livelaw.in/top-stories/bnss-bns-monthly-digest-february-2026-525390) |
+| Sun, 15 Mar 2026 04:30:06 GMT | **Verdictum** | “Painful & Pinching To Constitutional Sensitivity”: Jammu & Kashmir & Ladakh High Court Quashes Preventive Detention Order Of Pulwama’s Salesman | [Read More](https://www.verdictum.in/court-updates/high-courts/jammu-ladakh-high-court/mudasir-ahmad-bhat-v-union-territory-of-jk-hcp-no147-2025-1609920) |
+| Sun, 15 Mar 2026 03:47:16 GMT | **LiveLaw** | 'Account Of Life Lived To Fullest' : KK Venugopal's “An Accidental Lawyer” | [Read More](https://www.livelaw.in/book-reviews/account-of-life-lived-to-fullest-kk-venugopals-an-accidental-lawyer-526449) |
 | Sat, 14 Mar 2026 17:21:09 GMT | **LiveLaw** | Sabarimala Reference : Consultation With Religious Scholars Needed Before Judicial Review Of Traditions, Kerala Govt To  Supreme Court | [Read More](https://www.livelaw.in/top-stories/sabarimala-reference-consultation-with-religious-scholars-needed-before-judicial-review-of-traditions-kerala-tells-supreme-court-526448) |
 | Sat, 14 Mar 2026 17:07:01 GMT | **LiveLaw** | 1st National Lok Adalat Of 2026 Resolves 2.84 Crore Cases With Settlement Value Of ₹10,920.47 Crore | [Read More](https://www.livelaw.in/news-updates/1st-national-lok-adalat-of-2026-resolves-284-crore-cases-with-settlement-value-of-1092047-crore-526447) |
 | Sat, 14 Mar 2026 15:30:04 GMT | **Verdictum** | Legal Aid Defense Counsel Vacancy At District Legal Services Authority, Sonitpur | [Read More](https://www.verdictum.in/job-updates/district-legal-services-authority-1609919) |
