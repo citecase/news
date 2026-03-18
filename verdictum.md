@@ -2,6 +2,10 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Wed, 18 Mar 2026 02:57:02 GMT | **LiveLaw** | 2026 LiveLaw (SC) 253 - Charan Preet Singh v Municipal Corporation Chandigarh and another | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-253-charan-preet-singh-v-municipal-corporation-chandigarh-and-another-526819) |
+| Wed, 18 Mar 2026 02:56:54 GMT | **LiveLaw** | Delhi University Faculty Of Law Opens Applications For Project Saksham 4.0 | [Read More](https://www.livelaw.in/lawschool/news/delhi-university-faculty-of-law-opens-applications-for-project-saksham-40-526818) |
+| Wed, 18 Mar 2026 02:55:53 GMT | **LiveLaw** | Law Student Not Expected To Know Better When Judges Themselves Give Different Answers : Supreme Court Grants Relief In Law Officer Exam | [Read More](https://www.livelaw.in/supreme-court/law-student-not-expected-to-know-better-when-judges-themselves-give-different-answers-supreme-court-grants-relief-in-law-officer-exam-526817) |
+| Wed, 18 Mar 2026 02:09:53 GMT | **LiveLaw** | Shun Black Robes In Family Courts To Avoid Fear In Children, Rename Them 'Family Resolution Centres' : CJI Surya Kant | [Read More](https://www.livelaw.in/top-stories/shun-black-robes-in-family-courts-to-avoid-fear-in-children-rename-them-family-resolution-centres-cji-surya-kant-526813) |
 | Tue, 17 Mar 2026 16:55:55 GMT | **LiveLaw** | Supreme Court Daily Round-Up : March 17, 2026 | [Read More](https://www.livelaw.in/supreme-court/supreme-court-daily-round-up-march-17-2026-526802) |
 | Tue, 17 Mar 2026 16:19:43 GMT | **LiveLaw** | Karnataka High Court Grants Bail To Woman Accused Of Raising 'Jai Bangla' Slogan, Notes She Later Shouted 'Jai Bharat Mata Ki Jai' | [Read More](https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-woman-hurting-national-sentiments-shouting-slogan-526806) |
 | Tue, 17 Mar 2026 16:15:51 GMT | **LiveLaw** | Rajasthan High Court Stays Arrest Of upGrad Director In Cheating Case Over Course Fee Refund Dispute | [Read More](https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-arrest-upgrad-director-cheating-course-fee-refund-526807) |
