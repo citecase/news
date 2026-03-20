@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Fri, 20 Mar 2026 08:18:22 +0530 | **Bar & Bench** | How does Maharashtra Freedom of Religion Act 2026 compare to anti-conversion laws in other States? | [Read More](https://www.barandbench.com/columns/how-does-maharashtra-freedom-of-religion-act-2026-compare-to-anti-conversion-laws-in-other-states) |
 | Thu, 19 Mar 2026 17:59:37 GMT | **LiveLaw** | Call for Papers ; LHSS Journal, Volume I, Issue 2, MNLU Mumbai [2026] | [Read More](https://www.livelaw.in/lawschool/call-for-papers/lhss-journal-volume-i-issue-2-mnlu-mumbai-527123) |
 | Thu, 19 Mar 2026 16:55:13 GMT | **LiveLaw** | Supreme Court Daily Round-Up : March 19, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-march-19-2026-527110) |
 | Thu, 19 Mar 2026 16:15:19 GMT | **LiveLaw** | HNLU's All-Women Team Qualifies For World Rounds Of 13th IBA–International Criminal Court Moot Court Competition | [Read More](https://www.livelaw.in/lawschool/news/hnlus-all-women-team-qualifiesworld-rounds-13th-ibainternational-criminal-court-moot-court-competition-527117) |
