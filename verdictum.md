@@ -2,6 +2,10 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 21 Mar 2026 04:00:57 GMT | **LiveLaw** | Kerala High Court Cancels Bail Granted To 8 Accused In Walayar Mob Lynching Case | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-walayar-mob-lynching-bail-cancel-527264) |
+| Sat, 21 Mar 2026 04:00:10 GMT | **LiveLaw** | Legislative Gaps, Judicial Grafts: The IRC Transition | [Read More](https://www.livelaw.in/articles/legislative-gaps-judicial-grafts-irc-transition-527256) |
+| Sat, 21 Mar 2026 03:59:42 GMT | **LiveLaw** | 'Await Guidelines On Press Briefings' : Supreme Court Disposes Plea To Regulate Social Media Postings By Police | [Read More](https://www.livelaw.in/top-stories/await-guidelines-on-press-briefings-supreme-court-disposes-plea-to-regulate-social-media-postings-by-police-527263) |
+| Sat, 21 Mar 2026 03:34:52 GMT | **LiveLaw** | Sabarimala Gold Theft: Kerala Court Grants Statutory Bail To Smart Creations CEO Pankaj Bhandari & Jeweller Roddam | [Read More](https://www.livelaw.in/news-updates/kerala-court-sabarimala-gold-theft-smart-creations-bhandari-roddam-527262) |
 | Fri, 20 Mar 2026 21:18:41 GMT | **LiveLaw** | Chambal Sanctuary - Supreme Court To Hold Officials Vicariously Liable For Wildlife Destruction Due To Illegal Sand Mining | [Read More](https://www.livelaw.in/top-stories/supreme-court-illegal-sand-mining-national-chambal-sanctuary-endangered-gharial-suo-motu-vicarious-liability-of-officials-lethargy-inaction-527215) |
 | Fri, 20 Mar 2026 16:56:07 GMT | **LiveLaw** | Supreme Court Daily Round-Up : March 20, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-march-20-2026-527251) |
 | Fri, 20 Mar 2026 16:00:03 GMT | **Verdictum** | Law Clerk Vacancy At Gauhati High Court | [Read More](https://www.verdictum.in/job-updates/gauhati-high-court-1610344) |
