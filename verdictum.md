@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 22 Mar 2026 15:30:21 GMT | **LiveLaw** | Half Of Civil Litigation Can Be Shifted To Mediation In 25 Years With Right Strategies: Sriram Panchu | [Read More](https://www.livelaw.in/top-stories/half-of-civil-litigation-can-be-shifted-to-mediation-in-25-years-with-right-strategies-sriram-panchu-527393) |
 | Sun, 22 Mar 2026 15:16:06 GMT | **LiveLaw** | Supreme Court To Hear Chhattisgarh Court Employee's Plea To Pursue LL.B As Regular Student | [Read More](https://www.livelaw.in/top-stories/supreme-court-to-hear-chhattisgarh-court-employees-plea-to-pursue-llb-as-regular-student-527390) |
 | Sun, 22 Mar 2026 15:01:24 GMT | **LiveLaw** | Tenure Of CGRF Members Must Be Considered For Extension Before Issuing Fresh Recruitment: Jharkhand High Court | [Read More](https://www.livelaw.in/high-court/jharkhand-high-court/jharkhand-high-court-quashes-recruitment-advertisement-performance-existing-members-527359) |
 | Sun, 22 Mar 2026 15:00:13 GMT | **Verdictum** | Madras Fertilizers Limited (MFL) Invites Applications For The Posts Of Chief Manager & Senior officer (Legal) | [Read More](https://www.verdictum.in/job-updates/madras-fertilizers-limited-1610406) |
