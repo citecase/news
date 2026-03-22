@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 22 Mar 2026 15:16:06 GMT | **LiveLaw** | Supreme Court To Hear Chhattisgarh Court Employee's Plea To Pursue LL.B As Regular Student | [Read More](https://www.livelaw.in/top-stories/supreme-court-to-hear-chhattisgarh-court-employees-plea-to-pursue-llb-as-regular-student-527390) |
+| Sun, 22 Mar 2026 15:01:24 GMT | **LiveLaw** | Tenure Of CGRF Members Must Be Considered For Extension Before Issuing Fresh Recruitment: Jharkhand High Court | [Read More](https://www.livelaw.in/high-court/jharkhand-high-court/jharkhand-high-court-quashes-recruitment-advertisement-performance-existing-members-527359) |
+| Sun, 22 Mar 2026 15:00:13 GMT | **Verdictum** | Madras Fertilizers Limited (MFL) Invites Applications For The Posts Of Chief Manager & Senior officer (Legal) | [Read More](https://www.verdictum.in/job-updates/madras-fertilizers-limited-1610406) |
 | Sun, 22 Mar 2026 14:06:17 GMT | **LiveLaw** | S. 24 Specific Relief Act Does Not Bar Fresh Suit For Refund Of Earnest Money After Dismissal Of Specific Performance Suit: Bombay High Court | [Read More](https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-section24-specific-relief-act-plaintiff-filing-fresh-suit-527354) |
 | Sun, 22 Mar 2026 13:52:17 GMT | **LiveLaw** | Judiciary Can't Be An Eternal Critic Or A Cheerleader : Justice Ujjal Bhuyan | [Read More](https://www.livelaw.in/top-stories/judiciary-cant-be-an-eternal-critic-or-a-cheerleader-justice-ujjal-bhuyan-527381) |
 | Sun, 22 Mar 2026 13:50:26 GMT | **Verdictum** | Authorities Under Maintenance Of Senior Citizens Act Cannot Decide Ownership Or Possession Disputes: Allahabad High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/magghu-ram-v-state-of-up-2026ahc-lko17019-senior-citizen-immovable-property-possession-ownership-1610417) |
