@@ -2,6 +2,11 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Tue, 24 Mar 2026 04:13:38 GMT | **LiveLaw** | Law Officer Vacancy At Department Of Personnel, Himachal Pradesh | [Read More](https://www.livelaw.in/job-updates/law-officer-vacancy-at-department-of-personnel-himachal-pradesh-527552) |
+| Tue, 24 Mar 2026 04:12:23 GMT | **LiveLaw** | Director (Legal & Treaties) Vacancy At Legal & Treaties Division, Ministry Of External Affairs | [Read More](https://www.livelaw.in/job-updates/director-legal-treaties-vacancy-at-legal-treaties-division-ministry-of-external-affairs-527551) |
+| Tue, 24 Mar 2026 03:47:31 GMT | **LiveLaw** | Delhi High Court Upholds Order Dissolving Ad-Hoc Committee To Manage Ski And Snowboard India's Affairs | [Read More](https://www.livelaw.in/high-court/delhi-high-court/ski-and-snowboard-indias-affairs-ad-hoc-committee-dissolved-527549) |
+| Tue, 24 Mar 2026 03:42:40 GMT | **LiveLaw** | Can Courts Be Rigid In Barring Post-Facto Environmental Clearances Absolutely? Supreme Court Asks In Vanashakti Review | [Read More](https://www.livelaw.in/top-stories/supreme-court-postfacto-environmental-clearance-vanashakti-review-527548) |
+| Mon, 23 Mar 2026 18:25:40 GMT | **LiveLaw** | India's Unfinished Law On Dying With Dignity | [Read More](https://www.livelaw.in/law-firms/law-firm-articles-/indias-unfinished-law-on-dying-with-dignity-527546) |
 | Mon, 23 Mar 2026 16:27:31 GMT | **LiveLaw** | RIMAC 2026 Inaugurated At Bengaluru, Marks 30 Years Of Ramaiah College Of Law | [Read More](https://www.livelaw.in/lawschool/news/rimac-2026-inaugurated-bengaluru-marks-30-years-ramaiah-college-law-527545) |
 | Mon, 23 Mar 2026 16:16:16 GMT | **LiveLaw** | Section 195 CrPC Bars Cognizance Without Complaint By Public Servant, Not FIR Or Investigation: J&K&L High Court | [Read More](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-high-court-section-195-crpc-bars-cognizance-without-complaint-by-public-servant-but-does-not-prohibit-fir-or-investigation-527537) |
 | Mon, 23 Mar 2026 16:07:27 GMT | **LiveLaw** | Calcutta High Court Allows Vishva Hindu Parishad's Plea For Ram Navami Rally, Caps Participants At 500 | [Read More](https://www.livelaw.in/high-court/calcutta-high-court/calcutta-high-court-allows-vishva-hindu-parishads-plea-for-ram-navami-rally-caps-participants-at-500-527544) |
