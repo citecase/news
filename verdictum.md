@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Thu, 26 Mar 2026 03:30:33 GMT | **LiveLaw** | Liquor Business Is Not A Fundamental Right: MP High Court Upholds License Suspension Of Distilleries | [Read More](https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-upholds-license-cancellations-notes-liquor-business-not-a-fundamental-right-527867) |
 | Wed, 25 Mar 2026 17:54:55 GMT | **LiveLaw** | Karnataka High Court Quashes Pollution Board's Closure Order Against Energy Unit, Directs Fresh Inspection | [Read More](https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-quashes-kspcb-m11-energy-unit-527782) |
 | Wed, 25 Mar 2026 17:21:56 GMT | **LiveLaw** | Call For Papers: International Conference On Constitutionalism To Transformative Constitutionalism: Rethinking The Constitutions Across Time And World | [Read More](https://www.livelaw.in/lawschool/call-for-papers/international-conference-constitutionalism-transformative-constitutionalism-527866) |
 | Wed, 25 Mar 2026 16:51:04 GMT | **LiveLaw** | Supreme Court Daily Round-Up : March 25, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-march-25-2026-527863) |
