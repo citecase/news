@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Fri, 27 Mar 2026 18:29:18 +0530 | **Bar & Bench** | Yamuna Pollution: 675 slum clusters in Delhi without sewers as two civic bodies pass the buck before NGT | [Read More](https://www.barandbench.com/news/litigation/yamuna-pollution-675-slum-clusters-in-delhi-without-sewers-as-two-civic-bodies-pass-the-buck-before-ngt) |
+| Fri, 27 Mar 2026 11:15:03 +0530 | **Bar & Bench** | State, Bengaluru women lawyers defend menstrual leave policy before Karnataka High Court | [Read More](https://www.barandbench.com/news/litigation/state-bengaluru-women-lawyers-defend-menstrual-leave-policy-before-karnataka-high-court) |
 | Fri, 27 Mar 2026 16:41:40 GMT | **LiveLaw** | Delhi High Court To Pass Interim Order Protecting Personality Rights Of Actor Mohanlal | [Read More](https://www.livelaw.in/high-court/delhi-high-court/mohanlal-actor-personality-rights-interim-protection-528014) |
 | Fri, 27 Mar 2026 16:40:54 GMT | **LiveLaw** | 'Can Single Member Constitute PMLA Adjudicating Authority?': Karnataka High Court Asks In ED Probe Against Partnership Firm | [Read More](https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-questions-legality-one-member-body-ed-probe-528079) |
 | Fri, 27 Mar 2026 16:13:25 GMT | **LiveLaw** | Woman Gets 10-Year Jail For Facilitating Rape, Delhi High Court Cites Continued Criminal Conduct | [Read More](https://www.livelaw.in/high-court/delhi-high-court/woman-gets-10-year-jail-for-facilitating-rape-delhi-high-court-cites-continued-criminal-conduct-528102) |
