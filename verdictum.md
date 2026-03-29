@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 29 Mar 2026 10:53:02 GMT | **LiveLaw** | Muslims Can Invoke 'Guardians And Wards Act' Provisions For Seeking Minor's Custody: Allahabad High Court | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-muslims-guardians-wards-act-1890-minor-custody-habeas-corpus-528203) |
+| Sun, 29 Mar 2026 10:30:47 GMT | **Verdictum** | Personal Liberty Can’t Be Sacrificed On Unfounded Suspicion: J&K And Ladakh High Court Quashes PSA Detention Of 19-Year-Old | [Read More](https://www.verdictum.in/court-updates/high-courts/jammu-ladakh-high-court/sehran-bashir-nadaf-v-union-territory-of-jk-ors-jk-public-safety-act-1610892) |
 | Sun, 29 Mar 2026 10:26:24 GMT | **LiveLaw** | Jammu & Kashmir And Ladakh High Court Weekly Roundup March 23 - 29, 2026 | [Read More](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-and-ladakh-high-court-weekly-roundup-march-23-29-2026-528181) |
 | Sun, 29 Mar 2026 09:10:15 GMT | **LiveLaw** | Delhi High Court Acquits Life Convicts In Decade-Old Murder Case, Flags Unreliable Eyewitness | [Read More](https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-acquits-life-convicts-in-decade-old-murder-case-flags-unreliable-eyewitness-528180) |
 | Sun, 29 Mar 2026 09:05:46 GMT | **LiveLaw** | Team Member (Compliance) Vacancy At Kotak Mahindra Bank Limited | [Read More](https://www.livelaw.in/job-updates/team-member-compliance-vacancy-at-kotak-mahindra-bank-limited-528202) |
