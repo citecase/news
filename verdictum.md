@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 29 Mar 2026 12:06:06 GMT | **LiveLaw** | Delhi High Court Warns Against Misuse Of Perjury Pleas To 'Arm-Twist' Opponents, Dismisses S.340 CrPC Application | [Read More](https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-warns-against-misuse-of-perjury-pleas-to-arm-twist-opponents-dismisses-s340-crpc-application-528183) |
+| Sun, 29 Mar 2026 12:00:07 GMT | **Verdictum** | Seized Item Was Declared Ganja Without Examination: Patna High Court Sets Aside NDPS Conviction In A 1998 Case | [Read More](https://www.verdictum.in/court-updates/high-courts/patna-high-court/tilakhdhari-yadav-v-the-state-of-bihar-criminal-appeal-sj-no49-of-2011-ndps-conviction-seized-item-declared-ganja-without-examination-1610893) |
 | Sun, 29 Mar 2026 10:53:02 GMT | **LiveLaw** | Muslims Can Invoke 'Guardians And Wards Act' Provisions For Seeking Minor's Custody: Allahabad High Court | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-muslims-guardians-wards-act-1890-minor-custody-habeas-corpus-528203) |
 | Sun, 29 Mar 2026 10:30:47 GMT | **Verdictum** | Personal Liberty Can’t Be Sacrificed On Unfounded Suspicion: J&K And Ladakh High Court Quashes PSA Detention Of 19-Year-Old | [Read More](https://www.verdictum.in/court-updates/high-courts/jammu-ladakh-high-court/sehran-bashir-nadaf-v-union-territory-of-jk-ors-jk-public-safety-act-1610892) |
 | Sun, 29 Mar 2026 10:26:24 GMT | **LiveLaw** | Jammu & Kashmir And Ladakh High Court Weekly Roundup March 23 - 29, 2026 | [Read More](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-and-ladakh-high-court-weekly-roundup-march-23-29-2026-528181) |
