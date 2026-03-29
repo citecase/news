@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 29 Mar 2026 10:26:24 GMT | **LiveLaw** | Jammu & Kashmir And Ladakh High Court Weekly Roundup March 23 - 29, 2026 | [Read More](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-and-ladakh-high-court-weekly-roundup-march-23-29-2026-528181) |
 | Sun, 29 Mar 2026 09:10:15 GMT | **LiveLaw** | Delhi High Court Acquits Life Convicts In Decade-Old Murder Case, Flags Unreliable Eyewitness | [Read More](https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-acquits-life-convicts-in-decade-old-murder-case-flags-unreliable-eyewitness-528180) |
 | Sun, 29 Mar 2026 09:05:46 GMT | **LiveLaw** | Team Member (Compliance) Vacancy At Kotak Mahindra Bank Limited | [Read More](https://www.livelaw.in/job-updates/team-member-compliance-vacancy-at-kotak-mahindra-bank-limited-528202) |
 | Sun, 29 Mar 2026 09:00:44 GMT | **LiveLaw** | Guilt Can Be Established On Basis Of Preliminary Inquiry Statements Even If Key Witnesses Turn Hostile During Departmental Proceedings : Delhi HC | [Read More](https://www.livelaw.in/high-court/delhi-high-court/guilt-can-be-established-on-basis-of-preliminary-inquiry-statements-even-if-key-witnesses-turn-hostile-during-departmental-proceedings-delhi-hc-528196) |
