@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 29 Mar 2026 04:30:31 GMT | **Verdictum** | Dispute Resolution System Provided In Contract: Madhya Pradesh High Court Refuses to Interfere In Contractual Matter | [Read More](https://www.verdictum.in/court-updates/high-courts/madhya-pradesh-high-court/ms-prabha-exim-pvt-ltd-v-the-state-of-madhya-pradesh-2026mphc-ind7764-dispute-resolution-alternate-efficacious-remedy-1610887) |
 | Sat, 28 Mar 2026 18:11:06 GMT | **LiveLaw** | Anil Ambani Files Defamation Suit In Bombay High Court Against Arnab Goswami, Republic TV | [Read More](https://www.livelaw.in/top-stories/anil-ambani-files-defamation-suit-in-bombay-high-court-against-arnab-goswami-republic-tv-528172) |
 | Sat, 28 Mar 2026 16:12:04 GMT | **LiveLaw** | Section 144 BNSS - Daughter-In-Law Not Legally Obligated To Maintain Parents-In-Law : Allahabad High Court | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-125-crpc-144-bnss-daughter-in-law-not-legally-obligated-maintain-parents-in-law-528171) |
 | Sat, 28 Mar 2026 16:10:24 GMT | **LiveLaw** | 6th Adamas Moot Court Competition 2026 - Adamas University [9th April – 11th April, 2026] | [Read More](https://www.livelaw.in/lawschool/moot-courts/6th-adamas-moot-court-competition-2026-adamas-university-528170) |
