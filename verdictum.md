@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 29 Mar 2026 08:09:37 GMT | **LiveLaw** | After Superannuation, Only Government & Not Subordinate Authority Competent To Impose Penalty, As Per Rules : Orissa HC | [Read More](https://www.livelaw.in/high-court/orissa-high-court/after-superannuation-only-government-not-subordinate-authority-competent-to-impose-penalty-as-per-rules-orissa-hc-528195) |
 | Sun, 29 Mar 2026 07:30:20 GMT | **Verdictum** | Acquired Land Cannot Be Returned Merely Because Project Did Not Materialise: Kerala High Court Directs State to Maintain Property Despite 37 Years of Non-Use | [Read More](https://www.verdictum.in/court-updates/high-courts/kerala-high-court/n-bharathi-amma-v-state-of-kerala-2026ker19455-acquired-land-reconveyance-project-state-1610889) |
 | Sun, 29 Mar 2026 07:15:32 GMT | **LiveLaw** | Earlier Buyer Can Seek Cancellation Of Later Sale; Subsequent Transactions Cannot Override Prior Rights: Delhi High Court | [Read More](https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-cancels-second-property-deal-says-first-buyer-can-challenge-subsequent-sale-528179) |
 | Sun, 29 Mar 2026 06:16:32 GMT | **LiveLaw** | Regulatory Compliance & Risk Management Specialist Vacancy At Tata Consultancy Services [Apply Now] | [Read More](https://www.livelaw.in/job-updates/regulatory-compliance-risk-management-specialist-vacancy-at-tata-consultancy-services-528188) |
