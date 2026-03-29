@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Thu, 26 Mar 2026 11:32:04 +0530 | **Bar & Bench** | Trilegal, Khaitan act on Bluspring Enterprises acquiring Steag Energy Services | [Read More](https://www.barandbench.com/dealstreet/trilegal-advises-bluspring-enterprises-on-acquisition-of-steag-energy-services) |
 | Sun, 29 Mar 2026 15:00:05 GMT | **Verdictum** | Legal Expert Vacancy At Andaman and Nicobar Islands Integrated Development Corporation Limited (ANIIDCO) | [Read More](https://www.verdictum.in/job-updates/andaman-and-nicobar-islands-integrated-development-corporation-limited-1610891) |
 | Sun, 29 Mar 2026 13:30:17 GMT | **Verdictum** | Complainant Has No Right To Be Heard In Penalty Proceedings Against SPIO U/S 20 RTI Act: Kerala High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/kerala-high-court/raisa-eapen-v-state-of-kerala-ors-2026ker21070-appeal-right-to-information-1610883) |
 | Sun, 29 Mar 2026 13:25:14 GMT | **LiveLaw** | “No Dying Declaration, No Proof Of Cruelty”: Calcutta High Court Acquits Husband In S.498A IPC Case After 24 Years | [Read More](https://www.livelaw.in/high-court/calcutta-high-court/no-dying-declaration-no-proof-of-cruelty-calcutta-high-court-acquits-husband-in-s498a-ipc-case-after-24-years-528187) |
