@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Mon, 30 Mar 2026 01:33:10 GMT | **LiveLaw** | 'No Iota Of Evidence' : Delhi Court Acquits All In Bander Coal Block Case; Ex-Coal Secretary Honourably Acquitted | [Read More](https://www.livelaw.in/news-updates/no-iota-of-evidence-delhi-court-acquits-all-in-bander-coal-block-case-ex-coal-secretary-honourably-acquitted-528213) |
+| Sun, 29 Mar 2026 14:31:18 GMT | **LiveLaw** | Wives Generally Exaggerate Husband's Income In Maintenance Pleas; It Doesn't Automatically Warrant Perjury Action: Allahabad HC | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-husband-income-exaggerate-maintenance-wife-perujury-action-528211) |
 | Thu, 26 Mar 2026 11:32:04 +0530 | **Bar & Bench** | Trilegal, Khaitan act on Bluspring Enterprises acquiring Steag Energy Services | [Read More](https://www.barandbench.com/dealstreet/trilegal-advises-bluspring-enterprises-on-acquisition-of-steag-energy-services) |
 | Sun, 29 Mar 2026 15:00:05 GMT | **Verdictum** | Legal Expert Vacancy At Andaman and Nicobar Islands Integrated Development Corporation Limited (ANIIDCO) | [Read More](https://www.verdictum.in/job-updates/andaman-and-nicobar-islands-integrated-development-corporation-limited-1610891) |
 | Sun, 29 Mar 2026 13:30:17 GMT | **Verdictum** | Complainant Has No Right To Be Heard In Penalty Proceedings Against SPIO U/S 20 RTI Act: Kerala High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/kerala-high-court/raisa-eapen-v-state-of-kerala-ors-2026ker21070-appeal-right-to-information-1610883) |
