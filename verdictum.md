@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Fri, 03 Apr 2026 17:51:26 GMT | **LiveLaw** | Consumer Law Monthly Digest: March 2026 | [Read More](https://www.livelaw.in/digests/monthly-digests/consumer-law-monthly-digest-march-2026-528900) |
 | Fri, 03 Apr 2026 16:54:29 GMT | **LiveLaw** | Regulation Of Building Operations Act - Locus Of Complainant Irrelevant When Fraud In Obtaining Permission Established: Allahabad HC | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-locus-complainant-irrelevant-prima-facie-fraud-528882) |
 | Fri, 03 Apr 2026 16:42:11 GMT | **LiveLaw** | Myth Of Formalisation: Economic Survey Projections And Governance Challenges In India's Labour Codes | [Read More](https://www.livelaw.in/lawschool/articles/economic-survey-projections-governance-challenges-india-labour-codes-528899) |
 | Fri, 03 Apr 2026 16:41:12 GMT | **LiveLaw** | Earning Capacity Of Adult Sons Doesn't Negate Wife's 'Independent' Right To Permanent Alimony: Rajasthan High Court | [Read More](https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-hc-earning-adult-sons-dilute-wife-permanent-alimony-528898) |
