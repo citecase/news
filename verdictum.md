@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Fri, 03 Apr 2026 01:30:22 GMT | **LiveLaw** | MP High Court Initiates Suo Moto Criminal Contempt Against BJP MLA For Attempting To Influence Judge In Illegal Mining Case | [Read More](https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-suo-motu-criminal-contempt-petition-bjp-mla-sanjay-pathak-528786) |
 | Thu, 02 Apr 2026 16:31:30 GMT | **LiveLaw** | Repeated Possession Of Small Quantity Drugs Can Trigger Preventive Detention Under KAAPA: Kerala High Court Larger Bench | [Read More](https://www.livelaw.in/high-court/kerala-high-court/repeat-drug-possession-small-quantity-goonda-kaapa-528672) |
 | Thu, 02 Apr 2026 16:28:51 GMT | **LiveLaw** | 'Witnesses Deposed Falsely, Unsafe To Rely': Court Acquits Tahir Hussain's Brother Shah Alam, 8 Others In Delhi Riots Case | [Read More](https://www.livelaw.in/news-updates/delhi-riots-tahir-hussain-brother-shah-alam-acquitted-528781) |
 | Thu, 02 Apr 2026 16:00:35 GMT | **Verdictum** | IIT Madras Invites Applications For The Post Of Legal Consultant | [Read More](https://www.verdictum.in/job-updates/indian-institute-of-technology-madras-1611225) |
