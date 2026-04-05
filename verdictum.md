@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 05 Apr 2026 15:33:43 GMT | **LiveLaw** | Arvind Kejriwal Files Application In Delhi High Court Seeking Recusal Of Justice Swarana Kanta Sharma From Liquor Policy Case | [Read More](https://www.livelaw.in/high-court/delhi-high-court/arvind-kejriwal-files-application-in-delhi-high-court-seeking-recusal-of-justice-swarana-kanta-sharma-from-liquor-policy-case-529076) |
 | Sun, 05 Apr 2026 15:09:34 GMT | **LiveLaw** | When Judiciary & Executive Align In Purpose, Constitution Comes Alive : CJI Surya Kant | [Read More](https://www.livelaw.in/top-stories/when-judiciary-executive-align-in-purpose-constitution-comes-alive-cji-surya-kant-529075) |
 | Sun, 05 Apr 2026 15:00:57 GMT | **Verdictum** | Deputy Chief Law Officer Vacancy At Visakhapatnam Port Authority (VPA) | [Read More](https://www.verdictum.in/job-updates/visakhapatnam-port-authority-1611348) |
 | Sun, 05 Apr 2026 15:00:25 GMT | **LiveLaw** | Non-Ministerial Posts In Special Police Battalion Fall Under State Cadre, Promotions Must Follow State-Wide Seniority: Telangana High Court | [Read More](https://www.livelaw.in/high-court/telangana-high-court/telangana-high-court-police-battalion-promotions-state-wide-seniority-529045) |
