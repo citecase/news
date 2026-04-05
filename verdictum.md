@@ -2,6 +2,10 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 05 Apr 2026 15:09:34 GMT | **LiveLaw** | When Judiciary & Executive Align In Purpose, Constitution Comes Alive : CJI Surya Kant | [Read More](https://www.livelaw.in/top-stories/when-judiciary-executive-align-in-purpose-constitution-comes-alive-cji-surya-kant-529075) |
+| Sun, 05 Apr 2026 15:00:57 GMT | **Verdictum** | Deputy Chief Law Officer Vacancy At Visakhapatnam Port Authority (VPA) | [Read More](https://www.verdictum.in/job-updates/visakhapatnam-port-authority-1611348) |
+| Sun, 05 Apr 2026 15:00:25 GMT | **LiveLaw** | Non-Ministerial Posts In Special Police Battalion Fall Under State Cadre, Promotions Must Follow State-Wide Seniority: Telangana High Court | [Read More](https://www.livelaw.in/high-court/telangana-high-court/telangana-high-court-police-battalion-promotions-state-wide-seniority-529045) |
+| Sun, 05 Apr 2026 14:35:21 GMT | **LiveLaw** | Jammu & Kashmir And Ladakh High Court Monthly Digest: March 2026 | [Read More](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-and-ladakh-high-court-monthly-digest-march-2026-529042) |
 | Sun, 05 Apr 2026 13:52:52 GMT | **LiveLaw** | NLU Jodhpur, CyberPeace Foundation Sign MoU To Establish CyberPeace Chair In Cyber Law | [Read More](https://www.livelaw.in/lawschool/news/nlu-jodhpur-cyberpeace-foundation-sign-mou-establish-cyberpeace-chair-cyber-law-529074) |
 | Sun, 05 Apr 2026 13:35:15 GMT | **LiveLaw** | Status Of Bhumidar Cannot Be Revised If Conditions U/S 122-B (4-F) UP Zamindari Abolition Act Are Satisfied: Allahabad HC | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-section122b4f-up-zamindari-abolition-act-bhumidhar-529043) |
 | Sun, 05 Apr 2026 13:30:16 GMT | **Verdictum** | Engineered Non-Native Cells Distinct From Natural Parts: Delhi High Court Directs Fresh Consideration Of Harvard's Patent Application | [Read More](https://www.verdictum.in/court-updates/high-courts/delhi-high-court/president-and-fellows-of-harvard-college-v-controller-general-of-patents-designs-and-trademarks-2026dhc2597-engineered-non-native-cells-1611402) |
