@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 05 Apr 2026 21:12:25 +0530 | **Bar & Bench** | Arvind Kejriwal requests Delhi High Court's Justice Swarana Kanta Sharma to recuse from the Excise policy case | [Read More](https://www.barandbench.com/news/arvind-kejriwal-requests-delhi-high-courts-justice-swarana-kanta-sharma-to-recuse-from-the-excise-policy-case) |
 | Sun, 05 Apr 2026 15:33:43 GMT | **LiveLaw** | Arvind Kejriwal Files Application In Delhi High Court Seeking Recusal Of Justice Swarana Kanta Sharma From Liquor Policy Case | [Read More](https://www.livelaw.in/high-court/delhi-high-court/arvind-kejriwal-files-application-in-delhi-high-court-seeking-recusal-of-justice-swarana-kanta-sharma-from-liquor-policy-case-529076) |
 | Sun, 05 Apr 2026 15:09:34 GMT | **LiveLaw** | When Judiciary & Executive Align In Purpose, Constitution Comes Alive : CJI Surya Kant | [Read More](https://www.livelaw.in/top-stories/when-judiciary-executive-align-in-purpose-constitution-comes-alive-cji-surya-kant-529075) |
 | Sun, 05 Apr 2026 15:00:57 GMT | **Verdictum** | Deputy Chief Law Officer Vacancy At Visakhapatnam Port Authority (VPA) | [Read More](https://www.verdictum.in/job-updates/visakhapatnam-port-authority-1611348) |
