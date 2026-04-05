@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 05 Apr 2026 13:52:52 GMT | **LiveLaw** | NLU Jodhpur, CyberPeace Foundation Sign MoU To Establish CyberPeace Chair In Cyber Law | [Read More](https://www.livelaw.in/lawschool/news/nlu-jodhpur-cyberpeace-foundation-sign-mou-establish-cyberpeace-chair-cyber-law-529074) |
 | Sun, 05 Apr 2026 13:35:15 GMT | **LiveLaw** | Status Of Bhumidar Cannot Be Revised If Conditions U/S 122-B (4-F) UP Zamindari Abolition Act Are Satisfied: Allahabad HC | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-section122b4f-up-zamindari-abolition-act-bhumidhar-529043) |
 | Sun, 05 Apr 2026 13:30:16 GMT | **Verdictum** | Engineered Non-Native Cells Distinct From Natural Parts: Delhi High Court Directs Fresh Consideration Of Harvard's Patent Application | [Read More](https://www.verdictum.in/court-updates/high-courts/delhi-high-court/president-and-fellows-of-harvard-college-v-controller-general-of-patents-designs-and-trademarks-2026dhc2597-engineered-non-native-cells-1611402) |
 | Sun, 05 Apr 2026 13:05:11 GMT | **LiveLaw** | Inquiry Officer Acting As Prosecutor, Denying Cross-Examination Vitiates Departmental Proceedings: J&K&L High Court | [Read More](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-high-court-no-requirement-to-appoint-presenting-officer-in-every-enquiry-but-inquiry-officer-acting-as-prosecutor-denying-cross-examination-vitiates-proceedings-529044) |
