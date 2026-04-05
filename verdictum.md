@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 04 Apr 2026 16:55:49 +0530 | **Bar & Bench** | Exclusive: Saraf & Partners loses two Banking & Finance Partners to CMS INDUSLAW | [Read More](https://www.barandbench.com/news/corporate/abir-lal-dey-satyadarshi-kunal-move-from-saraf-and-partners-to-cms-induslaw) |
 | Sat, 04 Apr 2026 17:15:39 GMT | **LiveLaw** | Supreme Court Declines To Quash Disciplinary Proceedings Against Sameer Wankhede, Gives Fresh Opportunity To Respond To Chargesheet | [Read More](https://www.livelaw.in/top-stories/supreme-court-declines-to-quash-disciplinary-proceedings-against-sameer-wankhede-gives-fresh-opportunity-to-respond-to-chargesheet-528997) |
 | Sat, 04 Apr 2026 16:58:22 GMT | **LiveLaw** | Centre Should Not View States As Subordinates; Citizens Of A State Cannot Be Discriminated Against: Justice BV Nagarathna | [Read More](https://www.livelaw.in/top-stories/centre-should-not-view-states-as-subordinates-citizens-of-a-state-cannot-be-discriminated-against-justice-bv-nagarathna-528970) |
 | Sat, 04 Apr 2026 16:58:02 GMT | **LiveLaw** | Institutions Like ECI, CAG Must Function Independently, Free From Political Influence: Justice BV Nagarathna | [Read More](https://www.livelaw.in/top-stories/institutions-like-eci-cag-must-function-independently-free-from-political-influence-justice-bv-nagarathna-528983) |
