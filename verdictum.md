@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Tue, 07 Apr 2026 01:01:23 GMT | **LiveLaw** | WB SIR - Appeals May Take Time, But Can't Order Interim Inclusion Of Deleted Voters Just Because They're Earlier Mapped: Supreme Court | [Read More](https://www.livelaw.in/top-stories/wb-sir-appeals-may-take-time-but-cant-allow-interim-inclusion-of-deleted-voters-just-because-theyre-earlier-mapped-supreme-court-529235) |
 | Mon, 06 Apr 2026 16:55:49 GMT | **LiveLaw** | Supreme Court Daily Round-Up : April 6, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-april-6-2026-529229) |
 | Mon, 06 Apr 2026 16:31:24 GMT | **LiveLaw** | 'Integral Part Of Judicial System': Justice Rajan Roy Lauds Legal Reporters' Role At Oudh Bar Association Felicitation Event | [Read More](https://www.livelaw.in/news-updates/justice-rajan-roy-lauds-legal-reporters-oudh-bar-association-felicitation-event-529199) |
 | Mon, 06 Apr 2026 16:07:17 GMT | **LiveLaw** | Karta Can't Unilaterally Gift Substantial Portion Of Joint Family Property In Favour Of One Coparcener: Madras High Court | [Read More](https://www.livelaw.in/high-court/madras-high-court/madras-high-court-karta-cannot-unilaterally-gift-joint-family-property-to-coparcener-529230) |
