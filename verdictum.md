@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 11 Apr 2026 17:02:21 +0530 | **Bar & Bench** | IC RegFin, JSA, TT&A, Resolution Law act on Astranova Mobility Series A fundraise | [Read More](https://www.barandbench.com/dealstreet/ic-regfin-jsa-tta-resolution-law-acts-on-astranova-mobility-series-a-fundraise) |
 | Sun, 12 Apr 2026 17:24:17 GMT | **LiveLaw** | NALSA Concludes North Zone Regional Conference On 'Enhancing Access To Justice' In Dehradun; Key Deliberations On Inclusive Justice Delivery | [Read More](https://www.livelaw.in/news-updates/nalsa-concludes-north-zone-regional-conference-on-enhancing-access-to-justice-in-dehradun-key-deliberations-on-inclusive-justice-delivery-530026) |
 | Sun, 12 Apr 2026 15:00:15 GMT | **Verdictum** | Empanelment Of Advocates & Law Firms At National Film Development Corporation Ltd. (NFDC) | [Read More](https://www.verdictum.in/job-updates/national-film-development-corporation-ltd-1611860) |
 | Sun, 12 Apr 2026 14:30:15 GMT | **LiveLaw** | Reaffirmation Of Article 25: Chhattisgarh High Court's Stance On Prohibition Of Private Prayer Meeting | [Read More](https://www.livelaw.in/articles/reaffirmation-article-25-chhattisgarh-high-court-private-prayer-meeting-prohibition-530012) |
