@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 12 Apr 2026 17:24:17 GMT | **LiveLaw** | NALSA Concludes North Zone Regional Conference On 'Enhancing Access To Justice' In Dehradun; Key Deliberations On Inclusive Justice Delivery | [Read More](https://www.livelaw.in/news-updates/nalsa-concludes-north-zone-regional-conference-on-enhancing-access-to-justice-in-dehradun-key-deliberations-on-inclusive-justice-delivery-530026) |
 | Sun, 12 Apr 2026 15:00:15 GMT | **Verdictum** | Empanelment Of Advocates & Law Firms At National Film Development Corporation Ltd. (NFDC) | [Read More](https://www.verdictum.in/job-updates/national-film-development-corporation-ltd-1611860) |
 | Sun, 12 Apr 2026 14:30:15 GMT | **LiveLaw** | Reaffirmation Of Article 25: Chhattisgarh High Court's Stance On Prohibition Of Private Prayer Meeting | [Read More](https://www.livelaw.in/articles/reaffirmation-article-25-chhattisgarh-high-court-private-prayer-meeting-prohibition-530012) |
 | Sun, 12 Apr 2026 13:38:51 GMT | **LiveLaw** | Delhi Consumer Commission Holds Realme Mobile Telecommunication (India) Pvt. Ltd. Liable For Defective Phone Explosion; Awards ₹1 Lakh Compensation | [Read More](https://www.livelaw.in/consumer-cases/delhi-consumer-commission-holds-realme-mobile-telecommunication-india-pvt-ltd-liable-for-defective-phone-explosion-awards-1-lakh-compensation-530025) |
