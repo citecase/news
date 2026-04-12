@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 12 Apr 2026 07:45:05 +0530 | **Bar & Bench** | Is right to vote a fundamental right? Supreme Court answers | [Read More](https://www.barandbench.com/news/is-right-to-vote-a-fundamental-right-supreme-court-answers) |
+| Sun, 12 Apr 2026 07:13:10 +0530 | **Bar & Bench** | [Courting Controversy] Now You See Me, Now You Don’t: The Illusion of Authorship | [Read More](https://www.barandbench.com/columns/courting-controversy-now-you-see-me-now-you-dont-the-illusion-of-authorship) |
 | Sat, 11 Apr 2026 15:00:24 GMT | **Verdictum** | Senior Consultant (Legal) Vacancy At National Disaster Management Authority (NDMA) | [Read More](https://www.verdictum.in/job-updates/national-disaster-management-authority-1611858) |
 | Sat, 11 Apr 2026 14:55:16 GMT | **LiveLaw** | Right To Contest Co-operative Society Elections Subject To Statutory Limitations : Supreme Court | [Read More](https://www.livelaw.in/top-stories/right-to-vote-right-to-contest-in-elections-not-fundamental-rights-supreme-court-529949) |
 | Sat, 11 Apr 2026 14:30:29 GMT | **LiveLaw** | Law On Reels- Why Does The Show 'Chiraiya' Legally Matter To Women? | [Read More](https://www.livelaw.in/articles/chiraiya-legally-matter-women-529760) |
