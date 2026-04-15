@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Wed, 15 Apr 2026 03:30:04 GMT | **LiveLaw** | 'Monumental Fraud By Authorities In Conspiracy With Private Entity': Karnataka High Court Orders CBI Probe Into Acquisition Of 53-Acre Land | [Read More](https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-monumental-fraud-land-acquisition-cbi-probe-530292) |
 | Tue, 14 Apr 2026 16:10:31 GMT | **LiveLaw** | High Court Asks Delhi Govt To Frame Rules Preventing Persons With 'Tainted Antecedents' From Holding Key Posts In Cooperative Societies | [Read More](https://www.livelaw.in/high-court/delhi-high-court/high-court-asks-delhi-govt-to-frame-rules-preventing-persons-with-tainted-antecedents-from-holding-key-posts-in-cooperative-societies-530245) |
 | Tue, 14 Apr 2026 16:00:58 GMT | **Verdictum** | Staff Selection Commission (KKR), Bengaluru Invites Applications For The Post Of Young Professional (Legal Consultant) | [Read More](https://www.verdictum.in/job-updates/staff-selection-commission-1611980) |
 | Tue, 14 Apr 2026 15:52:07 GMT | **LiveLaw** | 'Deepfakes Disproportionately Target Women, Takedown Comes After Harm Is Done': Justice PS Narasimha | [Read More](https://www.livelaw.in/top-stories/soli-sorabjee-memorial-lecture-justice-ps-narasimha-artificial-intelligence-human-rights-deepfakes-gender-based-violence-530285) |
