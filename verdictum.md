@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Wed, 15 Apr 2026 04:30:25 GMT | **Verdictum** | Reservation Benefits Granted In One State
+Cannot Be Extended To Reserved Category Candidates Belonging To Another State: Rajasthan High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/rajasthan-high-court/federation-of-private-medical-and-dental-college-of-rajasthan-v-chairman-neet-pg-medical-dental-admission-board-ors-1612082) |
 | Wed, 15 Apr 2026 12:07:45 +0530 | **Bar & Bench** | Bombay High Court rejects Abu Salem’s plea for remission and early release | [Read More](https://www.barandbench.com/news/bombay-high-court-rejects-abu-salems-plea-for-remission-and-early-release) |
 | Wed, 15 Apr 2026 17:29:21 GMT | **LiveLaw** | Gujarat High Court Seeks Response From Meta, Google, X, Reddit & Scribd On PIL Over Deepfake, AI Content; Asks Them To Onboard SAHYOG Portal | [Read More](https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-pil-deepfake-ai-generated-content-intermediaries-530410) |
 | Wed, 15 Apr 2026 16:58:58 GMT | **LiveLaw** | Sabarimala Reference - Can't Hollow Out Religion In The Name Of Social Reform, Supreme Court Says In Hearing | [Read More](https://www.livelaw.in/top-stories/sabarimala-reference-cant-hollow-out-religion-in-the-name-of-social-reform-supreme-court-says-in-hearing-530359) |
