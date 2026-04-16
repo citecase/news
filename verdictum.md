@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Wed, 15 Apr 2026 04:30:25 GMT | **Verdictum** | Reservation Benefits Granted In One State
+Cannot Be Extended To Reserved Category Candidates Belonging To Another State: Rajasthan High Court | [Read More](https://www.verdictum.in/court-updates/high-courts/rajasthan-high-court/federation-of-private-medical-and-dental-college-of-rajasthan-v-chairman-neet-pg-medical-dental-admission-board-ors-1612082) |
 | Thu, 16 Apr 2026 18:08:09 GMT | **LiveLaw** | Nani Palkhivala Arbitration Centre Partners With Justact For Tech-Enabled Arbitration And ODR | [Read More](https://www.livelaw.in/news-updates/nani-palkhivala-arbitration-centre-partners-with-justact-tech-enabled-arbitration-odr-530601) |
 | Thu, 16 Apr 2026 17:20:55 GMT | **LiveLaw** | 'Youth Thrusting Religion On Others A Disturbing Trend': Allahabad HC Denies Relief To School Girl In Anti-Conversion FIR | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-anti-conversion-fir-class-12-school-girl-youth-religion-disturbing-trend-530599) |
 | Thu, 16 Apr 2026 17:05:55 GMT | **LiveLaw** | Supreme Court Upholds COFEPOSA Detention Of  Kannada Actress Ranya Rao In Gold Smuggling Case | [Read More](https://www.livelaw.in/top-stories/supreme-court-upholds-cofeposa-detention-of-kannada-actress-ranya-rao-in-gold-smuggling-case-530597) |
