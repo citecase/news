@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 18 Apr 2026 19:21:47 GMT | **LiveLaw** | NPAC Conference On Insolvency and Bankruptcy Code, 2016: “From Resolution To Resilience: Reimagining India's Corporate Restructuring Landscape” | [Read More](https://www.livelaw.in/lawschool/seminars/npac-conference-on-insolvency-bankruptcy-code-resolution-resilience-530852) |
+| Sat, 18 Apr 2026 18:53:12 GMT | **LiveLaw** | [Advertisement] Advanced Certificate Course In Legal Drafting, Court Practice & AI For Lawyers (ALD v7.0) | [Read More](https://www.livelaw.in/lawschool/diploma-certificate-courses/advanced-certificate-course-legal-drafting-court-practice-ai-lawyers-530851) |
 | Sat, 18 Apr 2026 18:37:11 GMT | **LiveLaw** | NHRC Chairperson Justice V. Ramasubramanian Urges Academia To Build Future-Ready IP Jurisprudence At HNLU FDP | [Read More](https://www.livelaw.in/lawschool/news/nhrc-chairperson-justice-v-ramasubramanian-urges-academia-to-build-future-ready-ip-jurisprudence-at-hnlu-fdp-530850) |
 | Sat, 18 Apr 2026 15:54:58 GMT | **LiveLaw** | 2026 LiveLaw (SC) 391 - IN RE: PHALODI ACCIDENT Versus | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-391-in-re-phalodi-accident-versus-530846) |
 | Sat, 18 Apr 2026 15:53:24 GMT | **LiveLaw** | Ad Hoc Employees Appointed Without Recruitment Advertisements Or Interviews Cannot Be Regularised: Supreme Court | [Read More](https://www.livelaw.in/top-stories/ad-hoc-employees-appointed-without-recruitment-advertisements-or-interviews-cannot-be-regularised-supreme-court-530844) |
