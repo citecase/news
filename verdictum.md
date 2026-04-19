@@ -2,6 +2,18 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 19 Apr 2026 05:30:27 GMT | **LiveLaw** | Lok Adalats Can Settle Disputes Of Any Pecuniary Value Within Its Territorial Jurisdiction: Kerala High Court | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-lok-adalat-pecuniary-territorial-jurisdiction-530807) |
+| Sun, 19 Apr 2026 05:12:57 GMT | **CaseCiter** | Maria Martins v. Noel Zuzarte 2026 INSC 376 - Tenancy - Bonafide Need - Subsequent Events | [Read More](https://www.caseciter.com/2026insc376/) |
+| Sun, 19 Apr 2026 05:09:34 GMT | **CaseCiter** | Ravi Kala  v. Casablanca Estate 2026 INSC 377 | [Read More](https://www.caseciter.com/2026insc377/) |
+| Sun, 19 Apr 2026 05:06:23 GMT | **CaseCiter** | Madan Singh  v. State of Haryana  2026 INSC 379 - Regularisation | [Read More](https://www.caseciter.com/2026insc379/) |
+| Sun, 19 Apr 2026 05:02:58 GMT | **CaseCiter** | In Re: Illegal Sand Mining in the National Chambal Sanctuary and Threat to Endangered Aquatic Wildlife    2026 INSC 380 | [Read More](https://www.caseciter.com/2026insc380/) |
+| Sun, 19 Apr 2026 04:55:08 GMT | **CaseCiter** | M.C. Mehta v. Union of India  2026 INSC 381-383 - Formal Closure Of PIL | [Read More](https://www.caseciter.com/2026insc383/) |
+| Sun, 19 Apr 2026 04:50:13 GMT | **CaseCiter** | Agriculture Produce Market Committee, Deesa v. National Horticulture Board  2026 INSC 385 | [Read More](https://www.caseciter.com/2026insc385/) |
+| Sun, 19 Apr 2026 04:45:21 GMT | **CaseCiter** | State of Assam v. Moinul Haque @ Monu, 2026 INSC 386 - Identification Procedure | [Read More](https://www.caseciter.com/2026insc386/) |
+| Sun, 19 Apr 2026 04:37:07 GMT | **CaseCiter** | Juvenile Delinquent v. State of U.P.   2026 INSC 387 - JJ Act | [Read More](https://www.caseciter.com/2026insc387/) |
+| Sun, 19 Apr 2026 04:30:46 GMT | **LiveLaw** | Bail For Children In Conflict With Law | [Read More](https://www.livelaw.in/articles/bail-children-conflict-with-law-530828) |
+| Sun, 19 Apr 2026 04:30:46 GMT | **LiveLaw** | Kerala High Court Quarterly Digest: January - March, 2026 [Citations: 1 - 180] | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-quarterly-digest-january-march-2026-530792) |
+| Sun, 19 Apr 2026 04:30:12 GMT | **Verdictum** | Material & Grounds Necessitating Blacklisting Must Be Mentioned In Order: Allahabad High Court | [Read More](https://www.verdictum.in/allahabad-high-court/ms-adeeba-naaz-contractor-v-state-of-up-2026ahc-lko25600-db-show-cause-notice-blacklisting-order-1612358) |
 | Sun, 19 Apr 2026 03:03:19 GMT | **LiveLaw** | DMK MP Moves Private Bill For Immediate Implementation Of Women's Reservation, Seeks Postponing Delimitation By 25 Years | [Read More](https://www.livelaw.in/news-updates/rajya-sabha-wilson-women-reservation-parliament-delimitation-postpone-530853) |
 | Sat, 18 Apr 2026 19:21:47 GMT | **LiveLaw** | NPAC Conference On Insolvency and Bankruptcy Code, 2016: “From Resolution To Resilience: Reimagining India's Corporate Restructuring Landscape” | [Read More](https://www.livelaw.in/lawschool/seminars/npac-conference-on-insolvency-bankruptcy-code-resolution-resilience-530852) |
 | Sat, 18 Apr 2026 18:53:12 GMT | **LiveLaw** | [Advertisement] Advanced Certificate Course In Legal Drafting, Court Practice & AI For Lawyers (ALD v7.0) | [Read More](https://www.livelaw.in/lawschool/diploma-certificate-courses/advanced-certificate-course-legal-drafting-court-practice-ai-lawyers-530851) |
