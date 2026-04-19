@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 19 Apr 2026 14:31:02 GMT | **LiveLaw** | Will India Finally Build Breastfeeding Rooms After Supreme Court Order? | [Read More](https://www.livelaw.in/articles/breastfeeding-rooms-supreme-court-order-530831) |
+| Sun, 19 Apr 2026 11:42:25 GMT | **LiveLaw** | 'Education Now A Business': Madras HC Transfers Probe Into UKG Student's Death In School; Says 'Poor Rarely Get Justice' | [Read More](https://www.livelaw.in/high-court/madras-high-court/madras-hc-education-business-transfers-probe-ukg-student-death-school-poor-justice-530880) |
 | Sun, 19 Apr 2026 13:30:42 GMT | **Verdictum** | Litigant’s Actual Knowledge Of Demise Makes Advocate's Duty Under Order XXII Rule 10A CPC Inconsequential: Bombay High Court | [Read More](https://www.verdictum.in/bombay-high-court/romesh-satyanarayan-sharma-v-swaran-singh-chawla-2026bhc-as17872-litigants-actual-knowledge-of-demise-order-xxii-rule-10a-cpc-1612377) |
 | Sun, 19 Apr 2026 12:00:42 GMT | **Verdictum** | Proceedings Converted Into Suit U/S 295 Succession Act Retain Limited Probate Scope; Court Can Examine Validity Of Will U/S 71: Kerala High Court | [Read More](https://www.verdictum.in/kerala-high-court/p-lakshmikutty-amma-ors-v-vk-indira-anr-indian-succession-act-1612378) |
 | Sun, 19 Apr 2026 11:22:49 GMT | **LiveLaw** | 'District Judiciary Breathes Life Into Law' : CJI Surya Kant Inaugurates Madurai Additional District Court Complex | [Read More](https://www.livelaw.in/top-stories/district-judiciary-breathes-life-into-law-cji-surya-kant-inaugurates-madurai-additional-district-court-complex-530879) |
