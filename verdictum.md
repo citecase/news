@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 19 Apr 2026 15:00:30 GMT | **Verdictum** | District Legal Services Authority Latur (DLSA Latur) Invites Applications For The Post Of Assistant Legal Aid Defense Counsel | [Read More](https://www.verdictum.in/job-updates/district-legal-services-authority-1612351) |
 | Sun, 19 Apr 2026 14:31:02 GMT | **LiveLaw** | Will India Finally Build Breastfeeding Rooms After Supreme Court Order? | [Read More](https://www.livelaw.in/articles/breastfeeding-rooms-supreme-court-order-530831) |
 | Sun, 19 Apr 2026 11:42:25 GMT | **LiveLaw** | 'Education Now A Business': Madras HC Transfers Probe Into UKG Student's Death In School; Says 'Poor Rarely Get Justice' | [Read More](https://www.livelaw.in/high-court/madras-high-court/madras-hc-education-business-transfers-probe-ukg-student-death-school-poor-justice-530880) |
 | Sun, 19 Apr 2026 13:30:42 GMT | **Verdictum** | Litigant’s Actual Knowledge Of Demise Makes Advocate's Duty Under Order XXII Rule 10A CPC Inconsequential: Bombay High Court | [Read More](https://www.verdictum.in/bombay-high-court/romesh-satyanarayan-sharma-v-swaran-singh-chawla-2026bhc-as17872-litigants-actual-knowledge-of-demise-order-xxii-rule-10a-cpc-1612377) |
