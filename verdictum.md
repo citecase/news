@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 19 Apr 2026 03:03:19 GMT | **LiveLaw** | DMK MP Moves Private Bill For Immediate Implementation Of Women's Reservation, Seeks Postponing Delimitation By 25 Years | [Read More](https://www.livelaw.in/news-updates/rajya-sabha-wilson-women-reservation-parliament-delimitation-postpone-530853) |
 | Sat, 18 Apr 2026 19:21:47 GMT | **LiveLaw** | NPAC Conference On Insolvency and Bankruptcy Code, 2016: “From Resolution To Resilience: Reimagining India's Corporate Restructuring Landscape” | [Read More](https://www.livelaw.in/lawschool/seminars/npac-conference-on-insolvency-bankruptcy-code-resolution-resilience-530852) |
 | Sat, 18 Apr 2026 18:53:12 GMT | **LiveLaw** | [Advertisement] Advanced Certificate Course In Legal Drafting, Court Practice & AI For Lawyers (ALD v7.0) | [Read More](https://www.livelaw.in/lawschool/diploma-certificate-courses/advanced-certificate-course-legal-drafting-court-practice-ai-lawyers-530851) |
 | Sat, 18 Apr 2026 18:37:11 GMT | **LiveLaw** | NHRC Chairperson Justice V. Ramasubramanian Urges Academia To Build Future-Ready IP Jurisprudence At HNLU FDP | [Read More](https://www.livelaw.in/lawschool/news/nhrc-chairperson-justice-v-ramasubramanian-urges-academia-to-build-future-ready-ip-jurisprudence-at-hnlu-fdp-530850) |
