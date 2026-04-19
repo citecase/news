@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 19 Apr 2026 12:00:42 GMT | **Verdictum** | Proceedings Converted Into Suit U/S 295 Succession Act Retain Limited Probate Scope; Court Can Examine Validity Of Will U/S 71: Kerala High Court | [Read More](https://www.verdictum.in/kerala-high-court/p-lakshmikutty-amma-ors-v-vk-indira-anr-indian-succession-act-1612378) |
 | Sun, 19 Apr 2026 11:22:49 GMT | **LiveLaw** | 'District Judiciary Breathes Life Into Law' : CJI Surya Kant Inaugurates Madurai Additional District Court Complex | [Read More](https://www.livelaw.in/top-stories/district-judiciary-breathes-life-into-law-cji-surya-kant-inaugurates-madurai-additional-district-court-complex-530879) |
 | Sun, 19 Apr 2026 10:30:36 GMT | **LiveLaw** | Madhya Pradesh High Court Quarterly Digest: January to March, 2026 | [Read More](https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-quarterly-digest-january-to-march-2026-530793) |
 | Sun, 19 Apr 2026 10:30:01 GMT | **Verdictum** | Absence Of Preliminary Assessment U/S 15 JJ Act Bars Treating Juvenile As Adult; Bail Cannot Be Denied On Conjectural Apprehensions: Supreme Court | [Read More](https://www.verdictum.in/supreme-court/juvenile-delinquent-v-state-of-up-2026-insc-387-absence-of-preliminary-assessment-us-15-jj-act-bars-juvenile-as-adult-1612375) |
