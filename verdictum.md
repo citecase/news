@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Mon, 20 Apr 2026 03:22:49 GMT | **LiveLaw** | Program Associate-II Vacancy At Indian Institute Of Technology, Gandhinagar | [Read More](https://www.livelaw.in/job-updates/program-associate-ii-vacancy-at-indian-institute-of-technology-gandhinagar-530895) |
+| Mon, 20 Apr 2026 03:12:44 GMT | **LiveLaw** | Associate Director Vacancy At Deloitte Touche Tohmatsu India LLP [Delhi; Apply Now] | [Read More](https://www.livelaw.in/job-updates/associate-director-vacancy-at-deloitte-touche-tohmatsu-india-llp-530894) |
+| Sun, 19 Apr 2026 16:15:57 GMT | **LiveLaw** | Relief For Advocate In 'Illness Slip' Row: Allahabad HC Waives ₹20K Cost, Expunges Adverse Remarks Following Apology | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-20k-cost-expunges-adverse-remarks-apology-relief-advocate-illness-slip-row-530882) |
 | Sun, 19 Apr 2026 15:00:30 GMT | **Verdictum** | District Legal Services Authority Latur (DLSA Latur) Invites Applications For The Post Of Assistant Legal Aid Defense Counsel | [Read More](https://www.verdictum.in/job-updates/district-legal-services-authority-1612351) |
 | Sun, 19 Apr 2026 14:31:02 GMT | **LiveLaw** | Will India Finally Build Breastfeeding Rooms After Supreme Court Order? | [Read More](https://www.livelaw.in/articles/breastfeeding-rooms-supreme-court-order-530831) |
 | Sun, 19 Apr 2026 11:42:25 GMT | **LiveLaw** | 'Education Now A Business': Madras HC Transfers Probe Into UKG Student's Death In School; Says 'Poor Rarely Get Justice' | [Read More](https://www.livelaw.in/high-court/madras-high-court/madras-hc-education-business-transfers-probe-ukg-student-death-school-poor-justice-530880) |
