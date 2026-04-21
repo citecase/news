@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Wed, 22 Apr 2026 01:05:17 +0530 | **Bar & Bench** | Supreme Court Recruitment Cell blames third-party agency for Law Clerks’ Exam Marks Discrepancy | [Read More](https://www.barandbench.com/news/lawschools/supreme-court-recruitment-cell-blames-third-party-agency-for-law-clerks-exam-marks-discrepancy) |
 | Tue, 21 Apr 2026 17:02:24 GMT | **LiveLaw** | Supreme Court Daily Round-Up : April 21, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-april-21-2026-531215) |
 | Tue, 21 Apr 2026 16:37:38 GMT | **LiveLaw** | Chhattisgarh HC Bench Recuses As Judge's Niece Appears As Counsel; Calls CJ's Recusal Norms Circular An 'Interference' | [Read More](https://www.livelaw.in/high-court/chhattisgarh-high-court/chhattisgarh-hc-recusal-judge-niece-chief-justice-circular-interference-531214) |
 | Tue, 21 Apr 2026 16:00:11 GMT | **Verdictum** | Vacancy District Magistrate Nainital Invites Applications For The Post Of Assistant Prosecuting Officer | [Read More](https://www.verdictum.in/job-updates/district-magistrate-nainital-1612537) |
