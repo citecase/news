@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 25 Apr 2026 08:02:02 +0530 | **Bar & Bench** | NLUO and AZB & Partners launch single credit course on arbitration: Enrol today! | [Read More](https://www.barandbench.com/Law-School/nluo-and-azb-partners-launch-single-credit-course-on-arbitration-enrol-today) |
+| Sat, 25 Apr 2026 08:01:59 +0530 | **Bar & Bench** | MNLU Mumbai hosts international conference on transformative constitutionalism | [Read More](https://www.barandbench.com/Law-School/mnlu-mumbai-hosts-international-conference-on-transformative-constitutionalism) |
 | Fri, 24 Apr 2026 16:10:03 GMT | **LiveLaw** | Supreme Court Issues Notice On Christian Michel James' Plea Against Extradition Treaty Clause | [Read More](https://www.livelaw.in/top-stories/supreme-court-agustawestland-vvip-chopper-case-christian-michel-james-plea-against-continued-detention-india-uae-extradition-treaty-notice-issued-531686) |
 | Fri, 24 Apr 2026 16:00:50 GMT | **LiveLaw** | Recruitment Process Cannot Be Scrapped Solely Over Non-Issuance Of EOI While Engaging Exam-Conducting Agency: J&K&L High Court | [Read More](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-high-court-recruitment-process-cannot-be-scrapped-solely-for-non-issuance-of-rfpeoi-while-engaging-exam-conducting-agency-531674) |
 | Fri, 24 Apr 2026 16:00:19 GMT | **Verdictum** | Legal Assistant Vacancy At Uttar Pradesh Subordinate Service Selection Commission (UPSSSC) | [Read More](https://www.verdictum.in/job-updates/uttar-pradesh-subordinate-service-selection-commission-1612743) |
