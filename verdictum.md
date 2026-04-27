@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 26 Apr 2026 18:55:33 +0530 | **Bar & Bench** | BCD elections: Rajiv Khosla, 9 other advocates suspended for misbehaving with Justice Talwant Singh, election staff | [Read More](https://www.barandbench.com/news/bcd-elections-rajiv-khosla-9-other-advocates-suspended-for-misbehaving-with-justice-talwant-singh-election-staff) |
 | Sun, 26 Apr 2026 15:00:36 GMT | **Verdictum** | NMRC Invites Applications For The Post Of Senior Section Officer/ Section Officer (Legal) | [Read More](https://www.verdictum.in/job-updates/noida-metro-rail-corporation-limited-1612804) |
 | Sun, 26 Apr 2026 14:30:33 GMT | **LiveLaw** | Fixed Term Employment: Contractualisation As A Tool For Fragmentation Of Labour Rights In India | [Read More](https://www.livelaw.in/articles/fixed-term-employment-contractualisation-fragmentation-labour-rights-531781) |
 | Sun, 26 Apr 2026 13:30:31 GMT | **Verdictum** | Transfer Of Maintenance Cases From Family Courts To Gram Nyayalayas Valid: Allahabad High Court | [Read More](https://www.verdictum.in/allahabad-high-court/civil-court-bar-association-anr-v-high-court-of-judicature-at-allahabad-ors-neutral-citation-2026ahc60135-db-1612806) |
