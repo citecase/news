@@ -2,8 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Fri, 01 May 2026 02:30:29 GMT | **LiveLaw** | Madras High Court Paves Way For Release Of 'Dhruva Natchathiram' Movie, Orders Escrow Account To Safeguard Creditors' Dues | [Read More](https://www.livelaw.in/high-court/madras-high-court/madras-high-court-dhruva-natchathiram-movie-release-separate-bank-account-532444) |
+| Fri, 01 May 2026 02:09:06 GMT | **LiveLaw** | Supreme Court To Hear Kannur Corporation's Challenge To Kerala High Court Order Silencing Its Siren | [Read More](https://www.livelaw.in/top-stories/supreme-court-to-hear-kannur-corporations-challenge-to-kerala-high-court-order-silencing-its-siren-532451) |
 | Wed, 29 Apr 2026 06:31:38 GMT | **Verdictum** | Ordinarily No Writ Lies Against Show Cause
-Notice Unless It's Ex Facie Without Jurisdiction: Patna High Court | [Read More](https://www.verdictum.in/patna-high-court/raj-raj-construction-v-state-of-bihar-civil-writ-jurisdiction-4759-of-2026-1613041) |
 | Thu, 30 Apr 2026 18:12:21 GMT | **LiveLaw** | Manipur Violence : Supreme Court Asks Whistleblower To Give First Generation Copy Of Alleged Recording Of Biren Singh For Forensic Analysis | [Read More](https://www.livelaw.in/top-stories/manipur-violence-supreme-court-asks-whistleblower-to-give-first-generation-copy-of-alleged-recording-of-biren-singh-for-forensic-analysis-532414) |
 | Thu, 30 Apr 2026 17:00:40 GMT | **LiveLaw** | “Goa Is Part Of India”: Bombay High Court Says Orders Of Indian Courts Not 'Foreign Judgments' Under Portuguese Civil Code | [Read More](https://www.livelaw.in/high-court/bombay-high-court/indian-court-order-not-foreign-under-portuguese-civil-code-goa-part-of-india-532430) |
 | Thu, 30 Apr 2026 16:26:30 GMT | **LiveLaw** | No Illegality In Appointing Only Central Govt Or PSU Employees As Counting Supervisors For West Bengal Polls : Calcutta High Court | [Read More](https://www.livelaw.in/high-court/calcutta-high-court/breaking-no-illegality-in-appointing-central-govt-or-psu-employees-excluding-state-employees-for-wb-poll-counting-duties-calcutta-hc-532425) |
