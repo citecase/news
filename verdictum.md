@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 02 May 2026 08:43:50 +0530 | **Bar & Bench** | Regular religious congregational activities on private property are subject to State regulations: Allahabad HC | [Read More](https://www.barandbench.com/news/regular-religious-congregational-activities-on-private-property-are-subject-to-state-regulations-allahabad-hc) |
+| Fri, 01 May 2026 17:57:50 +0530 | **Bar & Bench** | Sikkim declared first State to have paperless judiciary | [Read More](https://www.barandbench.com/news/sikkim-declared-first-state-to-have-paperless-judiciary) |
 | Fri, 01 May 2026 16:00:00 GMT | **Verdictum** | Legal Director Vacancy At Maharashtra Police | [Read More](https://www.verdictum.in/job-updates/maharashtra-police-1613205) |
 | Fri, 01 May 2026 15:30:21 GMT | **LiveLaw** | Reconciling Advocate's Dual Duties To Client And Court In Indian Legal Ethics | [Read More](https://www.livelaw.in/articles/reconciling-advocate-dual-duties-client-court-indian-legal-ethics-532422) |
 | Fri, 01 May 2026 15:30:08 GMT | **Verdictum** | Allahabad High Court Directs Mahakumbh Mela Authority To Decide Claims For Compensation For Deaths In Stampede Within 30 Days | [Read More](https://www.verdictum.in/allahabad-high-court/sanjay-kumar-sharma-v-state-of-up-ex-gratia-compensation-mahakumbh-mela-stampede-1613215) |
