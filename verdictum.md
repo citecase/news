@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 03 May 2026 12:00:58 GMT | **Verdictum** | Merely Driving Car While Contraband Is Recovered From Passenger Doesn’t Constitute Possession: Calcutta High Court Grants Bail In NDPS Case | [Read More](https://www.verdictum.in/calcutta-high-court/saw-herald-v-the-state-driving-car-contraband-passenger-possession-bail-ndps-accused-1613277) |
+| Sat, 02 May 2026 07:16:20 GMT | **LiveLaw** | Supreme Court Quarterly Digest 2026 - Bharatiya Nagarik Suraksha Sanhita
+(BNSS) | [Read More](https://www.livelaw.in/supreme-court/supreme-court-judgments-and-orders-quarterly-digest-bnss-2026-532575) |
 | Sun, 03 May 2026 10:31:03 GMT | **LiveLaw** | J&K CSR - Borrowing Organization Must Pay Leave Salary To Deputationist & Seek Reimbursement From Parent Department: High Court | [Read More](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-high-court-jk-csr-borrowing-organization-must-pay-leave-salary-to-deputationist-and-seek-reimbursement-from-parent-department-532639) |
 | Sun, 03 May 2026 10:31:03 GMT | **LiveLaw** | Kerala High Court Monthly Digest: April 2026 [Citation: 181 - 227] | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-monthly-digest-april-2026-532514) |
 | Sun, 03 May 2026 10:30:25 GMT | **Verdictum** | “Administrator Had No Authority To Promise":  Bombay High Court Dismisses Hotel The Deltin Plea For Casino Licenses In Daman | [Read More](https://www.verdictum.in/bombay-high-court/delta-corp-limited-and-another-v-ut-administration-of-daman-and-diu-2026bhc-as20375-db-hotel-the-deltin-plea-casino-licenses-1613303) |
