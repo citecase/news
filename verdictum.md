@@ -2,6 +2,12 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 03 May 2026 09:52:12 GMT | **LiveLaw** | Analyst (Tax) Vacancy At Ernst & Young [New Delhi; Apply Now] | [Read More](https://www.livelaw.in/job-updates/analyst-tax-vacancy-at-ernst-young-new-delhi-532655) |
+| Sun, 03 May 2026 09:44:34 GMT | **LiveLaw** | Assistant Manager (Data Privacy And Ethics) Vacancy At KPMG India [Bangalore; Apply Now] | [Read More](https://www.livelaw.in/job-updates/assistant-manager-data-privacy-and-ethics-vacancy-at-kpmg-india-bangalore-532654) |
+| Sun, 03 May 2026 09:21:59 GMT | **LiveLaw** | 2026 LiveLaw (SC) 450 - UNION TERRITORY OF JAMMU AND KASHMIR AND ORS. v SABA WANI | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-450-union-territory-of-jammu-and-kashmir-and-ors-v-saba-wani-532653) |
+| Sun, 03 May 2026 09:19:40 GMT | **LiveLaw** | Supreme Court Allows Appointment Of ReT Candidates In J&K Subject To Clearing TET In Three Years | [Read More](https://www.livelaw.in/supreme-court/supreme-court-allows-appointment-of-ret-candidates-in-jk-subject-to-clearing-tet-in-three-years-532652) |
+| Sat, 02 May 2026 07:16:20 GMT | **LiveLaw** | Supreme Court Quarterly Digest 2026 - Bharatiya Nagarik Suraksha Sanhita
+(BNSS) | [Read More](https://www.livelaw.in/supreme-court/supreme-court-judgments-and-orders-quarterly-digest-bnss-2026-532575) |
 | Sun, 03 May 2026 09:13:00 GMT | **LiveLaw** | 2026 LiveLaw (SC) 449 - DR. S. GANAPATHY Versus THE STATE OF KERALA | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-449-dr-s-ganapathy-versus-the-state-of-kerala-532651) |
 | Sun, 03 May 2026 09:08:11 GMT | **LiveLaw** | 2026 LiveLaw (SC) 448 - SUNIL KUMAR GUPTA ALIAS SUNIL CHAIN v. UNION OF INDIA | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-448-sunil-kumar-gupta-alias-sunil-chain-v-union-of-india-532650) |
 | Sun, 03 May 2026 09:06:59 GMT | **LiveLaw** | 2026 LiveLaw (SC) 447 - Elvish Yadav @ Siddharth v. State of UP and Anr | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-447-elvish-yadav-siddharth-v-state-of-up-and-anr-532649) |
