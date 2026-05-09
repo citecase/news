@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 09 May 2026 01:30:21 GMT | **LiveLaw** | Bombay High Court Calls For Performance Audit Of 1971 Slum Law To Achieve 'Distant Dream' Of Slum-Free Mumbai | [Read More](https://www.livelaw.in/high-court/bombay-high-court/maharashta-slum-act-1971-audit-slum-free-mumbai-533501) |
 | Fri, 08 May 2026 17:06:11 GMT | **LiveLaw** | Supreme Court Daily Round-Up : May 8, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-may-8-2026-533496) |
 | Fri, 08 May 2026 16:04:31 GMT | **CaseCiter** | Sanjay Singh v. State of Madhya Pradesh  2026 INSC 467 - S.34 IPC - Common Intention | [Read More](https://www.caseciter.com/2026insc467/) |
 | Fri, 08 May 2026 16:00:57 GMT | **LiveLaw** | 'Ruse To Avoid Conviction': Delhi High Court Refuses To Quash POCSO Case Despite Marriage Between Accused, Prosecutrix | [Read More](https://www.livelaw.in/high-court/delhi-high-court/ruse-to-avoid-conviction-delhi-high-court-refuses-to-quash-pocso-case-despite-marriage-between-accused-prosecutrix-533478) |
