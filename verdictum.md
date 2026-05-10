@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Mon, 11 May 2026 00:13:36 +0530 | **Bar & Bench** | How does Solicitor General Tushar Mehta find time to write books? CJI Surya Kant has a theory | [Read More](https://www.barandbench.com/news/how-does-solicitor-general-tushar-mehta-find-time-to-write-books-cji-surya-kant-has-a-theory) |
+| Mon, 11 May 2026 00:12:36 +0530 | **Bar & Bench** | AI, social media have deeply affected human behaviour and communication: AG R Venkataramani | [Read More](https://www.barandbench.com/news/ai-social-media-have-deeply-affected-human-behaviour-and-communication-ag-r-venkataramani) |
+| Mon, 11 May 2026 00:11:48 +0530 | **Bar & Bench** | AI and modern technology may pose challenges to judiciary in future: Union Home Minister Amit Shah | [Read More](https://www.barandbench.com/news/ai-and-modern-technology-may-pose-challenges-to-judiciary-in-future-union-home-minister-amit-shah) |
 | Sun, 10 May 2026 15:00:00 GMT | **Verdictum** | DLSA Virudhunagar Invites Applications For The Posts Of Chief, Deputy & Assistant Legal Aid Defense Counsel | [Read More](https://www.verdictum.in/job-updates/district-legal-services-authority-1613700) |
 | Sun, 10 May 2026 13:30:46 GMT | **Verdictum** | Scope Of LPA Is Limited; Division Bench Can't Differ From Finding Of Fact Recorded By Single Judge In Absence Of Cogent Reasons: Patna High Court | [Read More](https://www.verdictum.in/patna-high-court/shyama-devi-v-the-state-of-bihar-scope-lpa-division-bench-single-judge-cogent-reasons-1613727) |
 | Sun, 10 May 2026 13:30:44 GMT | **LiveLaw** | Access To Justice - Courts Can't Conduct 'Mini Trial' At Stage Of Numbering Claim Petition: Andhra Pradesh High Court | [Read More](https://www.livelaw.in/high-court/andhra-pradesh-high-court/andhra-pradesh-high-court-registry-mini-trial-claim-petition-order-21-rule-58-cpc-533616) |
