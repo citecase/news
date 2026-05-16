@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Fri, 15 May 2026 23:48:09 +0530 | **Bar & Bench** | Late-night hearing: Telangana HC refuses to grant Union Minister's son interim protection from arrest in POCSO case | [Read More](https://www.barandbench.com/news/litigation/late-night-hearing-telangana-hc-refuses-to-grant-union-ministers-son-interim-protection-from-arrest-in-pocso-case) |
 | Fri, 15 May 2026 19:57:17 GMT | **LiveLaw** | BREAKING - Telangana High Court Declines Interim Protection From Arrest To Bandi Bageerath In POCSO Case | [Read More](https://www.livelaw.in/high-court/telangana-high-court/telangana-high-court-bandi-sai-bageerath-interim-anticipatory-bail-pocso-case-534398) |
 | Fri, 15 May 2026 17:49:16 GMT | **LiveLaw** | 'His Life Continues In Others' : Supreme Court Appreciates Harish Rana's Family For Donating His Organs After Life Support Withdrawal | [Read More](https://www.livelaw.in/top-stories/his-life-continues-in-others-supreme-court-appreciates-harish-ranas-family-for-donating-his-organs-after-life-support-withdrawal-534397) |
 | Fri, 15 May 2026 17:42:30 GMT | **LiveLaw** | 'They're Not Terrorists, Only Demanding Basic Wages' : Supreme Court Orders Production Of Two Arrested Over Noida Workers' Protest | [Read More](https://www.livelaw.in/top-stories/theyre-not-terrorists-only-demanding-basic-wages-supreme-court-orders-production-of-two-arrested-over-noida-workers-protest-534396) |
