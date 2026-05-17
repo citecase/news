@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 16 May 2026 15:27:17 GMT | **LiveLaw** | From Litigants Asking 'File Kahan Hai' To 'Link Bhej Dijiye': CJI Surya Kant On Digital Transformation Of Judiciary | [Read More](https://www.livelaw.in/top-stories/from-litigants-asking-file-kahan-hai-to-link-bhej-dijiye-cji-surya-kant-on-digital-transformation-of-judiciary-534484) |
 | Sat, 16 May 2026 15:00:48 GMT | **Verdictum** | Legal Research Consultants Vacancy At National Human Rights Commission (NHRC) | [Read More](https://www.verdictum.in/job-updates/national-human-rights-commission-1614118) |
 | Sat, 16 May 2026 14:34:58 GMT | **LiveLaw** | Patna HC Flags 'Human Rights Violation' In Keeping Recovered Mental Health Patients In Hospitals Due To Lack Of Half-Way Homes | [Read More](https://www.livelaw.in/high-court/patna-high-court/patna-high-court-flags-human-rights-violation-recovered-mental-health-patients-hospitals-534483) |
 | Sat, 16 May 2026 14:25:39 GMT | **LiveLaw** | Lawyers Must Also Bring To Court's Notice Judgments Which Do Not Support Their Case : Supreme Court | [Read More](https://www.livelaw.in/top-stories/lawyers-must-also-bring-to-courts-notice-judgments-which-do-not-support-their-case-supreme-court-534469) |
