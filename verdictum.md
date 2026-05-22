@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Fri, 22 May 2026 03:30:39 GMT | **LiveLaw** | Bombay High Court Grants Parole To POCSO Convict To Construct New House After Old One Demolished For Navi Mumbai Airport Project | [Read More](https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-grants-parole-to-pocso-convict-to-construct-new-house-after-old-one-demolished-for-navi-mumbai-airport-project-535217) |
+| Fri, 22 May 2026 02:30:32 GMT | **LiveLaw** | Rajasthan High Court Takes Suo Motu Cognisance Of Acute Water Crisis In Jodhpur; Issues Interim Directions | [Read More](https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-suo-motu-cognizance-jodhpur-water-crisis-pollution-encroachment-traditional-water-bodies-535216) |
+| Fri, 22 May 2026 02:08:27 GMT | **LiveLaw** | Bhojshala-Kamal Maula Dispute : Muslim Party Approaches Supreme Court Against MP HC Order Declaring Disputed Site Temple | [Read More](https://www.livelaw.in/top-stories/bhojshala-kamal-maula-dispute-muslim-party-approaches-supreme-court-against-mp-hc-order-declaring-disputed-site-temple-535222) |
 | Thu, 21 May 2026 17:17:37 GMT | **LiveLaw** | Supreme Court Daily Round-Up : May 21, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-may-21-2026-535205) |
 | Thu, 21 May 2026 17:16:54 GMT | **LiveLaw** | Constitution Belongs Equally To All Citizens, Not A Privileged Few: CJI Surya Kant | [Read More](https://www.livelaw.in/top-stories/constitution-belongs-equally-to-all-citizens-not-a-privileged-few-cji-surya-kant-535210) |
 | Thu, 21 May 2026 16:57:57 GMT | **LiveLaw** | Advocate Devvrat Elected As SCAORA President; Nikhil Jain Vice President | [Read More](https://www.livelaw.in/top-stories/advocate-devvrat-elected-as-scaora-president-nikhil-jain-vice-president-535207) |
