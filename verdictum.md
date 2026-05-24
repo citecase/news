@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 23 May 2026 16:27:42 GMT | **LiveLaw** | SC Collegium Recommends Appointment Of Sikkim HC Judge Meenakshi Rai As Patna HC Chief Justice | [Read More](https://www.livelaw.in/high-court/patna-high-court/sc-collegium-recommends-appointment-of-sikkim-hc-judge-meenakshi-rai-as-patna-hc-chief-justice-535469) |
 | Sat, 23 May 2026 16:25:35 GMT | **LiveLaw** | BREAKING - Supreme Court Takes Suo Motu Cognisance Over Twisha Sharma Dowry Death Case | [Read More](https://www.livelaw.in/top-stories/supreme-court-takes-suo-motu-cognisance-over-twisha-sharma-dowry-death-case-535468) |
 | Sat, 23 May 2026 15:54:11 GMT | **LiveLaw** | High Court Of Jammu & Kashmir And Ladakh Designates 15 Lawyers As Senior Advocates | [Read More](https://www.livelaw.in/high-court/jammu-kashmir/jk-high-court-designates-15-advocates-as-senior-advocates-535466) |
 | Sat, 23 May 2026 15:16:58 GMT | **LiveLaw** | Law Doesn't Require Registration Of Will; Non-Registration No Ground To Doubt Will's Genuineness: Supreme Court | [Read More](https://www.livelaw.in/top-stories/law-doesnt-require-registration-of-will-non-registration-no-ground-to-doubt-wills-genuineness-supreme-court-535358) |
