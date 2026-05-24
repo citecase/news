@@ -2,6 +2,10 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 24 May 2026 04:55:44 GMT | **LiveLaw** | J&K&L High Court Quashes Preventive Detention Order Against Teen, Says JJ Act Excludes Preventive Detention Mechanisms Meant For Adults | [Read More](https://www.livelaw.in/high-court/jammu-kashmir/jammu-and-kashmir-high-court-psa-order-against-teen-quashed-court-says-juvenile-justice-framework-excludes-preventive-detention-mechanisms-meant-for-adults-535470) |
+| Sun, 24 May 2026 04:30:46 GMT | **Verdictum** | Mother Can’t Be Asked To Undergo DNA Test To Prove Maternity To Donate Kidney To Son: Madras High Court | [Read More](https://www.verdictum.in/madras-high-court/rita-chaurasiya-v-the-state-of-tamil-nadu-mother-dna-test-maternity-kidney-son-1614553) |
+| Sun, 24 May 2026 04:30:11 GMT | **LiveLaw** | Interim Profits In CIRP: EBITDA Allocation Dilemma | [Read More](https://www.livelaw.in/articles/interim-profits-cirp-ebitda-allocation-dilemma-535450) |
+| Sun, 24 May 2026 03:50:37 GMT | **LiveLaw** | NGO Moves Supreme Court Against 'Indiscriminate Culling Of Stray Dogs', Says SC Direction Being Misunderstood | [Read More](https://www.livelaw.in/top-stories/ngo-moves-supreme-court-against-indiscriminate-culling-of-stray-dogs-says-sc-direction-being-misunderstood-535477) |
 | Sat, 23 May 2026 16:27:42 GMT | **LiveLaw** | SC Collegium Recommends Appointment Of Sikkim HC Judge Meenakshi Rai As Patna HC Chief Justice | [Read More](https://www.livelaw.in/high-court/patna-high-court/sc-collegium-recommends-appointment-of-sikkim-hc-judge-meenakshi-rai-as-patna-hc-chief-justice-535469) |
 | Sat, 23 May 2026 16:25:35 GMT | **LiveLaw** | BREAKING - Supreme Court Takes Suo Motu Cognisance Over Twisha Sharma Dowry Death Case | [Read More](https://www.livelaw.in/top-stories/supreme-court-takes-suo-motu-cognisance-over-twisha-sharma-dowry-death-case-535468) |
 | Sat, 23 May 2026 15:54:11 GMT | **LiveLaw** | High Court Of Jammu & Kashmir And Ladakh Designates 15 Lawyers As Senior Advocates | [Read More](https://www.livelaw.in/high-court/jammu-kashmir/jk-high-court-designates-15-advocates-as-senior-advocates-535466) |
