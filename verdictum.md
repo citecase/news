@@ -2,6 +2,11 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 31 May 2026 15:00:51 GMT | **Verdictum** | Assistant (Enforcement and Legal) Vacancy At WDRA | [Read More](https://www.verdictum.in/job-updates/warehousing-development-and-regulatory-authority-1614997) |
+| Sun, 31 May 2026 14:31:03 GMT | **LiveLaw** | Why Attendance In Law Schools Reflects A Civilisational Crisis And Demands Structural Intervention | [Read More](https://www.livelaw.in/articles/attendance-law-schools-civilisational-crisis-structural-intervention-536245) |
+| Sun, 31 May 2026 14:22:42 GMT | **CaseCiter** | Prajwala v. Union of India 2026 INSC 609 Immoral Traffic (Prevention) Act  - Rehabilitation Of Victims Of Trafficking - Commercial Sexual Exploitation | [Read More](https://www.caseciter.com/2026insc609/) |
+| Sat, 30 May 2026 07:54:18 GMT | **CaseCiter** | Pila Pahan @ Peela Pahan vs
+State of Jharkhand 2026 INSC 604 - Delay In Judgment Pronouncement -Guidelines | [Read More](https://www.caseciter.com/2026insc604/) |
 | Sun, 31 May 2026 13:10:48 GMT | **LiveLaw** | Important MCQs Based On Latest Supreme Court Judgments For Law Examination | [Read More](https://www.livelaw.in/law-exams/important-mcqs-based-on-latest-supreme-court-judgments-for-law-examination-536344) |
 | Sun, 31 May 2026 12:30:13 GMT | **Verdictum** | Madras High Court Censures IPS Officer; Quashes Detention Order Passed By Him Against Builder | [Read More](https://www.verdictum.in/madras-high-court/varsha-sharma-v-the-additional-chief-secretary-censures-ips-officer-a-arun-1615038) |
 | Sun, 31 May 2026 10:30:40 GMT | **Verdictum** | Magistrate Doesn’t Possess Powers To Modify Bail Conditions Once Granted; Power U/S.439(1)(b) CrPC Expressly Vested In High Court Or Court Of Session: Delhi High Court | [Read More](https://www.verdictum.in/delhi-high-court/shabir-momin-v-state-nct-of-delhi-2026dhc4866-magistrate-modify-bail-conditions-1615037) |
