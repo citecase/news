@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 31 May 2026 10:30:40 GMT | **Verdictum** | Magistrate Doesn’t Possess Powers To Modify Bail Conditions Once Granted; Power U/S.439(1)(b) CrPC Expressly Vested In High Court Or Court Of Session: Delhi High Court | [Read More](https://www.verdictum.in/delhi-high-court/shabir-momin-v-state-nct-of-delhi-2026dhc4866-magistrate-modify-bail-conditions-1615037) |
+| Sat, 30 May 2026 07:54:18 GMT | **CaseCiter** | Pila Pahan @ Peela Pahan vs
+State of Jharkhand 2026 INSC 604 - Delay In Judgment Pronouncement -Guidelines | [Read More](https://www.caseciter.com/2026insc604/) |
 | Sun, 31 May 2026 09:31:11 GMT | **LiveLaw** | Power Always Must Be Accompanied With Grace | [Read More](https://www.livelaw.in/articles/power-accompanied-grace-536244) |
 | Sun, 31 May 2026 09:29:23 GMT | **LiveLaw** | Manager (Tax) Vacancy At KPMG India [Gurgaon; Apply Now] | [Read More](https://www.livelaw.in/job-updates/manager-tax-vacancy-at-kpmg-india-gurgaon-536343) |
 | Sun, 31 May 2026 09:27:53 GMT | **LiveLaw** | Deputy General Manager (Legal Litigation) Vacancy At One97 Communications Limited | [Read More](https://www.livelaw.in/job-updates/deputy-general-manager-legal-litigation-vacancy-at-one97-communications-limited-536342) |
