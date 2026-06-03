@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Wed, 03 Jun 2026 09:52:13 +0530 | **Bar & Bench** | Supreme Court orders Telangana's ‘Princeton’ colleges to disclaim links with US varsity | [Read More](https://www.barandbench.com/news/supreme-court-orders-telanganas-princeton-colleges-to-disclaim-links-with-us-varsity) |
 | Wed, 03 Jun 2026 18:37:41 GMT | **LiveLaw** | Supreme Court Publishes Draft Regulations On AI Use In Judiciary, Invites Feedback | [Read More](https://www.livelaw.in/top-stories/supreme-court-publishes-draft-regulations-on-ai-use-in-judiciary-invites-feedback-536746) |
 | Wed, 03 Jun 2026 18:18:13 GMT | **LiveLaw** | Supreme Court Daily Round-Up : June 3, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-june-3-2026-536739) |
 | Wed, 03 Jun 2026 17:31:46 GMT | **LiveLaw** | 'Claimant Inactive For Years': Rajasthan High Court Upholds Order Restricting Grant Of Interest From Date When Formal Demand Is Raised | [Read More](https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-restricts-interest-date-demand-notice-536652) |
