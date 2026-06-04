@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Wed, 03 Jun 2026 18:28:51 +0530 | **Bar & Bench** | Indian arbitration story positive, but the excessive workload of the court system remains a bottleneck: Senior Advocate Gaurav Pachnanda | [Read More](https://www.barandbench.com/news/indian-arbitration-story-positive-but-court-system-remains-bottleneck-senior-advocate-gaurav-pachnanda) |
 | Wed, 03 Jun 2026 09:52:13 +0530 | **Bar & Bench** | Supreme Court orders Telangana's ‘Princeton’ colleges to disclaim links with US varsity | [Read More](https://www.barandbench.com/news/supreme-court-orders-telanganas-princeton-colleges-to-disclaim-links-with-us-varsity) |
 | Wed, 03 Jun 2026 18:37:41 GMT | **LiveLaw** | Supreme Court Publishes Draft Regulations On AI Use In Judiciary, Invites Feedback | [Read More](https://www.livelaw.in/top-stories/supreme-court-publishes-draft-regulations-on-ai-use-in-judiciary-invites-feedback-536746) |
 | Wed, 03 Jun 2026 18:18:13 GMT | **LiveLaw** | Supreme Court Daily Round-Up : June 3, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-june-3-2026-536739) |
