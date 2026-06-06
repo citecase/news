@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 07 Jun 2026 04:32:48 +0530 | **Bar & Bench** | Young lawyers have been the driving force behind judiciary’s tech reforms: CJI Surya Kant at Oxford Union | [Read More](https://www.barandbench.com/news/young-lawyers-have-been-the-driving-force-behind-judiciarys-tech-reforms-cji-surya-kant-at-oxford-union) |
+| Sun, 07 Jun 2026 04:31:22 +0530 | **Bar & Bench** | Chief Justice of India being the ‘Master of the Roster’ is misunderstood: CJI Surya Kant | [Read More](https://www.barandbench.com/news/chief-justice-of-india-being-the-master-of-the-roster-is-misunderstood-cji-surya-kant) |
 | Sat, 06 Jun 2026 17:22:15 GMT | **LiveLaw** | NALSA, Himachal Pradesh SLSA Organise Mega Legal Literacy Camp On Constitutional Values And Legal Awareness In Dharamshala | [Read More](https://www.livelaw.in/news-updates/nalsa-himachal-pradesh-slsa-organise-mega-legal-literacy-camp-on-constitutional-values-and-legal-awareness-in-dharamshala-537081) |
 | Sat, 06 Jun 2026 16:31:50 GMT | **LiveLaw** | In A First, Five Women Lawyers Elected To Bar Council Of Maharashtra & Goa | [Read More](https://www.livelaw.in/news-updates/bar-council-of-maharashtra-goa-five-women-lawyers-elected-supreme-court-reservation-537075) |
 | Sat, 06 Jun 2026 16:03:40 GMT | **LiveLaw** | Creditors Can Recover Deposits From Co-operative Societies By Invoking Consumer Protection Act: Kerala High Court | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-cooperative-societies-creditors-consumer-protection-act-537018) |
