@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 06 Jun 2026 17:22:15 GMT | **LiveLaw** | NALSA, Himachal Pradesh SLSA Organise Mega Legal Literacy Camp On Constitutional Values And Legal Awareness In Dharamshala | [Read More](https://www.livelaw.in/news-updates/nalsa-himachal-pradesh-slsa-organise-mega-legal-literacy-camp-on-constitutional-values-and-legal-awareness-in-dharamshala-537081) |
+| Sat, 06 Jun 2026 16:31:50 GMT | **LiveLaw** | In A First, Five Women Lawyers Elected To Bar Council Of Maharashtra & Goa | [Read More](https://www.livelaw.in/news-updates/bar-council-of-maharashtra-goa-five-women-lawyers-elected-supreme-court-reservation-537075) |
 | Sat, 06 Jun 2026 16:03:40 GMT | **LiveLaw** | Creditors Can Recover Deposits From Co-operative Societies By Invoking Consumer Protection Act: Kerala High Court | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-cooperative-societies-creditors-consumer-protection-act-537018) |
 | Sat, 06 Jun 2026 16:01:04 GMT | **LiveLaw** | 'Used & Discarded Her As Though She Were A Mere Commodity': J&K&L High Court Upholds Abetment To Suicide Charge Against Boyfriend | [Read More](https://www.livelaw.in/high-court/jammu-kashmir/used-and-discarded-deceased-like-a-mere-commodity-jk-high-court-upholds-abetment-charges-against-boyfriend-quashes-against-grandfather-for-lack-of-specific-role-537066) |
 | Sat, 06 Jun 2026 15:46:27 GMT | **LiveLaw** | Why Allahabad HC Said Supreme Court Rulings In 'Vihaan Kumar' & Others Opened 'Floodgates', Led To 'Chaotic Situation' | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-supreme-court-vihaan-kumar-mihir-rajesh-shah-floodgates-chaotic-situation-not-binding-537071) |
