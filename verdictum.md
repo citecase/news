@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 07 Jun 2026 22:36:42 +0530 | **Bar & Bench** | Anjana Om Kashyap files ₹2 crore defamation case in Delhi High Court against Khan Sir, 4PM News | [Read More](https://www.barandbench.com/news/anjana-om-kashyap-files-2-crore-defamation-case-in-delhi-high-court-against-khan-sir-4pm-news) |
 | Sun, 07 Jun 2026 14:52:47 GMT | **LiveLaw** | Incited Mob In Prophet Mohammad's Name: Allahabad HC Denies Bail To Bareilly Violence 'Main Conspirator' | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-denies-bail-bareilly-violence-main-conspirator-tauqeer-raja-khan-537092) |
 | Sun, 07 Jun 2026 14:30:52 GMT | **Verdictum** | Law Officer Vacancy At District and Subordinate Court Tiruvallur | [Read More](https://www.verdictum.in/job-updates/district-and-subordinate-court-tiruvallur-1615443) |
 | Sun, 07 Jun 2026 12:30:45 GMT | **Verdictum** | “Can’t Be Treated Arbitrary Merely Because Of Demanding Work Schedules”: Madhya Pradesh High Court Rejects Challenge To TB Screening Policy | [Read More](https://www.verdictum.in/madhya-pradesh-high-court/pragatisheel-radiographers-sangh-madhya-pradesh-v-union-of-india-ors-2026mphc-ind15164-1615478) |
