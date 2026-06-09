@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Tue, 09 Jun 2026 04:22:16 +0530 | **Bar & Bench** | JSA advises consortium of lenders on ₹1,500 crore financing availed by Tega Industries for acquisition of Molycop | [Read More](https://www.barandbench.com/dealstreet/jsa-advises-consortium-of-lenders-on-1500-crore-financing-availed-by-tega-industries-for-acquisition-of-molycop) |
 | Mon, 08 Jun 2026 16:21:01 GMT | **LiveLaw** | 'No One Has Right To Obstruct Public-Way: AP High Court Directs Adoni Municipality To Remove Encroachments From Layout Road In 5 Weeks | [Read More](https://www.livelaw.in/high-court/andhra-pradesh-high-court/andhra-pradesh-high-court-adoni-municipality-remove-encroachments-537222) |
 | Mon, 08 Jun 2026 16:00:53 GMT | **Verdictum** | Research Associate Vacancy At Insolvency and Bankruptcy Board of India (IBBI) | [Read More](https://www.verdictum.in/job-updates/insolvency-and-bankruptcy-board-of-india-1615544) |
 | Mon, 08 Jun 2026 15:55:10 GMT | **LiveLaw** | Rajasthan High Court Weekly Round-Up: June 1 - June 7, 2026 | [Read More](https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-weekly-roundup2026-537220) |
