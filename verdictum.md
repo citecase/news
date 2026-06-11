@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Thu, 11 Jun 2026 03:26:29 GMT | **LiveLaw** | BREAKING- Congress Member Meenakshi Natarajan Moves Supreme Court Against Rejection Of Rajya Sabha Candidature | [Read More](https://www.livelaw.in/top-stories/congress-member-meenakshi-natarajan-moves-supreme-court-against-rejection-of-rajya-sabha-candidature-537464) |
 | Wed, 10 Jun 2026 17:19:14 GMT | **LiveLaw** | Candidate Deprived Of Public Employment Over Lodging Of FIR Despite Negative Final Report Violates Article 14: Rajasthan High Court | [Read More](https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-citizen-career-false-complaints-violates-article14-537346) |
 | Wed, 10 Jun 2026 17:15:01 GMT | **LiveLaw** | Free Education For Children Of Rape Survivors, Police Sensitization: Jharkhand High Court Issues Directions On Handling Sexual Offence Cases | [Read More](https://www.livelaw.in/high-court/jharkhand-high-court/jharkhand-high-court-issues-directions-for-handling-sexual-assault-cases-537447) |
 | Wed, 10 Jun 2026 16:00:57 GMT | **Verdictum** | Law Officer Vacancy At Coimbatore District Court | [Read More](https://www.verdictum.in/job-updates/coimbatore-district-court-1615677) |
