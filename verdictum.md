@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 14 Jun 2026 15:00:07 GMT | **Verdictum** | Perambalur District Recruitment 2026 Invites Applications For The Post Of Law Officers | [Read More](https://www.verdictum.in/job-updates/perambalur-district-recruitment-1615873) |
 | Sun, 14 Jun 2026 14:30:50 GMT | **LiveLaw** | Prajwala's Consent Is Sovereign Until Someone Doubts It | [Read More](https://www.livelaw.in/lawschool/articles/prajwala-consent-sovereign-537714) |
 | Sun, 14 Jun 2026 14:08:00 GMT | **LiveLaw** | Himachal Pradesh High Court Takes Note Of News Report On 'Rave Party' In Kasol, Orders Spot Inspection | [Read More](https://www.livelaw.in/high-court/himachal-pradesh-high-court/himachal-pradesh-high-court-media-report-kasol-rave-party-spot-inspection-report-537780) |
 | Sun, 14 Jun 2026 13:30:12 GMT | **Verdictum** | Punishment Of Pension Reduction Disproportionate When Incident Is Alleged Against Employee Just Before Retirement: Kerala High Court Relief To Retired Post Master | [Read More](https://www.verdictum.in/kerala-high-court/ek-narayanan-v-union-of-india-2026ker37705-punishment-pension-1615905) |
