@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 06 Jul 2024 16:11:26 +0530 | **Bar & Bench** | Beyond the verdict:  The long-term impact of DMRC vs. DAMEPL on Indian Arbitration | [Read More](https://www.barandbench.com/view-point/beyond-the-verdict-long-term-impact-of-dmrc-vs-damepl-indian-arbitration) |
 | Thu, 18 Jun 2026 19:13:32 GMT | **LiveLaw** | Membership Of Bar Associations Voluntary, Can't Restrict Lawyer From Practicing: Telangana High Court Reads Down BCI Rule | [Read More](https://www.livelaw.in/high-court/telangana-high-court/telangana-high-court-bar-associations-exercise-regulatory-control-advocate-right-to-practice-538287) |
 | Thu, 18 Jun 2026 15:40:39 GMT | **Verdictum** | Law Officer Vacancy At Collector's Office, Chengalpattu | [Read More](https://www.verdictum.in/job-updates/collectors-office-1616176) |
 | Thu, 18 Jun 2026 15:30:40 GMT | **LiveLaw** | Compensatory Afforestation Must Be In Same Or Nearby Locality; Trees Planted Elsewhere Can't Compensate Residents: Bombay High Court | [Read More](https://www.livelaw.in/high-court/bombay-high-court/tree-felling-compensatory-afforestation-in-same-nearby-locality-538290) |
