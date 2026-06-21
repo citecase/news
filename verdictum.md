@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 20 Jun 2026 04:16:12 GMT | **LiveLaw** | Call For Papers - Solventia – Journal Of Insolvency & Bankruptcy Laws
+[Vol. Iii, Issue 2] | [Read More](https://www.livelaw.in/lawschool/call-for-papers/call-for-papers-solventia-journal-of-insolvency-bankruptcy-lawsvol-iii-issue-2-538435) |
 | Sun, 21 Jun 2026 15:00:06 GMT | **Verdictum** | Law Officer Vacancy At District Collector Krishnagiri | [Read More](https://www.verdictum.in/job-updates/district-collector-krishnagiri-1616313) |
 | Sun, 21 Jun 2026 13:30:24 GMT | **Verdictum** | Maintenance Of Minimum Average Balance Not "Consideration": Karnataka High Court Quashes Service Tax Show Cause Notices Against Banks | [Read More](https://www.verdictum.in/karnataka-high-court/canara-bank-v-union-of-india-ors-connected-with-bank-of-baroda-v-union-of-india-ors-and-connected-matters-neutral-citation-2026khc25416-1616324) |
 | Sun, 21 Jun 2026 13:16:46 GMT | **LiveLaw** | Tushar Mehta Reappointed As Solicitor General For Three More Years; Centre Extends Tenure Of ASGs | [Read More](https://www.livelaw.in/top-stories/tushar-mehta-reappointed-as-solicitor-general-for-three-more-years-centre-extends-tenure-of-asgs-538513) |
