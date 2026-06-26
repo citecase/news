@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Fri, 26 Jun 2026 02:31:02 GMT | **LiveLaw** | Conversion To Islam Doesn't Entitle Person To BC (Muslim) Reservation: Madras High Court Declares GO Unconstitutional | [Read More](https://www.livelaw.in/high-court/madras-high-court/madras-high-court-go-reservation-converted-muslims-unconstitutional-539000) |
 | Thu, 25 Jun 2026 16:59:25 GMT | **LiveLaw** | MP High Court Closes Defamation Case Against Rahul Gandhi After He Expresses Regret | [Read More](https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-kartikey-singh-rahul-gandhi-defamation-538997) |
 | Thu, 25 Jun 2026 15:44:08 GMT | **LiveLaw** | Bombay High Court Restores Producer's Appeal Against Actor Sunny Deol In Decade-Old Arbitration Dispute, Imposes ₹15K Costs | [Read More](https://www.livelaw.in/high-court/bombay-high-court/sunny-deol-arbitration-good-morning-india-film-producer-suneel-darshan-appeal-restored-538996) |
 | Thu, 25 Jun 2026 15:30:47 GMT | **Verdictum** | National Financial Reporting Authority (NFRA) Invites Applications For Post Of Young Professional (Legal) | [Read More](https://www.verdictum.in/job-updates/national-financial-reporting-authority-1616603) |
