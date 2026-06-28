@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 28 Jun 2026 15:00:25 GMT | **Verdictum** | State Bank of India Invites Applications For The Post Of Assistant & Deputy Manager (Law) | [Read More](https://www.verdictum.in/job-updates/state-bank-of-india-1616744) |
+| Sun, 28 Jun 2026 14:30:25 GMT | **LiveLaw** | AI In Courtroom And Classroom: Beyond Hype | [Read More](https://www.livelaw.in/articles/ai-courtroom-classroom-beyond-hype-539131) |
+| Sun, 28 Jun 2026 13:30:53 GMT | **Verdictum** | GIS Mapping Valid Aid To Identify Encroachment: Gauhati High Court Upholds Eviction Of Taungya Settlers From Assam’s Reserved Forest Areas | [Read More](https://www.verdictum.in/guwahati-high-court/abdul-khalek-v-the-state-of-assam-gahc010129002026-taungya-settlers-eviction-1616779) |
 | Sun, 28 Jun 2026 12:00:01 GMT | **Verdictum** | Maintenance Can Be Granted Only When Wife Cannot Maintain Herself to Husband's Standard: Karnataka High Court | [Read More](https://www.verdictum.in/karnataka-high-court/r-v-s-2026khc30140-courts-cannot-award-maintenance-because-wife-files-petition-1616773) |
 | Sun, 28 Jun 2026 10:30:17 GMT | **Verdictum** | Remission Philosophy Is Reformative, Not Retributive: Chhattisgarh HC Quashes State's Rejection Of Life Convict's Plea For Premature Release | [Read More](https://www.verdictum.in/chhattisgarh-high-court/2026-cghc-26180-db-manish-kumar-ratre-v-state-of-chhattisgarh-1616746) |
 | Sun, 28 Jun 2026 09:35:54 GMT | **LiveLaw** | Parents Supporting Wife During Distress Doesn't Absolve Husband Of Legal Obligation To Maintain Her: Allahabad High Court | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-wife-maintenance-125-crpc-parents-support-distress-539153) |
