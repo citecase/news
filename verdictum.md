@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 28 Jun 2026 12:00:01 GMT | **Verdictum** | Maintenance Can Be Granted Only When Wife Cannot Maintain Herself to Husband's Standard: Karnataka High Court | [Read More](https://www.verdictum.in/karnataka-high-court/r-v-s-2026khc30140-courts-cannot-award-maintenance-because-wife-files-petition-1616773) |
 | Sun, 28 Jun 2026 10:30:17 GMT | **Verdictum** | Remission Philosophy Is Reformative, Not Retributive: Chhattisgarh HC Quashes State's Rejection Of Life Convict's Plea For Premature Release | [Read More](https://www.verdictum.in/chhattisgarh-high-court/2026-cghc-26180-db-manish-kumar-ratre-v-state-of-chhattisgarh-1616746) |
 | Sun, 28 Jun 2026 09:35:54 GMT | **LiveLaw** | Parents Supporting Wife During Distress Doesn't Absolve Husband Of Legal Obligation To Maintain Her: Allahabad High Court | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-wife-maintenance-125-crpc-parents-support-distress-539153) |
 | Sun, 28 Jun 2026 09:31:20 GMT | **LiveLaw** | Zombie Trademarks In Metaverse | [Read More](https://www.livelaw.in/lawschool/articles/zombie-trademarks-metaverse-539130) |
