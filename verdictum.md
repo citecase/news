@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Fri, 03 Jul 2026 18:02:45 GMT | **LiveLaw** | CISF Personnel Held To High Standards Of Conduct; Public Drinking, Violent Altercation Warrant Dismissal: Delhi High Court | [Read More](https://www.livelaw.in/high-court/delhi-high-court/cisf-personnel-held-to-high-standards-of-conduct-public-drinking-violent-altercation-warrant-dismissal-delhi-high-court-539885) |
 | Fri, 03 Jul 2026 15:50:56 GMT | **Verdictum** | Para Legal Personnel (Women) Vacancy At DWCWEO West Godavari | [Read More](https://www.verdictum.in/job-updates/district-women-child-welfare-empowerment-office-1617071) |
 | Fri, 03 Jul 2026 15:43:43 GMT | **LiveLaw** | Delhi High Court Asks Centre To Expeditiously Decide Plea Seeking Removal Of Dhruv Rathee's YouTube Video On Hindu Deities | [Read More](https://www.livelaw.in/high-court/delhi-high-court/dhruv-rathee-beef-video-removal-hindu-deities-governments-grievance-appellate-committee-539782) |
 | Fri, 03 Jul 2026 15:36:57 GMT | **LiveLaw** | Ram Mandir Donation Theft : RJD MP Moves Supreme Court Seeking Audit Of Ayodhya Trust Finances, CBI Probe | [Read More](https://www.livelaw.in/top-stories/ram-mandir-donation-theft-rjd-mp-moves-supreme-court-seeking-audit-of-ayodhya-trust-finances-cbi-probe-539882) |
