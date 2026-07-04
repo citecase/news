@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 04 Jul 2026 18:28:16 GMT | **LiveLaw** | Parul University's Law Conclave 2026 Brings Supreme Court, High Court Judges And Legal Experts Together To Discuss Justice In Digital Age | [Read More](https://www.livelaw.in/lawschool/news/parul-universitys-law-conclave-brings-supreme-court-high-court-judges-justice-digital-age-539963) |
+| Sat, 04 Jul 2026 18:15:51 GMT | **LiveLaw** | DNLU Jabalpur To Host National Conference On Tribal Custom, Law, Rights And Reforms | [Read More](https://www.livelaw.in/lawschool/call-for-papers/dnlu-jabalpur-to-host-national-conference-on-tribal-custom-law-rights-and-reforms-539962) |
 | Sat, 04 Jul 2026 16:26:43 GMT | **LiveLaw** | Court Denies Bail To Umar Khalid, Sharjeel Imam In Delhi Riots Larger Conspiracy Case | [Read More](https://www.livelaw.in/top-stories/umar-khalid-sharjeel-imam-bail-denied-delhi-riots-uapa-539937) |
 | Sat, 04 Jul 2026 16:15:27 GMT | **LiveLaw** | To Say Passport Is Only A Travel Document Is Complete Misreading Of Law: Justice Lokur Criticises MEA Stand | [Read More](https://www.livelaw.in/top-stories/to-say-passport-is-only-a-travel-document-is-complete-misreading-of-law-justice-lokur-criticises-mea-stand-539961) |
 | Sat, 04 Jul 2026 16:13:19 GMT | **LiveLaw** | Taj Mahal Is 'Tejo Mahalaya' Temple: Plea In High Court Against Agra Court's Refusal To Appoint Advocate-Commissioner For Survey | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/taj-mahal-tejo-mahalaya-temple-allahabad-high-court-advocate-commissioner-survey-539920) |
