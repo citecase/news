@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 05 Jul 2026 15:24:49 GMT | **LiveLaw** | Supreme Court's Judgment Expanding UAPA To Make Speech 'Terrorist Act' Puts Political Dissent At Risk : Rebecca John | [Read More](https://www.livelaw.in/top-stories/supreme-courts-judgment-expanding-uapa-to-make-speech-terrorist-act-puts-political-dissent-at-risk-rebecca-john-539984) |
+| Sun, 05 Jul 2026 15:00:00 GMT | **Verdictum** | Delhi Higher Judicial Service (HJS) Vacancy At Delhi High Court | [Read More](https://www.verdictum.in/job-updates/delhi-high-court-1617128) |
+| Sun, 05 Jul 2026 14:30:21 GMT | **LiveLaw** | From US–EU Divergence To Global Approach In AI Governance | [Read More](https://www.livelaw.in/articles/us-eu-divergence-global-approach-ai-governance-539847) |
 | Sun, 05 Jul 2026 13:30:22 GMT | **Verdictum** | Divorce Can’t Take Place Merely On Execution Of Notarized Agreement Of Divorce: Madhya Pradesh High Court | [Read More](https://www.verdictum.in/madhya-pradesh-high-court/ram-kripal-singh-v-the-state-of-madhya-pradesh-2026mphc-gwl19161-divorce-deceased-govt-employee-1617138) |
 | Sun, 05 Jul 2026 12:00:37 GMT | **Verdictum** | Claims Under Personal Accident Cover Not Maintainable Before MACT, Must Be Decided As Per Insurance Contract: Delhi High Court | [Read More](https://www.verdictum.in/delhi-high-court/simbal-singh-v-amarjit-singh-anr-2026dhc5185-personal-insurance-claims-mact-1617137) |
 | Sun, 05 Jul 2026 11:31:00 GMT | **LiveLaw** | LiveLaw Madhya Pradesh High Court Monthly Digest: June 2026 | [Read More](https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-monthly-digest-june-2026-539535) |
