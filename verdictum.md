@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Thu, 09 Jul 2026 20:31:47 +0530 | **Bar & Bench** | Telangana High Court grants bail to Union minister Bandi Sanjay Kumar’s son in POCSO case | [Read More](https://www.barandbench.com/news/telangana-high-court-grants-bail-to-union-ministers-son-in-pocso-case) |
 | Thu, 09 Jul 2026 16:54:44 GMT | **LiveLaw** | Delhi High Court Clears Proposal To Designate 85 Lawyers As Senior Advocates, 11 Women Among Those [Read Names] | [Read More](https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-clears-proposal-to-designate-85-lawyers-as-senior-advocates-11-women-among-those-read-names-540621) |
 | Thu, 09 Jul 2026 16:38:42 GMT | **LiveLaw** | 'Exposing Minors To Sexual Grooming': Allahabad High Court Issues Notices On PIL Seeking Ban On 'Roblox', Other Gaming Platforms | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-issues-notice-pil-seeking-ban-roblox-gaming-platform-minors-540620) |
 | Thu, 09 Jul 2026 16:00:00 GMT | **Verdictum** | Consultant Vacancy At Adjudicatory Board for Major Ports (ABMP) | [Read More](https://www.verdictum.in/job-updates/adjudicatory-board-for-major-ports-1617444) |
