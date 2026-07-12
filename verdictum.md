@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 12 Jul 2026 11:30:09 GMT | **Verdictum** | NHM Contractual Dental Surgeons Are "In the Service of Government"; Eligible for Age Relaxation Under MPSC Recruitment Rules: Bombay High Court | [Read More](https://www.verdictum.in/bombay-high-court/maharashtra-public-service-commission-v-dr-jagdish-anandrao-bhalerao-wp-1208-2025-contractual-dental-surgeons-mpsc-recruitment-rules-1617568) |
 | Sun, 12 Jul 2026 09:30:34 GMT | **Verdictum** | Recording Calls Without Consent Of Spouse Constitutes Breach Of Right To Privacy Guaranteed Under Article 21: Telangana High Court | [Read More](https://www.verdictum.in/telangana-high-court/recording-calls-without-consent-spouse-breach-privacy-article-21-1617565) |
 | Sun, 12 Jul 2026 09:30:20 GMT | **LiveLaw** | Regulating App Based Taxi Services | [Read More](https://www.livelaw.in/articles/regulating-app-taxi-services-540745) |
 | Sun, 12 Jul 2026 08:31:05 GMT | **LiveLaw** | Lawyer Gautam Bhatia Wins CS' Ran Hirschl Prize For Best Article In Constitutional Studies | [Read More](https://www.livelaw.in/news-updates/lawyer-gautam-bhatia-wins-cs-ran-hirschl-prize-for-best-article-in-constitutional-studies-540857) |
