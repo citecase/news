@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 12 Jul 2026 15:10:39 GMT | **LiveLaw** | 'Plea Of Alibi' Must Be Proved In Trial, IO Cannot Unilaterally Accept It To Be True To File Final Report: Allahabad High Court | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-plea-of-alibi-proved-trial-io-cant-unilaterally-accept-final-report-540869) |
+| Sun, 12 Jul 2026 15:10:32 GMT | **LiveLaw** | Calcutta High Court Quashes Termination Of Road Contract, Says State Decided To Foreclose Project After Admitting Flood Damage | [Read More](https://www.livelaw.in/high-court/calcutta-high-court/calcutta-high-court-quashes-termination-of-road-contract-says-state-decided-to-foreclose-project-after-admitting-flood-damage-540865) |
 | Sun, 12 Jul 2026 14:30:57 GMT | **LiveLaw** | Examining OCD Under Labour Law | [Read More](https://www.livelaw.in/articles/examining-ocd-labour-law-540746) |
 | Sun, 12 Jul 2026 13:55:52 GMT | **LiveLaw** | Multiple Sclerosis Qualifies As 'Specified Disability' Under RPWD Act, Delhi High Court Upholds PwD Reservation In SSC Recruitment | [Read More](https://www.livelaw.in/high-court/delhi-high-court/multiple-sclerosis-qualifies-as-specified-disability-under-rpwd-act-delhi-high-court-upholds-pwd-reservation-in-ssc-recruitment-540862) |
 | Sun, 12 Jul 2026 13:55:52 GMT | **LiveLaw** | Calcutta High Court Quashes Case Against Former Mead Johnson MD Over Alleged Insect Found In Baby Food | [Read More](https://www.livelaw.in/high-court/calcutta-high-court/calcutta-high-court-quashes-case-against-former-mead-johnson-md-over-alleged-insect-found-in-baby-food-540866) |
