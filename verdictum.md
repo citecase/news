@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 12 Jul 2026 09:30:34 GMT | **Verdictum** | Recording Calls Without Consent Of Spouse Constitutes Breach Of Right To Privacy Guaranteed Under Article 21: Telangana High Court | [Read More](https://www.verdictum.in/telangana-high-court/recording-calls-without-consent-spouse-breach-privacy-article-21-1617565) |
+| Sun, 12 Jul 2026 09:30:20 GMT | **LiveLaw** | Regulating App Based Taxi Services | [Read More](https://www.livelaw.in/articles/regulating-app-taxi-services-540745) |
 | Sun, 12 Jul 2026 08:31:05 GMT | **LiveLaw** | Lawyer Gautam Bhatia Wins CS' Ran Hirschl Prize For Best Article In Constitutional Studies | [Read More](https://www.livelaw.in/news-updates/lawyer-gautam-bhatia-wins-cs-ran-hirschl-prize-for-best-article-in-constitutional-studies-540857) |
 | Sun, 12 Jul 2026 08:10:39 GMT | **LiveLaw** | S.8 Evidence Act - From False NCR To Absconding: Allahabad High Court Weighs Man's 'Conduct' To Uphold Conviction For Wife's Murder | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-sec-8-evidence-act-false-ncr-absconding-wife-murder-conviction-540856) |
 | Sun, 12 Jul 2026 07:30:53 GMT | **Verdictum** | Major Woman Free To Live With Person Of Her Choice; Can't Be Compelled To Reside With Mother: Madhya Pradesh High Court In Habeas Corpus Plea | [Read More](https://www.verdictum.in/madhya-pradesh-high-court/urmila-jharia-v-the-state-of-madhya-pradesh-and-others-2026mphc-jbp48504-1617560) |
