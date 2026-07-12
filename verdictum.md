@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 12 Jul 2026 06:00:15 GMT | **Verdictum** | Gram Panchayat's Consent Not Required To Divert Gairan Land For PMAY; State Has Near-Absolute Power U/S 40 Maharashtra Land Revenue Code: Bombay High Court | [Read More](https://www.verdictum.in/bombay-high-court/gram-panchayat-nere-v-state-of-maharashtra-writ-petition-no972-of-2026-sarpanch-gram-panchayat-pmay-1617562) |
 | Sun, 12 Jul 2026 04:44:31 GMT | **LiveLaw** | Absurd To Say Passport Not Citizenship Proof; If You're Living In India, Presumption Is That You're Indian : Justice Dhulia | [Read More](https://www.livelaw.in/top-stories/absurd-to-say-passport-not-citizenship-proof-if-youre-living-in-india-presumption-is-that-youre-indian-justice-dhulia-540853) |
 | Sun, 12 Jul 2026 04:30:52 GMT | **Verdictum** | "What Could Not Legally Be Owned Appears To Be Bartered Within The Family": Karnataka High Court Refuses To Quash Land-Grab Case Against Ex-MLA | [Read More](https://www.verdictum.in/karnataka-high-court/bh-narayanappa-v-state-of-karnataka-wp-no24242-of-2017-land-grab-case-against-ex-mla-hullu-banni-kharab-1617557) |
 | Sun, 12 Jul 2026 04:30:46 GMT | **LiveLaw** | Kerala High Court Half Yearly Digest: January To June, 2026 [Citations 1 - 352] | [Read More](https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-half-yearly-january-june-2026-539990) |
