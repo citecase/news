@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 12 Jul 2026 17:12:50 GMT | **LiveLaw** | 'Hell-Bent On Ousting Legitimate Bidder': Allahabad High Court Slams North Eastern Rly, Quashes Rejection Of Konkan Railway's Bid | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-slams-north-eastern-railway-quashes-rejection-konkan-railway-bid-540874) |
 | Sun, 12 Jul 2026 16:47:35 GMT | **LiveLaw** | Can Woman Claim Maintenance U/S 125 CrPC From Man She 'Married' Without Divorcing First Husband? Allahabad High Court Answers | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-woman-cant-claim-maintenance-section-125-crpc-partner-without-divorcing-first-husband-540873) |
 | Sun, 12 Jul 2026 15:37:03 GMT | **LiveLaw** | Sunday Sitting - Demolition 'Threat' To 150-Yr-Old Methodist School: Allahabad High Court Orders Status Quo Over Alleged 'Nazool' Land | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-sunday-sitting-demolition-threat-sitapur-methodist-school-nazool-land-status-quo-540870) |
 | Sun, 12 Jul 2026 15:10:39 GMT | **LiveLaw** | 'Plea Of Alibi' Must Be Proved In Trial, IO Cannot Unilaterally Accept It To Be True To File Final Report: Allahabad High Court | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-plea-of-alibi-proved-trial-io-cant-unilaterally-accept-final-report-540869) |
