@@ -2,6 +2,10 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 18 Jul 2026 03:30:43 GMT | **LiveLaw** | AP High Court Directs Release Of PwD Medical Student's Certificate, Orders Inquiry Into Alleged Discrimination By Professor | [Read More](https://www.livelaw.in/high-court/andhra-pradesh-high-court/ap-high-court-grants-interim-relief-student-disability-probe-harassment-allegations-541769) |
+| Sat, 18 Jul 2026 02:47:12 GMT | **LiveLaw** | 2026 LiveLaw (SC) 689 - Lata v Union of India | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-689-lata-v-union-of-india-541801) |
+| Sat, 18 Jul 2026 02:45:59 GMT | **LiveLaw** | Supreme Court Urges Railways To Prevent Overcrowding In Trains, Suggests Dropping 'Second Class Passenger' Term | [Read More](https://www.livelaw.in/supreme-court/supreme-court-urges-railways-to-prevent-overcrowding-in-trains-suggests-dropping-second-class-passenger-term-541800) |
+| Sat, 18 Jul 2026 02:30:06 GMT | **LiveLaw** | Bombay High Court Directs Maharashtra Govt To Frame Guidelines On Apartment Balcony Enclosures, Internal Flat Alterations | [Read More](https://www.livelaw.in/high-court/bombay-high-court/apartment-flat-renovation-balcony-terrace-enclosure-guidelines-541798) |
 | Fri, 17 Jul 2026 18:28:53 GMT | **LiveLaw** | Supreme Court Daily Round-Up : July 17, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-july-17-2026-541791) |
 | Fri, 17 Jul 2026 18:25:15 GMT | **LiveLaw** | Impossible To Satisfy Every Litigant, Judge's Morality Should Be Governed By Sensible Sections Of Society: Justice Dixit Krishna Shripad Retires | [Read More](https://www.livelaw.in/high-court/orissa-high-court/justice-dixit-krishna-shripad-retires-judges-morality-governed-by-sensible-sections-of-society-541796) |
 | Fri, 17 Jul 2026 17:25:54 GMT | **LiveLaw** | Supreme Court Issues Notice On SCBA Plea Seeking Representation Of Women Advocates In Govt Panels, Stipend For Juniors | [Read More](https://www.livelaw.in/top-stories/supreme-court-scba-plea-for-adequate-representation-of-women-advocates-government-panels-stipend-support-for-junior-lawyers-notice-541793) |
