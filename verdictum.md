@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Fri, 24 Jul 2026 01:30:27 GMT | **LiveLaw** | Punjab & Haryana High Court Bar Association Backs Protest Against LADC Policy, Announces Suspension Of Court Work | [Read More](https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-bar-association-calls-for-work-suspension-on-july-24-in-solidarity-with-ladc-policy-protesters-542651) |
+| Thu, 23 Jul 2026 17:44:51 GMT | **LiveLaw** | Delhi High Court Designates Special Judge To Fast Track Paper Leak Cases | [Read More](https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-designates-special-judge-to-fast-track-paper-leak-cases-542652) |
 | Thu, 23 Jul 2026 17:28:21 GMT | **LiveLaw** | PoP Idol Makers Support Ban On Immersion In Natural Water, But Tell Bombay High Court Their Right To Livelihood Can't Be Curbed | [Read More](https://www.livelaw.in/high-court/bombay-high-court/pop-idol-ban-water-pollution-artisans-right-to-livelihood-542649) |
 | Thu, 23 Jul 2026 17:15:47 GMT | **LiveLaw** | Supreme Court Daily Round-Up : July 23, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-july-23-2026-542647) |
 | Thu, 23 Jul 2026 17:08:24 GMT | **LiveLaw** | NEET-UG 2026 : Bombay High Court Orders NTA To Produce Original Answer Sheets Of 3 Candidates Who Alleged Discrepancies In Results | [Read More](https://www.livelaw.in/high-court/bombay-high-court/neet-ug-2026-bombay-high-court-orders-nta-to-produce-original-answer-sheets-of-3-candidates-who-alleged-discrepancies-in-results-542646) |
