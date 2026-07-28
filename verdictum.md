@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Tue, 28 Jul 2026 02:47:02 GMT | **LiveLaw** | Suppressing Advocate Status To File PILs In Clients' Interests Is 'Gross Abuse': Allahabad High Court | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-suppressing-advocate-status-client-interest-pil-gross-abuse-543116) |
+| Tue, 28 Jul 2026 01:30:58 GMT | **LiveLaw** | Twisha Sharma Dowry Death Case: MP Court Denies Bail To Former Judge Giribala Singh | [Read More](https://www.livelaw.in/news-updates/twisha-sharma-dowry-death-giribala-singh-bail-denied-543108) |
 | Mon, 27 Jul 2026 18:06:42 GMT | **LiveLaw** | Telangana State Legal Services Authority Holds Sensitisation Programme For Teachers Appointed As Child Protection Officers | [Read More](https://www.livelaw.in/news-updates/telangana-state-legal-services-authority-holds-sensitisation-programme-543107) |
 | Mon, 27 Jul 2026 17:29:29 GMT | **LiveLaw** | Delhi Protesters Allege Pellet Injury, Move Supreme Court For Ban On Pellet Guns | [Read More](https://www.livelaw.in/top-stories/delhi-protesters-allegedly-hit-by-pellets-move-supreme-court-seeking-ban-on-pellet-guns-in-civilian-protests-543104) |
 | Mon, 27 Jul 2026 17:15:29 GMT | **LiveLaw** | Supreme Court Daily Round-Up : July 27, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-july-27-2026-543105) |
