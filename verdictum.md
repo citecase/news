@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Wed, 29 Jul 2026 07:22:36 +0530 | **Bar & Bench** | Kerala High Court refuses relief to DYFI leaders accused of assaulting police during liquor policy protest | [Read More](https://www.barandbench.com/news/kerala-hc-refuses-relief-to-dyfi-leaders-accused-of-assaulting-police-during-liquor-policy-protest) |
 | Tue, 28 Jul 2026 19:37:31 GMT | **LiveLaw** | 'Stop Discrediting The Institution': Delhi High Court Refuses To Remove Cop Accused Of Slapping Woman During CJP Protest From Police Inquiry | [Read More](https://www.livelaw.in/high-court/delhi-high-court/additional-dcp-sandeep-lamba-slapping-woman-jantar-mantar-protest-cant-withdraw-work-543191) |
 | Tue, 28 Jul 2026 17:15:41 GMT | **LiveLaw** | Supreme Court Daily Round-Up : July 28, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-july-28-2026-543282) |
 | Tue, 28 Jul 2026 16:22:26 GMT | **LiveLaw** | Student Protest Violence : Supreme Court To Order SIT Probe; Allows States To Investigate FIRs, Bars Coercive Action | [Read More](https://www.livelaw.in/top-stories/supreme-court-to-order-sit-probe-into-student-protest-violence-directs-release-of-detained-students-with-no-criminal-background-543164) |
