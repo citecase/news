@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Thu, 30 Jul 2026 02:21:04 GMT | **LiveLaw** | S. 8 UP Anti-Conversion Law - Representation To DM Can't Substitute Pre-Conversion Declaration In Schedule-I Format: Allahabad High Court | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-up-anti-conversion-law-section-8-schedule-1-declaration-543498) |
 | Wed, 29 Jul 2026 17:32:28 GMT | **LiveLaw** | Supreme Court Daily Round-Up : July 29, 2026 | [Read More](https://www.livelaw.in/supreme-court/supreme-court-daily-round-up-july-29-2026-543482) |
 | Wed, 29 Jul 2026 16:50:12 GMT | **CaseCiter** | Questions Of Law From Latest Supreme Court Judgments | [Read More](https://www.caseciter.com/questions-of-law-from-latest-supreme-court-judgments/) |
 | Wed, 29 Jul 2026 16:25:45 GMT | **LiveLaw** | 'Police Stations Have Become A Place Of Commercial Activities': Allahabad High Court Orders DGP Inquiry Over Cop's Transport Business | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/police-stations-commercial-activities-allahabad-hc-dgp-inquiry-cop-transport-business-543487) |
