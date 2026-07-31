@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Fri, 31 Jul 2026 20:56:45 +0530 | **Bar & Bench** | Punjab and Haryana High Court Bar Association calls off work suspension, district bar bodies also to resume work | [Read More](https://www.barandbench.com/news/punjab-and-haryana-high-court-bar-association-calls-off-work-suspension-district-bar-bodies-also-to-resume-work) |
 | Fri, 31 Jul 2026 17:20:53 GMT | **LiveLaw** | Supreme Court Daily Round-Up : July 31, 2026 | [Read More](https://www.livelaw.in/supreme-court/supreme-court-daily-round-up-july-31-2026-543844) |
 | Fri, 31 Jul 2026 16:00:45 GMT | **Verdictum** | Law Clerk Vacancy At Andhra Pradesh High Court | [Read More](https://www.verdictum.in/job-updates/andhra-pradesh-high-court-1618921) |
 | Fri, 31 Jul 2026 16:00:01 GMT | **LiveLaw** | Supreme Court Stays CIC Order Holding NSE Amenable To RTI Act | [Read More](https://www.livelaw.in/top-stories/supreme-court-stays-cic-order-holding-nse-amenable-to-rti-act-543843) |
