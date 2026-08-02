@@ -2,6 +2,10 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 02 Aug 2026 05:17:53 GMT | **LiveLaw** | Is Subsequent Impleadment Application Barred By Res Judicata If Earlier Plea Was Rejected Wrongly? Supreme Court Answers | [Read More](https://www.livelaw.in/supreme-court/is-subsequent-impleadment-application-barred-by-res-judicata-if-earlier-plea-was-rejected-wrongly-supreme-court-answers-543706) |
+| Sun, 02 Aug 2026 05:02:21 GMT | **CaseCiter** | S.299(1) CrPC/S.335(1) BNSS:   Supreme Court Benches Split On Requirement Of Formal Order | [Read More](https://www.caseciter.com/learn-law-s-299-crpc-s-335-bnss/) |
+| Sun, 02 Aug 2026 04:30:47 GMT | **LiveLaw** | Indian Lawyer Goes To United States Court | [Read More](https://www.livelaw.in/articles/indian-lawyer-goes-united-states-court-543919) |
+| Sun, 02 Aug 2026 04:30:42 GMT | **Verdictum** | Respondent Supporting Decree Need Not File Cross-Objections To Assail Adverse Finding If No Additional Relief Is Sought: Supreme Court | [Read More](https://www.verdictum.in/supreme-court/-vnas-chandran-v-s-venilla-and-others-2026-insc-776-specific-performance-1618988) |
 | Sat, 01 Aug 2026 15:01:09 GMT | **LiveLaw** | Police Force Meant To Disperse Crowd, Not To Punish Protesters | [Read More](https://www.livelaw.in/articles/supreme-court-police-excessive-force-student-protest-delhi-bnss-section-163-ramlila-maidan-543929) |
 | Sat, 01 Aug 2026 15:00:34 GMT | **LiveLaw** | Foreigners Can't Invoke Article 226 To Protect Unauthorized Possession Of Government Land: Chhattisgarh High Court | [Read More](https://www.livelaw.in/high-court/chhattisgarh-high-court/foreigners-cannot-invoke-writ-jurisdiction-protect-unauthorized-possession-government-land-543889) |
 | Sat, 01 Aug 2026 14:33:59 GMT | **LiveLaw** | Cauvery Dispute : DMK Moves Supreme Court Seeking Directions To Karnataka For Urgent Water Release | [Read More](https://www.livelaw.in/top-stories/supreme-court-karnataka-tamil-nadu-dmk-application-for-urgent-release-of-cauvery-river-water-at-biligundlu-kuruvai-crop-farmers-livelihood-543943) |
