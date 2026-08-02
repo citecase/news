@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 02 Aug 2026 17:54:23 GMT | **LiveLaw** | International Symposium On Emerging Drug Threats Begins At Bharat Mandapam; NCB Stresses Forensics, Intelligence Sharing To Combat Drug Trafficking | [Read More](https://www.livelaw.in/events/international-symposium-on-emerging-drug-threats-begins-at-bharat-mandapam-ncb-stresses-forensics-intelligence-sharing-to-combat-drug-trafficking-543961) |
+| Sun, 02 Aug 2026 17:32:12 GMT | **LiveLaw** | Call For Abstracts - 4th CNLU–CARCIL National Conference On Securities Laws, 2026 | [Read More](https://www.livelaw.in/lawschool/seminars/call-for-abstracts-4th-cnlucarcil-national-conference-on-securities-laws-2026-543960) |
 | Sun, 02 Aug 2026 15:00:18 GMT | **Verdictum** | Karnataka State Legal Services Authority (KSLSA) Invites Applications For Post Of Section Officer | [Read More](https://www.verdictum.in/job-updates/karnataka-state-legal-services-authority-1618996) |
 | Sun, 02 Aug 2026 14:42:28 GMT | **LiveLaw** | Allahabad High Court Upholds Life Term Of Father, Brother In 'Honour Killing' Of 2 Minor Girls; Relies On Pre- & Post-Crime Conduct | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-upholds-life-term-honour-killing-two-minor-girls-conduct-evidence-act-543959) |
 | Sun, 02 Aug 2026 14:30:58 GMT | **LiveLaw** | Why Does India's Dowry Prohibition Regime Fail? | [Read More](https://www.livelaw.in/articles/india-dowry-prohibition-regime-fail-543921) |
