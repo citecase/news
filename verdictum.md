@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Tue, 04 Aug 2026 01:36:58 GMT | **LiveLaw** | Human Trafficking Has Assumed A New Avatar In The Modern Era: Justice N. Kotiswar Singh | [Read More](https://www.livelaw.in/news-updates/human-trafficking-assumed-new-avatar-modern-era-justice-n-kotiswar-singh-544172) |
 | Mon, 03 Aug 2026 17:20:30 GMT | **LiveLaw** | Supreme Court Daily Round-Up : August 3, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-august-3-2026-544166) |
 | Mon, 03 Aug 2026 16:25:53 GMT | **LiveLaw** | MSHRC Takes Suo Motu Notice Of Pune Police Tying Accused To Vehicle Bonnet, Parading Them; Issues Notices To Top Officials | [Read More](https://www.livelaw.in/news-updates/pune-police-summoned-tied-accused-to-vehicle-bonnet-paraded-them-544171) |
 | Mon, 03 Aug 2026 16:21:11 GMT | **LiveLaw** | State Can't Solve Its Financial Crisis By Withholding Employees' And Pensioners' Dues: P&H High Court | [Read More](https://www.livelaw.in/high-court/punjab-and-haryana-high-court/govt-release-of-da-arrears-employees-financial-burden-no-answer-to-enforcement-of-accrued-benefits-544170) |
