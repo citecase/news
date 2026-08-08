@@ -2,6 +2,12 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 08 Aug 2026 03:01:36 GMT | **LiveLaw** | Senior Associate Vacancy At Ernst & Young | [Read More](https://www.livelaw.in/job-updates/senior-associate-vacancy-at-ernst-young-544897) |
+| Sat, 08 Aug 2026 03:00:20 GMT | **LiveLaw** | Manager Vacancy At KPMG India [Apply Now] | [Read More](https://www.livelaw.in/job-updates/manager-vacancy-at-kpmg-india-544896) |
+| Sat, 08 Aug 2026 02:47:56 GMT | **LiveLaw** | Empanelment Of Advocates At Employees State Insurance Corporation (ESIC), Regional Office, Indore | [Read More](https://www.livelaw.in/job-updates/empanelment-of-advocates-at-employees-state-insurance-corporation-esic-regional-office-indore-544895) |
+| Sat, 08 Aug 2026 02:36:28 GMT | **LiveLaw** | 2026 LiveLaw (SC) 778 - ASIA SUGAR & CHEMICAL CO., DEVANGERE VERSUS THE STATE OF KARNATAKA & ORS | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-778-asia-sugar-chemical-co-devangere-versus-the-state-of-karnataka-ors-544894) |
+| Sat, 08 Aug 2026 02:31:04 GMT | **LiveLaw** | Not Memory, Just Retrieval: Narrow Escape For OpenAI | [Read More](https://www.livelaw.in/articles/narrow-escape-openai-544856) |
+| Sat, 08 Aug 2026 02:15:27 GMT | **LiveLaw** | Supreme Court Weekly Roundup: July 13, 2026 To July 19, 2026 | [Read More](https://www.livelaw.in/round-ups/weekly/supreme-court-weekly-roundup-july-13-2026-to-july-19-2026-544890) |
 | Fri, 07 Aug 2026 18:15:55 GMT | **LiveLaw** | Supreme Court Daily Round-Up : August 7, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-august-7-2026-544882) |
 | Fri, 07 Aug 2026 18:14:10 GMT | **LiveLaw** | Supreme Court Dismisses Plea Seeking FIR Against Justice Yashwant Varma Over Cash Row | [Read More](https://www.livelaw.in/top-stories/supreme-court-dismisses-plea-seeking-fir-against-justice-yashwant-varma-over-cash-row-544842) |
 | Fri, 07 Aug 2026 18:09:44 GMT | **LiveLaw** | CJI Surya Kant Calls Mediation A 'Psychological' Process, Says India Can Emerge As Global Centre For Dispute Resolution | [Read More](https://www.livelaw.in/top-stories/cji-surya-kant-mediation-psychological-process-dispute-resolution-544883) |
