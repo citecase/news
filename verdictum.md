@@ -2,6 +2,11 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 09 Aug 2026 04:30:45 GMT | **LiveLaw** | Flat Fine Fallacy: How Jan Vishwas Betrays Equality It Promised | [Read More](https://www.livelaw.in/articles/flat-fine-fallacy-jan-vishwas-betrays-equality-promised-544969) |
+| Sun, 09 Aug 2026 04:30:08 GMT | **Verdictum** | Dismissing Appeal Without Deciding Additional Evidence Application Is Jurisdictional Error: Supreme Court Sheds Light On Order XLI Rule 27 CPC | [Read More](https://www.verdictum.in/supreme-court/chowdappa-v-hanumantharayappa-2026-insc-816-appeal-additional-evidence-cpc-1619464) |
+| Sun, 09 Aug 2026 04:21:10 GMT | **LiveLaw** | LiveLaw Supreme Court Weekly Digest: July 16 - 23, 2026 | [Read More](https://www.livelaw.in/supreme-court/supreme-court-judgments-and-orders-weekly-digest-july-2026-544974) |
+| Sun, 09 Aug 2026 04:08:46 GMT | **LiveLaw** | Tata AIG Can't Repudiate Fire Insurance Claims By Treating Standard Kashmiri Buildings As 'Kutcha Constructions': J&K Consumer Commission | [Read More](https://www.livelaw.in/consumer-cases/tata-aig-cant-repudiate-fire-insurance-claims-by-treating-standard-kashmiri-buildings-as-kutcha-constructions-jk-consumer-commission-544973) |
+| Sun, 09 Aug 2026 03:30:38 GMT | **LiveLaw** | LiveLaw Gujarat High Court Monthly Digest: July 2026 | [Read More](https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-monthly-digest-543974) |
 | Sat, 08 Aug 2026 15:00:13 GMT | **Verdictum** | Associate Manager (Legal) Vacancy At HLL Lifecare Limited | [Read More](https://www.verdictum.in/job-updates/hll-lifecare-limited-1619459) |
 | Sat, 08 Aug 2026 14:31:00 GMT | **LiveLaw** | Can India Force WhatsApp To Break End-To- End Encryption? Answer from Podchasov v. Russia | [Read More](https://www.livelaw.in/articles/india-force-whatsapp-break-endtoend-encryption-podchasovvrussia-544859) |
 | Sat, 08 Aug 2026 14:07:46 GMT | **LiveLaw** | Different Problems Require Different Solutions, Legal Aid Must Be Rooted In Local Realities: CJI Surya Kant | [Read More](https://www.livelaw.in/top-stories/different-problems-require-different-solutions-legal-aid-must-be-rooted-in-local-realities-cji-surya-kant-544965) |
