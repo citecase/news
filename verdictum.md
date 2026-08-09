@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 09 Aug 2026 06:30:59 GMT | **Verdictum** | Preventing Production Of Arrested Advocates Before Court Prima Facie Attracts Section 225 IPC: Madras High Court | [Read More](https://www.verdictum.in/madras-high-court/ajith-kumar-s-ors-v-state-rep-by-inspector-of-police-anr-2026mhc3243-1619465) |
+| Sun, 09 Aug 2026 06:30:59 GMT | **LiveLaw** | Kapoor Jewellers Liable To Return Customer's 32 Grams Of Gold; Legal Heirs Can't Escape Liability: Kangra Consumer Commission | [Read More](https://www.livelaw.in/consumer-cases/kapoor-jewellers-liable-to-return-customers-32-grams-of-gold-legal-heirs-cant-escape-liability-kangra-consumer-commission-544977) |
+| Sun, 09 Aug 2026 05:50:54 GMT | **LiveLaw** | S.101(2) JJ Act - Not Mandatory For Court Hearing Appeal Against JJB Order To Take Child Psychologist Assistance : Supreme Court | [Read More](https://www.livelaw.in/supreme-court/s1012-jj-act-not-mandatory-for-court-hearing-appeal-against-jjb-order-to-take-child-psychologist-assistance-supreme-court-544891) |
 | Sun, 09 Aug 2026 04:30:45 GMT | **LiveLaw** | Flat Fine Fallacy: How Jan Vishwas Betrays Equality It Promised | [Read More](https://www.livelaw.in/articles/flat-fine-fallacy-jan-vishwas-betrays-equality-promised-544969) |
 | Sun, 09 Aug 2026 04:30:08 GMT | **Verdictum** | Dismissing Appeal Without Deciding Additional Evidence Application Is Jurisdictional Error: Supreme Court Sheds Light On Order XLI Rule 27 CPC | [Read More](https://www.verdictum.in/supreme-court/chowdappa-v-hanumantharayappa-2026-insc-816-appeal-additional-evidence-cpc-1619464) |
 | Sun, 09 Aug 2026 04:21:10 GMT | **LiveLaw** | LiveLaw Supreme Court Weekly Digest: July 16 - 23, 2026 | [Read More](https://www.livelaw.in/supreme-court/supreme-court-judgments-and-orders-weekly-digest-july-2026-544974) |
