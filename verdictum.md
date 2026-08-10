@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Tue, 04 Aug 2026 18:01:39 +0530 | **Bar & Bench** | Khaitan & Co assists RPG Life Sciences on carve-out of its API business | [Read More](https://www.barandbench.com/dealstreet/khaitan-co-assists-rpg-life-sciences-on-carve-out-of-its-api-business) |
+| Thu, 30 Jul 2026 11:59:38 +0530 | **Bar & Bench** | Godrej Finance acquires gold loan business of Kanakadurga Finance; Khaitan & Co, SNG & Partners advise | [Read More](https://www.barandbench.com/dealstreet/sng-partners-advises-kanakadurga-finance-on-acquisition-of-its-gold-loan-business-by-godrej-finance) |
 | Mon, 10 Aug 2026 17:21:04 GMT | **LiveLaw** | Supreme Court Daily Round-Up : August 10, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-august-10-2026-545160) |
 | Mon, 10 Aug 2026 17:21:04 GMT | **LiveLaw** | Allahabad High Court Imposes ₹1 Lakh Costs On Couple For Securing Interim Protection By Concealing Man's Existing Marriage | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-1-lakh-costs-couple-interim-protection-conceal-existing-marriage-545168) |
 | Mon, 10 Aug 2026 17:20:58 GMT | **LiveLaw** | Allahabad High Court Orders ₹25 Lakh Compensation For 2 Sisters Illegally Confined By Father After Conversion To Islam | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-25-lakh-compensation-two-women-illegally-confined-father-islam-conversion-545156) |
