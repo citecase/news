@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Tue, 11 Aug 2026 02:31:03 GMT | **LiveLaw** | Madhya Pradesh's New E-Sakshya Rules Solve Custody, Not Proof | [Read More](https://www.livelaw.in/articles/madhya-pradesh-esakshya-rules-solve-custody-545161) |
+| Tue, 11 Aug 2026 00:32:53 GMT | **LiveLaw** | US Court Dismisses Criminal Case Against Gautam Adani Accepting Justice Dept Decision To Drop Prosecution | [Read More](https://www.livelaw.in/foreign-international/us-court-dismisses-criminal-case-against-gautam-adani-accepting-justice-dept-decision-to-drop-prosecution-545176) |
 | Tue, 04 Aug 2026 18:01:39 +0530 | **Bar & Bench** | Khaitan & Co assists RPG Life Sciences on carve-out of its API business | [Read More](https://www.barandbench.com/dealstreet/khaitan-co-assists-rpg-life-sciences-on-carve-out-of-its-api-business) |
 | Thu, 30 Jul 2026 11:59:38 +0530 | **Bar & Bench** | Godrej Finance acquires gold loan business of Kanakadurga Finance; Khaitan & Co, SNG & Partners advise | [Read More](https://www.barandbench.com/dealstreet/sng-partners-advises-kanakadurga-finance-on-acquisition-of-its-gold-loan-business-by-godrej-finance) |
 | Mon, 10 Aug 2026 17:21:04 GMT | **LiveLaw** | Supreme Court Daily Round-Up : August 10, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-august-10-2026-545160) |
