@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 16 Aug 2026 03:25:38 GMT | **LiveLaw** | Supreme Court Dismisses Plea Seeking National Fire & Life Safety Framework For High-Risk Public Premises | [Read More](https://www.livelaw.in/top-stories/supreme-court-dismisses-plea-seeking-national-fire-life-safety-framework-for-high-risk-public-premises-545964) |
+| Sun, 16 Aug 2026 03:01:05 GMT | **LiveLaw** | Supreme Court Seeks Centre's Response On Plea To Ensure Social Media Intermediaries Remove Child Sexual Exploitation & Abuse Materials | [Read More](https://www.livelaw.in/top-stories/supreme-court-seeks-centres-response-on-plea-to-ensure-social-media-intermediaries-remove-child-sexual-exploitation-abuse-materials-545963) |
 | Sat, 15 Aug 2026 17:55:00 GMT | **LiveLaw** | New Lawyers' Collective 'LAFC' Formed in Delhi to Champion Constitutional Accountability and Judicial Transparency | [Read More](https://www.livelaw.in/news-updates/new-lawyers-collective-lafc-formed-in-delhi-to-champion-constitutional-accountability-and-judicial-transparency-545992) |
 | Sat, 15 Aug 2026 17:22:22 GMT | **LiveLaw** | [Advertisement] Project 39A At NLU Delhi Launches Online Certificate Course On "Capital Punishment In India: Law, Practice And Justice" – Register Now! | [Read More](https://www.livelaw.in/lawschool/diploma-certificate-courses/project-39a-nlu-delhi-launches-online-certificate-course-545994) |
 | Sat, 15 Aug 2026 17:12:04 GMT | **LiveLaw** | Durg DLSA Takes 'Justice on Wheels' Via Bullock Cart On Hareli, Covers 5 Villages In 5 Days For Community Mediation | [Read More](https://www.livelaw.in/events/durg-dlsa-takes-justice-on-wheels-via-bullock-cart-on-hareli-covers-5-villages-in-5-days-for-community-mediation-545993) |
