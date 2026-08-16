@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 16 Aug 2026 12:02:26 GMT | **LiveLaw** | CJI Surya Kant Advises Against Prohibiting AI Tools In Law Schools; Says Students Must Be Taught To Use Them Properly | [Read More](https://www.livelaw.in/top-stories/cji-surya-kant-advises-against-prohibition-of-ai-tools-in-law-schools-546013) |
+| Sun, 16 Aug 2026 11:47:05 GMT | **LiveLaw** | 2026 LiveLaw (SC) 809 - SAMEEM BEGUM AND OTHERS VERSUS K. VENKAT SWAMY AND ANOTHER | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-809-sameem-begum-and-others-versus-k-venkat-swamy-and-another-546012) |
+| Sun, 16 Aug 2026 11:45:55 GMT | **LiveLaw** | Legal Representatives Can Claim Motor Accident Compensation Even Without Financial Dependency On Deceased : Supreme Court | [Read More](https://www.livelaw.in/supreme-court/legal-representatives-can-claim-motor-accident-compensation-even-without-financial-dependency-on-deceased-supreme-court-546011) |
 | Sun, 16 Aug 2026 11:28:00 GMT | **LiveLaw** | 'Both Press & Judiciary Have Failed Us, Why?' Kapil Sibal | [Read More](https://www.livelaw.in/top-stories/both-press-judiciary-have-failed-us-why-kapil-sibal-546010) |
 | Sun, 16 Aug 2026 10:30:32 GMT | **Verdictum** | Officer In-Charge Of Women Police Station Not Public Servant To Whom Allegedly False Statements Were Made: Supreme Court Quashes Section 182 IPC Proceedings | [Read More](https://www.verdictum.in/supreme-court/a-v-state-of-himachal-pradesh-2026-insc-856-officer-in-charge-women-police-station-sec182-ipc-1619976) |
 | Sun, 16 Aug 2026 09:30:04 GMT | **LiveLaw** | Collegium Must Speak But With Institutional Restraint | [Read More](https://www.livelaw.in/articles/collegium-speak-institutional-restraint-545977) |
