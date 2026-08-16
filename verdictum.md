@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 16 Aug 2026 15:01:02 GMT | **LiveLaw** | J&K Consumer Commission Directs New India Assurance To Pay ₹9.95 Lakh Over Unsettled Insurance Claim | [Read More](https://www.livelaw.in/consumer-cases/jk-consumer-commission-directs-new-india-assurance-to-pay-995-lakh-over-unsettled-insurance-claim-546015) |
+| Sun, 16 Aug 2026 15:00:15 GMT | **Verdictum** | Manager, Junior Executive (Law) Vacancy At Airports Authority of India (AAI) | [Read More](https://www.verdictum.in/job-updates/airports-authority-of-india-1619888) |
 | Sun, 16 Aug 2026 14:30:44 GMT | **LiveLaw** | Brahmaputra Floods: Assam's Unfinished Constitutional Promise | [Read More](https://www.livelaw.in/articles/brahmaputra-floods-assam-unfinished-constitutional-promise-545978) |
 | Sun, 16 Aug 2026 13:32:16 GMT | **LiveLaw** | Centre Shouldn't Sit On Recommendations Reiterated By Collegium : Justice KM Joseph | [Read More](https://www.livelaw.in/top-stories/centre-shouldnt-sit-on-recommendations-reiterated-by-collegium-justice-km-joseph-546014) |
 | Sun, 16 Aug 2026 12:30:15 GMT | **Verdictum** | Allahabad High Court Upholds OMCs' Customer Transfer Policy; Says Distributors Cannot Challenge Customer Base Reduction Without Assailing Underlying Covenants | [Read More](https://www.verdictum.in/allahabad-high-court/2026-ahc-166335-db-vikramaditya-gas-agencies-v-union-of-india-1619977) |
