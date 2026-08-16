@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 16 Aug 2026 08:30:28 GMT | **LiveLaw** | Bharatiya Nagarik Suraksha Sanhita (BNSS) and Bharatiya Nyaya Sanhita (BNS) Monthly Digest: July 2026 | [Read More](https://www.livelaw.in/top-stories/bnss-bns-monthly-digest-july-2026-545646) |
+| Sun, 16 Aug 2026 08:30:02 GMT | **Verdictum** | Suspension Of BCI Enrolment Not Necessary For Advocates Acting As Insolvency Professionals; But Liable To GST Under Forward Charge Mechanism: Delhi High Court | [Read More](https://www.verdictum.in/delhi-high-court/kanwal-chaudhary-v-insolvency-and-bankruptcy-board-of-india-ors-2026dhc6587-db-1619972) |
 | Sun, 16 Aug 2026 07:16:19 GMT | **LiveLaw** | Section Officer Vacancy At Karnataka State Legal Services Authority, Bengaluru | [Read More](https://www.livelaw.in/job-updates/section-officer-vacancy-at-karnataka-state-legal-services-authority-bengaluru-546008) |
 | Sun, 16 Aug 2026 07:15:49 GMT | **LiveLaw** | Transfer Cop Seen On Video 'Parading & Flogging' Accused In Public, Orally Says Gujarat High Court | [Read More](https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-surat-cop-transfer-parading-flogging-video-546007) |
 | Sun, 16 Aug 2026 07:15:05 GMT | **LiveLaw** | Consultant (Legal Cell) Vacancy At Ministry Of External Affairs (MEA), New Delhi | [Read More](https://www.livelaw.in/job-updates/consultant-legal-cell-vacancy-at-ministry-of-external-affairs-mea-new-delhi-546006) |
