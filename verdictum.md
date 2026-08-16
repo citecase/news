@@ -2,6 +2,10 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 16 Aug 2026 04:45:47 GMT | **LiveLaw** | Parliament Monsoon Session 2026  Recap: 12 Bills Passed, Mostly Without Debate | [Read More](https://www.livelaw.in/news-updates/monsoon-session-parliament-2026-12-bills-passed-lok-sabha-rajya-sabha-545997) |
+| Sun, 16 Aug 2026 04:30:49 GMT | **Verdictum** | Magistrate Can Explicitly Name Accused U/S.176(1-A) CrPC: Madhya Pradesh High Court Upholds Enquiry Report In Custodial Death Case | [Read More](https://www.verdictum.in/madhya-pradesh-high-court/raja-ram-dangi-v-the-state-of-madhya-pradesh-2026mphc-ind21865-magistrate-sec1761-a-crpc-1619957) |
+| Sun, 16 Aug 2026 04:30:46 GMT | **LiveLaw** | Overlooked 'Waiver Clause' In Construction Contracts And Effect Of Doctrine Of Acquiescence | [Read More](https://www.livelaw.in/articles/overlooked-waiver-clause-construction-contracts-effect-doctrine-of-acquiescence-545976) |
+| Sun, 16 Aug 2026 04:30:15 GMT | **LiveLaw** | LiveLaw Karnataka High Court Monthly Digest: July 2026 | [Read More](https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-monthly-digest-july2026-544373) |
 | Sun, 16 Aug 2026 03:54:39 GMT | **LiveLaw** | CPC - Residential Property Exemption u/s 60(1)(ccc) Is Personal To Judgment-Debtor; LR Can't Claim : Supreme Court | [Read More](https://www.livelaw.in/supreme-court/cpc-residential-property-exemption-us-601ccc-is-personal-to-judgment-debtor-lr-cant-claim-supreme-court-545998) |
 | Sun, 16 Aug 2026 03:54:13 GMT | **LiveLaw** | 2026 LiveLaw (SC) 808 - SHEELA GEHLOT Versus MOHINI HARDAYAL SINGH & ORS. | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-808-sheela-gehlot-versus-mohini-hardayal-singh-ors-545999) |
 | Sun, 16 Aug 2026 03:30:38 GMT | **LiveLaw** | LiveLaw Supreme Court Monthly Digest: July 2026 | [Read More](https://www.livelaw.in/supreme-court/supreme-court-monthly-digest-july-2026-545934) |
