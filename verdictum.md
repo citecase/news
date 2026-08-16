@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 16 Aug 2026 06:30:00 GMT | **Verdictum** | Madras High Court Allows Bars & Hotels To Claim Refund Of Liquor License And Privilege Fees For Closure During COVID Lockdown | [Read More](https://www.verdictum.in/madras-high-court/state-of-tamil-nadu-anr-v-the-suguna-vilasa-sabha-connected-matters-1619963) |
+| Sun, 16 Aug 2026 06:25:59 GMT | **LiveLaw** | Supreme Court Weekly Roundup: August 03, 2026 To August 09, 2026 | [Read More](https://www.livelaw.in/round-ups/weekly/supreme-court-weekly-roundup-august-03-2026-to-august-09-2026-545995) |
+| Sun, 16 Aug 2026 05:58:53 GMT | **LiveLaw** | Mere Participation in Protest March Does Not Make One Part of Unlawful Assembly: HP High Court | [Read More](https://www.livelaw.in/high-court/himachal-pradesh-high-court/hp-high-court-participation-protest-march-unlawful-assembly-546002) |
 | Sun, 16 Aug 2026 04:45:47 GMT | **LiveLaw** | Parliament Monsoon Session 2026  Recap: 12 Bills Passed, Mostly Without Debate | [Read More](https://www.livelaw.in/news-updates/monsoon-session-parliament-2026-12-bills-passed-lok-sabha-rajya-sabha-545997) |
 | Sun, 16 Aug 2026 04:30:49 GMT | **Verdictum** | Magistrate Can Explicitly Name Accused U/S.176(1-A) CrPC: Madhya Pradesh High Court Upholds Enquiry Report In Custodial Death Case | [Read More](https://www.verdictum.in/madhya-pradesh-high-court/raja-ram-dangi-v-the-state-of-madhya-pradesh-2026mphc-ind21865-magistrate-sec1761-a-crpc-1619957) |
 | Sun, 16 Aug 2026 04:30:46 GMT | **LiveLaw** | Overlooked 'Waiver Clause' In Construction Contracts And Effect Of Doctrine Of Acquiescence | [Read More](https://www.livelaw.in/articles/overlooked-waiver-clause-construction-contracts-effect-doctrine-of-acquiescence-545976) |
