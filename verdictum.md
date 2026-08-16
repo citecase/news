@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 16 Aug 2026 10:30:32 GMT | **Verdictum** | Officer In-Charge Of Women Police Station Not Public Servant To Whom Allegedly False Statements Were Made: Supreme Court Quashes Section 182 IPC Proceedings | [Read More](https://www.verdictum.in/supreme-court/a-v-state-of-himachal-pradesh-2026-insc-856-officer-in-charge-women-police-station-sec182-ipc-1619976) |
 | Sun, 16 Aug 2026 09:30:04 GMT | **LiveLaw** | Collegium Must Speak But With Institutional Restraint | [Read More](https://www.livelaw.in/articles/collegium-speak-institutional-restraint-545977) |
 | Sun, 16 Aug 2026 08:58:30 GMT | **LiveLaw** | LiveLaw Supreme Court Half Yearly Digest 2026 - BSA & Indian Evidence Act | [Read More](https://www.livelaw.in/supreme-court/supreme-court-judgments-and-orders-bharatiya-sakshya-adhiniyam-evidence-act-half-yearly-digest-546009) |
 | Sun, 16 Aug 2026 08:30:28 GMT | **LiveLaw** | Bharatiya Nagarik Suraksha Sanhita (BNSS) and Bharatiya Nyaya Sanhita (BNS) Monthly Digest: July 2026 | [Read More](https://www.livelaw.in/top-stories/bnss-bns-monthly-digest-july-2026-545646) |
