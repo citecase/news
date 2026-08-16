@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 16 Aug 2026 14:30:44 GMT | **LiveLaw** | Brahmaputra Floods: Assam's Unfinished Constitutional Promise | [Read More](https://www.livelaw.in/articles/brahmaputra-floods-assam-unfinished-constitutional-promise-545978) |
+| Sun, 16 Aug 2026 13:32:16 GMT | **LiveLaw** | Centre Shouldn't Sit On Recommendations Reiterated By Collegium : Justice KM Joseph | [Read More](https://www.livelaw.in/top-stories/centre-shouldnt-sit-on-recommendations-reiterated-by-collegium-justice-km-joseph-546014) |
 | Sun, 16 Aug 2026 12:30:15 GMT | **Verdictum** | Allahabad High Court Upholds OMCs' Customer Transfer Policy; Says Distributors Cannot Challenge Customer Base Reduction Without Assailing Underlying Covenants | [Read More](https://www.verdictum.in/allahabad-high-court/2026-ahc-166335-db-vikramaditya-gas-agencies-v-union-of-india-1619977) |
 | Sun, 16 Aug 2026 12:02:26 GMT | **LiveLaw** | CJI Surya Kant Advises Against Prohibiting AI Tools In Law Schools; Says Students Must Be Taught To Use Them Properly | [Read More](https://www.livelaw.in/top-stories/cji-surya-kant-advises-against-prohibition-of-ai-tools-in-law-schools-546013) |
 | Sun, 16 Aug 2026 11:47:05 GMT | **LiveLaw** | 2026 LiveLaw (SC) 809 - SAMEEM BEGUM AND OTHERS VERSUS K. VENKAT SWAMY AND ANOTHER | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-809-sameem-begum-and-others-versus-k-venkat-swamy-and-another-546012) |
