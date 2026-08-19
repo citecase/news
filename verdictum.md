@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Wed, 19 Aug 2026 01:26:04 GMT | **LiveLaw** | Goa Government Moves Supreme Court Seeking Life Sentence For Tarun Tejpal In Rape Case | [Read More](https://www.livelaw.in/top-stories/goa-government-moves-supreme-court-seeking-life-sentence-for-tarun-tejpal-in-rape-case-546373) |
 | Tue, 18 Aug 2026 19:21:55 GMT | **LiveLaw** | Senior Advocate Pradeep Rai Elected Supreme Court Bar Association President | [Read More](https://www.livelaw.in/top-stories/supreme-court-bar-association-elections-senior-advocate-pradeep-rai-elected-as-president-jagdeep-dhankhar-casts-vote-546368) |
 | Tue, 18 Aug 2026 18:06:13 GMT | **LiveLaw** | Supreme Court Daily Round-Up : Augsut 18, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-augsut-18-2026-546349) |
 | Tue, 18 Aug 2026 17:14:14 GMT | **LiveLaw** | LiveLaw High Courts Daily Highlights: August 18, 2026 | [Read More](https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-august-18-2026-546366) |
