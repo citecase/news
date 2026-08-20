@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Thu, 20 Aug 2026 03:05:40 GMT | **LiveLaw** | Supreme Court Weekly Roundup: August 10, 2026 To August 16, 2026 | [Read More](https://www.livelaw.in/round-ups/weekly/supreme-court-weekly-roundup-august-10-2026-to-august-16-2026-546548) |
 | Wed, 19 Aug 2026 17:20:10 GMT | **LiveLaw** | Supreme Court Daily Round-Up : August 19, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-august-19-2026-546550) |
 | Wed, 19 Aug 2026 16:54:02 GMT | **LiveLaw** | Prayagraj Waterlogging - High Court Directs Municipal Commissioner, DM To Ensure Rainwater Is Pumped Out From Low-Lying Areas | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-prayagraj-waterlogging-rainwater-low-lying-areas-suo-moto-546556) |
 | Wed, 19 Aug 2026 16:36:35 GMT | **LiveLaw** | 'Lis Pendens Applies To Involuntary Alienations'; Court Auction Sale Also Subject To Outcome Of Pending Suit: Allahabad High Court | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-notice-foundation-doctrine-of-lis-pendens-546495) |
