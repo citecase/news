@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Fri, 21 Aug 2026 01:18:00 GMT | **LiveLaw** | 3 Year Practice Rule : Live Updates From Supreme Court Verdict | [Read More](https://www.livelaw.in/top-stories/3-year-practice-rule-live-updates-from-supreme-court-verdict-546753) |
 | Thu, 20 Aug 2026 20:46:55 +0530 | **Bar & Bench** | Mother earning ₹1.5 lakh a month no ground to reduce father’s liability for child maintenance: Supreme Court | [Read More](https://www.barandbench.com/news/mother-earning-15-lakh-a-month-no-ground-to-reduce-fathers-liability-for-child-maintenance-supreme-court) |
 | Thu, 20 Aug 2026 20:25:50 +0530 | **Bar & Bench** | P&H High Court expresses concern over Senior Advocate's conduct after she accuses judge of bias in ex-DSP’s case | [Read More](https://www.barandbench.com/news/ph-high-court-expresses-concern-over-senior-advocates-conduct-after-she-accuses-judge-of-bias-in-ex-dsps-case) |
 | Thu, 20 Aug 2026 20:06:11 +0530 | **Bar & Bench** | Woman serving family is homemaker irrespective of education, work status: Karnataka HC | [Read More](https://www.barandbench.com/news/litigation/woman-serving-family-is-homemaker-irrespective-of-education-work-status-karnataka-hc) |
