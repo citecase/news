@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 22 Aug 2026 06:55:13 +0530 | **Bar & Bench** | Is MLA above High Court? Bombay HC issues show cause notice to civic chief for violating court order | [Read More](https://www.barandbench.com/news/is-mla-above-high-court-bombay-hc-issues-show-cause-notice-to-civic-chief-for-violating-court-order) |
 | Fri, 21 Aug 2026 17:25:24 GMT | **LiveLaw** | Supreme Court Daily Round-Up : August 21, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-august-21-2026-546909) |
 | Fri, 21 Aug 2026 17:20:23 GMT | **LiveLaw** | LiveLaw High Courts Daily Highlights: August 21, 2026 | [Read More](https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-august-21-2026-546914) |
 | Fri, 21 Aug 2026 17:10:52 GMT | **LiveLaw** | Suffer For Sometime Like You Made Customers Suffer By Serving 'Analogue Paneer': Bombay High Court Denies Interim Relief To Eatery | [Read More](https://www.livelaw.in/high-court/bombay-high-court/interim-relief-denied-to-eatery-serving-analogue-paneer-546913) |
