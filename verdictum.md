@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 22 Aug 2026 03:30:40 GMT | **LiveLaw** | LiveLaw Gauhati High Court Monthly Digest: July 2026 | [Read More](https://www.livelaw.in/high-court/gauhati-high-court/gauhati-high-court-monthly-digest-july-2026-544723) |
+| Sat, 22 Aug 2026 03:30:40 GMT | **LiveLaw** | Madras High Court Seeks Explanation Over 14 Tamil Nadu Universities Functioning Without Vice-Chancellors | [Read More](https://www.livelaw.in/high-court/madras-high-court/madras-high-court-vc-not-appointment-tn-universities-report-sought-546912) |
 | Sat, 22 Aug 2026 08:14:49 +0530 | **Bar & Bench** | Allahabad HC rejects News18 reporter's plea for FIR, security after police probe reveals shooting incident was fake | [Read More](https://www.barandbench.com/news/allahabad-hc-rejects-news18-reporters-plea-for-fir-security-after-police-probe-reveals-shooting-incident-was-fake) |
 | Sat, 22 Aug 2026 06:55:13 +0530 | **Bar & Bench** | Is MLA above High Court? Bombay HC issues show cause notice to civic chief for violating court order | [Read More](https://www.barandbench.com/news/is-mla-above-high-court-bombay-hc-issues-show-cause-notice-to-civic-chief-for-violating-court-order) |
 | Fri, 21 Aug 2026 17:25:24 GMT | **LiveLaw** | Supreme Court Daily Round-Up : August 21, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-august-21-2026-546909) |
