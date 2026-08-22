@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 22 Aug 2026 12:21:06 +0530 | **Bar & Bench** | Supreme Court sets aside NGT order against Art of Living over Yamuna floodplain damage, orders refund of ₹5 crore compensation | [Read More](https://www.barandbench.com/news/litigation/supreme-court-orders-refund-of-5-crore-fine-paid-by-art-of-living-over-yamuna-floodplain-damage) |
 | Sat, 22 Aug 2026 15:11:54 GMT | **LiveLaw** | Judges Are Not Gods; Won't Get Every Judgment Right : Justice Sanjay Karol In Farewell Speech | [Read More](https://www.livelaw.in/top-stories/judges-are-not-gods-wont-get-every-judgment-right-justice-sanjay-karol-in-farewell-speech-546978) |
 | Sat, 22 Aug 2026 15:10:51 GMT | **LiveLaw** | Supreme Court Sets Aside NGT Order Holding 'Art Of Living' Liable For Yamuna Riverplain Damage; Directs  Rs 5 Crore Refund | [Read More](https://www.livelaw.in/top-stories/supreme-court-sets-aside-ngt-order-holding-art-of-living-foundation-liable-for-yamuna-riverplain-damage-in-2016-546972) |
 | Sat, 22 Aug 2026 15:05:09 GMT | **LiveLaw** | 2026 LiveLaw (SC) 847 -  VYAKTI VIKAS KENDRA INDIA v MANOJ MISRA (DEAD) AND ORS | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-847-vyakti-vikas-kendra-india-v-manoj-misra-dead-and-ors-546977) |
