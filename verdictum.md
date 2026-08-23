@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 23 Aug 2026 04:30:25 GMT | **LiveLaw** | When State Defeats Its Own Case: Police Lapses, Procedural Safeguards, And  Crisis Of Criminal Justice | [Read More](https://www.livelaw.in/articles/police-lapses-procedural-safeguards-crisis-criminal-justice-546967) |
+| Sun, 23 Aug 2026 04:30:07 GMT | **Verdictum** | UP Gangsters Act Is "Stillborn" As It Fails To Create An Offence: Supreme Court Quashes Proceedings Against Two Advocates | [Read More](https://www.verdictum.in/supreme-court/shiv-pratap-singh-alias-chinu-v-state-of-up-2026-insc-894-up-gangsters-act-is-stillborn-1620415) |
 | Sun, 23 Aug 2026 03:30:18 GMT | **LiveLaw** | LiveLaw Chhattisgarh High Court Monthly Digest: July 2026 | [Read More](https://www.livelaw.in/high-court/chhattisgarh-high-court/chhattisgarh-high-court-monthly-digest-july-2026-544725) |
 | Sun, 23 Aug 2026 03:12:49 GMT | **LiveLaw** | 2026 LiveLaw (SC) 848 - STATE OF U.P. Vs JAI BIR SINGH - | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-848-state-of-up-vs-jai-bir-singh--546993) |
 | Sat, 22 Aug 2026 12:21:06 +0530 | **Bar & Bench** | Supreme Court sets aside NGT order against Art of Living over Yamuna floodplain damage, orders refund of ₹5 crore compensation | [Read More](https://www.barandbench.com/news/litigation/supreme-court-orders-refund-of-5-crore-fine-paid-by-art-of-living-over-yamuna-floodplain-damage) |
