@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 23 Aug 2026 03:30:18 GMT | **LiveLaw** | LiveLaw Chhattisgarh High Court Monthly Digest: July 2026 | [Read More](https://www.livelaw.in/high-court/chhattisgarh-high-court/chhattisgarh-high-court-monthly-digest-july-2026-544725) |
+| Sun, 23 Aug 2026 03:12:49 GMT | **LiveLaw** | 2026 LiveLaw (SC) 848 - STATE OF U.P. Vs JAI BIR SINGH - | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-848-state-of-up-vs-jai-bir-singh--546993) |
 | Sat, 22 Aug 2026 12:21:06 +0530 | **Bar & Bench** | Supreme Court sets aside NGT order against Art of Living over Yamuna floodplain damage, orders refund of ₹5 crore compensation | [Read More](https://www.barandbench.com/news/litigation/supreme-court-orders-refund-of-5-crore-fine-paid-by-art-of-living-over-yamuna-floodplain-damage) |
 | Sat, 22 Aug 2026 15:11:54 GMT | **LiveLaw** | Judges Are Not Gods; Won't Get Every Judgment Right : Justice Sanjay Karol In Farewell Speech | [Read More](https://www.livelaw.in/top-stories/judges-are-not-gods-wont-get-every-judgment-right-justice-sanjay-karol-in-farewell-speech-546978) |
 | Sat, 22 Aug 2026 15:10:51 GMT | **LiveLaw** | Supreme Court Sets Aside NGT Order Holding 'Art Of Living' Liable For Yamuna Riverplain Damage; Directs  Rs 5 Crore Refund | [Read More](https://www.livelaw.in/top-stories/supreme-court-sets-aside-ngt-order-holding-art-of-living-foundation-liable-for-yamuna-riverplain-damage-in-2016-546972) |
