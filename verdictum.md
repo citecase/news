@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 23 Aug 2026 04:57:25 GMT | **LiveLaw** | 2026 LiveLaw (SC) 848 - STATE OF U.P. Vs JAI BIR SINGH - | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-848-state-of-up-vs-jai-bir-singh-546993) |
+| Sun, 23 Aug 2026 04:56:25 GMT | **LiveLaw** | 'Industry' Definition : No Clear Majority Emerges From Supreme Court Judgment, Only 4 Out Of 9 Judges Back New Test | [Read More](https://www.livelaw.in/top-stories/industry-definition-no-clear-majority-emerges-from-supreme-court-judgment-only-4-out-of-9-judges-back-new-test-546994) |
+| Sun, 23 Aug 2026 04:35:26 GMT | **LiveLaw** | 'Homemakers' Rights, Protection For Live-Ins, Blackmoney Curbs' : Activist Judgments Of Justice Sanjay Karol | [Read More](https://www.livelaw.in/top-stories/activist-judgments-of-justice-sanjay-karol-546971) |
 | Sun, 23 Aug 2026 04:30:25 GMT | **LiveLaw** | When State Defeats Its Own Case: Police Lapses, Procedural Safeguards, And  Crisis Of Criminal Justice | [Read More](https://www.livelaw.in/articles/police-lapses-procedural-safeguards-crisis-criminal-justice-546967) |
 | Sun, 23 Aug 2026 04:30:07 GMT | **Verdictum** | UP Gangsters Act Is "Stillborn" As It Fails To Create An Offence: Supreme Court Quashes Proceedings Against Two Advocates | [Read More](https://www.verdictum.in/supreme-court/shiv-pratap-singh-alias-chinu-v-state-of-up-2026-insc-894-up-gangsters-act-is-stillborn-1620415) |
 | Sun, 23 Aug 2026 03:30:18 GMT | **LiveLaw** | LiveLaw Chhattisgarh High Court Monthly Digest: July 2026 | [Read More](https://www.livelaw.in/high-court/chhattisgarh-high-court/chhattisgarh-high-court-monthly-digest-july-2026-544725) |
