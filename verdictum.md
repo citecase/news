@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Tue, 25 Aug 2026 07:12:49 +0530 | **Bar & Bench** | Not essential religious practice: Allahabad High Court rejects Muslim student’s plea to wear hijab in school | [Read More](https://www.barandbench.com/news/not-essential-religious-practice-allahabad-high-court-rejects-muslim-students-plea-to-wear-hijab-in-school) |
 | Mon, 24 Aug 2026 17:21:24 GMT | **LiveLaw** | Supreme Court Daily Round-Up : August 24, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-august-24-2026-547217) |
 | Mon, 24 Aug 2026 17:08:37 GMT | **LiveLaw** | AI-Generated Case Laws In Tax Order: Gujarat High Court Directs Strict Verification And Human Oversight, Warns Of Contempt | [Read More](https://www.livelaw.in/high-court/gujarat-high-court/gst-order-tax-officer-relied-on-ai-generated-judgments-quashed-contempt-547197) |
 | Mon, 24 Aug 2026 17:08:06 GMT | **LiveLaw** | Gen Z Protests Assure Democracy In India Won't Die; 'Dimaghi Naxal' Label Won't Stop Them : S Muralidhar | [Read More](https://www.livelaw.in/top-stories/gen-z-protests-assure-democracy-in-india-wont-die-dimaghi-naxal-label-wont-stop-them-s-muralidhar-547212) |
