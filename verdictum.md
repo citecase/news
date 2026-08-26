@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Wed, 26 Aug 2026 06:00:34 +0530 | **Bar & Bench** | EXCLUSIVE: Supreme Court Justice Sandeep Mehta asks CJI Surya Kant to replace Rajasthan HC Acting Chief Justice for misusing office | [Read More](https://www.barandbench.com/news/litigation/exclusive-supreme-court-justice-sandeep-mehta-asks-cji-surya-kant-to-replace-rajasthan-hc-acting-chief-justice-for-misusing-office) |
+| Wed, 26 Aug 2026 05:15:57 +0530 | **Bar & Bench** | Delhi court rejects Delhi Race Club's plea against government order to vacate its Lutyens' Delhi premises | [Read More](https://www.barandbench.com/news/delhi-court-rejects-delhi-race-clubs-plea-against-government-order-to-vacate-its-lutyens-delhi-premises) |
 | Tue, 25 Aug 2026 17:21:02 GMT | **LiveLaw** | Supreme Court Daily Round-Up : August 25, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-august-25-2026-547398) |
 | Tue, 25 Aug 2026 17:02:47 GMT | **LiveLaw** | Setting Aside Of Quasi-Judicial Order Can't By Itself Lead To Disciplinary Action Against Officer Who Passed It: Allahabad High Court | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-all-india-services-conduct-rules-setting-aside-547350) |
 | Tue, 25 Aug 2026 17:02:22 GMT | **LiveLaw** | Clarificatory Circular Issued After Complaint But Before Decision Governs Pending Public Tender Complaint: Allahabad High Court | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-clarificatory-circular-public-tender-issued-after-complaint-547337) |
