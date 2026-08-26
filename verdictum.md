@@ -2,6 +2,11 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Wed, 26 Aug 2026 07:45:10 +0530 | **Bar & Bench** | CMS INDUSLAW act on Freehand $75 million Series B fundraise | [Read More](https://www.barandbench.com/law-firms/dealstreet/cms-induslaw-act-on-freehand-75-million-series-b-fundraise) |
+| Wed, 26 Aug 2026 07:44:42 +0530 | **Bar & Bench** | Cyril Amarchand Mangaldas acts on Nxt-Infra Trust ₹700 crore institutional placement of units | [Read More](https://www.barandbench.com/law-firms/dealstreet/cyril-amarchand-mangaldas-acts-on-nxt-infra-trust-700-crore-institutional-placement-of-units) |
+| Wed, 26 Aug 2026 07:44:10 +0530 | **Bar & Bench** | Vidhigya Associates acts on Sunshine Pictures ₹282 crore IPO | [Read More](https://www.barandbench.com/law-firms/dealstreet/vidhigya-associates-acts-on-sunshine-pictures-282-crore-ipo) |
+| Wed, 26 Aug 2026 07:43:59 +0530 | **Bar & Bench** | Oriental Hotels merges into The Indian Hotel Company; Cyril Amarchand Mangaldas advises | [Read More](https://www.barandbench.com/law-firms/dealstreet/oriental-hotels-merges-into-the-indian-hotel-company-cyril-amarchand-mangaldas-advises) |
+| Wed, 26 Aug 2026 07:43:11 +0530 | **Bar & Bench** | Khaitan & Co, Trilegal act on SPR Auto Technologies ₹1,000 crore QIP | [Read More](https://www.barandbench.com/law-firms/dealstreet/khaitan-co-trilegal-act-on-spr-auto-technologies-1000-crore-qip) |
 | Wed, 26 Aug 2026 06:00:34 +0530 | **Bar & Bench** | EXCLUSIVE: Supreme Court Justice Sandeep Mehta asks CJI Surya Kant to replace Rajasthan HC Acting Chief Justice for misusing office | [Read More](https://www.barandbench.com/news/litigation/exclusive-supreme-court-justice-sandeep-mehta-asks-cji-surya-kant-to-replace-rajasthan-hc-acting-chief-justice-for-misusing-office) |
 | Wed, 26 Aug 2026 05:15:57 +0530 | **Bar & Bench** | Delhi court rejects Delhi Race Club's plea against government order to vacate its Lutyens' Delhi premises | [Read More](https://www.barandbench.com/news/delhi-court-rejects-delhi-race-clubs-plea-against-government-order-to-vacate-its-lutyens-delhi-premises) |
 | Tue, 25 Aug 2026 17:21:02 GMT | **LiveLaw** | Supreme Court Daily Round-Up : August 25, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-august-25-2026-547398) |
