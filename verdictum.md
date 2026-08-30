@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Wed, 19 Aug 2026 15:24:33 +0530 | **Bar & Bench** | Analysis of Roadway Solutions India Infra vs NHAI | [Read More](https://www.barandbench.com/law-firms/view-point/analysis-of-roadway-solutions-india-infra-vs-nhai) |
 | Sun, 30 Aug 2026 15:00:49 GMT | **Verdictum** | Associate (Legal) Vacancy At Agricultural and Processed Food Products Export Development Authority (APEDA) | [Read More](https://www.verdictum.in/job-updates/agricultural-and-processed-food-products-export-development-authority-1620867) |
 | Sun, 30 Aug 2026 14:32:53 GMT | **LiveLaw** | LiveLaw Allahabad High Court Weekly Round Up: August 24 - August 30, 2026 | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/livelaw-allahabad-high-court-weekly-round-up-august-24-august-30-2026-547799) |
 | Sun, 30 Aug 2026 14:31:25 GMT | **LiveLaw** | Healthy University Requires Both Authority And Dissent | [Read More](https://www.livelaw.in/articles/healthy-university-requires-authority-dissent-547767) |
