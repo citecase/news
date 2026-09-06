@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 06 Sep 2026 00:08:50 +0530 | **Bar & Bench** | Centre clears appointment of Justice Mahesh Chandra Tripathi as Chief Justice of Bombay High Court | [Read More](https://www.barandbench.com/news/litigation/centre-clears-appointment-of-justice-mahesh-chandra-tripathi-as-chief-justice-of-bombay-high-court) |
 | Sat, 05 Sep 2026 18:28:00 GMT | **LiveLaw** | Centre Notifies Appointments Of Chief Justices At Eight High Courts | [Read More](https://www.livelaw.in/high-court/all-high-courts/centre-notifies-appointments-for-chief-justices-at-eight-high-courts-548759) |
 | Sat, 05 Sep 2026 15:00:14 GMT | **Verdictum** | National Minorities Development & Finance Corporation (NMDFC) Invites Applications For Post Of Senior Legal Consultant | [Read More](https://www.verdictum.in/job-updates/national-minorities-development-finance-corporation-1621390) |
 | Sat, 05 Sep 2026 14:30:33 GMT | **LiveLaw** | Declaration Of Title In Immovable Property Suits Governed By Article 65 Limitation Act, Not Article 58: AP High Court | [Read More](https://www.livelaw.in/high-court/andhra-pradesh-high-court/ap-high-court-declaration-title-immovable-property-suits-governed-article65-limitation-act-548700) |
