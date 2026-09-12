@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 12 Sep 2026 02:31:03 GMT | **LiveLaw** | Maharashtra's Anti-Conversion Law Challenged In Bombay High Court, Plea Alleges Violation Of Religious Freedom, Privacy | [Read More](https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-plea-maharashtra-freedom-of-religion-act-fundamental-rights-549802) |
 | Fri, 11 Sep 2026 18:20:48 GMT | **LiveLaw** | LiveLaw High Courts Daily Highlights: September 11, 2026 | [Read More](https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-september-11-2026-549794) |
 | Fri, 11 Sep 2026 17:36:10 GMT | **LiveLaw** | Applications Open For Certificate Course On Criminal Defence Practice At NALSAR's Square Circle Clinic | [Read More](https://www.livelaw.in/events/certificate-course-on-criminal-defence-practice-at-nalsar-square-circle-clinic-549793) |
 | Fri, 11 Sep 2026 16:00:11 GMT | **Verdictum** | Legal Officer Vacancy At Tamil Nadu Forest and Wildlife Crime Control Bureau (TNFWCCB) | [Read More](https://www.verdictum.in/job-updates/tamil-nadu-forest-and-wildlife-crime-control-bureau-1621785) |
