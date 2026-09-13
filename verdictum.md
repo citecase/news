@@ -2,6 +2,9 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 13 Sep 2026 16:06:21 GMT | **LiveLaw** | NLSIU Students' Group Postpones Screening Of Umar Khalid Documentary, Denies Bowing To Any Pressure | [Read More](https://www.livelaw.in/top-stories/nlsiu-students-group-postpones-screening-of-umar-khalid-documentary-denies-bowing-to-any-pressure-549893) |
+| Sun, 13 Sep 2026 15:00:19 GMT | **Verdictum** | Empanelment Of Advocates At District Legal Services Authority, Ahmedabad (DLSA Ahmedabad) | [Read More](https://www.verdictum.in/job-updates/district-legal-services-authority-1621859) |
+| Sun, 13 Sep 2026 14:55:28 GMT | **LiveLaw** | LiveLaw Allahabad High Court Weekly Round-Up: September 07 To September 13, 2026 | [Read More](https://www.livelaw.in/round-ups/weekly/livelaw-allahabad-high-court-weekly-round-up-september-07-to-september-13-2026-549892) |
 | Sun, 13 Sep 2026 14:31:00 GMT | **LiveLaw** | Can State Take Down Your Post Without Hearing ? Comparative Public Law Case For Digital Due Process In India | [Read More](https://www.livelaw.in/articles/comparative-public-law-case-digital-due-process-india-549872) |
 | Sun, 13 Sep 2026 14:19:52 GMT | **LiveLaw** | UP Municipalities Act - Nagar Panchayat Has Authority To License Cattle Markets Even On Private Land: Allahabad High Court | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/up-municipalities-act-nagar-panchayat-license-cattle-market-allahabad-hc-549891) |
 | Sun, 13 Sep 2026 13:30:54 GMT | **Verdictum** | Administrative Discretion Not Placed Beyond Judicial Review: Supreme Court Directs To Grant Permission To J&K Physical Ed. Teacher For National Kayaking Coaching | [Read More](https://www.verdictum.in/supreme-court/indian-kayaking-and-canoeing-association-v-union-territory-of-jk-2026-insc-981-govt-order-teacher-1621860) |
