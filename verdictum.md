@@ -2,6 +2,11 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 13 Sep 2026 04:31:16 GMT | **LiveLaw** | LiveLaw Gauhati High Court Monthly Digest: August 2026 | [Read More](https://www.livelaw.in/high-court/gauhati-high-court/gauhati-high-court-monthly-digest-august-2026-548880) |
+| Sun, 13 Sep 2026 04:30:50 GMT | **Verdictum** | Goonda Act Being Used As Tool Of Oppression: Allahabad HC Calls State’s Approach A 'Glaring Example’ Of Statutory Abuse | [Read More](https://www.verdictum.in/allahabad-high-court/zahid-ali-v-state-of-up-2026ahc-lko-63435-goonda-act-oppression-1621850) |
+| Sun, 13 Sep 2026 03:54:39 GMT | **LiveLaw** | Kakinada Consumer Commission Holds Temple Shop Licensee Liable For Selling Water Bottle Above MRP, Imposes ₹7 Lakh Punitive Damages | [Read More](https://www.livelaw.in/consumer-cases/kakinada-consumer-commission-holds-temple-shop-licensee-liable-for-selling-water-bottle-above-mrp-imposes-7-lakh-punitive-damages-549881) |
+| Sun, 13 Sep 2026 03:30:09 GMT | **LiveLaw** | LiveLaw Supreme Court Half-Yearly Digest: January-June 2026 [Part 2] | [Read More](https://www.livelaw.in/supreme-court/supreme-court-judgments-and-orders-half-yearly-digest-2026-549798) |
+| Sun, 13 Sep 2026 02:31:03 GMT | **LiveLaw** | Composite Transaction Route To “Veritable Party”: Doctrine Still Finding Its Edges | [Read More](https://www.livelaw.in/articles/composite-transaction-route-veritable-party-doctrine-still-finding-its-edges-549868) |
 | Sat, 12 Sep 2026 15:55:35 GMT | **LiveLaw** | Supreme Court Seeks Response Of Centre, States On Plea Seeking National Judicial Pay Commission For Judges | [Read More](https://www.livelaw.in/top-stories/supreme-court-seeks-response-of-centre-states-on-plea-seeking-national-judicial-pay-commission-for-judges-549878) |
 | Sat, 12 Sep 2026 15:47:54 GMT | **LiveLaw** | 3rd National Lok Adalat 2026 Settles Over 2.10 Crore Cases, ₹13,589 Crore Disputes Resolved: NALSA | [Read More](https://www.livelaw.in/news-updates/3rd-national-lok-adalat-2026-settles-over-210-crore-cases-13589-crore-disputes-resolved-nalsa-549877) |
 | Sat, 12 Sep 2026 15:30:24 GMT | **Verdictum** | Young Professional Vacancy At Director General of Foreign Trade, Guwahati (DGFT Guwahati) | [Read More](https://www.verdictum.in/job-updates/director-general-of-foreign-trade-1621849) |
