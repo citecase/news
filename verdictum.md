@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 13 Sep 2026 23:06:33 +0530 | **Bar & Bench** | ABVP continues push for Cancellation after NLSIU defers Umar Khalid Documentary Screening | [Read More](https://www.barandbench.com/news/abvp-continues-push-for-cancellation-after-nlsiu-defers-umar-khalid-documentary-screening) |
 | Sun, 13 Sep 2026 16:06:21 GMT | **LiveLaw** | NLSIU Students' Group Postpones Screening Of Umar Khalid Documentary, Denies Bowing To Any Pressure | [Read More](https://www.livelaw.in/top-stories/nlsiu-students-group-postpones-screening-of-umar-khalid-documentary-denies-bowing-to-any-pressure-549893) |
 | Sun, 13 Sep 2026 15:00:19 GMT | **Verdictum** | Empanelment Of Advocates At District Legal Services Authority, Ahmedabad (DLSA Ahmedabad) | [Read More](https://www.verdictum.in/job-updates/district-legal-services-authority-1621859) |
 | Sun, 13 Sep 2026 14:55:28 GMT | **LiveLaw** | LiveLaw Allahabad High Court Weekly Round-Up: September 07 To September 13, 2026 | [Read More](https://www.livelaw.in/round-ups/weekly/livelaw-allahabad-high-court-weekly-round-up-september-07-to-september-13-2026-549892) |
