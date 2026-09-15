@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Tue, 15 Sep 2026 02:57:20 GMT | **LiveLaw** | 'Free Umar Khalid' Is A Valid Statement For Those Who Understand Constitution & Believe In Democracy : Adv Vrinda Grover | [Read More](https://www.livelaw.in/top-stories/free-umar-khalid-is-a-valid-statement-for-those-who-understand-constitution-believe-in-democracy-adv-vrinda-grover-550013) |
+| Tue, 15 Sep 2026 02:31:04 GMT | **LiveLaw** | India's Surveillance Gap | [Read More](https://www.livelaw.in/articles/india-surveillance-gap-549996) |
 | Mon, 14 Sep 2026 15:49:23 GMT | **LiveLaw** | Delhi High Court Dismisses Vimal Elaichi's Plea Challenging FDA Notice To Shah Rukh Khan, Ajay Devgn, Tiger Shroff | [Read More](https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-dismisses-vimal-elaichis-plea-challenging-fda-notice-to-shah-rukh-khan-ajay-devgn-tiger-shroff-549995) |
 | Mon, 14 Sep 2026 15:46:45 GMT | **LiveLaw** | LiveLaw Delhi High Court Weekly Round-Up: September 06 To September 13, 2026 | [Read More](https://www.livelaw.in/high-court/delhi-high-court/livelaw-delhi-high-court-weekly-round-up-september-06-to-september-13-2026-550003) |
 | Mon, 14 Sep 2026 15:30:03 GMT | **Verdictum** | Paralegal Personnel Vacancy At District Women and Child Welfare Department, Chittoor | [Read More](https://www.verdictum.in/job-updates/district-women-and-child-welfare-department-1621945) |
