@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Wed, 16 Sep 2026 02:47:24 GMT | **LiveLaw** | IndiGo Liable For Denying Boarding After Flight Reschedule; Delhi Consumer Commission Grants Relief To Passenger | [Read More](https://www.livelaw.in/consumer-cases/indigo-liable-for-denying-boarding-after-flight-reschedule-delhi-consumer-commission-grants-relief-to-passenger-550194) |
+| Wed, 16 Sep 2026 02:30:33 GMT | **LiveLaw** | Body Before Birth: Can Article 21 Shield Genome From Non-Consensual CRISPR Editing? | [Read More](https://www.livelaw.in/articles/body-before-birth-article21-shield-genome-non-consensual-crispr-editing-550149) |
 | Tue, 15 Sep 2026 18:23:57 GMT | **LiveLaw** | LiveLaw High Courts Daily Highlights: September 15, 2026 | [Read More](https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-september-15-2026-550192) |
 | Tue, 15 Sep 2026 17:25:03 GMT | **LiveLaw** | Supreme Court Daily Round-Up : September 15, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-september-15-2026-550189) |
 | Tue, 15 Sep 2026 17:10:07 GMT | **LiveLaw** | Noida Protest - After Indicating Grant Of Bail, Allahabad High Court Defers Journalist Satyam Verma's Plea To Hear State's Objections | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-noida-workers-protest-grant-bail-defer-journalist-satyam-verma-objections-550173) |
