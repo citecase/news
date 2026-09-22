@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Tue, 22 Sep 2026 02:57:14 GMT | **CaseCiter** | Supreme Court Closes 'Re-Arrest' Loophole For Article 22 Violations | [Read More](https://www.caseciter.com/supreme-court-closes-re-arrest-loophole-for-article-22-violations/) |
+| Tue, 22 Sep 2026 02:31:04 GMT | **LiveLaw** | Stock Witnesses And Fair Criminal Process | [Read More](https://www.livelaw.in/articles/stock-witnesses-fair-criminal-process-551115) |
 | Mon, 21 Sep 2026 18:10:30 GMT | **LiveLaw** | LiveLaw High Courts Daily Highlights: September 21, 2026 | [Read More](https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-september-21-2026-551148) |
 | Mon, 21 Sep 2026 17:41:15 GMT | **LiveLaw** | Bombay High Court Takes Suo Motu Cognisance Of Noise Pollution Caused Due To Religious Processions | [Read More](https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-suo-motu-cognisance-noise-pollution-religious-processions-551145) |
 | Mon, 21 Sep 2026 17:38:01 GMT | **LiveLaw** | ISF Moves Calcutta High Court Against ECI's Allotment Of 'Envelope' Symbol To Democratic Trinamool Congress | [Read More](https://www.livelaw.in/high-court/calcutta-high-court/isf-moves-calcutta-high-court-against-ecis-allotment-of-envelope-symbol-to-democratic-trinamool-congress-551147) |
