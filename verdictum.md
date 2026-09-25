@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Fri, 25 Sep 2026 03:30:11 GMT | **LiveLaw** | Motor Accident Tribunal Duty Bound To Award 'Just Compensation': Gujarat High Court Enhances Award To ₹24 Lakh | [Read More](https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-enhances-accident-compensation-551673) |
+| Fri, 25 Sep 2026 02:55:08 GMT | **LiveLaw** | Insurance Claim Can't Be Repudiated Solely On Surveyor's Report; Kupwara Consumer Commission Holds Bajaj Allianz Liable | [Read More](https://www.livelaw.in/consumer-cases/insurance-claim-cant-be-repudiated-solely-on-surveyors-report-kupwara-consumer-commission-holds-bajaj-allianz-liable-551709) |
 | Thu, 24 Sep 2026 17:46:51 GMT | **LiveLaw** | Supreme Court Daily Round-Up : September 24, 2026 | [Read More](https://www.livelaw.in/round-ups/supreme-court-daily-round-up-september-24-2026-551705) |
 | Thu, 24 Sep 2026 17:43:49 GMT | **LiveLaw** | LiveLaw High Courts Daily Highlights: September 24, 2026 | [Read More](https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-september-24-2026-551708) |
 | Thu, 24 Sep 2026 16:29:19 GMT | **LiveLaw** | BREAKING - Plea In Bombay High Court To Quash 14 Orders Passed By CEC Gyanesh Kumar Despite Objections Of 2 ECs | [Read More](https://www.livelaw.in/high-court/bombay-high-court/plea-in-bombay-high-court-to-quash-14-orders-passed-by-cec-gyanesh-kumar-despite-dissent-by-2-ecs-551700) |
