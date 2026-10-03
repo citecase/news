@@ -2,6 +2,10 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sat, 03 Oct 2026 03:09:36 GMT | **LiveLaw** | Gujarat UCC Bill Gets President's Assent; Registration Of Live-In Relationships, Penalties For Non-Compliance Among Key Provisions | [Read More](https://www.livelaw.in/news-updates/president-gives-assent-to-gujarats-uniform-civil-code-552901) |
+| Sat, 03 Oct 2026 02:56:14 GMT | **LiveLaw** | Movie Delayed By 22 Minutes Due To Ads: Consumer Commission Orders PVR, PVR Inox To Pay ₹20,000 Compensation | [Read More](https://www.livelaw.in/consumer-cases/movie-delayed-by-22-minutes-due-to-ads-consumer-commission-orders-pvr-pvr-inox-to-pay-20000-compensation-552897) |
+| Sat, 03 Oct 2026 02:41:49 GMT | **LiveLaw** | LiveLaw High Courts Daily Highlights: October 02, 2026 | [Read More](https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-october-02-2026-552892) |
+| Fri, 02 Oct 2026 18:11:57 GMT | **LiveLaw** | NUSRL Ranchi's CPLAN To Organise One-Week National-Level Online Capacity Building Programme On Law And Public Policy | [Read More](https://www.livelaw.in/lawschool/news/nusrl-ranchis-cplan-organise-one-week-national-level-online-capacity-building-programme-law-public-policy-552885) |
 | Fri, 02 Oct 2026 17:29:07 GMT | **LiveLaw** | LiveLaw Supreme Court Criminal Law Digest: August 2026 | [Read More](https://www.livelaw.in/supreme-court/supreme-court-criminal-law-digest-august-2026-552883) |
 | Fri, 02 Oct 2026 16:15:42 GMT | **LiveLaw** | Lawyers' Body Forms Ex-Judges' Commission To Examine SIR's Legality & Impact | [Read More](https://www.livelaw.in/top-stories/lawyers-body-forms-ex-judges-commission-to-examine-sirs-legality-impact-552879) |
 | Fri, 02 Oct 2026 15:00:03 GMT | **Verdictum** | NALSAR University of Law, Hyderabad Invites Applications For Post Of Legal Consultant (Maritime Law) | [Read More](https://www.verdictum.in/job-updates/nalsar-university-of-law-1623154) |
