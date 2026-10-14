@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Wed, 14 Oct 2026 03:08:55 GMT | **LiveLaw** | Legal Consultant (Maritime Law) Vacancy At NALSAR University Of Law, Hyderabad | [Read More](https://www.livelaw.in/job-updates/legal-consultant-maritime-law-vacancy-at-nalsar-university-of-law-hyderabad-554530) |
 | Tue, 13 Oct 2026 18:44:49 GMT | **LiveLaw** | Delhi SIR : Plea In Supreme Court Challenges ECI Directive That Deleted Voters Must File Form 6 For Electoral Roll Registration | [Read More](https://www.livelaw.in/top-stories/delhi-sir-plea-in-supreme-court-challenges-eci-directive-that-deleted-voters-must-file-form-6-for-electoral-roll-registration-554528) |
 | Tue, 13 Oct 2026 17:43:11 GMT | **LiveLaw** | 2026 LiveLaw (SC) 1047 - UNION OF INDIA V RADHA YADAV | [Read More](https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1047-union-of-india-v-radha-yadav-554529) |
 | Tue, 13 Oct 2026 17:42:55 GMT | **LiveLaw** | Give Insurance Cover To Tickets Sold Over Counter Like Online Tickets : Supreme Court Directs Railways | [Read More](https://www.livelaw.in/top-stories/give-insurance-cover-to-tickets-sold-over-counter-like-online-tickets-supreme-court-directs-railways-554524) |
