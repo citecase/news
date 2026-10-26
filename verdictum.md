@@ -2,6 +2,8 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Mon, 26 Oct 2026 02:30:33 GMT | **LiveLaw** | Treatment Of Advance Deposits And Pre -CIRP Dues Under IBC Moratorium | [Read More](https://www.livelaw.in/lawschool/articles/treatment-advance-deposits-pre-cirp-dues-under-ibc-moratorium-555728) |
+| Mon, 26 Oct 2026 02:21:53 GMT | **LiveLaw** | Legal Researcher Vacancy At Rajasthan High Court, Jodhpur | [Read More](https://www.livelaw.in/job-updates/legal-researcher-vacancy-at-rajasthan-high-court-jodhpur-555873) |
 | Sun, 25 Oct 2026 16:33:35 GMT | **LiveLaw** | NLIU Bhopal To Organise International Conference On Law, Language And Literature In February 2027; Submit Abstracts By November 15 | [Read More](https://www.livelaw.in/lawschool/seminars/nliu-bhopal-organise-international-conference-law-language-literature-555872) |
 | Sun, 25 Oct 2026 16:19:45 GMT | **LiveLaw** | 13th NLIU–VKC Law Offices International Corporate Law Moot, 2027; Register By November 3 | [Read More](https://www.livelaw.in/lawschool/competitions/nliuvkc-law-offices-international-corporate-law-moot-2027-555871) |
 | Sun, 25 Oct 2026 15:06:02 GMT | **LiveLaw** | “Ordinary Criminal Law Sufficient”: J&K High Court Quashes Preventive Detention Of Man Accused In Repeated Livestock Theft Cases | [Read More](https://www.livelaw.in/high-court/jammu-kashmir/ordinary-criminal-law-was-sufficient-jk-high-court-quashes-psa-detention-of-man-accused-in-repeated-livestock-theft-cases-555862) |
