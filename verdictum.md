@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Tue, 03 Nov 2026 08:18:48 +0530 | **Bar & Bench** | Rajasthan High Court restores separate registration of criminal writ petitions; overrules former acting CJ's verdict | [Read More](https://www.barandbench.com/news/litigation/rajasthan-high-court-restores-separate-registration-of-criminal-writ-petitions-overrules-former-acting-cjs-verdict) |
 | Mon, 02 Nov 2026 18:25:37 GMT | **LiveLaw** | Supreme Court Daily Round-Up : November 2, 2026 | [Read More](https://www.livelaw.in/top-stories/supreme-court-daily-round-up-november-2-2026-556984) |
 | Mon, 02 Nov 2026 17:00:57 GMT | **LiveLaw** | LiveLaw High Courts Daily Highlights: November 02, 2026 | [Read More](https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-november-02-2026-556979) |
 | Mon, 02 Nov 2026 16:00:50 GMT | **Verdictum** | Empanelment Of Advocates At Bihar Shiksha Pariyojana Parishad (BSPP) | [Read More](https://www.verdictum.in/job-updates/bihar-shiksha-pariyojana-parishad-1625018) |
