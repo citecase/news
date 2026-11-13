@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Thu, 12 Nov 2026 19:51:49 GMT | **LiveLaw** | LiveLaw High Courts Daily Highlights: November 12, 2026 | [Read More](https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-november-12-2026-558279) |
 | Thu, 12 Nov 2026 16:10:48 GMT | **LiveLaw** | Delhi High Court Enhances Compensation To ₹4.26 Crore For Road Accident Victim In Coma Since 2022 | [Read More](https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-enhances-compensation-to-426-crore-for-road-accident-victim-in-coma-since-2022-558275) |
 | Thu, 12 Nov 2026 15:58:33 GMT | **LiveLaw** | Police Probes 'Hanging Fire' For Months Across UP: Allahabad High Court Flags IOs' Inaction, Seeks ACS Home's Plan To Remedy Delays | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-up-police-investigation-delays-acs-home-558272) |
 | Thu, 12 Nov 2026 15:55:44 GMT | **LiveLaw** | 'Criminal Law Moves Fast Against Poor, But Not Influential': Madras High Court As Centre Sanctions Prosecution Of 2 IAS Officers | [Read More](https://www.livelaw.in/high-court/madras-high-court/madras-high-court-tender-irregularities-case-sanction-given-prosecute-ias-officers-558269) |
