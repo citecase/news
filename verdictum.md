@@ -2,6 +2,7 @@
 
 | Date | Source | Title | Link |
 | :--- | :--- | :--- | :--- |
+| Sun, 15 Nov 2026 15:00:24 GMT | **Verdictum** | Female Legal Fellow Vacancy At Tata Institute of Social Sciences (TISS), Mumbai | [Read More](https://www.verdictum.in/job-updates/tata-institute-of-social-sciences-1625741) |
 | Sun, 15 Nov 2026 13:38:44 GMT | **LiveLaw** | Important MCQs Based On Latest Supreme Court Judgments For Law Examinations | [Read More](https://www.livelaw.in/law-exams/important-mcqs-based-on-latest-supreme-court-judgments-for-law-examinations-558506) |
 | Sun, 15 Nov 2026 13:34:13 GMT | **LiveLaw** | Better Financial Resources No Ground To Deprive Mother Of Child's Custody: Allahabad High Court Dismisses Grandparents' Appeal | [Read More](https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-better-financial-resources-mother-child-custody-558505) |
 | Sun, 15 Nov 2026 13:30:21 GMT | **Verdictum** | Appears To Be A Case Of Regime Change Revenge: Calcutta High Court Upholds Order Setting Aside Mizoram Government's Land Sale Cancellation | [Read More](https://www.verdictum.in/calcutta-high-court/state-of-mizoram-and-others-v-excel-vincom-private-limited-and-another-1625769) |
